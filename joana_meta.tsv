@@ -1,0 +1,138 @@
+Model iD	Organism	SBML	BIOMASS_ID	Experimental essentiality?	Year	Reference	PMID	Notes
+iMM518	Methanococcus maripaludis S2	Biomodels		Yes;http://www.pnas.org/content/110/12/4726.long	2014	N. Goyal et al.	24553424	
+iSyf715	Synechococcus elongatus PCC7942	Biomodels		Yes	2014	Triana et al.	25141288	
+iCR744	Rhodoferax ferrireducens	Cobra_git_repository			2009	Risso et al.	19772637	
+iCS291	Helicobacter pylori	Cobra_git_repository		YES	2002	Schilling et al.	12142428	
+iCS400	Haemophilus influenzae	Cobra_git_repository		YES	2000	Schilling et al.	10716908	
+iGB555	Neisseria meningitidis	Cobra_git_repository			2007	Baart et al.	17617894	fixed_version_from_cobragit
+iJL432	Clostridium acetobutylicum	Cobra_git_repository			2008	Lee et al.	18758767	
+iJS747	Geobacter metallireducens	Cobra_git_repository			2009	Sun et al.	19175927	
+iMA945	Salmonella typhimurium LT2	Cobra_git_repository		Yes	2009	AbuOun et al.	19690172	
+iMH551	Staphylococcus aureus	Cobra_git_repository		Yes	2005	Heinemann et al.	16155945	
+iMO1056	Pseudomonas aeruginosa	Cobra_git_repository		Yes	2008	Oberhardt et al.	18192387	
+iMP429_fixed	Streptococcus thermophilus	Cobra_git_repository			2009	Pastink et al.	19346354	
+iRM588	Geobacter sulfurreducens	Cobra_git_repository			2006	Mahadevan et al.	16461711	
+iRS605	Francisella tularensis	Cobra_git_repository		YES	2010	Raghunathan et al.	20731870	Fixed version from cobra_git
+iSH335	Mannheimia succiniciproducens	Cobra_git_repository			2004	Hong et al.	15378067	no detailed biomass!!
+iSyn669	Synechocystis sp.	Cobra_git_repository			2010	Montagud et al.	21083885	
+iTY425	Mannheimia succiniciproducens	Cobra_git_repository			2007	Kim et al.	17405177	downloaded fixed version from cobragit
+iVM679	Porphyromonas gingivalis	Cobra_git_repository		Yes	2009	Mazumdar et al.	18931137	
+iWZ663	Ketogulonicigenium vulgare WSH-001	Cobra_git_repository			2012	Zou et al.	22728423	
+iZM363	Zymomonas mobilis	Cobra_git_repository			2011	Widiastuti et al.	20967753	
+iZmobMBEL601	Zymomonas mobilis	Cobra_git_repository			2010	Lee et al.	21092328	
+iJC568	Prochlorococcus marinus strain MED4	http://biomet-toolbox.org/index.php?page=models-Prochlorococcus			NA	NA	NA	
+iSB1139	Pseudomonas fluorescens SBW25	https://memosys.i-med.ac.at/MEMOSys/fileUpload/FileUpload.seam;jsessionid=941F89BC196A3C97E0A6DCCFE5A9CDBE?fileUploadId=35			2013	Borgos et al.	23497367	
+GSMN-TB	Mycobacterium tuberculosis	Optflux repository	BIOMASSe	YES	2007	Beste et al.	17521419	
+iAO358	Lactococcus lactis subsp. lactis	Optflux repository	R_BIOMass	Textmining	2005	Oliveira et al.	15982422	
+iBif452	Bifidobacterium adolescentis L2-32	Optflux repository			2014	El-Semman et al.	24708835	
+iCac802	Clostridium acetobutylicum ATCC 825	Optflux repository			2014	Satyakam et al.	25379054	
+iCyc792	Cyanothece sp. PCC 7424	Optflux repository			2013	Mueller et al.	24369854	
+iCyh755	Cyanothece sp. PCC 8802	Optflux repository			2013	Mueller et al.	24369854	
+iCyj826	Cyanothece sp. PCC 7822	Optflux repository			2013	Mueller et al.	24369854	
+iCyn731	Cyanothece sp. PCC 7425	Optflux repository			2013	Mueller et al.	24369854	
+iCyp752	Cyanothece sp. PCC 8801	Optflux repository			2013	Mueller et al.	24369854	
+iFap484	Faecalibacterium prausnitzii A2-165	Optflux repository			2014	El-Semman et al.	24708835	
+iIB700	Streptomyces coelicolor A3(2)	Optflux repository	R786	Textmining	2005	Borodina et al.	15930493	
+iJP962	Pseudomonas putida str. KT2440	Optflux repository	IR10389		2011	Oberhardt et al.	21483480	
+iMF721	Pseudoalteromonas haloplanktis TAC125	Optflux repository			2014	Fondi et al.	24889559	
+iMG746	Methanosarcina barkeri	Optflux repository	R_Mb_biomass_65			Gonnerman et al.	23420771	
+iMLTC806cdf	Clostridium difficile 630	Optflux repository			2014	M. Larocque et al.	25315994	
+iNF518	Lactococcus lactis subsp. cremosis	Optflux repository			2013	Flahaut et al.	23974365	
+iRR1083	Salmonella typhimurium LT2	Optflux repository	R_ST_Biomass_Final	Yes	2009	Raghunathan et al.	19356237	
+iTT548	Thermus thermophilus	Optflux repository			2014	Lee et al.	24774833	
+iMA789	Streptomyces coelicolor A3(2)	Optflux repository; other version fixed from cobragit	R_protein	Textmining	2010	Alam et al. 	20338070	
+iAI558	Moorella thermoacetica	paper			2015	Islam et al.	25994252	
+iCyt773	Cyanothece sp. ATCC 51142	paper			2012	Saha et al.	23133581	
+iEB458	Sodalis glossinidius	paper			2012	Belda et al.	22292008	
+iEM439	Zymomonas mobilis	paper			2016	Motamedian et al.	26883123	
+iJH728	Synechococcus sp. 7002	paper			2016	Henry et al.	27036328	
+iLca12A_640	Lactobacillus casei 12A	paper			2014	Vinay-Lara et al.	25365062	
+iLca334_548	Lactobacillus casei ATCC 334	paper			2014	Vinay-Lara et al.	25365062	
+iMK1208	Streptomyces coelicolor A3(2)	paper			2014	Kim et al.	24623710	
+iPB890	Pseudomonas stutzeri	paper			2015	Babaei et al.	26302703	
+iRBaquifex	Aquifex aeolicus	paper			2014	Braakman and Smith	24516572	
+iSyn731	Synechocystis sp. PCC 6803	paper			2012	Saha et al.	23133581	
+iWX1009	Bacillus licheniformis	paper			2016	Guo et al.	26776566	
+AbyMBEL891	Acinetobacter baumannii AYE		R_R753	Yes	2010	Kim et al.	20094653	
+iAbaylyiV4	Acinetobacter baylyi		R_PROTEINSYN_DASH_RXN	YES	2008	Durot et al. 2008	18840283	
+iAI549	Dehalococcoides		R_BIO_CBDB1_DM_855		2010	Islam et al.	20811585	
+iAK692	Spirulina platensis		R_SP0694		2012	Klanchui et al.	22703714	
+iBsu1103	Bacillus subtilis		rxn10201	YES	2009	Henry et al.	19555510	
+iBT721	Lactobacillus plantarum WCFS1 		R_biomass_LPL60		2006	Teusink et al.	17062565	
+iBT721_v2	Lactobacillus plantarum WCFS1 				2010	Goffin et al.	20865006	modified version from iBT721
+iCA1273	Escherichia coli W		R_Ec_biomass_iCA1273_core_59p81M		2011	Archer et al.	21208457	
+iCAC490	Clostridium acetobutylicum ATCC 824 				2012	McAnulty et al.	22583864	
+iCce806	Cyanothece sp. ATCC 51142		r_PROTSYN_CN		2012	Vu et al.	22529767	
+iCG230	Blattabacterium cuenoti Bge		R_BiomassPam		2012	González-Domenech et al.	22376077	
+iCG238	Blattabacterium cuenoti Pam		R_BiomassBge		2012	González-Domenech et al.	22376077	
+iCM925	Clostridium beijerinckii		R_biomass		2011	Milne et al.	21846360	
+iDsh827	Dinoroseobacter shibae				2013	Rex et al.	24098096	
+iGT196	Buchnera aphidicola		VGRO		2009	Thomas et al.	19232131	cobra_git annotated as not solved
+iHZ565 	Sinorhizobium meliloti 	paper			2012	Zhao et al.	22319621
+iJP815	Pseudomonas putida str. KT2440	Optflux repository			2008	Puchalka et al.	18974823
+iJW145	Mycoplasma pneumoniae		IR09909	Yes	2013	Wodke et al.	23549481
+iKF1028	Burkholderia cenocepacia J2315	Optflux repository	IR10490	Yes	2011	Fang et al.	21609491
+iLCBaumannia	Candidatus Baumannia cicadellinicola				2010	Cottret et al.	20838465
+iLCSulcia	Candidatus Sulcia muelleri				2010	Cottret et al.	20838465
+iMB745	Methanosarcina acetivorans str. C2A		R_overall		2012	Benedict et al.	22139506
+iMP240	Blattabacterium cuenoti				2013	Ponce-de-Léon et al.	24176055
+iMZ1055	Bacillus megaterium		R_RxnBME1112		2013	Zou et al.	23454894
+iNJ661m	Mycobacterium tuberculosis		R_biomass_Mtb_9_60atp_test_NOF	Yes	2010	Fang et al.	21092312
+iNJ661v	Mycobacterium tuberculosis		R_biomass_Mtb_9_60atp_test_NOF	Yes	2010	Fang et al.	21092312
+iOG654	Nathromonas pharaonis		RM00001		2009	Gonzalez et al.	20543878
+iPS189	Mycoplasma genitalium		R_Biomass	Yes	2009	Suthers et al.	19214212
+iRP911	Methylobacterium extorquens AM1		BiomassSynthesis		2011	Peyraud et al.	22074569
+iRsp1095	Rhodobacter sphaeroides 2.4.1		R_RXN1306		2011	Imam et al.	21777427
+iRsp1140	Rhodobacter sphaeroides 2.4.1				2013	Imam et al.	24034347
+iSM197	Buchnera aphidicola	Biomodels			2011	MacDonald et al.	21392141
+iSO783	Shewanella oneidensis		R_SO_BiomassMacro_DM_noATP2	Yes	2010	Pinchuk et al.	20589080
+iSR432	Clostridium thermocellum	paper	R_biomass_target		2010	Roberts et al.	20307315
+iSS352	Xanthomonas campestris pv. campestris str. B100		R_biomass1		2013	Schatschneider et al.	23395674
+iTZ479	Thermotoga maritima	paper	R_BiomassEcoli_TM		2009	Zhang et al.	19762644
+iVS941	Methanosarcina acetivorans				2011	Kumar et al.	22139506
+iVW583	Amycolatopsis balhimycina	Optflux repository	R_1301		2011	Vongsangnak et al.	22252737
+Nmb_iTM560	Neisseria meningitidis		R_Nm_biomass	Textmining	2011	Mendum et al.	22208880
+PpuMBEL1071	Pseudomonas putida str. KT2440	paper	R_Biomass		2010	Sohn et al.	20540110
+sMtb	Mycobacterium tuberculosis			Yes	2014	Rienksma et al.	25453232
+STM_v1.0	Salmonella typhimurium LT2		R_biomass_iRR1083	Yes	2011	Thiele et al.	21244678
+VvuMBEL943	Vibrio vulnificus		R_R806	textmining	2011	Kim et al.	21245845
+Fu et al. , Shastri and Morgan	Synechocystis sp.	no				cannot be solved on cobragit; autotrophic growth has the most components but still lacks a.a.; Equation from http://onlinelibrary.wiley.com/doi/10.1021/bp050246d/full	
+iAH991	Bacteroides thetaiotaomicron	NO					
+iAM388	Campylobacter jejuni subsp. jejuni NCTC 11168	NO						
+iAN818m	Yersinia pestis	NO		Yes	2009	Navid and Almas		
+iAT841	Methylomicrobium buryatense	no			2015	de la Torre et al. 		
+iCC908	Salinispora tropica 	no			2015	Contador et al.		
+iCL2075	Saccharopolyspora erythraea NRRL23338	NO			2012	Licona-Cassani et al		
+iDL546	Staphylococcus aureus	NO		Yes		13 strains - several biomass formulations based on previous		
+iHN637	Clostridium ljungdahlii	NO			2013	Harish Nagarajan et al. 2013		
+iJE296	Haemophilus influenzae Rd KW20	NO		YES	1999	Edwards et al. 1999		
+iJE660	Escherichia coli str. K12 substr. MG1655	NO		YES	2000	Edwards et al. 2000		
+iJL846	Lactobacillus casei LC2W	NO			2015	Xu et al. 2015		
+iJM658	Corynebacterium glutamicum S9114	NO			2016	http://www.sciencedirect.com/science/article/pii/S0378111915011476		
+iJSPcarbinolicus	Pelobacter carbinolicus DSM 2380	NO		http://aem.asm.org/content/74/14/4277.full		http://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-4-174		
+IJSPpropionicus	Pelobacter propionicus DSM 2379	NO				http://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-4-174		
+iKK446	Corynebacterium glutamicum ATCC 13032	NO			2009	Kjeldsen et al. 2009;cannot be solved on cobragit		
+iKY620	Arthrospira platensis	NO			2015	Yoshikawa et al.		
+iMT1174	Rhodococcus jostii RHA1	no			2015	Tajparast and Frigon		
+iNV706	Enterococcus faecalis V583	no			2014	Veith et al. 2014		
+iOA584	Chromohalobacter salexigens	NO			2011	Ates et al. 2011;cannot be solved on cobragit		
+iOGhalobac	Halobacterium salinarum	NO				Gonzalez et al.		
+iOR450	Rhizobium etli	no			2012	Resendis-Antonio et al.; not for biomass, nitrogen fixation		
+iPC1209	Pectobacterium carotovorum subsp. carotovorum PC1	no				Cheng Wang et al. 2015		
+iPD702	Streptomyces lividans	no			2012	D'Huys et al.		
+iRS474	Clostridium acetobutylicum	NO			2008	Senger et al. 2008		
+iSA399	Rhodococcus erythropolis	NO			2011	Mol Biosyst		
+iSyp611	Synechococcus sp. 7002	no			2013	Vu et al.		
+iTU515	Sulfolobus Solfataricus P2	no				Ulas et al.		
+iTZ479_v2	Thermotoga maritima	NO						
+iXW433	Gluconobacter oxydans	no			2014	Wu et al.		
+iYLW1028	Actinoplanes sp. SE50/110	no			2015	Wang et al.		
+iYS432	Corynebacterium glutamicum	NO			2009	Shinfuku et al. 2009;cannot be solved on cobragit		
+KoxGSC1457	Klebsiella oxytoca	NO			2013	J. Park et al. 2013		
+Lee et al.	Ralstonia eutropha	no						
+RehMBEL1391	Ralstonia eutropha H16	no				Park et al. 2007		
+Rokem et al.	Micrococcus luteus	NO						
+SPNV1.0	Saccharopolyspora spinosa NRRL 18395	no				Wang et al. 2014		
+iWT236	Thermoanaerobacter tengcongensis	NO; says yes on the paper, waiting			2013	Tong et al.		
+iJL480	Streptococcus pyogenes	NO; WAITING FOR REPLY EMAIL			2016	Hendry et al.		
+iOR363	Rhizobium etli	yes, but no biomass eq.				Model for nitrogen fixation		
