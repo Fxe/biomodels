@@ -16,6 +16,16 @@
       <compartment name="Extra Cellular" id="e"/>
     </listOfCompartments>
     <listOfSpecies>
+      <species compartment="c" name="L-Rhamnose_C6H12O5" id="M_pnto__R_e">
+        <notes>
+          <html:p>FORMULA: </html:p><html:p>CHARGE: 0</html:p><html:p>SOURCE_ID: M_m623</html:p>
+        </notes>
+      </species>
+                <species compartment="c" name="2-Deoxy-D-ribose 5-phosphate_C5H11O7P" id="M_ppi_c">
+        <notes>
+          <html:p>FORMULA: </html:p><html:p>CHARGE: 0</html:p><html:p>SOURCE_ID: M_m150</html:p>
+        </notes>
+      </species>
       <species compartment="b" name="Sucrose_C12H22O11" id="M_sucr_b">
         <notes>
           <html:p>FORMULA: </html:p><html:p>CHARGE: 0</html:p><html:p>SOURCE_ID: M_m666</html:p>
@@ -6300,7 +6310,7 @@
           </math>
                   <listOfParameters>
             <parameter value="-1" id="LOWER_BOUND"/>
-            <parameter value="-1" id="UPPER_BOUND"/>
+            <parameter value="0" id="UPPER_BOUND"/>
           </listOfParameters>
         </kineticLaw>
       </reaction>
@@ -18985,7 +18995,7 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_fad_c" stoichiometry="1"/>
-          <speciesReference species="M_ppi_c" stoichiometry="1"/>
+          <speciesReference species="M_ppi" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">          
