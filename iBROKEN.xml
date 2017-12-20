@@ -24263,13 +24263,13 @@
           </body>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_nadph_c" stoichiometry="1"/>
-          <speciesReference species="M_h_c" stoichiometry="1"/>
+          <speciesReference species="M_nadph_c" stoichiometry=" 1 "/>
+          <speciesReference species="M_h_c" stoichiometry=" 0001 "/>
           <speciesReference species="M_tiC62eACP_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_nadp_c" stoichiometry="1"/>
-          <speciesReference species="M_iC6ACP_c" stoichiometry="1"/>
+          <speciesReference species="M_iC6ACP_c" stoichiometry="one"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -24277,7 +24277,7 @@
           </math>
           <listOfParameters>
             <parameter id="LOWER_BOUND" value="0" units="mmol_per_gDW_per_hr" constant="false"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr" constant="false"/>
+            <parameter id="UPPER_BOUND" value="inf" units="mmol_per_gDW_per_hr" constant="false"/>
             <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr" constant="false"/>
             <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="mmol_per_gDW_per_hr" constant="false"/>
           </listOfParameters>
@@ -25235,7 +25235,7 @@
           <speciesReference species="M_gdpmann_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h_c" stoichiometry="2"/>
+          <speciesReference species="M_h_c" stoichiometry="002"/>
           <speciesReference species="M_man1p_c" stoichiometry="1"/>
           <speciesReference species="M_gmp_c" stoichiometry="1"/>
         </listOfProducts>
@@ -25601,7 +25601,7 @@
         </notes>
         <listOfReactants>
           <speciesReference species="M_h2o_c" stoichiometry="1"/>
-          <speciesReference species="M_nad_c" stoichiometry="2"/>
+          <speciesReference species="M_nad_c" stoichiometry=" 02 "/>
           <speciesReference species="M_uacmam_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
@@ -51321,7 +51321,7 @@
         </notes>
         <listOfReactants>
           <speciesReference species="M_h_c" stoichiometry="1"/>
-          <speciesReference species="M_nadh_c" stoichiometry="1"/>
+          <speciesReference species="M_nadh_c" stoichiometry="0"/>
           <speciesReference species="M_3ohcoa_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
@@ -51333,7 +51333,7 @@
             <ci> FLUX_VALUE </ci>
           </math>
           <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr" constant="false"/>
+            <parameter id="LOWER_BOUND" value="-inf" units="mmol_per_gDW_per_hr" constant="false"/>
             <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr" constant="false"/>
             <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr" constant="false"/>
             <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="mmol_per_gDW_per_hr" constant="false"/>
@@ -53130,7 +53130,7 @@
           </listOfParameters>
         </kineticLaw>
       </reaction>
-      <reaction id="R_NODOx" name="nitric oxide dioxygenase" reversible="false">
+      <reaction id="R_NODO" name="nitric oxide dioxygenase" reversible="false">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>GENE_ASSOCIATION: (SCO7428 or SCO7094)</p>
@@ -53149,7 +53149,8 @@
         <listOfProducts>
           <speciesReference species="M_h_c" stoichiometry="1"/>
           <speciesReference species="M_nad_c" stoichiometry="1"/>
-          <speciesReference species="M_no3_c" stoichiometry="2"/>
+          <speciesReference species="M_no3_c" stoichiometry="1"/>
+          <speciesReference species="M_no3_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -53163,7 +53164,7 @@
           </listOfParameters>
         </kineticLaw>
       </reaction>
-      <reaction id="R_NODOy" name="nitric oxide dioxygenase" reversible="false">
+      <reaction id="R_NODO" name="nitric oxide dioxygenase" reversible="false">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>GENE_ASSOCIATION: (SCO7428 or SCO7094)</p>

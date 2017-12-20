@@ -1,0 +1,2604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sbml xmlns="http://www.sbml.org/sbml/level2" level="2" version="1">
+  <model id="Model2008_09_23_13_13_29">
+    <listOfCompartments>
+      <compartment id="Cytosol" outside="Extraorganism"/>
+      <compartment id="Glycosome" outside="Cytosol"/>
+      <compartment id="Mitochondria" outside="Cytosol"/>
+      <compartment id="Extraorganism"/>
+    </listOfCompartments>
+    <listOfSpecies>
+      <species id="M_13dpg_c" compartment="Cytosol"/>
+      <species id="M_ala_DASH_L_b" compartment="Extraorganism"/>
+      <species id="M_nh4_b" compartment="Extraorganism"/>
+      <species id="M_nh4_c" compartment="Cytosol"/>
+      <species id="M_r1p_c" compartment="Cytosol"/>
+      <species id="M_asp_DASH_L_m" compartment="Mitochondria"/>
+      <species id="M_b_DASH_D_DASH_glucose_b" compartment="Extraorganism"/>
+      <species id="M_13dpg_x" compartment="Glycosome"/>
+      <species id="M_lpam_m" compartment="Mitochondria"/>
+      <species id="M_h2o_x" compartment="Glycosome"/>
+      <species id="M_f6p_x" compartment="Glycosome"/>
+      <species id="M_xu5p_DASH_D_x" compartment="Glycosome"/>
+      <species id="M_g3p_c" compartment="Cytosol"/>
+      <species id="M_nadp_x" compartment="Glycosome"/>
+      <species id="M_thmpp_m" compartment="Mitochondria"/>
+      <species id="M_xu5p_DASH_D_c" compartment="Cytosol"/>
+      <species id="M_nadp_c" compartment="Cytosol"/>
+      <species id="M_h2o_m" compartment="Mitochondria"/>
+      <species id="M_h2o_c" compartment="Cytosol"/>
+      <species id="M_h2o_b" compartment="Extraorganism"/>
+      <species id="M_ficytc_m" compartment="Mitochondria"/>
+      <species id="M_nadp_m" compartment="Mitochondria"/>
+      <species id="M_f6p_c" compartment="Cytosol"/>
+      <species id="M_h2o_e" compartment="Extraorganism"/>
+      <species id="M_glu_DASH_L_c" compartment="Cytosol"/>
+      <species id="M_glu_DASH_L_b" compartment="Extraorganism"/>
+      <species id="M_adp_m" compartment="Mitochondria"/>
+      <species id="M_amp_x" compartment="Glycosome"/>
+      <species id="M_glu_DASH_L_e" compartment="Extraorganism"/>
+      <species id="M_6pgc_c" compartment="Cytosol"/>
+      <species id="M_adp_c" compartment="Cytosol"/>
+      <species id="M_glu_DASH_L_m" compartment="Mitochondria"/>
+      <species id="M_asp_DASH_L_e" compartment="Extraorganism"/>
+      <species id="M_nh4_e" compartment="Extraorganism"/>
+      <species id="M_icit_m" compartment="Mitochondria"/>
+      <species id="M_asp_DASH_L_c" compartment="Cytosol"/>
+      <species id="M_adp_x" compartment="Glycosome"/>
+      <species id="M_succoa_m" compartment="Mitochondria"/>
+      <species id="M_nh4_m" compartment="Mitochondria"/>
+      <species id="M_amp_c" compartment="Cytosol"/>
+      <species id="M_g6p_DASH_A_c" compartment="Cytosol"/>
+      <species id="M_acald_x" compartment="Glycosome"/>
+      <species id="M_ppi_x" compartment="Glycosome"/>
+      <species id="M_ppi_c" compartment="Cytosol"/>
+      <species id="M_gly_b" compartment="Extraorganism"/>
+      <species id="M_ppi_m" compartment="Mitochondria"/>
+      <species id="M_g6p_DASH_A_x" compartment="Glycosome"/>
+      <species id="M_nad_m" compartment="Mitochondria"/>
+      <species id="M_glyc3p_x" compartment="Glycosome"/>
+      <species id="M_3pg_x" compartment="Glycosome"/>
+      <species id="M_prpp_c" compartment="Cytosol"/>
+      <species id="M_asp_DASH_L_b" compartment="Extraorganism"/>
+      <species id="M_pyr_x" compartment="Glycosome"/>
+      <species id="M_fdp_x" compartment="Glycosome"/>
+      <species id="M_dhap_c" compartment="Cytosol"/>
+      <species id="M_coa_m" compartment="Mitochondria"/>
+      <species id="M_q6_m" compartment="Mitochondria"/>
+      <species id="M_dhap_x" compartment="Glycosome"/>
+      <species id="M_fdp_c" compartment="Cytosol"/>
+      <species id="M_glyc3p_c" compartment="Cytosol"/>
+      <species id="M_3pg_c" compartment="Cytosol"/>
+      <species id="M_pyr_m" compartment="Mitochondria"/>
+      <species id="M_ala_DASH_L_m" compartment="Mitochondria"/>
+      <species id="M_sdhlam_m" compartment="Mitochondria"/>
+      <species id="M_g3p_x" compartment="Glycosome"/>
+      <species id="M_ala_DASH_L_c" compartment="Cytosol"/>
+      <species id="M_fum_m" compartment="Mitochondria"/>
+      <species id="M_ala_DASH_L_e" compartment="Extraorganism"/>
+      <species id="M_succ_x" compartment="Glycosome"/>
+      <species id="M_succ_e" compartment="Extraorganism"/>
+      <species id="M_succ_c" compartment="Cytosol"/>
+      <species id="M_succ_b" compartment="Extraorganism"/>
+      <species id="M_nadph_x" compartment="Glycosome"/>
+      <species id="M_succ_m" compartment="Mitochondria"/>
+      <species id="M_2pg_c" compartment="Cytosol"/>
+      <species id="M_a_DASH_D_DASH_glucose_c" compartment="Cytosol"/>
+      <species id="M_a_DASH_D_DASH_glucose_b" compartment="Extraorganism"/>
+      <species id="M_a_DASH_D_DASH_glucose_e" compartment="Extraorganism"/>
+      <species id="M_a_DASH_D_DASH_glucose_x" compartment="Glycosome"/>
+      <species id="M_drib_x" compartment="Glycosome"/>
+      <species id="M_glcn_DASH_D_x" compartment="Glycosome"/>
+      <species id="M_fum_x" compartment="Glycosome"/>
+      <species id="M_glyc_b" compartment="Extraorganism"/>
+      <species id="M_glyc_c" compartment="Cytosol"/>
+      <species id="M_glyc_e" compartment="Extraorganism"/>
+      <species id="M_atp_x" compartment="Glycosome"/>
+      <species id="M_pi_x" compartment="Glycosome"/>
+      <species id="M_pi_b" compartment="Extraorganism"/>
+      <species id="M_pi_c" compartment="Cytosol"/>
+      <species id="M_atp_m" compartment="Mitochondria"/>
+      <species id="M_o2_m" compartment="Mitochondria"/>
+      <species id="M_pi_e" compartment="Extraorganism"/>
+      <species id="M_glyc_x" compartment="Glycosome"/>
+      <species id="M_fad_m" compartment="Mitochondria"/>
+      <species id="M_o2_c" compartment="Cytosol"/>
+      <species id="M_atp_c" compartment="Cytosol"/>
+      <species id="M_o2_e" compartment="Extraorganism"/>
+      <species id="M_pi_m" compartment="Mitochondria"/>
+      <species id="M_h_x" compartment="Glycosome"/>
+      <species id="M_thr_DASH_L_c" compartment="Cytosol"/>
+      <species id="M_nadph_m" compartment="Mitochondria"/>
+      <species id="M_ru5p_DASH_D_c" compartment="Cytosol"/>
+      <species id="M_1pyr5c_m" compartment="Mitochondria"/>
+      <species id="M_ru5p_DASH_D_x" compartment="Glycosome"/>
+      <species id="M_thr_DASH_L_b" compartment="Extraorganism"/>
+      <species id="M_h_m" compartment="Mitochondria"/>
+      <species id="M_thr_DASH_L_e" compartment="Extraorganism"/>
+      <species id="M_h_b" compartment="Extraorganism"/>
+      <species id="M_h_c" compartment="Cytosol"/>
+      <species id="M_h_e" compartment="Extraorganism"/>
+      <species id="M_thr_DASH_L_m" compartment="Mitochondria"/>
+      <species id="M_g6p_DASH_B_c" compartment="Cytosol"/>
+      <species id="M_oaa_x" compartment="Glycosome"/>
+      <species id="M_pep_c" compartment="Cytosol"/>
+      <species id="M_6pgl_x" compartment="Glycosome"/>
+      <species id="M_accoa_c" compartment="Cytosol"/>
+      <species id="M_pep_x" compartment="Glycosome"/>
+      <species id="M_oaa_m" compartment="Mitochondria"/>
+      <species id="M_q6h2_m" compartment="Mitochondria"/>
+      <species id="M_6pgl_c" compartment="Cytosol"/>
+      <species id="M_g6p_DASH_B_x" compartment="Glycosome"/>
+      <species id="M_o2_b" compartment="Extraorganism"/>
+      <species id="M_oaa_c" compartment="Cytosol"/>
+      <species id="M_accoa_m" compartment="Mitochondria"/>
+      <species id="M_pyr_c" compartment="Cytosol"/>
+      <species id="M_b_DASH_D_DASH_glucose_e" compartment="Extraorganism"/>
+      <species id="M_r5p_x" compartment="Glycosome"/>
+      <species id="M_r5p_c" compartment="Cytosol"/>
+      <species id="M_2dr5p_x" compartment="Glycosome"/>
+      <species id="M_cit_c" compartment="Cytosol"/>
+      <species id="M_cit_m" compartment="Mitochondria"/>
+      <species id="M_rib_DASH_D_x" compartment="Glycosome"/>
+      <species id="M_ac_c" compartment="Cytosol"/>
+      <species id="M_dhlam_m" compartment="Mitochondria"/>
+      <species id="M_akg_m" compartment="Mitochondria"/>
+      <species id="M_ac_b" compartment="Extraorganism"/>
+      <species id="M_akg_c" compartment="Cytosol"/>
+      <species id="M_pro_DASH_L_b" compartment="Extraorganism"/>
+      <species id="M_pro_DASH_L_c" compartment="Cytosol"/>
+      <species id="M_pro_DASH_L_e" compartment="Extraorganism"/>
+      <species id="M_focytc_m" compartment="Mitochondria"/>
+      <species id="M_pro_DASH_L_m" compartment="Mitochondria"/>
+      <species id="M_2aobut_m" compartment="Mitochondria"/>
+      <species id="M_ac_e" compartment="Extraorganism"/>
+      <species id="M_e4p_c" compartment="Cytosol"/>
+      <species id="M_b_DASH_D_DASH_glucose_c" compartment="Cytosol"/>
+      <species id="M_s7p_c" compartment="Cytosol"/>
+      <species id="M_b_DASH_D_DASH_glucose_x" compartment="Glycosome"/>
+      <species id="M_e4p_x" compartment="Glycosome"/>
+      <species id="M_s7p_x" compartment="Glycosome"/>
+      <species id="M_coa_c" compartment="Cytosol"/>
+      <species id="M_adhlam_m" compartment="Mitochondria"/>
+      <species id="M_fadh2_m" compartment="Mitochondria"/>
+      <species id="M_2ahethmpp_m" compartment="Mitochondria"/>
+      <species id="M_6pgc_x" compartment="Glycosome"/>
+      <species id="M_nad_x" compartment="Glycosome"/>
+      <species id="M_fum_c" compartment="Cytosol"/>
+      <species id="M_mal_DASH_L_x" compartment="Glycosome"/>
+      <species id="M_mal_DASH_L_c" compartment="Cytosol"/>
+      <species id="M_nadph_c" compartment="Cytosol"/>
+      <species id="M_ac_m" compartment="Mitochondria"/>
+      <species id="M_nad_c" compartment="Cytosol"/>
+      <species id="M_mal_DASH_L_m" compartment="Mitochondria"/>
+      <species id="M_glu5sa_m" compartment="Mitochondria"/>
+      <species id="M_co2_b" compartment="Extraorganism"/>
+      <species id="M_co2_c" compartment="Cytosol"/>
+      <species id="M_nadh_m" compartment="Mitochondria"/>
+      <species id="M_co2_e" compartment="Extraorganism"/>
+      <species id="M_nadh_c" compartment="Cytosol"/>
+      <species id="M_co2_m" compartment="Mitochondria"/>
+      <species id="M_gly_e" compartment="Extraorganism"/>
+      <species id="M_nadh_x" compartment="Glycosome"/>
+      <species id="M_gly_c" compartment="Cytosol"/>
+      <species id="M_gly_m" compartment="Mitochondria"/>
+      <species id="M_co2_x" compartment="Glycosome"/>
+    </listOfSpecies>
+    <listOfReactions>
+      <reaction id="R_TKT2g" name="transketolase,glycosomal">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 2.2.1.1</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:511903.120</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Pentose Phosphate Pathway</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_e4p_x"/>
+          <speciesReference species="M_xu5p_DASH_D_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_f6p_x"/>
+          <speciesReference species="M_g3p_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PGI3c" name="glucose-6-phosphateisomerase,glycosome">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 5.3.1.9</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:510889.221, Tcr:506529.508</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glycolysis/Gluconeogenesis16</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_g6p_DASH_A_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_g6p_DASH_B_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_GLYATm" name="glycineC-acetyltransferase">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 2.3.1.29</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:511899.40, Tcr:511071.140, Tcr:511899.10</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glycine, Serine, and Threonine Metabolism22</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_accoa_m"/>
+          <speciesReference species="M_gly_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_2aobut_m"/>
+          <speciesReference species="M_coa_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_G5SADsm" name="L-glutamate5-semialdehydedehydratase,reversible,mitochondrial">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: spontaneous</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Proline Metabolism21</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_glu5sa_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_1pyr5c_m"/>
+          <speciesReference species="M_h_m"/>
+          <speciesReference species="M_h2o_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_ALATA_Lmirrev" name="L-alaninetransaminase,mitochondrial" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 2.6.1.2</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:506529.420, Tcr:510889.120, Tcr:510889.140, Tcr:506529.430</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Pyruvate Metabolism20</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_glu_DASH_L_m"/>
+          <speciesReference species="M_pyr_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_akg_m"/>
+          <speciesReference species="M_ala_DASH_L_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_THRDm" name="L-threoninedehydrogenase,mitochondrion" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 1.1.1.103</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:511753.120, Tcr:507923.10</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glycine, Serine, and Threonine Metabolism21</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_nad_m"/>
+          <speciesReference species="M_thr_DASH_L_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_2aobut_m"/>
+          <speciesReference species="M_h_m"/>
+          <speciesReference species="M_nadh_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PRPPS" name="phosphoribosylpyrophosphatesynthetase">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 2.7.6.1</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:507773.60, Tcr:507809.30, Tcr:510431.250, Tcr:508717.30, Tcr:506607.19, Tcr:511661.90, Tcr:503777.19, Tcr:506839.80, Tcr:506321.310</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Pentose Phosphate Pathway</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_atp_c"/>
+          <speciesReference species="M_r5p_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_amp_c"/>
+          <speciesReference species="M_h_c"/>
+          <speciesReference species="M_prpp_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_ESC_h2o_e" name=". escape flux" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: EscapeFlux</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_h2o_e"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_h2o_b"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_TKT1" name="transketolase">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 2.2.1.1</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:511067.30</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Pentose Phosphate Pathway</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_r5p_c"/>
+          <speciesReference species="M_xu5p_DASH_D_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_g3p_c"/>
+          <speciesReference species="M_s7p_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_TKT2" name="transketolase">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 2.2.1.1</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:511067.30</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Pentose Phosphate Pathway</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_e4p_c"/>
+          <speciesReference species="M_xu5p_DASH_D_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_f6p_c"/>
+          <speciesReference species="M_g3p_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_CO2t" name="CO2transporterviadiffusion">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Extracellular</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_co2_e"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_co2_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_ALAt2r" name="L-alaninereversibletransport">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Extracellular</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_ala_DASH_L_e"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_ala_DASH_L_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_SRC_glyc_e" name=". source flux" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: SourceFlux</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_glyc_b"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_glyc_e"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_G6PDH1" name="glucose-6-phosphatedehydrogenase" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 1.1.1.49</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:509287.50</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Pentose Phosphate Pathway</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_g6p_DASH_B_c"/>
+          <speciesReference species="M_nadp_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_6pgl_c"/>
+          <speciesReference species="M_h_c"/>
+          <speciesReference species="M_nadph_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_TPIg" name="triose-phosphateisomerase,glycosome">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 5.3.1.1</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:508647.200</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glycolysis/Gluconeogenesis20</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_dhap_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_g3p_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_GLUt2" name="L-glutamatetransportinviaprotonsymport" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Extracellular</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_h_e"/>
+          <speciesReference species="M_glu_DASH_L_e"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_h_c"/>
+          <speciesReference species="M_glu_DASH_L_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PPAm" name="inorganicdiphosphatase" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 3.6.1.1</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:510773.20, Tcr:511385.30, Tcr:508153.820, Tcr:508181.140</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Other</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_h2o_m"/>
+          <speciesReference species="M_ppi_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_h_m"/>
+          <speciesReference species="M_pi_m" stoichiometry="2"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_AKGDe1" name="oxoglutaratedehydrogenase(lipoamide)">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 1.2.4.2</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:408345.20, Tcr:510797.10, Tcr:506337.70, Tcr:503793.10, Tcr:510717.30</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Citric Acid Cycle14</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_akg_m"/>
+          <speciesReference species="M_h_m"/>
+          <speciesReference species="M_lpam_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_co2_m"/>
+          <speciesReference species="M_sdhlam_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_ALTOXIDm2" name="alternativeoxidase" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:504147.180</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Oxidative Phosphorylation23</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_o2_m"/>
+          <speciesReference species="M_q6h2_m" stoichiometry="2"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_h2o_m" stoichiometry="2"/>
+          <speciesReference species="M_q6_m" stoichiometry="2"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_FBPg" name="fructosebisphosphatase,glycosomal" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 3.1.3.11</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:508351.10, Tcr:506649.70</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glycolysis/Gluconeogenesis80</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_fdp_x"/>
+          <speciesReference species="M_h2o_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_f6p_x"/>
+          <speciesReference species="M_pi_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_CYOO6m" name="cytochromecoxidase,mitochondrial" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 1.9.3.1</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: (Tcr:510889.50, Tcr:506529.360) + (Tcr:510565.30, Tcr:508503.20) + (Tcr:504069.20, Tcr:511145.10) + (Tcr:503769.40, Tcr:509233.150) + (Tcr:407477.50, Tcr:511389.110) + (Tcr:507611.280, Tcr:507723.100) + (Tcr:510783.49, Tcr:455721.9, (Tcr:508651.20, Tcr:509961.9))</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Oxidative Phosphorylation23</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_focytc_m" stoichiometry="4"/>
+          <speciesReference species="M_h_m" stoichiometry="10"/>
+          <speciesReference species="M_o2_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_ficytc_m" stoichiometry="4"/>
+          <speciesReference species="M_h2o_m" stoichiometry="2"/>
+          <speciesReference species="M_h_c" stoichiometry="6"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_ATPSm" name="ATPsynthase,mitochondrial" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 3.6.3.14</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: (Tcr:510395.10 + (Tcr:467287.30, Tcr:509233.180) + (Tcr:504069.80, Tcr:511145.60) + Tcr:506945.240) + ((Tcr:504125.40, Tcr:504131.180) + Tcr:503579.70 + Tcr:507517.60 + Tcr:506977.70)</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Oxidative Phosphorylation24</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_adp_m"/>
+          <speciesReference species="M_h_c" stoichiometry="3"/>
+          <speciesReference species="M_pi_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_atp_m"/>
+          <speciesReference species="M_h2o_m"/>
+          <speciesReference species="M_h_m" stoichiometry="2"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_GLYCtg" name="cytoplasm2glycosome,glyc">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Glycosomal</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_glyc_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_glyc_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_GLCBtg" name="cytoplasm2glycosome,glucose">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Glycosomal</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_b_DASH_D_DASH_glucose_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_b_DASH_D_DASH_glucose_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_SRC_pro_DASH_L_e" name=". source flux" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: SourceFlux</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_pro_DASH_L_b"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_pro_DASH_L_e"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_13DPGtg" name="cytoplasm2glycosome,13dpg" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Glycosomal</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_13dpg_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_13dpg_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_G6PDHg" name="glucose-6-phosphatedehydrogenase,glycosomal" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 1.1.1.49</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:509287.50</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Pentose Phosphate Pathway</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_g6p_DASH_B_x"/>
+          <speciesReference species="M_nadp_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_6pgl_x"/>
+          <speciesReference species="M_h_x"/>
+          <speciesReference species="M_nadph_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_SUCD3_DASH_u6m" name="succinatedehydrogenase(ubiquinone-6),mitochondrial">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 1.3.5.1</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:511909.40, Tcr:505843.24, Tcr:504949.30</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Oxidative Phosphorylation21</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_fadh2_m"/>
+          <speciesReference species="M_q6_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_fad_m"/>
+          <speciesReference species="M_q6h2_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PRO1xm" name="prolineoxidase(NAD),mitochondrial" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 1.5.1.2</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:506411.30, Tcr:506857.20, Tcr:509207.90</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Proline Metabolism20</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_nad_m"/>
+          <speciesReference species="M_pro_DASH_L_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_1pyr5c_m"/>
+          <speciesReference species="M_h_m" stoichiometry="2"/>
+          <speciesReference species="M_nadh_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_P5CDm_i" name="_1-pyrroline-5-carboxylatedehydrogenase,mitochondrial" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 1.5.1.12</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:509351.10, Tcr:510943.50</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Proline Metabolism23</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_1pyr5c_m"/>
+          <speciesReference species="M_h2o_m" stoichiometry="2"/>
+          <speciesReference species="M_nad_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_glu_DASH_L_m"/>
+          <speciesReference species="M_h_m"/>
+          <speciesReference species="M_nadh_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PGKg" name="phosphoglyceratekinase">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 2.7.2.3</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:505999.90, Tcr:505999.100, Tcr:511419.50, Tcr:511419.40</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glycolysis/Gluconeogenesis22</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_13dpg_x"/>
+          <speciesReference species="M_adp_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_3pg_x"/>
+          <speciesReference species="M_atp_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_MALtg" name="cytoplasm2glycosome,mal_DASH_L">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Glycosomal</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_mal_DASH_L_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_mal_DASH_L_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_GLCAtg" name="cytoplasm2glycosome,glucose">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Glycosomal</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_a_DASH_D_DASH_glucose_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_a_DASH_D_DASH_glucose_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_FBAg" name="fructose-bisphosphatealdolase,glycosome">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 4.1.2.13</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:510301.20, Tcr:510301.10, Tcr:504163.50, Tcr:504163.40</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glycolysis/Gluconeogenesis19</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_fdp_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_dhap_x"/>
+          <speciesReference species="M_g3p_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_GLYTm" name="L-glycinetransport,mitochondrion">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Mitochondrial</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_gly_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_gly_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_RPE" name="ribulose5-phosphate3-epimerase">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 5.1.3.1</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:510257.30</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Pentose Phosphate Pathway</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_ru5p_DASH_D_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_xu5p_DASH_D_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_AKGMALtm" name="alpha-ketoglutarate/malatetransporter">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Mitochondrial</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_akg_m"/>
+          <speciesReference species="M_mal_DASH_L_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_akg_c"/>
+          <speciesReference species="M_mal_DASH_L_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_GLUDxm" name="glutamatedehydrogenase(NAD)(mitochondrial)">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 1.4.1.2</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:509445.39</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glutamate metabolism</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_glu_DASH_L_m"/>
+          <speciesReference species="M_h2o_m"/>
+          <speciesReference species="M_nad_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_akg_m"/>
+          <speciesReference species="M_h_m"/>
+          <speciesReference species="M_nadh_m"/>
+          <speciesReference species="M_nh4_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_FRDgr" name="fumaratereductase,nad,glycosome">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 1.3.99.1</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:503849.60, Tcr:439653.10, Tcr:510215.10, Tcr:503849.80, Tcr:510213.110</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glycolysis/Gluconeogenesis47</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_fum_x"/>
+          <speciesReference species="M_h_x"/>
+          <speciesReference species="M_nadh_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_nad_x"/>
+          <speciesReference species="M_succ_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_SRC_glu_DASH_L_e" name=". source flux" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: SourceFlux</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_glu_DASH_L_b"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_glu_DASH_L_e"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_RPI" name="ribose-5-phosphateisomerase">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 5.3.1.6</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:508601.119</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Pentose Phosphate Pathway</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_r5p_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_ru5p_DASH_D_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_GNKg" name="gluconatekinase,glycosomal">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 2.7.1.12</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:508177.20</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Pentose Phosphate Pathway</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_atp_x"/>
+          <speciesReference species="M_glcn_DASH_D_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_6pgc_x"/>
+          <speciesReference species="M_adp_x"/>
+          <speciesReference species="M_h_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_DICtm" name="dicarboxylatetransport,mitochondrial">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Mitochondrial</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_mal_DASH_L_c"/>
+          <speciesReference species="M_succ_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_mal_DASH_L_m"/>
+          <speciesReference species="M_succ_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_GLUKg" name="Glucokinase" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 2.7.1.2</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:510187.100</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glycolysis/Gluconeogenesis12</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_atp_x"/>
+          <speciesReference species="M_b_DASH_D_DASH_glucose_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_adp_x"/>
+          <speciesReference species="M_g6p_DASH_B_x"/>
+          <speciesReference species="M_h_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_CSm" name="citratesynthase" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 2.3.3.1</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:509801.30, Tcr:511277.110</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Citric Acid Cycle11</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_accoa_m"/>
+          <speciesReference species="M_h2o_m"/>
+          <speciesReference species="M_oaa_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_cit_m"/>
+          <speciesReference species="M_coa_m"/>
+          <speciesReference species="M_h_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PGM" name="phosphoglyceratemutase">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 5.4.2.1</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:510283.40, Tcr:511017.20, Tcr:509203.10, Tcr:503887.70, Tcr:506247.330, Tcr:511805.29, Tcr:507811.44, Tcr:507771.40, Tcr:503823.10, Tcr:511649.150</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glycolysis/Gluconeogenesis31</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_3pg_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_2pg_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PGL" name="_6-phosphogluconolactonase" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 3.1.1.31</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:503945.40, Tcr:503713.30</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Pentose Phosphate Pathway</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_6pgl_c"/>
+          <speciesReference species="M_h2o_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_6pgc_c"/>
+          <speciesReference species="M_h_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PGK" name="phosphoglyceratekinase">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 2.7.2.3</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:506945.20, Tcr:506125.30, Tcr:506127.9, Tcr:504153.20, Tcr:506835.70</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glycolysis/Gluconeogenesis30</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_13dpg_c"/>
+          <speciesReference species="M_adp_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_3pg_c"/>
+          <speciesReference species="M_atp_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_G3PDcm" name="glycerol-3-phosphatedehydrogenase(FAD),mitochondrial" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 1.1.99.5</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:511423.70, Tcr:507949.130</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glycolysis/Gluconeogenesis481</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_fad_m"/>
+          <speciesReference species="M_glyc3p_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_dhap_c"/>
+          <speciesReference species="M_fadh2_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PGI3" name="glucose-6-phosphateisomerase,glycosome">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 5.3.1.9</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:506529.508, Tcr:510889.221</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glycolysis/Gluconeogenesis16</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_g6p_DASH_A_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_g6p_DASH_B_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PGI2" name="glucose-6-phosphateisomerase,glycosome">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 5.3.1.9</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:510889.221, Tcr:506529.508</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glycolysis/Gluconeogenesis17</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_g6p_DASH_B_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_f6p_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PGI1" name="glucose-6-phosphateisomerase,glycosome">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 5.3.1.9</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:506529.508, Tcr:510889.221</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glycolysis/Gluconeogenesis15</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_g6p_DASH_A_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_f6p_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_H2Ot5" name="H2Otransportviadiffusion">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Extracellular</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_h2o_e"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_h2o_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_A1Eg" name="aldose1epimerase-likeprotein">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 5.1.3.3</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:509331.180, Tcr:504425.90</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glycolysis/Gluconeogenesis11</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_a_DASH_D_DASH_glucose_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_b_DASH_D_DASH_glucose_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_ADK1g" name="adenylatekinase,glycosome">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 2.7.4.3</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:506947.90, Tcr:503479.30, Tcr:507883.90, Tcr:507883.80, Tcr:510243.50, Tcr:509733.180, Tcr:506195.90, Tcr:506855.180, Tcr:506195.80, Tcr:510575.180</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Other</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_amp_x"/>
+          <speciesReference species="M_atp_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_adp_x" stoichiometry="2"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_ATPS" name="ATPase,cytosolic" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 3.6.3.6</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:508781.20, Tcr:508851.59, Tcr:506855.80, Tcr:511589.10</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Extracellular</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_atp_c"/>
+          <speciesReference species="M_h2o_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_adp_c"/>
+          <speciesReference species="M_h_e"/>
+          <speciesReference species="M_pi_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_ACtm" name="acetatetransport,mitochondrion">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Mitochondrial</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_ac_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_ac_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PIt6" name="phosphatetransport">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Extracellular</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_h_e"/>
+          <speciesReference species="M_pi_e"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_h_c"/>
+          <speciesReference species="M_pi_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_SUCCt6" name="Succinateefflux">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Extracellular</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_h_e"/>
+          <speciesReference species="M_succ_e"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_h_c"/>
+          <speciesReference species="M_succ_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_AKGDe2" name="oxoglutaratedehydrogenase(dihydrolipoamideS-succinyltransferase)" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 2.3.1.61</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:503935.20, Tcr:506025.60</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Citric Acid Cycle16</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_coa_m"/>
+          <speciesReference species="M_sdhlam_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_dhlam_m"/>
+          <speciesReference species="M_succoa_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_biomass_target" name="BiomassRxn" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: BiomassObjective</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_3pg_c" stoichiometry="1.241"/>
+          <speciesReference species="M_accoa_c" stoichiometry="2.097"/>
+          <speciesReference species="M_akg_c" stoichiometry="1.236"/>
+          <speciesReference species="M_atp_c" stoichiometry="35.115"/>
+          <speciesReference species="M_e4p_c" stoichiometry="0.397"/>
+          <speciesReference species="M_g3p_c" stoichiometry="0.428"/>
+          <speciesReference species="M_g6p_DASH_B_c" stoichiometry="0.712"/>
+          <speciesReference species="M_nadph_c" stoichiometry="14.405"/>
+          <speciesReference species="M_nh4_c" stoichiometry="8.066"/>
+          <speciesReference species="M_oaa_c" stoichiometry="1.785"/>
+          <speciesReference species="M_pep_c" stoichiometry="0.642"/>
+          <speciesReference species="M_pyr_c" stoichiometry="2.994"/>
+          <speciesReference species="M_r5p_c" stoichiometry="0.445"/>
+          <speciesReference species="M_nad_c" stoichiometry="3.015"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_co2_c" stoichiometry="2.852"/>
+          <speciesReference species="M_nadh_c" stoichiometry="3.015"/>
+          <speciesReference species="M_adp_c" stoichiometry="35.115"/>
+          <speciesReference species="M_pi_c" stoichiometry="33.475"/>
+          <speciesReference species="M_nadp_c" stoichiometry="14.405"/>
+          <speciesReference species="M_coa_c" stoichiometry="2.097"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PPDKgr" name="Pyruvate,phosphatedikinase.,glycosome">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 2.7.9.1</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:506297.190, Tcr:510101.140</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glycolysis/Gluconeogenesis44</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_atp_x"/>
+          <speciesReference species="M_pi_x"/>
+          <speciesReference species="M_pyr_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_amp_x"/>
+          <speciesReference species="M_h_x"/>
+          <speciesReference species="M_pep_x"/>
+          <speciesReference species="M_ppi_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_G3PDg" name="glycerol-3-phosphatedehydrogenase(nad)" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 1.1.1.8</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:508241.10, Tcr:511151.90</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glycolysis/Gluconeogenesis48</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_dhap_x"/>
+          <speciesReference species="M_h_x"/>
+          <speciesReference species="M_nadh_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_glyc3p_x"/>
+          <speciesReference species="M_nad_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_SUCOASm" name="Succinate--CoAligase(ADP-forming)">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 6.2.1.5</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:508479.340 + (Tcr:507767.10, Tcr:507681.20)</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Citric Acid Cycle17</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_atp_m"/>
+          <speciesReference species="M_coa_m"/>
+          <speciesReference species="M_succ_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_adp_m"/>
+          <speciesReference species="M_pi_m"/>
+          <speciesReference species="M_succoa_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_HEX" name="hexokinase(D-glucose:ATP)" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 2.7.1.1</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:508951.20, Tcr:510121.20</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glycolysis/Gluconeogenesis13</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_a_DASH_D_DASH_glucose_c"/>
+          <speciesReference species="M_atp_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_adp_c"/>
+          <speciesReference species="M_g6p_DASH_A_c"/>
+          <speciesReference species="M_h_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_FBP" name="fructosebisphosphatase" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 3.1.3.11</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:508351.10, Tcr:506649.70</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glycolysis/Gluconeogenesis80</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_fdp_c"/>
+          <speciesReference species="M_h2o_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_f6p_c"/>
+          <speciesReference species="M_pi_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_DRBKg" name="deoxyribokinase,glycosomal" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 2.7.1.15</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:506925.480</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Pentose Phosphate Pathway</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_atp_x"/>
+          <speciesReference species="M_drib_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_2dr5p_x"/>
+          <speciesReference species="M_adp_x"/>
+          <speciesReference species="M_h_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_CO2tp" name="CO2glycosomaltransport">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Glycosomal</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_co2_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_co2_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_RBKrg" name="ribokinase,glycosomal">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 2.7.1.15</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:506925.480</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Pentose Phosphate Pathway</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_atp_x"/>
+          <speciesReference species="M_rib_DASH_D_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_adp_x"/>
+          <speciesReference species="M_h_x"/>
+          <speciesReference species="M_r5p_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_CO2tm" name="CO2transport(diffusion),mitochondrial">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Mitochondrial</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_co2_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_co2_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_NADH2_DASH_u6am" name="NADHdehydrogenase,mitochondrial" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 1.6.99.3</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:506513.190, Tcr:511323.50, Tcr:507869.10, Tcr:508399.10</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Oxidative Phosphorylation19</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_h_m" stoichiometry="5"/>
+          <speciesReference species="M_nadh_m"/>
+          <speciesReference species="M_q6_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_h_c" stoichiometry="4"/>
+          <speciesReference species="M_nad_m"/>
+          <speciesReference species="M_q6h2_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_ASCTmr" name="acetatesuccinatecoatransferase">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 2.3.1.99</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:506301.50, Tcr:504153.360</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Pyruvate Metabolism30</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_accoa_m"/>
+          <speciesReference species="M_succ_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_ac_m"/>
+          <speciesReference species="M_succoa_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_FUMg" name="fumarase,glycosome">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 4.2.1.2</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:507257.60, Tcr:510329.270, Tcr:509879.40, Tcr:507669.10</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glycolysis/Gluconeogenesis46</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_fum_x"/>
+          <speciesReference species="M_h2o_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_mal_DASH_L_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_GLUDx" name="glutamatedehydrogenase(NAD)">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 1.4.1.2</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:505843.10, Tcr:507875.20, Tcr:508111.30</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glutamate metabolism</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_glu_DASH_L_c"/>
+          <speciesReference species="M_h2o_c"/>
+          <speciesReference species="M_nad_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_akg_c"/>
+          <speciesReference species="M_h_c"/>
+          <speciesReference species="M_nadh_c"/>
+          <speciesReference species="M_nh4_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_GLUDy" name="glutamatedehydrogenase(NADP)">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 1.4.1.4</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:508111.30, Tcr:505843.10, Tcr:507875.20</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glutamate metabolism</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_glu_DASH_L_c"/>
+          <speciesReference species="M_h2o_c"/>
+          <speciesReference species="M_nadp_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_akg_c"/>
+          <speciesReference species="M_h_c"/>
+          <speciesReference species="M_nadph_c"/>
+          <speciesReference species="M_nh4_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_GLYKg" name="glycerolkinase(reversible),glycosome">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 2.7.1.30</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:510661.60</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glycolysis/Gluconeogenesis49</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_atp_x"/>
+          <speciesReference species="M_glyc_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_adp_x"/>
+          <speciesReference species="M_glyc3p_x"/>
+          <speciesReference species="M_h_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_ALAtm" name="L-alaninetransport,mitochondrion">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Mitochondrial</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_ala_DASH_L_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_ala_DASH_L_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_FUMm" name="fumarase,mitochondrial">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 4.2.1.2</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:509879.40, Tcr:507669.10, Tcr:510329.270, Tcr:507257.60</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Citric Acid Cycle19</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_fum_m"/>
+          <speciesReference species="M_h2o_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_mal_DASH_L_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_RPEg" name="ribulose5-phosphate3-epimerase,glycosomal">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 5.1.3.1</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:509213.70</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Pentose Phosphate Pathway</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_ru5p_DASH_D_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_xu5p_DASH_D_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_GLYC3P_DHAPtg" name="cytoplasm2glycosome,dhap,glyc3p">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Glycosomal</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_glyc3p_c"/>
+          <speciesReference species="M_dhap_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_glyc3p_x"/>
+          <speciesReference species="M_dhap_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_H2Otm" name="H2Otransport,mitochondrial">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Mitochondrial</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_h2o_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_h2o_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_GLUDm" name="glutamatedehydrogenase(NADP),mitochondrial">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 1.4.1.4</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:509445.39</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glutamate metabolism</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_glu_DASH_L_m"/>
+          <speciesReference species="M_h2o_m"/>
+          <speciesReference species="M_nadp_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_akg_m"/>
+          <speciesReference species="M_h_m"/>
+          <speciesReference species="M_nadph_m"/>
+          <speciesReference species="M_nh4_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_THRt2m" name="threoninetransport,mitochondrion">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Mitochondrial</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_thr_DASH_L_c"/>
+          <speciesReference species="M_h_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_thr_DASH_L_m"/>
+          <speciesReference species="M_h_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_GLCBt" name="glucosetransport(uniport)" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Extracellular</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_b_DASH_D_DASH_glucose_e"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_b_DASH_D_DASH_glucose_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_SRC_co2_e" name=". source flux" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: SourceFlux</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_co2_b"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_co2_e"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_NADH2_DASH_u6m" name="NADHdehydrogenase,mitochondrial" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 1.6.99.3</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:506839.70, Tcr:508717.20</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Oxidative Phosphorylation19</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_h_m"/>
+          <speciesReference species="M_nadh_m"/>
+          <speciesReference species="M_q6_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_nad_m"/>
+          <speciesReference species="M_q6h2_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PROabc" name="L-prolinetransportinviaATPase" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Extracellular</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_atp_c"/>
+          <speciesReference species="M_h2o_c"/>
+          <speciesReference species="M_pro_DASH_L_e"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_adp_c"/>
+          <speciesReference species="M_h_c"/>
+          <speciesReference species="M_pi_c"/>
+          <speciesReference species="M_pro_DASH_L_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_DRPArg" name="deoxyribose-phosphatealdolase,glycosomal">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 4.1.2.4</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:507559.80, Tcr:510303.50</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Pentose Phosphate Pathway</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_2dr5p_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_acald_x"/>
+          <speciesReference species="M_g3p_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_ENO" name="enolase">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 4.2.1.11</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:511029.10, Tcr:504105.140, Tcr:511529.90</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glycolysis/Gluconeogenesis32</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_2pg_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_h2o_c"/>
+          <speciesReference species="M_pep_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PGDH" name="phosphogluconatedehydrogenase" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 1.1.1.44</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:510663.70, Tcr:507011.269, Tcr:510737.10</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Pentose Phosphate Pathway</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_6pgc_c"/>
+          <speciesReference species="M_nadp_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_co2_c"/>
+          <speciesReference species="M_nadph_c"/>
+          <speciesReference species="M_ru5p_DASH_D_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PYR5CDm" name="D1-pyrroline-5-carboxylatedehydrogenase,mitochondrial" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 1.5.1.12</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:509351.10, Tcr:510943.50</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Proline Metabolism22</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_glu5sa_m"/>
+          <speciesReference species="M_h2o_m"/>
+          <speciesReference species="M_nadp_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_glu_DASH_L_m"/>
+          <speciesReference species="M_h_m" stoichiometry="2"/>
+          <speciesReference species="M_nadph_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_CITtam" name="citratetransport,mitochondrial">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Mitochondrial</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_cit_c"/>
+          <speciesReference species="M_mal_DASH_L_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_cit_m"/>
+          <speciesReference species="M_mal_DASH_L_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_ESC_nh4_e" name=". escape flux" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: EscapeFlux</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_nh4_e"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_nh4_b"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_ESC_glyc_e" name=". escape flux" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: EscapeFlux</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_glyc_e"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_glyc_b"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PEPt" name="cytoplasm2glycosome,pep">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Glycosomal</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_pep_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_pep_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_CYOR_u6m" name="ubiquinol-6cytochromecreductase" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 1.10.2.2</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: (Tcr:504575.15, Tcr:509011.54) + Tcr:511391.160 + (Tcr:508301.20, Tcr:511181.50, Tcr:503465.49)</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Oxidative Phosphorylation22</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_ficytc_m" stoichiometry="2"/>
+          <speciesReference species="M_h_m" stoichiometry="1.5"/>
+          <speciesReference species="M_q6h2_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_focytc_m" stoichiometry="2"/>
+          <speciesReference species="M_h_c" stoichiometry="3.5"/>
+          <speciesReference species="M_q6_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_FRDm" name="fumaratereductase,nad,mitochondrion" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 1.3.99.1</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:508535.10, Tcr:503841.80, Tcr:503467.9</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Citric Acid Cycle181</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_nadh_m"/>
+          <speciesReference species="M_h_m"/>
+          <speciesReference species="M_fum_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_nad_m"/>
+          <speciesReference species="M_succ_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PDHam2m" name="pyruvatedehydrogenase(lipoamide)">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 1.2.4.2</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:510421.320, Tcr:510091.80</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Pyruvate Metabolism23</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_2ahethmpp_m"/>
+          <speciesReference species="M_lpam_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_adhlam_m"/>
+          <speciesReference species="M_thmpp_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_TAL" name="transaldolase">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 2.2.1.2</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:507889.10, Tcr:503477.20</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Pentose Phosphate Pathway</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_g3p_c"/>
+          <speciesReference species="M_s7p_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_e4p_c"/>
+          <speciesReference species="M_f6p_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_ESC_gly_e" name=". escape flux" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: EscapeFlux</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_gly_e"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_gly_b"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_GLYCt5" name="glyceroltransportviachannel">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Extracellular</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_glyc_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_glyc_e"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_3PGtirr" name="cytoplasm2glycosome,3pg" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Glycosomal</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_3pg_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_3pg_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PGLg" name="_6-phosphogluconolactonase,glycosomal" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 3.1.1.31</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:503713.30, Tcr:503945.40</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Pentose Phosphate Pathway</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_6pgl_x"/>
+          <speciesReference species="M_h2o_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_6pgc_x"/>
+          <speciesReference species="M_h_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_ESC_o2_e" name=". escape flux" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: EscapeFlux</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_o2_e"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_o2_b"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PDHam1m" name="pyruvatedehydrogenase(lipoamide)">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 1.2.4.2</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:507831.70, Tcr:511261.160</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Pyruvate Metabolism22</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_pyr_m"/>
+          <speciesReference species="M_thmpp_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_2ahethmpp_m"/>
+          <speciesReference species="M_co2_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_ESC_h_e" name=". escape flux" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: EscapeFlux</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_h_e"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_h_b"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_TKT1g" name="transketolase,glycosomal">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 2.2.1.1</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:511069.4</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Pentose Phosphate Pathway</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_r5p_x"/>
+          <speciesReference species="M_xu5p_DASH_D_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_g3p_x"/>
+          <speciesReference species="M_s7p_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PPAg" name="inorganicdiphosphatase" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 3.6.1.1</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:511385.30, Tcr:508181.140, Tcr:508153.820, Tcr:510773.20</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Other</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_h2o_x"/>
+          <speciesReference species="M_ppi_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_h_x"/>
+          <speciesReference species="M_pi_x" stoichiometry="2"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_ICDHym" name="Isocitratedehydrogenase(NADP+)" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 1.1.1.42</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:511575.60, Tcr:506925.319</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Citric Acid Cycle13</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_icit_m"/>
+          <speciesReference species="M_nadp_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_akg_m"/>
+          <speciesReference species="M_co2_m"/>
+          <speciesReference species="M_nadph_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_NADH2_DASH_u6cm" name="NADHdehydrogenase" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 1.6.99.3</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:508717.20, Tcr:506839.70</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Oxidative Phosphorylation19</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_h_c"/>
+          <speciesReference species="M_nadh_c"/>
+          <speciesReference species="M_q6_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_nad_c"/>
+          <speciesReference species="M_q6h2_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_GAPDg" name="glyceraldehyde-3-phosphatedehydrogenase,glycosome">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 1.2.1.12</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:509065.70, Tcr:506943.60, Tcr:509065.60, Tcr:506943.50</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glycolysis/Gluconeogenesis21</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_g3p_x"/>
+          <speciesReference species="M_nad_x"/>
+          <speciesReference species="M_pi_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_13dpg_x"/>
+          <speciesReference species="M_h_x"/>
+          <speciesReference species="M_nadh_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_ASPTA1" name="aspartatetransaminase">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 2.6.1.1</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:503841.70, Tcr:503679.10, Tcr:510945.70</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Alanine and Aspartate Metabolism</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_akg_c"/>
+          <speciesReference species="M_asp_DASH_L_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_glu_DASH_L_c"/>
+          <speciesReference species="M_oaa_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_NH4t" name="ammoniareversibletransport">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Extracellular</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_nh4_e"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_nh4_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_O2t" name="O2transportinviadiffusion">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Extracellular</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_o2_e"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_o2_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PDHe3" name="pyruvatedehydrogenase(dihydrolipoamidedehydrogenase)" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 1.8.1.4</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:507757.70, Tcr:508933.10, Tcr:508933.20, Tcr:506701.10, Tcr:509379.10, Tcr:507757.60</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Pyruvate Metabolism25</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_dhlam_m"/>
+          <speciesReference species="M_nad_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_h_m"/>
+          <speciesReference species="M_lpam_m"/>
+          <speciesReference species="M_nadh_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PDHe2" name="pyruvatedehydrogenase(dihydrolipoamideS-acetyltransferase)" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 2.3.1.61</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:509717.20, Tcr:511367.70, Tcr:510105.170</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Pyruvate Metabolism24</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_adhlam_m"/>
+          <speciesReference species="M_coa_m"/>
+          <speciesReference species="M_h_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_accoa_m"/>
+          <speciesReference species="M_dhlam_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_ME1m" name="malicenzyme(NADP),mitochondrial" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 1.1.1.40</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:505183.20, Tcr:508647.270</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Pyruvate Metabolism19</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_mal_DASH_L_m"/>
+          <speciesReference species="M_nad_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_co2_m"/>
+          <speciesReference species="M_nadh_m"/>
+          <speciesReference species="M_pyr_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_SRC_nh4_e" name=". source flux" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: SourceFlux</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_nh4_b"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_nh4_e"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PYRtm1" name="cytoplasm2mitochondrion,pyr" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Mitochondrial</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_h_c"/>
+          <speciesReference species="M_pyr_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_h_m"/>
+          <speciesReference species="M_pyr_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_ME1x" name="malicenzyme(NADP)" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 1.1.1.40</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:508647.280, Tcr:505183.30</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Pyruvate Metabolism</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_mal_DASH_L_c"/>
+          <speciesReference species="M_nad_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_co2_c"/>
+          <speciesReference species="M_nadh_c"/>
+          <speciesReference species="M_pyr_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PROtm1" name="L-prolinetransport,mitochondrial">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Mitochondrial</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_pro_DASH_L_c"/>
+          <speciesReference species="M_h_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_pro_DASH_L_m"/>
+          <speciesReference species="M_h_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PROt2" name="L-prolinetransportinviaprotonsymport" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Extracellular</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_h_e"/>
+          <speciesReference species="M_pro_DASH_L_e"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_h_c"/>
+          <speciesReference species="M_pro_DASH_L_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_SRC_thr_DASH_L_e" name=". source flux" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: SourceFlux</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_thr_DASH_L_b"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_thr_DASH_L_e"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_SUCD1rm" name="succinatedehydrogenase">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 1.3.99.1</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:511909.40, Tcr:506399.89</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Citric Acid Cycle18</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_fad_m"/>
+          <speciesReference species="M_succ_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_fadh2_m"/>
+          <speciesReference species="M_fum_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_accoatm" name="acetylcoatransport,mitochondrial">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Mitochondrial</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_accoa_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_accoa_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_SRC_o2_e" name=". source flux" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: SourceFlux</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_o2_b"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_o2_e"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PGI1c" name="glucose-6-phosphateisomerase,glycosome">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 5.3.1.9</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:506529.508, Tcr:510889.221</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glycolysis/Gluconeogenesis15</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_g6p_DASH_A_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_f6p_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_ESC_ala_DASH_L_e" name=". escape flux" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: EscapeFlux</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_ala_DASH_L_e"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_ala_DASH_L_b"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_ESC_succ_e" name=". escape flux" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: EscapeFlux</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_succ_e"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_succ_b"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PYRtg" name="pyruvateglycosomaltransport" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Glycosomal</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_pyr_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_pyr_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_H2Otp" name="H2Otransport,glycosomal">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Glycosomal</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_h2o_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_h2o_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_COAtm" name="CoAtransporter">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Mitochondrial</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_coa_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_coa_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_TGLUASPm" name="transport,glu,asp">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Mitochondrion</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_glu_DASH_L_m"/>
+          <speciesReference species="M_asp_DASH_L_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_glu_DASH_L_c"/>
+          <speciesReference species="M_asp_DASH_L_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_SRC_b_DASH_D_DASH_glucose_e" name=". source flux" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: SourceFlux</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_b_DASH_D_DASH_glucose_b"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_b_DASH_D_DASH_glucose_e"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_SRC_a_DASH_D_DASH_glucose_e" name=". source flux" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: SourceFlux</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_a_DASH_D_DASH_glucose_b"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_a_DASH_D_DASH_glucose_e"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_ESC_ac_e" name=". escape flux" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: EscapeFlux</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_ac_e"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_ac_b"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_GLYT" name="glycinereversibletransport">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Extracellular</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_gly_e"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_gly_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PItm" name="phosphatetransport,mitochondrial">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Mitochondrial</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_h_c"/>
+          <speciesReference species="M_pi_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_h_m"/>
+          <speciesReference species="M_pi_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_SRC_asp_DASH_L_e" name=". source flux" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: SourceFlux</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_asp_DASH_L_b"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_asp_DASH_L_e"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_NH4tm" name="NH3mitochondrialtransport">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Mitochondrial</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_nh4_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_nh4_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_ASPTA1m" name="aspartatetransaminase">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 2.6.1.1</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:510945.70, Tcr:503679.10</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Alanine and Aspartate Metabolism</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_akg_m"/>
+          <speciesReference species="M_asp_DASH_L_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_glu_DASH_L_m"/>
+          <speciesReference species="M_oaa_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_obj_ACt2" name="acetatetransport">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Extracellular</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_ac_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_ac_e"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_SUCCtgi" name="cytoplasm2glycosome,succ" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Glycosomal</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_succ_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_succ_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_THRt2" name="L-threoninetransportinviaprotonsymport" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Extracellular</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_h_e"/>
+          <speciesReference species="M_thr_DASH_L_e"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_h_c"/>
+          <speciesReference species="M_thr_DASH_L_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_ATPtm1" name="ADP/ATPtransporter,mitochondrial" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Mitochondrial</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_adp_c"/>
+          <speciesReference species="M_atp_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_adp_m"/>
+          <speciesReference species="M_atp_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_O2trm" name="O2transport(diffusion)">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Mitochondrial</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_o2_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_o2_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_GLCAt" name="glucosetransport(uniport)" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Extracellular</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_a_DASH_D_DASH_glucose_e"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_a_DASH_D_DASH_glucose_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_ASPt2" name="L-aspartatetransportinviaprotonsymport" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Extracellular</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_h_e"/>
+          <speciesReference species="M_asp_DASH_L_e"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_h_c"/>
+          <speciesReference species="M_asp_DASH_L_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_G6PI2x" name="glucose-6-phosphateisomerase,glycosome">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 5.3.1.9</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:510889.221, Tcr:506529.508</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glycolysis/Gluconeogenesis17</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_g6p_DASH_B_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_f6p_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_OAtm1" name="oxaloacetatetransporter,mitochondrion">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Mitochondrial</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_oaa_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_oaa_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_SRC_h2o_e" name=". source flux" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: SourceFlux</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_h2o_b"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_h2o_e"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_MDHm" name="malatedehydrogenase,mitochondrial">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 1.1.1.37</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:506195.110, Tcr:507883.109</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Citric Acid Cycle10</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_mal_DASH_L_m"/>
+          <speciesReference species="M_nad_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_h_m"/>
+          <speciesReference species="M_nadh_m"/>
+          <speciesReference species="M_oaa_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PYK" name="pyruvatekinase" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 2.7.1.40</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:507993.390, Tcr:511281.60</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glycolysis/Gluconeogenesis33</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_adp_c"/>
+          <speciesReference species="M_h_c"/>
+          <speciesReference species="M_pep_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_atp_c"/>
+          <speciesReference species="M_pyr_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_SRC_pi_e" name=". source flux" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: SourceFlux</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_pi_b"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_pi_e"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_MDHg" name="malatedehydrogenase,peroxisomal">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 1.1.1.37</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:506503.69, Tcr:511293.69</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glycolysis/Gluconeogenesis45</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_mal_DASH_L_x"/>
+          <speciesReference species="M_nad_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_h_x"/>
+          <speciesReference species="M_nadh_x"/>
+          <speciesReference species="M_oaa_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_ALATA_Li" name="L-alaninetransaminase" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 2.6.1.2</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:510889.140, Tcr:506529.420, Tcr:510889.120, Tcr:506529.430</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Pyruvate Metabolism</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_glu_DASH_L_c"/>
+          <speciesReference species="M_pyr_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_akg_c"/>
+          <speciesReference species="M_ala_DASH_L_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PItx" name="Phosphatetransporter,peroxisome">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Glycosomal</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_pi_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_pi_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_ESC_co2_e" name=". escape flux" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: EscapeFlux</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_co2_e"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_co2_b"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PFKg" name="phosphofructokinase,glycosome" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 2.7.1.11</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:508153.340</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glycolysis/Gluconeogenesis18</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_atp_x"/>
+          <speciesReference species="M_f6p_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_adp_x"/>
+          <speciesReference species="M_fdp_x"/>
+          <speciesReference species="M_h_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_Hx" name="hydrogentransporter,peroxisome">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Glycosomal</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_h_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_h_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_ACONTm" name="Aconitatehydratase">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 4.2.1.3</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:511277.290</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Citric Acid Cycle12</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_cit_m"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_icit_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_ASPtm" name="aspartatetransport,mitochondrion">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: .</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Transport, Mitochondrial</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_asp_DASH_L_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_asp_DASH_L_m"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_FUM" name="fumarase,cytosol">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 4.2.1.2</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:510329.270, Tcr:509879.40, Tcr:507257.60, Tcr:507669.10</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glycolysis/Gluconeogenesis46</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_fum_c"/>
+          <speciesReference species="M_h2o_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_mal_DASH_L_c"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PPCKg" name="phosphoenolpyruvatecarboxykinase,atp">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 4.1.1.49</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:507547.90, Tcr:508441.20</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Glycolysis/Gluconeogenesis43</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_atp_x"/>
+          <speciesReference species="M_oaa_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_adp_x"/>
+          <speciesReference species="M_pep_x"/>
+          <speciesReference species="M_co2_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PPA" name="inorganicdiphosphatase" reversible="false">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 3.6.1.1</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:508153.820, Tcr:510773.20, Tcr:511385.30, Tcr:508181.140</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Other</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_h2o_c"/>
+          <speciesReference species="M_ppi_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_h_c"/>
+          <speciesReference species="M_pi_c" stoichiometry="2"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_RPIg" name="ribose-5-phosphateisomerase,glycosomal">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 5.3.1.6</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:509199.24</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Pentose Phosphate Pathway</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_r5p_x"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_ru5p_DASH_D_x"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="R_PPM" name="phosphopentomutase">
+        <notes>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">EC: 5.4.2.2</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">Gene_association: Tcr:511911.130, Tcr:508637.90</html:p>
+          <html:p xmlns:html="http://www.w3.org/1999/xhtml">SUBSYSTEM: Pentose Phosphate Pathway</html:p>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_r1p_c"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_r5p_c"/>
+        </listOfProducts>
+      </reaction>
+    </listOfReactions>
+  </model>
+</sbml>

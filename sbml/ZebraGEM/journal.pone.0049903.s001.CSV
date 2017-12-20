@@ -1,0 +1,708 @@
+ReactionID,Desctiption,Reversible,Virtual,Origin,Destination,Location (interface),SBO_key
+R0_gl,Vesicular transport of Lactose,NO,YES,Golgi,lysosome,vesicule,SBO:0000185
+R1_pr,Vesicular transport of (S)(+)-Allantoin,NO,YES,peroxisome,endoplasmic reticulum,vesicule,SBO:0000185
+R2_lg,Vesicular transport of GM3,NO,YES,lysosome,Golgi,vesicule,SBO:0000185
+R3_gl,Vesicular transport of Digalactosylceramide,NO,YES,Golgi,lysosome,vesicule,SBO:0000185
+R4_ec,"Transport of Adenosine 3',5'-bisphosphate",NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R5_ec,Transport of Formate,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R6_gc,Transport of Copper,NO,NO,Golgi,cytosol,Golgi membrane,SBO:0000185
+R7_rc,Transport of Aldehyde,NO,NO,endoplasmic reticulum,cytosol,endoplasmic reticulum membrane,SBO:0000185
+R8_mc,Transport of Aldehyde,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R9_pc,Transport of Aldehyde,NO,NO,peroxisome,cytosol,peroxisomal membrane,SBO:0000185
+R10_rc,Transport of Calcium cation,NO,NO,endoplasmic reticulum,cytosol,endoplasmic reticulum membrane,SBO:0000185
+R11_ec,Transport of Calcium cation,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R12_rc,Transport of Urea,NO,NO,endoplasmic reticulum,cytosol,endoplasmic reticulum membrane,SBO:0000185
+R13_rc,Transport of beta-Alanine,NO,NO,endoplasmic reticulum,cytosol,endoplasmic reticulum membrane,SBO:0000185
+R14_ec,Transport of beta-Alanine,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R15_pc,Transport of beta-Alanine,NO,NO,peroxisome,cytosol,peroxisomal membrane,SBO:0000185
+R16_pc,Transport of Propanoyl-CoA,NO,NO,peroxisome,cytosol,peroxisomal membrane,SBO:0000185
+R17_ec,Transport of Tetrahydrofolate,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R18_lc,Transport of UMP,NO,NO,lysosome,cytosol,lysosomal membrane,SBO:0000185
+R19_mc,Transport of Glycerone phosphate,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R20_mc,Transport of D-Ribose 5-phosphate,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R21_mc,Transport of Glutathione disulfide,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R22_rc,Transport of IMP,NO,NO,endoplasmic reticulum,cytosol,endoplasmic reticulum membrane,SBO:0000185
+R23_lc,Transport of IMP,NO,NO,lysosome,cytosol,lysosomal membrane,SBO:0000185
+R24_ec,Transport of N-Acetyl-D-glucosamine,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R25_rc,Transport of GMP,NO,NO,endoplasmic reticulum,cytosol,endoplasmic reticulum membrane,SBO:0000185
+R26_lc,Transport of GMP,NO,NO,lysosome,cytosol,lysosomal membrane,SBO:0000185
+R27_mc,Transport of GMP,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R28_cg,Transport of UDP-glucuronate,NO,NO,cytosol,Golgi,Golgi membrane,SBO:0000185
+R29_cr,Transport of UDP-glucuronate,NO,NO,cytosol,endoplasmic reticulum,endoplasmic reticulum membrane,SBO:0000185
+R30_nc,Transport of D-Xylulose 5-phosphate,NO,NO,nucleus,cytosol,nuclear membrane,SBO:0000185
+R31_nc,Transport of dCMP,NO,NO,nucleus,cytosol,nuclear membrane,SBO:0000185
+R32_ec,Transport of Riboflavin,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R33_cm,Transport of (R)-Lactate,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R34_lc,Transport of alpha-D-Glucose,NO,NO,lysosome,cytosol,lysosomal membrane,SBO:0000185
+R35_nc,Transport of Thioredoxin disulfide,NO,NO,nucleus,cytosol,nuclear membrane,SBO:0000185
+R36_ec,"Transport of D-Fructose 1,6-bisphosphate",NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R37_nc,Transport of dGDP,NO,NO,nucleus,cytosol,nuclear membrane,SBO:0000185
+R38_mc,Transport of dGMP,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R39_mc,Transport of dTMP,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R40_mc,Transport of dUMP,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R41_mc,Transport of Dihydrofolate,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R42_pc,Transport of Nicotinamide D-ribonucleotide,NO,NO,peroxisome,cytosol,peroxisomal membrane,SBO:0000185
+R43_ec,Transport of Methylglyoxal,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R44_ec,"Transport of 3',5'-Cyclic AMP",NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R45_gc,Transport of Choline phosphate,NO,NO,Golgi,cytosol,Golgi membrane,SBO:0000185
+R46_ec,Transport of Choline phosphate,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R47_lc,Transport of Choline phosphate,NO,NO,lysosome,cytosol,lysosomal membrane,SBO:0000185
+R48_mc,Transport of Choline phosphate,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R49_ec,Transport of Phenylacetaldehyde,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R50_ec,Transport of Indole-3-acetaldehyde,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R51_ec,Transport of 5-Hydroxy-L-tryptophan,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R52_mc,Transport of Xanthosine 5'-phosphate,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R53_mc,Transport of XTP,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R54_nc,Transport of dCDP,NO,NO,nucleus,cytosol,nuclear membrane,SBO:0000185
+R55_nc,Transport of (9Z)-Octadecenoic acid,NO,NO,nucleus,cytosol,nuclear membrane,SBO:0000185
+R56_ec,Transport of L-Adrenaline,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R57_ec,"Transport of 3',5'-Cyclic GMP",NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R58_im,Transport of Protoporphyrinogen IX,NO,YES,mitochondrial intermembrane space,mitochondria,mitochondrial inner membrane,SBO:0000185
+R59_cn,Transport of Thiamin monophosphate,NO,NO,cytosol,nucleus,nuclear membrane,SBO:0000185
+R60_nc,Transport of Thiamin monophosphate,NO,NO,nucleus,cytosol,nuclear membrane,SBO:0000185
+R61_ec,Transport of Pantetheine 4'-phosphate,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R62_cm,Transport of Hydroxyproline,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R63_rc,Transport of Hydroxyproline,NO,NO,endoplasmic reticulum,cytosol,endoplasmic reticulum membrane,SBO:0000185
+R64_rc,Transport of 4-Trimethylammoniobutanoate,NO,NO,endoplasmic reticulum,cytosol,endoplasmic reticulum membrane,SBO:0000185
+R65_mc,Transport of 4-Trimethylammoniobutanoate,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R66_pc,Transport of 4-Trimethylammoniobutanoate,NO,NO,peroxisome,cytosol,peroxisomal membrane,SBO:0000185
+R67_nc,Transport of dUDP,NO,NO,nucleus,cytosol,nuclear membrane,SBO:0000185
+R68_ec,Transport of Xanthosine,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R69_rc,Transport of Methylmalonate,NO,NO,endoplasmic reticulum,cytosol,endoplasmic reticulum membrane,SBO:0000185
+R70_mc,Transport of Methylmalonate,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R71_pc,Transport of Methylmalonate,NO,NO,peroxisome,cytosol,peroxisomal membrane,SBO:0000185
+R72_rc,Transport of R-S-Glutathione,NO,NO,endoplasmic reticulum,cytosol,endoplasmic reticulum membrane,SBO:0000185
+R73_pc,Transport of R-S-Glutathione,NO,NO,peroxisome,cytosol,peroxisomal membrane,SBO:0000185
+R74_ec,Transport of beta-D-Fructose,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R75_lc,Transport of beta-D-Fructose,NO,NO,lysosome,cytosol,lysosomal membrane,SBO:0000185
+R76_cm,Transport of L-Methionyl-tRNA,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R77_ec,Transport of N-Ribosylnicotinamide,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R78_nc,Transport of Trypanothione disulfide,NO,NO,nucleus,cytosol,nuclear membrane,SBO:0000185
+R79_ec,Transport of (5-L-Glutamyl)-L-amino acid,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R80_ec,Transport of 4-Hydroxyphenylacetaldehyde,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R81_ec,"Transport of 3,4-Dihydroxyphenylacetaldehyde",NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R82_ec,Transport of Imidazole-4-acetaldehyde,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R83_ec,Transport of 16-Glucuronide-estriol,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R84_rc,Transport of 5-Hydroxyindoleacetate,NO,NO,endoplasmic reticulum,cytosol,endoplasmic reticulum membrane,SBO:0000185
+R85_mc,Transport of 5-Hydroxyindoleacetate,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R86_pc,Transport of 5-Hydroxyindoleacetate,NO,NO,peroxisome,cytosol,peroxisomal membrane,SBO:0000185
+R87_ec,Transport of 3-Aminopropanal,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R88_mc,Transport of Acetoacetyl-[acp],NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R89_mc,Transport of 3-Oxohexanoyl-[acp],NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R90_mc,Transport of 3-Oxooctanoyl-[acp],NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R91_cl,Transport of Iminoaspartate,NO,NO,cytosol,lysosome,lysosomal membrane,SBO:0000185
+R92_cp,Transport of D-4-Hydroxy-2-oxoglutarate,NO,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R93_mc,Transport of D-4-Hydroxy-2-oxoglutarate,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R94_cp,Transport of (S)-3-Hydroxyisobutyryl-CoA,NO,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R95_pc,Transport of (S)-3-Hydroxyisobutyryl-CoA,NO,NO,peroxisome,cytosol,peroxisomal membrane,SBO:0000185
+R96_nc,Transport of Icosanoic acid,NO,NO,nucleus,cytosol,nuclear membrane,SBO:0000185
+R97_rc,Transport of Arsenite,NO,NO,endoplasmic reticulum,cytosol,endoplasmic reticulum membrane,SBO:0000185
+R98_cr,Transport of Trichloroethanol,NO,NO,cytosol,endoplasmic reticulum,endoplasmic reticulum membrane,SBO:0000185
+R99_ec,Transport of Estrone glucuronide,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R100_ec,Transport of Testosterone glucuronide,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R101_ec,Transport of Androsterone glucuronide,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R102_ec,Transport of Etiocholan-3alpha-ol-17-one 3-glucuronide,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R103_pc,"Transport of 1,7-Dimethyluric acid",NO,NO,peroxisome,cytosol,peroxisomal membrane,SBO:0000185
+R104_cp,"Transport of (2E,6Z,9Z,12Z,15Z,18Z)-Tetracosahexa-2,6,9,12,15,18-enoyl-CoA",NO,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R105_pc,"Transport of (2E,6Z,9Z,12Z,15Z,18Z)-Tetracosahexa-2,6,9,12,15,18-enoyl-CoA",NO,NO,peroxisome,cytosol,peroxisomal membrane,SBO:0000185
+R106_cm,Transport of Phosphatidylserine,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R107_mc,Transport of Phosphatidylserine,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R108_mc,Transport of Octanoyl-[acp],NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R109_mc,Transport of Hexadecanoyl-[acp],NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R110_cm,Transport of 3-Oxostearoyl-[acp],NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R111_mc,Transport of 3-Oxostearoyl-[acp],NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R112_cm,Transport of Lipoyl-[acp],NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R113_mc,Transport of Lipoyl-[acp],NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R114_mc,"Transport of (2E,6Z,9Z,12Z,15Z,18Z,21Z)-Tetracosahepta-2,6,9,12,15,18,21-enoyl-CoA",YES,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R115_cn,Transport of UDP,NO,NO,cytosol,nucleus,nuclear membrane,SBO:0000185
+R116_ce,Transport of Heme,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R117_cn,Transport of GDP,NO,NO,cytosol,nucleus,nuclear membrane,SBO:0000185
+R118_ce,Transport of GTP,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R119_ce,Transport of 3'-Phosphoadenylyl sulfate,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R120_ce,Transport of L-Arginine,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R121_ce,Transport of CTP,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R122_cn,Transport of Thiamin diphosphate,NO,NO,cytosol,nucleus,nuclear membrane,SBO:0000185
+R123_ce,Transport of UTP,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R124_ce,Transport of L-Ornithine,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R125_ce,Transport of ITP,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R126_cp,Transport of Malonyl-CoA,NO,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R127_mc,Transport of Succinyl-CoA,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R128_cr,Transport of GDP-mannose,NO,NO,cytosol,endoplasmic reticulum,endoplasmic reticulum membrane,SBO:0000185
+R129_cn,Transport of L-Cysteine,NO,NO,cytosol,nucleus,nuclear membrane,SBO:0000185
+R130_cr,Transport of IDP,NO,NO,cytosol,endoplasmic reticulum,endoplasmic reticulum membrane,SBO:0000185
+R131_cl,Transport of IDP,NO,NO,cytosol,lysosome,lysosomal membrane,SBO:0000185
+R132_cn,Transport of CDP,NO,NO,cytosol,nucleus,nuclear membrane,SBO:0000185
+R133_cm,Transport of L-Histidine,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R134_cr,Transport of L-Proline,NO,NO,cytosol,endoplasmic reticulum,endoplasmic reticulum membrane,SBO:0000185
+R135_ce,Transport of L-Amino acid,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R136_ce,Transport of Nicotinamide,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R137_cl,Transport of Maltose,NO,NO,cytosol,lysosome,lysosomal membrane,SBO:0000185
+R138_ce,Transport of Sarcosine,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R139_pc,Transport of Dimethylallyl diphosphate,NO,NO,peroxisome,cytosol,peroxisomal membrane,SBO:0000185
+R140_ce,Transport of dCMP,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R141_cm,Transport of dCMP,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R142_ce,Transport of Nicotinate,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R143_ce,Transport of D-Erythrose 4-phosphate,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R144_cn,Transport of Thioredoxin,NO,NO,cytosol,nucleus,nuclear membrane,SBO:0000185
+R145_ce,Transport of Tryptamine,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R146_mc,Transport of 5-Aminolevulinate,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R147_mc,Transport of N-Acetylornithine,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R148_ce,Transport of dTTP,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R149_ce,Transport of Retinol,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R150_ce,Transport of Tyramine,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R151_ce,Transport of L-Cystine,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R152_cn,Transport of Oleoyl-CoA,NO,NO,cytosol,nucleus,nuclear membrane,SBO:0000185
+R153_cm,Transport of Deoxyuridine,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R154_cn,Transport of Choline phosphate,NO,NO,cytosol,nucleus,nuclear membrane,SBO:0000185
+R155_cp,Transport of 3-Hydroxyanthranilate,NO,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R156_cr,Transport of Indole-3-acetaldehyde,NO,NO,cytosol,endoplasmic reticulum,endoplasmic reticulum membrane,SBO:0000185
+R157_cm,Transport of Indole-3-acetaldehyde,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R158_cp,Transport of Indole-3-acetaldehyde,NO,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R159_ce,Transport of Xanthosine 5'-phosphate,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R160_cr,Transport of 1-Acyl-sn-glycerol 3-phosphate,NO,NO,cytosol,endoplasmic reticulum,endoplasmic reticulum membrane,SBO:0000185
+R161_cn,Transport of Deoxycytidine,NO,NO,cytosol,nucleus,nuclear membrane,SBO:0000185
+R162_ce,Transport of Dephospho-CoA,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R163_cp,Transport of (R)-5-Diphosphomevalonate,NO,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R164_cr,Transport of beta-D-Glucose 6-phosphate,NO,NO,cytosol,endoplasmic reticulum,endoplasmic reticulum membrane,SBO:0000185
+R165_ec,Transport of Acetylcholine,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R166_cn,Transport of Trypanothione,NO,NO,cytosol,nucleus,nuclear membrane,SBO:0000185
+R167_ce,Transport of R-S-Glutathione,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R168_cp,Transport of 6-Mercaptopurine,NO,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R169_cm,Transport of Coproporphyrinogen III,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R170_ci,Transport of Coproporphyrinogen III,NO,NO,cytosol,mitochondrial intermembrane space,mitochondrial outer membrane,SBO:0000185
+R171_pc,Transport of 2-Methylacetoacetyl-CoA,NO,NO,peroxisome,cytosol,peroxisomal membrane,SBO:0000185
+R172_cm,Transport of 2-Methylbut-2-enoyl-CoA,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R173_pc,Transport of 2-Methylbut-2-enoyl-CoA,NO,NO,peroxisome,cytosol,peroxisomal membrane,SBO:0000185
+R174_cm,Transport of 2-Methylprop-2-enoyl-CoA,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R175_pc,Transport of 2-Methylprop-2-enoyl-CoA,NO,NO,peroxisome,cytosol,peroxisomal membrane,SBO:0000185
+R176_cm,Transport of Folinic acid,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R177_cg,Transport of myo-Inositol 4-phosphate,NO,NO,cytosol,Golgi,Golgi membrane,SBO:0000185
+R178_cm,Transport of Acetyl-[acyl-carrier protein],NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R179_cg,Transport of 1D-myo-Inositol 3-phosphate,NO,NO,cytosol,Golgi,Golgi membrane,SBO:0000185
+R180_cr,Transport of Imidazole-4-acetaldehyde,NO,NO,cytosol,endoplasmic reticulum,endoplasmic reticulum membrane,SBO:0000185
+R181_cm,Transport of Imidazole-4-acetaldehyde,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R182_cp,Transport of Imidazole-4-acetaldehyde,NO,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R183_ce,Transport of Phenethylamine,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R184_cm,Transport of L-Selenomethionine,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R185_cr,Transport of 5-Hydroxyindoleacetaldehyde,NO,NO,cytosol,endoplasmic reticulum,endoplasmic reticulum membrane,SBO:0000185
+R186_cm,Transport of 5-Hydroxyindoleacetaldehyde,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R187_cp,Transport of 5-Hydroxyindoleacetaldehyde,NO,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R188_cr,Transport of 3-Aminopropanal,NO,NO,cytosol,endoplasmic reticulum,endoplasmic reticulum membrane,SBO:0000185
+R189_cm,Transport of 3-Aminopropanal,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R190_cp,Transport of 3-Aminopropanal,NO,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R191_ec,Transport of R-S-Cysteinylglycine,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R192_cm,Transport of Butyryl-[acp],NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R193_cm,Transport of Hexanoyl-[acp],NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R194_cr,Transport of N4-Acetylaminobutanal,NO,NO,cytosol,endoplasmic reticulum,endoplasmic reticulum membrane,SBO:0000185
+R195_cm,Transport of N4-Acetylaminobutanal,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R196_cp,Transport of N4-Acetylaminobutanal,NO,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R197_pc,Transport of L-erythro-4-Hydroxyglutamate,NO,NO,peroxisome,cytosol,peroxisomal membrane,SBO:0000185
+R198_cr,Transport of (S)-Methylmalonate semialdehyde,NO,NO,cytosol,endoplasmic reticulum,endoplasmic reticulum membrane,SBO:0000185
+R199_cr,Transport of Aldophosphamide,NO,NO,cytosol,endoplasmic reticulum,endoplasmic reticulum membrane,SBO:0000185
+R200_cp,Transport of Aldophosphamide,NO,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R201_cp,"Transport of 1,7-Dimethylxanthine",NO,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R202_cp,"Transport of (1R,2S)-Naphthalene 1,2-oxide",NO,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R203_cp,"Transport of (1S,2R)-Naphthalene 1,2-oxide",NO,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R204_cp,"Transport of 1-Nitronaphthalene-5,6-oxide",NO,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R205_cp,"Transport of 1-Nitronaphthalene-7,8-oxide",NO,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R206_cp,"Transport of Bromobenzene-3,4-oxide",NO,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R207_rc,"Transport of Bromobenzene-3,4-oxide",NO,NO,endoplasmic reticulum,cytosol,endoplasmic reticulum membrane,SBO:0000185
+R208_cp,"Transport of Bromobenzene-2,3-oxide",NO,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R209_rc,"Transport of Bromobenzene-2,3-oxide",NO,NO,endoplasmic reticulum,cytosol,endoplasmic reticulum membrane,SBO:0000185
+R210_cm,Transport of Sulfur donor,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R226_ce,Na+/K+-exchanging ATPase,YES,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R227_cl,H+-transporting two-sector ATPase,NO,NO,cytosol,lysosome,lysosomal membrane,SBO:0000185
+R228_mc,H+-transporting two-sector ATPase,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R229_cr,arsenite-transporting ATPase,NO,NO,cytosol,endoplasmic reticulum,endoplasmic reticulum membrane,SBO:0000185
+R230_ce,phospholipid-translocating ATPase,YES,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R231_mc,phospholipid-translocating ATPase,YES,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R232_ce,channel-conductance-controlling ATPase,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R234_cg,Cu2+-exporting ATPase,NO,NO,cytosol,Golgi,Golgi membrane,SBO:0000185
+R235_cr,Ca2+-transporting ATPase,NO,NO,cytosol,endoplasmic reticulum,endoplasmic reticulum membrane,SBO:0000185
+R236_ce,Ca2+-transporting ATPase,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R249_mc,NADPH:NAD+ oxidoreductase,NO,NO,mitochondria,cytosol,mitochondrial inner membrane,SBO:0000185
+R936_cm,ATP:creatine N-phosphotransferase,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R1375_mc,"N6,N6,N6-Trimethyl-L-lysine,2-oxoglutarate:oxygen oxidoreductase (3-hydroxylating)",NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2427_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2428_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2429_ce,Transport,YES,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2430_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2431_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2432_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2433_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2434_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2435_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2436_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2437_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2438_lc,Transport,YES,NO,lysosome,cytosol,lysosomal membrane,SBO:0000185
+R2439_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2440_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2441_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2442_cp,Transport,YES,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R2443_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2444_mc,Transport,YES,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2445_pc,Transport,YES,NO,peroxisome,cytosol,peroxisomal membrane,SBO:0000185
+R2446_cg,Transport,YES,NO,cytosol,Golgi,Golgi membrane,SBO:0000185
+R2447_cn,Transport,YES,NO,cytosol,nucleus,nuclear membrane,SBO:0000185
+R2448_cr,Transport,YES,NO,cytosol,endoplasmic reticulum,endoplasmic reticulum membrane,SBO:0000185
+R2449_lc,Transport,NO,NO,lysosome,cytosol,lysosomal membrane,SBO:0000185
+R2450_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2451_cl,Transport,YES,NO,cytosol,lysosome,lysosomal membrane,SBO:0000185
+R2452_cn,Transport,NO,NO,cytosol,nucleus,nuclear membrane,SBO:0000185
+R2453_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2454_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2455_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2456_lc,Transport,YES,NO,lysosome,cytosol,lysosomal membrane,SBO:0000185
+R2457_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2458_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2459_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2460_lc,Transport,YES,NO,lysosome,cytosol,lysosomal membrane,SBO:0000185
+R2461_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2462_cp,Transport,YES,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R2463_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2464_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2465_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2466_cn,Transport,YES,NO,cytosol,nucleus,nuclear membrane,SBO:0000185
+R2467_cr,Transport,YES,NO,cytosol,endoplasmic reticulum,endoplasmic reticulum membrane,SBO:0000185
+R2468_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2469_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2470_cp,Transport,YES,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R2471_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2472_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2473_ce,Transport,YES,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2474_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2475_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2476_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2477_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2478_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2479_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2480_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2481_lc,Transport,YES,NO,lysosome,cytosol,lysosomal membrane,SBO:0000185
+R2482_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2483_ce,Transport,YES,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2484_cr,Transport,YES,NO,cytosol,endoplasmic reticulum,endoplasmic reticulum membrane,SBO:0000185
+R2485_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2486_cn,Transport,YES,NO,cytosol,nucleus,nuclear membrane,SBO:0000185
+R2487_cp,Transport,YES,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R2488_cr,Transport,YES,NO,cytosol,endoplasmic reticulum,endoplasmic reticulum membrane,SBO:0000185
+R2489_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2490_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2491_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2492_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2493_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2494_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2495_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2496_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2497_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2498_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2499_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2500_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2501_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2502_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2503_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2504_mc,Transport,YES,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2505_cr,Transport,YES,NO,cytosol,endoplasmic reticulum,endoplasmic reticulum membrane,SBO:0000185
+R2506_cl,Transport,NO,NO,cytosol,lysosome,lysosomal membrane,SBO:0000185
+R2507_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2508_cn,Transport,YES,NO,cytosol,nucleus,nuclear membrane,SBO:0000185
+R2509_cp,Transport,YES,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R2510_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2511_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2512_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2513_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2514_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2515_ce,Transport,YES,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2516_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2517_cr,Transport,YES,NO,cytosol,endoplasmic reticulum,endoplasmic reticulum membrane,SBO:0000185
+R2518_cn,Transport,YES,NO,cytosol,nucleus,nuclear membrane,SBO:0000185
+R2519_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2520_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2521_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2522_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2523_cn,Transport,YES,NO,cytosol,nucleus,nuclear membrane,SBO:0000185
+R2524_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2525_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2526_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2527_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2528_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2529_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2530_cn,Transport,YES,NO,cytosol,nucleus,nuclear membrane,SBO:0000185
+R2531_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2532_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2533_lm,Transport,YES,NO,lysosome,mitochondria,lysosomal membrane,SBO:0000185
+R2534_cg,Transport,NO,NO,cytosol,Golgi,Golgi membrane,SBO:0000185
+R2535_mc,Transport,YES,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2536_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2537_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2538_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2539_mc,Transport,YES,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2540_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2541_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2542_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2543_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2544_cg,Transport,YES,NO,cytosol,Golgi,Golgi membrane,SBO:0000185
+R2545_nc,Transport,NO,NO,nucleus,cytosol,nuclear membrane,SBO:0000185
+R2546_ce,Transport,YES,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2547_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2548_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2549_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2550_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2551_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2552_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2553_cn,Transport,YES,NO,cytosol,nucleus,nuclear membrane,SBO:0000185
+R2554_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2555_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2556_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2557_ce,Transport,YES,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2558_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2559_ce,Transport,YES,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2560_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2561_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2562_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2563_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2564_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2565_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2566_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2567_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2568_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2569_lc,Transport,YES,NO,lysosome,cytosol,lysosomal membrane,SBO:0000185
+R2570_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2571_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2572_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2573_lc,Transport,YES,NO,lysosome,cytosol,lysosomal membrane,SBO:0000185
+R2574_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2575_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2576_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2577_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2578_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2579_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2580_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2581_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2582_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2583_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2584_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2585_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2586_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2587_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2588_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2589_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2590_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2591_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2592_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2593_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2594_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2595_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2596_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2597_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2598_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2599_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2600_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2601_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2602_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2603_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2604_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2605_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2606_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2607_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2608_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2609_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2610_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2611_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2612_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2613_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2614_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2615_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2616_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2617_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2618_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2619_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2620_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2621_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2622_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2623_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2624_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2625_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2626_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2627_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2628_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2629_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2630_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2631_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2632_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2633_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2634_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2635_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2636_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2637_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2638_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2639_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2640_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2641_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2642_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2643_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2644_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2645_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2646_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2647_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2648_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2649_cr,Transport,NO,NO,cytosol,endoplasmic reticulum,endoplasmic reticulum membrane,SBO:0000185
+R2650_cp,Transport,YES,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R2651_rc,Transport,NO,NO,endoplasmic reticulum,cytosol,endoplasmic reticulum membrane,SBO:0000185
+R2652_cp,Transport,YES,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R2653_mc,Transport,YES,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2654_ce,Transport,YES,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2655_ce,Transport,YES,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2656_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2657_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2658_mc,Transport,YES,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2659_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2660_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2661_mc,Transport,YES,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2662_mc,Transport,YES,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2663_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2664_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2665_cr,Transport,YES,NO,cytosol,endoplasmic reticulum,endoplasmic reticulum membrane,SBO:0000185
+R2666_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2667_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2668_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2669_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2670_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2671_lc,Transport,NO,NO,lysosome,cytosol,lysosomal membrane,SBO:0000185
+R2672_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2673_gc,Transport,YES,NO,Golgi,cytosol,Golgi membrane,SBO:0000185
+R2674_cg,Transport,YES,NO,cytosol,Golgi,Golgi membrane,SBO:0000185
+R2675_re,Transport,NO,NO,endoplasmic reticulum,extracellular,endoplasmic reticulum membrane,SBO:0000185
+R2676_cr,Transport,NO,NO,cytosol,endoplasmic reticulum,endoplasmic reticulum membrane,SBO:0000185
+R2677_cl,Transport,YES,NO,cytosol,lysosome,lysosomal membrane,SBO:0000185
+R2678_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2679_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2680_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2681_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2682_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2683_cr,Transport,YES,NO,cytosol,endoplasmic reticulum,endoplasmic reticulum membrane,SBO:0000185
+R2684_cg,Transport,YES,NO,cytosol,Golgi,Golgi membrane,SBO:0000185
+R2685_lc,Transport,NO,NO,lysosome,cytosol,lysosomal membrane,SBO:0000185
+R2686_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2687_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2688_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2689_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2690_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2691_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2692_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2693_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2694_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2695_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2696_lc,Transport,NO,NO,lysosome,cytosol,lysosomal membrane,SBO:0000185
+R2697_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2698_mc,Transport,YES,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2699_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2700_cp,Transport,NO,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R2701_ce,Transport,YES,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2702_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2703_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2704_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2705_lc,Transport,YES,NO,lysosome,cytosol,lysosomal membrane,SBO:0000185
+R2706_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2707_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2708_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2709_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2710_cp,Transport,YES,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R2711_ce,Transport,YES,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2712_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2713_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2714_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2715_lc,Transport,YES,NO,lysosome,cytosol,lysosomal membrane,SBO:0000185
+R2716_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2717_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2718_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2719_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2720_cp,Transport,YES,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R2721_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2722_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2723_ce,Transport,YES,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2724_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2725_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2726_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2727_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2728_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2729_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2730_ce,Transport,YES,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2731_lc,Transport,YES,NO,lysosome,cytosol,lysosomal membrane,SBO:0000185
+R2732_cp,Transport,NO,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R2733_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2734_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2735_cr,Transport,YES,NO,cytosol,endoplasmic reticulum,endoplasmic reticulum membrane,SBO:0000185
+R2736_cp,Transport,YES,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R2737_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2738_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2739_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2740_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2741_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2742_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2743_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2744_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2745_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2746_lc,Transport,YES,NO,lysosome,cytosol,lysosomal membrane,SBO:0000185
+R2747_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2748_ge,Transport,NO,NO,Golgi,extracellular,Golgi membrane,SBO:0000185
+R2749_cr,Transport,YES,NO,cytosol,endoplasmic reticulum,endoplasmic reticulum membrane,SBO:0000185
+R2750_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2751_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2752_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2753_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2754_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2755_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2756_cn,Transport,YES,NO,cytosol,nucleus,nuclear membrane,SBO:0000185
+R2757_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2758_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2759_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2760_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2761_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2762_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2763_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2764_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2765_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2766_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2767_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2768_rc,Transport,NO,NO,endoplasmic reticulum,cytosol,endoplasmic reticulum membrane,SBO:0000185
+R2769_gc,Transport,NO,NO,Golgi,cytosol,Golgi membrane,SBO:0000185
+R2770_lc,Transport,NO,NO,lysosome,cytosol,lysosomal membrane,SBO:0000185
+R2771_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2772_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2773_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2774_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2775_cn,Transport,YES,NO,cytosol,nucleus,nuclear membrane,SBO:0000185
+R2776_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2777_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2778_cp,Transport,NO,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R2779_cr,Transport,NO,NO,cytosol,endoplasmic reticulum,endoplasmic reticulum membrane,SBO:0000185
+R2780_cr,Transport,NO,NO,cytosol,endoplasmic reticulum,endoplasmic reticulum membrane,SBO:0000185
+R2781_cp,Transport,NO,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R2782_rc,Transport,NO,NO,endoplasmic reticulum,cytosol,endoplasmic reticulum membrane,SBO:0000185
+R2783_pc,Transport,NO,NO,peroxisome,cytosol,peroxisomal membrane,SBO:0000185
+R2784_nc,Transport,YES,NO,nucleus,cytosol,nuclear membrane,SBO:0000185
+R2785_pc,Transport,NO,NO,peroxisome,cytosol,peroxisomal membrane,SBO:0000185
+R2786_rc,Transport,NO,NO,endoplasmic reticulum,cytosol,endoplasmic reticulum membrane,SBO:0000185
+R2787_ce,Transport,YES,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2788_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2789_ce,Transport,YES,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2790_cg,Transport,YES,NO,cytosol,Golgi,Golgi membrane,SBO:0000185
+R2791_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2792_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2793_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2794_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2795_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2796_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2797_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2798_mc,Transport,YES,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2799_mc,Transport,YES,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2800_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2801_cg,Transport,YES,NO,cytosol,Golgi,Golgi membrane,SBO:0000185
+R2802_gc,Transport,NO,NO,Golgi,cytosol,Golgi membrane,SBO:0000185
+R2803_mc,Transport,NO,NO,mitochondria,cytosol,mitochondrial membrane,SBO:0000185
+R2804_ce,Transport,YES,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2805_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2806_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2807_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2808_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2809_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2810_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2811_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2812_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2813_rc,Transport,YES,NO,endoplasmic reticulum,cytosol,endoplasmic reticulum membrane,SBO:0000185
+R2814_gc,Transport,NO,NO,Golgi,cytosol,Golgi membrane,SBO:0000185
+R2815_nc,Transport,YES,NO,nucleus,cytosol,nuclear membrane,SBO:0000185
+R2816_cp,Transport,YES,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R2817_cr,Transport,YES,NO,cytosol,endoplasmic reticulum,endoplasmic reticulum membrane,SBO:0000185
+R2818_cp,Transport,YES,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R2819_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2820_lc,Transport,YES,NO,lysosome,cytosol,lysosomal membrane,SBO:0000185
+R2821_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2822_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2823_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2824_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2825_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2826_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2827_lc,Transport,YES,NO,lysosome,cytosol,lysosomal membrane,SBO:0000185
+R2828_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2829_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2830_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2831_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2832_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2833_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2834_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2835_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2836_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2837_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2838_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2839_cm,Transport,NO,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2840_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2841_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2842_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2843_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2844_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2845_ce,Transport,YES,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2846_ce,Transport,YES,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2847_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2848_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2849_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2850_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2851_cp,Transport,YES,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R2852_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2853_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2854_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2855_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2856_ce,Transport,YES,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2857_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2858_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2859_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2860_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2861_cp,Transport,YES,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R2862_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2863_cl,Transport,YES,NO,cytosol,lysosome,lysosomal membrane,SBO:0000185
+R2864_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2865_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2866_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2867_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2868_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2869_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2870_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2871_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2872_ce,Transport,YES,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2873_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2874_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2875_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2876_lc,Transport,YES,NO,lysosome,cytosol,lysosomal membrane,SBO:0000185
+R2877_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2878_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2879_ce,Transport,YES,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2880_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2881_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2882_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2883_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2884_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2885_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2886_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2887_rc,Transport,YES,NO,endoplasmic reticulum,cytosol,endoplasmic reticulum membrane,SBO:0000185
+R2888_cg,Transport,YES,NO,cytosol,Golgi,Golgi membrane,SBO:0000185
+R2889_cg,Transport,YES,NO,cytosol,Golgi,Golgi membrane,SBO:0000185
+R2890_cl,Transport,YES,NO,cytosol,lysosome,lysosomal membrane,SBO:0000185
+R2891_cr,Transport,YES,NO,cytosol,endoplasmic reticulum,endoplasmic reticulum membrane,SBO:0000185
+R2892_gc,Transport,YES,NO,Golgi,cytosol,Golgi membrane,SBO:0000185
+R2893_gc,Transport,YES,NO,Golgi,cytosol,Golgi membrane,SBO:0000185
+R2894_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2895_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2896_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2897_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2898_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2899_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2900_lc,Transport,YES,NO,lysosome,cytosol,lysosomal membrane,SBO:0000185
+R2901_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2902_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2903_cm,Transport,YES,NO,cytosol,mitochondria,mitochondrial membrane,SBO:0000185
+R2904_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2905_ce,Transport,NO,NO,cytosol,extracellular,plasma membrane,SBO:0000185
+R2906_ec,Transport,NO,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2907_cp,Transport,NO,NO,cytosol,peroxisome,peroxisomal membrane,SBO:0000185
+R2908_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185
+R2909_ec,Transport,YES,NO,extracellular,cytosol,plasma membrane,SBO:0000185

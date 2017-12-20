@@ -21431,8 +21431,8 @@
             <ci> FLUX_VALUE </ci>
           </math>
                   <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1"/>
-            <parameter id="UPPER_BOUND" value="-1"/>
+            <parameter id="LOWER_BOUND" value="-10"/>
+            <parameter id="UPPER_BOUND" value="0"/>
           </listOfParameters>
         </kineticLaw>
       </reaction>

@@ -1,0 +1,95 @@
+Type,Class,Metabolite,KeggID
+Import,Amino Acids,L-Arginine,C00062
+Import,Amino Acids,L-Histidine,C00135
+Import,Amino Acids,L-Isoleucine,C00407
+Import,Amino Acids,L-Leucine,C00123
+Import,Amino Acids,L-Lysine,C00047
+Import,Amino Acids,L-Methionine,C00073
+Import,Amino Acids,L-Phenylalanine ,C00079
+Import,Amino Acids,L-Threonine,C00188
+Import,Amino Acids,L-Tryptophan,C00078
+Import,Amino Acids,L-Valine,C00183
+Import,Lipids,"Linolenic Acid (18:3, n-3)",C06427
+Import,Lipids,"Linoleic Acid (18:2, n-6)",C01595
+Import,Carbohydrates,alpha-D-Glucose,C00267
+Import,Carbohydrates,beta-D-Glucose,C00221
+Import,Carbohydrates,alpha-Maltose,C00208
+Import,Carbohydrates,Sucrose,C00089
+Import,Carbohydrates,Dextrin (polymer),C00721
+Import,Carbohydrates,D-Fructose,C02336
+Import,Carbohydrates,D-Galactose,C00124
+Import,Carbohydrates,Starch,C00182
+Import,Carbohydrates,Glucosamine,C08349
+Import,Macrominerals,Calcium,C00076
+Import,Macrominerals,Chlorine,C00698
+Import,Macrominerals,Magnesium,C00305
+Import,Macrominerals,Phosphorus,C06262
+Import,Macrominerals,Potassium,C00238
+Import,Macrominerals,Sodium,C01330
+Import,Microminerals,Copper,C00070
+Import,Microminerals,Iodine,C01382
+Import,Microminerals,Iron,C14818
+Import,Microminerals,Magnanese,C19610
+Import,Microminerals,Selenium,C01529
+Import,Microminerals,Zinc,C00038
+Import,Fat-soluble vitamins,A (A1/A2/A3),C00473|C00376|C00777
+Import,Fat-soluble vitamins,D (cholecalciferol),C05443
+Import,Fat-soluble vitamins,E,C02477
+Import,Fat-soluble vitamins,K (K1/K2/K3),C02059|C00828|C05377
+Import,Water-soluble vitamins,Riboflavin,C00255
+Import,Water-soluble vitamins,Pantothenic acid,C00864
+Import,Water-soluble vitamins,Niacin,C00253
+Import,Water-soluble vitamins,Vitamine B12,C05776
+Import,Water-soluble vitamins,Choline,C00114
+Import,Water-soluble vitamins,Biotin,C00120
+Import,Water-soluble vitamins,Folate,C00504
+Import,Water-soluble vitamins,Thiamin pyrophosphate,C00068
+Import,Water-soluble vitamins,Vitamine C,C00072
+Import,Water-soluble vitamins,Pyridoxine,C00314
+Biomass,amino acid,L-Alanine,C00041
+Biomass,amino acid,L-Arginine,C00062
+Biomass,amino acid,L-Asparagine,C00152
+Biomass,amino acid,L-Aspartic acid,C00049
+Biomass,amino acid,L-Cysteine,C00097
+Biomass,amino acid,L-Glutamic acid,C00025
+Biomass,amino acid,L-Glutamine,C00064
+Biomass,amino acid,L-Glycine,C00037
+Biomass,amino acid,L-Histidine,C00135
+Biomass,amino acid,L-Isoleucine,C00407
+Biomass,amino acid,L-Leucine,C00123
+Biomass,amino acid,L-Lysine,C00047
+Biomass,amino acid,L-Methionine,C00073
+Biomass,amino acid,L-Phenylalanine,C00079
+Biomass,amino acid,L-Proline,C00148
+Biomass,amino acid,L-Serine,C00065
+Biomass,amino acid,L-Threonine,C00188
+Biomass,amino acid,L-Tryptophan,C00078
+Biomass,amino acid,L-Tyrosine,C00082
+Biomass,amino acid,L-Valine,C00183
+Biomass,lipid,1-monoacylglycerol,C01885
+Biomass,lipid,Cardiolipin,C05980
+Biomass,lipid,Cholesterol,C00187
+Biomass,lipid,Cholesterol ester,C02530
+Biomass,lipid,Diacylglycerol,C00165
+Biomass,lipid,Lysophosphatidylcholine,C04233
+Biomass,lipid,Phosphatidate,C00416
+Biomass,lipid,Phosphatidylcholine,C00157
+Biomass,lipid,Phosphatidylethanolamine,C00350
+Biomass,lipid,Phosphatidylglycerol,C00344
+Biomass,lipid,Phosphatidylinositol,C01194
+Biomass,lipid,Phosphatidylserine,C02737
+Biomass,lipid,Sphingomyelin,C00550
+Biomass,lipid,Triacylglycerol,C00422
+Biomass,nucleic acid,ATP,C00002
+Biomass,nucleic acid,CTP,C00063
+Biomass,nucleic acid,dATP,C00131
+Biomass,nucleic acid,dCTP,C00458
+Biomass,nucleic acid,dGTP,C00286
+Biomass,nucleic acid,dTTP,C00075
+Biomass,nucleic acid,GTP,C00044
+Biomass,nucleic acid,UDP,C00459
+Biomass,other,Acetyl-CoA,C00024
+Biomass,other,H+,C00080
+Biomass,other,NADH,C00004
+Biomass,other,NADPH,C00005
+Biomass,other,O2,C00007

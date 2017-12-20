@@ -1,0 +1,205 @@
+Type,Compartment,Metabolite,KeggID
+Sink,cytosol,Nucleoside triphosphate,C00201
+Sink,cytosol,Geranylgeranyl diphosphate,C00353
+Sink,cytosol,"Sedoheptulose 1,7-bisphosphate",C00447
+Sink,extracellular,"Sedoheptulose 1,7-bisphosphate",C00447
+Sink,cytosol,Halide,C00462
+Sink,endoplasmic reticulum,Halide,C00462
+Sink,peroxisome,Halide,C00462
+Sink,cytosol,Hypotaurine,C00519
+Sink,mitochondria,Hypotaurine,C00519
+Sink,endoplasmic reticulum,(-)-Ureidoglycolate,C00603
+Sink,peroxisome,O2.-,C00704
+Sink,cytosol,Propynoate,C00804
+Sink,mitochondria,Propynoate,C00804
+Sink,endoplasmic reticulum,Propynoate,C00804
+Sink,peroxisome,Propynoate,C00804
+Sink,cytosol,4-Pyridoxate,C00847
+Sink,cytosol,3-Dehydroquinate,C00944
+Sink,cytosol,Indole-3-acetate,C00954
+Sink,mitochondria,Indole-3-acetate,C00954
+Sink,endoplasmic reticulum,Indole-3-acetate,C00954
+Sink,peroxisome,Indole-3-acetate,C00954
+Sink,cytosol,N(pi)-Methyl-L-histidine,C01152
+Sink,mitochondria,N(pi)-Methyl-L-histidine,C01152
+Sink,cytosol,myo-Inositol hexakisphosphate,C01204
+Sink,mitochondria,"3-Hydroxy-N6,N6,N6-trimethyl-L-lysine",C01259
+Sink,cytosol,Hydrochloric acid,C01327
+Sink,endoplasmic reticulum,Hydrochloric acid,C01327
+Sink,peroxisome,Hydrochloric acid,C01327
+Sink,cytosol,Deoxyribose,C01801
+Sink,cytosol,L-Lysyl-tRNA,C01931
+Sink,mitochondria,L-Lysyl-tRNA,C01931
+Sink,cytosol,Thiocysteine,C01962
+Sink,cytosol,L-Leucyl-tRNA,C02047
+Sink,mitochondria,L-Leucyl-tRNA,C02047
+Sink,membrane,Leukotriene C4,C02166
+Sink,endoplasmic reticulum,Thromboxane A2,C02198
+Sink,cytosol,Glutaminyl-tRNA,C02282
+Sink,cytosol,Glycyl-tRNA(Gly),C02412
+Sink,cytosol,2-Phenylacetamide,C02505
+Sink,cytosol,L-Seryl-tRNA(Ser),C02553
+Sink,mitochondria,L-Seryl-tRNA(Ser),C02553
+Sink,cytosol,L-Valyl-tRNA(Val),C02554
+Sink,mitochondria,L-Valyl-tRNA(Val),C02554
+Sink,cytosol,L-Prolyl-tRNA(Pro),C02702
+Sink,mitochondria,L-Prolyl-tRNA(Pro),C02702
+Sink,cytosol,Imidazole-4-acetate,C02835
+Sink,mitochondria,Imidazole-4-acetate,C02835
+Sink,endoplasmic reticulum,Imidazole-4-acetate,C02835
+Sink,peroxisome,Imidazole-4-acetate,C02835
+Sink,cytosol,L-Tyrosyl-tRNA(Tyr),C02839
+Sink,mitochondria,L-Tyrosyl-tRNA(Tyr),C02839
+Sink,cytosol,4-Acetamidobutanoate,C02946
+Sink,mitochondria,4-Acetamidobutanoate,C02946
+Sink,endoplasmic reticulum,4-Acetamidobutanoate,C02946
+Sink,peroxisome,4-Acetamidobutanoate,C02946
+Sink,nucleus,DNA 5-methylcytosine,C02967
+Sink,cytosol,L-Aspartyl-tRNA(Asp),C02984
+Sink,mitochondria,L-Aspartyl-tRNA(Asp),C02984
+Sink,cytosol,L-Glutamyl-tRNA(Glu),C02987
+Sink,mitochondria,L-Glutamyl-tRNA(Glu),C02987
+Sink,cytosol,L-Histidyl-tRNA(His),C02988
+Sink,cytosol,L-Threonyl-tRNA(Thr),C02992
+Sink,cytosol,L-Cysteinyl-tRNA(Cys),C03125
+Sink,mitochondria,L-Cysteinyl-tRNA(Cys),C03125
+Sink,cytosol,L-Isoleucyl-tRNA(Ile),C03127
+Sink,mitochondria,L-Isoleucyl-tRNA(Ile),C03127
+Sink,cytosol,"(8Z,11Z,14Z)-Icosatrienoic acid",C03242
+Sink,nucleus,"(8Z,11Z,14Z)-Icosatrienoic acid",C03242
+Sink,mitochondria,N-Formylmethionyl-tRNA,C03294
+Sink,extracellular,5-L-Glutamyl amino acid,C03363
+Sink,cytosol,L-Asparaginyl-tRNA(Asn),C03402
+Sink,mitochondria,L-Asparaginyl-tRNA(Asn),C03402
+Sink,cytosol,L-Phenylalanyl-tRNA(Phe),C03511
+Sink,mitochondria,L-Phenylalanyl-tRNA(Phe),C03511
+Sink,cytosol,L-Tryptophanyl-tRNA(Trp),C03512
+Sink,mitochondria,L-Tryptophanyl-tRNA(Trp),C03512
+Sink,extracellular,N-Acetyl-D-glucosaminide,C03518
+Sink,lysosome,"1,2-Diacyl-3-beta-D-galactosyl-sn-glycerol",C03692
+Sink,cytosol,2'-Deoxyribonucleoside diphosphate,C04232
+Sink,nucleus,2'-Deoxyribonucleoside diphosphate,C04232
+Sink,cytosol,5-Fluorodeoxyuridine monophosphate,C04242
+Sink,mitochondria,5-Fluorodeoxyuridine monophosphate,C04242
+Sink,cytosol,"(15S)-15-Hydroxy-5,8,11-cis-13-trans-eicosatetraenoate",C04742
+Sink,extracellular,"(15S)-15-Hydroxy-5,8,11-cis-13-trans-eicosatetraenoate",C04742
+Sink,endoplasmic reticulum,"(15S)-15-Hydroxy-5,8,11-cis-13-trans-eicosatetraenoate",C04742
+Sink,cytosol,5(S)-HETE,C04805
+Sink,extracellular,5(S)-HETE,C04805
+Sink,endoplasmic reticulum,5(S)-HETE,C04805
+Sink,membrane,7-Dehydrodesmosterol,C05107
+Sink,cytosol,3-Aminoisobutyric acid,C05145
+Sink,mitochondria,5'-Deoxyadenosine,C05198
+Sink,mitochondria,3-Hexaprenyl-4-hydroxy-5-methoxybenzoate,C05313
+Sink,cytosol,Selenomethionyl-tRNA(Met),C05336
+Sink,mitochondria,Selenomethionyl-tRNA(Met),C05336
+Sink,peroxisome,Chenodeoxycholoyl-CoA,C05337
+Sink,membrane,Zymosterol,C05437
+Sink,cytosol,3-Sulfinylpyruvate,C05527
+Sink,mitochondria,3-Sulfinylpyruvate,C05527
+Sink,extracellular,p-Hydroxyphenylacetylglycine,C05596
+Sink,peroxisome,Cinnavalininate,C05640
+Sink,extracellular,gamma-Glutamyl-beta-cyanoalanine,C05711
+Sink,cytosol,Cyanohydrin,C05712
+Sink,cytosol,S-Substituted L-cysteine,C05726
+Sink,extracellular,S-Substituted L-cysteine,C05726
+Sink,cytosol,Coproporphyrinogen I,C05768
+Sink,cytosol,3-Mercaptolactate,C05823
+Sink,extracellular,5-L-Glutamyl-taurine,C05844
+Sink,cytosol,2-Hydroxyphenylacetate,C05852
+Sink,extracellular,Leukotriene D4,C05951
+Sink,extracellular,gamma-Glutamyl-beta-aminopropiononitrile,C06114
+Sink,cytosol,Hexadecenal,C06123
+Sink,extracellular,1-Methylpyrrolinium,C06178
+Sink,cytosol,2'-Deoxyinosine 5'-phosphate,C06196
+Sink,cytosol,Hordenine,C06199
+Sink,mitochondria,Hordenine,C06199
+Sink,cytosol,"(6Z,9Z,12Z)-Octadecatrienoic acid",C06426
+Sink,nucleus,"(6Z,9Z,12Z)-Octadecatrienoic acid",C06426
+Sink,cytosol,"Eicosapentaenoic acid (20:5, n-3)",C06428
+Sink,nucleus,"Eicosapentaenoic acid (20:5, n-3)",C06428
+Sink,cytosol,"Docosahexaenoic acid (22:6, n-3)",C06429
+Sink,nucleus,"Docosahexaenoic acid (22:6, n-3)",C06429
+Sink,cytosol,4-Glutathionyl cyclophosphamide,C11583
+Sink,endoplasmic reticulum,4-Glutathionyl cyclophosphamide,C11583
+Sink,peroxisome,4-Glutathionyl cyclophosphamide,C11583
+Sink,membrane,Dihydroceramide,C12126
+Sink,extracellular,5-Aminopentanal,C12455
+Sink,cytosol,5'-Deoxy-5-fluorouridine,C12739
+Sink,mitochondria,3-Hexaprenyl-4-hydroxybenzoate,C13425
+Sink,cytosol,Hydrobromic acid,C13645
+Sink,endoplasmic reticulum,Hydrobromic acid,C13645
+Sink,peroxisome,Hydrobromic acid,C13645
+Sink,cytosol,"(1R)-Hydroxy-(2R)-glutathionyl-1,2-dihydronaphthalene",C14791
+Sink,endoplasmic reticulum,"(1R)-Hydroxy-(2R)-glutathionyl-1,2-dihydronaphthalene",C14791
+Sink,peroxisome,"(1R)-Hydroxy-(2R)-glutathionyl-1,2-dihydronaphthalene",C14791
+Sink,cytosol,"(1S)-Hydroxy-(2S)-glutathionyl-1,2-dihydronaphthalene",C14792
+Sink,endoplasmic reticulum,"(1S)-Hydroxy-(2S)-glutathionyl-1,2-dihydronaphthalene",C14792
+Sink,peroxisome,"(1S)-Hydroxy-(2S)-glutathionyl-1,2-dihydronaphthalene",C14792
+Sink,cytosol,"(1R)-Glutathionyl-(2R)-hydroxy-1,2-dihydronaphthalene",C14793
+Sink,endoplasmic reticulum,"(1R)-Glutathionyl-(2R)-hydroxy-1,2-dihydronaphthalene",C14793
+Sink,peroxisome,"(1R)-Glutathionyl-(2R)-hydroxy-1,2-dihydronaphthalene",C14793
+Sink,cytosol,"1-Nitro-7-hydroxy-8-glutathionyl-7,8-dihydronaphthalene",C14803
+Sink,endoplasmic reticulum,"1-Nitro-7-hydroxy-8-glutathionyl-7,8-dihydronaphthalene",C14803
+Sink,peroxisome,"1-Nitro-7-hydroxy-8-glutathionyl-7,8-dihydronaphthalene",C14803
+Sink,cytosol,"1-Nitro-7-glutathionyl-8-hydroxy-7,8-dihydronaphthalene",C14804
+Sink,endoplasmic reticulum,"1-Nitro-7-glutathionyl-8-hydroxy-7,8-dihydronaphthalene",C14804
+Sink,peroxisome,"1-Nitro-7-glutathionyl-8-hydroxy-7,8-dihydronaphthalene",C14804
+Sink,cytosol,"1-Nitro-5-hydroxy-6-glutathionyl-5,6-dihydronaphthalene",C14805
+Sink,endoplasmic reticulum,"1-Nitro-5-hydroxy-6-glutathionyl-5,6-dihydronaphthalene",C14805
+Sink,peroxisome,"1-Nitro-5-hydroxy-6-glutathionyl-5,6-dihydronaphthalene",C14805
+Sink,cytosol,"1-Nitro-5-glutathionyl-6-hydroxy-5,6-dihydronaphthalene",C14806
+Sink,endoplasmic reticulum,"1-Nitro-5-glutathionyl-6-hydroxy-5,6-dihydronaphthalene",C14806
+Sink,peroxisome,"1-Nitro-5-glutathionyl-6-hydroxy-5,6-dihydronaphthalene",C14806
+Sink,cytosol,"3,4-Dihydro-3-hydroxy-4-S-glutathionyl bromobenzene",C14847
+Sink,endoplasmic reticulum,"3,4-Dihydro-3-hydroxy-4-S-glutathionyl bromobenzene",C14847
+Sink,peroxisome,"3,4-Dihydro-3-hydroxy-4-S-glutathionyl bromobenzene",C14847
+Sink,cytosol,"2,3-Dihydro-2-S-glutathionyl-3-hydroxy bromobenzene",C14848
+Sink,endoplasmic reticulum,"2,3-Dihydro-2-S-glutathionyl-3-hydroxy bromobenzene",C14848
+Sink,peroxisome,"2,3-Dihydro-2-S-glutathionyl-3-hydroxy bromobenzene",C14848
+Sink,cytosol,"4,5-Dihydro-4-hydroxy-5-S-glutathionyl-benzo[a]pyrene",C14855
+Sink,endoplasmic reticulum,"4,5-Dihydro-4-hydroxy-5-S-glutathionyl-benzo[a]pyrene",C14855
+Sink,peroxisome,"4,5-Dihydro-4-hydroxy-5-S-glutathionyl-benzo[a]pyrene",C14855
+Sink,cytosol,"7,8-Dihydro-7-hydroxy-8-S-glutathionyl-benzo[a]pyrene",C14856
+Sink,endoplasmic reticulum,"7,8-Dihydro-7-hydroxy-8-S-glutathionyl-benzo[a]pyrene",C14856
+Sink,peroxisome,"7,8-Dihydro-7-hydroxy-8-S-glutathionyl-benzo[a]pyrene",C14856
+Sink,cytosol,"S-(2,2-Dichloro-1-hydroxy)ethyl glutathione",C14861
+Sink,endoplasmic reticulum,"S-(2,2-Dichloro-1-hydroxy)ethyl glutathione",C14861
+Sink,peroxisome,"S-(2,2-Dichloro-1-hydroxy)ethyl glutathione",C14861
+Sink,cytosol,2-(S-Glutathionyl)acetyl glutathione,C14863
+Sink,endoplasmic reticulum,2-(S-Glutathionyl)acetyl glutathione,C14863
+Sink,peroxisome,2-(S-Glutathionyl)acetyl glutathione,C14863
+Sink,cytosol,S-(2-Chloroacetyl)glutathione,C14864
+Sink,endoplasmic reticulum,S-(2-Chloroacetyl)glutathione,C14864
+Sink,peroxisome,S-(2-Chloroacetyl)glutathione,C14864
+Sink,cytosol,"S-(1,2-Dichlorovinyl)glutathione",C14868
+Sink,endoplasmic reticulum,"S-(1,2-Dichlorovinyl)glutathione",C14868
+Sink,peroxisome,"S-(1,2-Dichlorovinyl)glutathione",C14868
+Sink,cytosol,S-(Formylmethyl)glutathione,C14871
+Sink,endoplasmic reticulum,S-(Formylmethyl)glutathione,C14871
+Sink,peroxisome,S-(Formylmethyl)glutathione,C14871
+Sink,cytosol,Glutathione episulfonium ion,C14874
+Sink,endoplasmic reticulum,Glutathione episulfonium ion,C14874
+Sink,peroxisome,Glutathione episulfonium ion,C14874
+Sink,membrane,Episterol,C15777
+Sink,membrane,delta7-Avenasterol,C15782
+Sink,cytosol,p-Hydroxyphenyl lignin,C15804
+Sink,cytosol,Guaiacyl lignin,C15805
+Sink,cytosol,Syringyl lignin,C15806
+Sink,mitochondria,[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylbutanoyl)dihydrolipoyllysine,C15979
+Sink,peroxisome,trans-2-Enoyl-OPC8-CoA,C16328
+Sink,peroxisome,trans-2-Enoyl-OPC6-CoA,C16332
+Sink,peroxisome,trans-2-Enoyl-OPC4-CoA,C16336
+Sink,peroxisome,7-Methyluric acid,C16355
+Sink,peroxisome,1-Methyluric acid,C16359
+Sink,peroxisome,"3,7-Dimethyluric acid",C16360
+Sink,peroxisome,"3,6,8-Trimethylallantoin",C16362
+Sink,endoplasmic reticulum,Tamoxifen N-oxide,C16545
+Sink,cytosol,Alcophosphamide,C16551
+Sink,cytosol,Aminopropylcadaverine,C16565
+Sink,cytosol,"5-Phenyl-1,3-oxazinane-2,4-dione",C16596
+Sink,peroxisome,6-Thiourate,C16613
+Sink,cytosol,alpha-Fluoro-beta-alanine,C16632
+Sink,cytosol,Tryparedoxin disulfide,C16664
+Sink,nucleus,Tryparedoxin disulfide,C16664
+Sink,mitochondria,Ubiquinone-6,C17568

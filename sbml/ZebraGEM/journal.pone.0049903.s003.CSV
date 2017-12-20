@@ -1,0 +1,143 @@
+Compartment,Pathway,Reaction Count
+cytosol,"Alanine, aspartate and glutamate metabolism",16
+cytosol,alpha-Linolenic acid metabolism,2
+cytosol,Amino sugar and nucleotide sugar metabolism,34
+nucleus,Amino sugar and nucleotide sugar metabolism,2
+cytosol,Aminoacyl-tRNA biosynthesis,22
+mitochondria,Aminoacyl-tRNA biosynthesis,18
+cytosol,Arachidonic acid metabolism,21
+endoplasmic reticulum,Arachidonic acid metabolism,17
+nucleus,Arachidonic acid metabolism,2
+cytosol,Arginine and proline metabolism,20
+mitochondria,Arginine and proline metabolism,27
+mitochondrial intermembrane space,Arginine and proline metabolism,2
+peroxisome,Arginine and proline metabolism,5
+cytosol,Ascorbate and aldarate metabolism,4
+cytosol,beta-Alanine metabolism,7
+cytosol,Biosynthesis of unsaturated fatty acids,20
+lysosome,Biosynthesis of unsaturated fatty acids,2
+nucleus,Biosynthesis of unsaturated fatty acids,11
+peroxisome,Biosynthesis of unsaturated fatty acids,5
+cytosol,Biotin metabolism,1
+nucleus,Biotin metabolism,3
+cytosol,Butanoate metabolism,7
+cytosol,Butirosin and neomycin biosynthesis,1
+cytosol,Caffeine metabolism,1
+peroxisome,Caffeine metabolism,5
+cytosol,Citrate cycle (TCA cycle),9
+mitochondria,Citrate cycle (TCA cycle),22
+cytosol,Cyanoamino acid metabolism,2
+cytosol,Cysteine and methionine metabolism,24
+nucleus,Cysteine and methionine metabolism,1
+cytosol,D-Glutamine and D-glutamate metabolism,1
+cytosol,Ether lipid metabolism,13
+extracellular,Ether lipid metabolism,7
+cytosol,Fatty acid,40
+lysosome,Fatty acid elongation,2
+nucleus,Fatty acid elongation,2
+mitochondria,Fatty acid metabolism,70
+peroxisome,Fatty acid metabolism,58
+cytosol,Folate biosynthesis,18
+cytosol,Fructose and mannose metabolism,18
+cytosol,Galactose metabolism,12
+lysosome,Galactose metabolism,10
+cytosol,Glutathione metabolism,18
+endoplasmic reticulum,Glutathione metabolism,5
+extracellular,Glutathione metabolism,6
+nucleus,Glutathione metabolism,3
+cytosol,Glycerolipid metabolism,13
+cytosol,Glycerophospholipid metabolism,30
+endoplasmic reticulum,Glycerophospholipid metabolism,7
+extracellular,Glycerophospholipid metabolism,5
+nucleus,Glycerophospholipid metabolism,2
+cytosol,"Glycine, serine and threonine metabolism",14
+mitochondria,"Glycine, serine and threonine metabolism",13
+mitochondrial intermembrane space,"Glycine, serine and threonine metabolism",1
+cytosol,Glycolysis / Gluconeogenesis,26
+endoplasmic reticulum,Glycosaminoglycan biosynthesis,5
+Golgi,Glycosaminoglycan biosynthesis,9
+lysosome,Glycosaminoglycan degradation,14
+Golgi,Glycosphingolipid biosynthesis,38
+lysosome,Glycosphingolipid biosynthesis,5
+cytosol,Glycosphingolipid biosynthesis - ganglio series,2
+cytosol,Glycosylphosphatidylinositol(GPI)-anchor biosynthesis,2
+endoplasmic reticulum,Glycosylphosphatidylinositol(GPI)-anchor biosynthesis,5
+cytosol,Glyoxylate and dicarboxylate metabolism,7
+cytosol,Histidine metabolism,11
+cytosol,Inositol phosphate metabolism,28
+Golgi,Inositol phosphate metabolism,3
+nucleus,Inositol phosphate metabolism,4
+cytosol,Linoleic acid metabolism,5
+cytosol,Lysine degradation,3
+nucleus,Lysine degradation,3
+Golgi,Mucin type O-Glycan biosynthesis,8
+cytosol,N-Glycan biosynthesis,9
+endoplasmic reticulum,N-Glycan biosynthesis,15
+Golgi,N-Glycan biosynthesis,10
+cytosol,Nicotinate and nicotinamide metabolism,13
+lysosome,Nicotinate and nicotinamide metabolism,2
+nucleus,Nicotinate and nicotinamide metabolism,1
+cytosol,Nitrogen metabolism,5
+cytosol,One carbon pool by folate,20
+cytosol,Other types of O-glycan biosynthesis,1
+endoplasmic reticulum,Other types of O-glycan biosynthesis,6
+Golgi,Other types of O-glycan biosynthesis,5
+cytosol,Pantothenate and CoA biosynthesis,13
+cytosol,Pentose and glucuronate interconversions,10
+nucleus,Pentose and glucuronate interconversions,1
+cytosol,Pentose phosphate pathway,19
+cytosol,Phenylalanine metabolism,8
+cytosol,"Phenylalanine, tyrosine and tryptophan biosynthesis",4
+cytosol,Phosphatidylinositol signaling system,24
+Golgi,Phosphatidylinositol signaling system,3
+nucleus,Phosphatidylinositol signaling system,2
+cytosol,Porphyrin and chlorophyll metabolism,10
+mitochondrial intermembrane space,Porphyrin and chlorophyll metabolism,1
+cytosol,Primary bile acid biosynthesis,13
+peroxisome,Primary bile acid biosynthesis,8
+cytosol,Propanoate metabolism,6
+mitochondria,Propanoate metabolism,19
+cytosol,Purine metabolism,70
+extracellular,Purine metabolism,15
+lysosome,Purine metabolism,3
+mitochondria,Purine metabolism,13
+mitochondrial intermembrane space,Purine metabolism,2
+nucleus,Purine metabolism,6
+peroxisome,Purine metabolism,8
+cytosol,Pyrimidine metabolism,59
+extracellular,Pyrimidine metabolism,10
+mitochondrial intermembrane space,Pyrimidine metabolism,1
+nucleus,Pyrimidine metabolism,4
+cytosol,Pyruvate metabolism,17
+mitochondria,Pyruvate metabolism,16
+cytosol,Retinol metabolism,16
+endoplasmic reticulum,Retinol metabolism,7
+cytosol,Riboflavin metabolism,5
+cytosol,Selenocompound metabolism,10
+cytosol,Sphingolipid metabolism,14
+extracellular,Sphingolipid metabolism,6
+Golgi,Sphingolipid metabolism,9
+lysosome,Sphingolipid metabolism,10
+cytosol,Starch and sucrose metabolism,15
+extracellular,Starch and sucrose metabolism,8
+lysosome,Starch and sucrose metabolism,3
+cytosol,Steroid biosynthesis,32
+cytosol,Steroid hormone biosynthesis,44
+endoplasmic reticulum,Steroid hormone biosynthesis,18
+mitochondria,Steroid hormone biosynthesis,13
+cytosol,Sulfur metabolism,3
+cytosol,Synthesis and degradation of ketone bodies,3
+cytosol,Taurine and hypotaurine metabolism,3
+cytosol,Terpenoid backbone biosynthesis,9
+cytosol,Thiamine metabolism,4
+nucleus,Thiamine metabolism,2
+cytosol,Tryptophan metabolism,30
+peroxisome,Tryptophan metabolism,5
+cytosol,Tyrosine metabolism,39
+extracellular,Tyrosine metabolism,8
+cytosol,Ubiquinone and other terpenoid-quinone biosynthesis,2
+mitochondria,Ubiquinone and other terpenoid-quinone biosynthesis,15
+cytosol,"Valine, leucine and isoleucine",11
+peroxisome,"Valine, leucine and isoleucine degradation",8
+mitochondria,"Valine, leucine and isoleucine synthesis",38
+cytosol,Vitamin B6 metabolism,12
