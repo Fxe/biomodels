@@ -5845,7 +5845,7 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_i5p[e]" name="generated i5p[e]" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_i5p_e" name="generated i5p_e" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_c162_c" name="hexadecadienoate" compartment="c" fbc:chemicalFormula="C16H27O2"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_dhsp_c" name="sphinganine 1-phosphate" metaid="M_dhsp_c" compartment="c" fbc:chemicalFormula="C18H39NO5P">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
@@ -5939,7 +5939,7 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_msali[e]" name="generated msali[e]" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_msali_e" name="generated msali_e" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_cellob_e" name="cellobiose" metaid="M_cellob_e" compartment="e" fbc:chemicalFormula="C12H22O11">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -13671,7 +13671,7 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_r5p[e]" name="generated r5p[e]" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_r5p_e" name="generated r5p_e" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_epst_c" name="episterol" metaid="M_epst_c" compartment="c" fbc:chemicalFormula="C28H46O">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -16487,10 +16487,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_mal[e]" reversible="true" name="(S)-Malate exchange" metaid="R_ex_mal[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_mal_e" reversible="true" name="(S)-Malate exchange" metaid="R_ex_mal_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_mal[e]">
+            <rdf:Description rdf:about="#R_ex_mal_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -17247,10 +17247,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_o2[e]" reversible="true" name="O2 exchange" metaid="R_ex_o2[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_o2_e" reversible="true" name="O2 exchange" metaid="R_ex_o2_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_o2[e]">
+            <rdf:Description rdf:about="#R_ex_o2_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -17920,10 +17920,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_urate[e]" reversible="true" name="urate exchange" metaid="R_ex_urate[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_urate_e" reversible="true" name="urate exchange" metaid="R_ex_urate_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_urate[e]">
+            <rdf:Description rdf:about="#R_ex_urate_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -17961,10 +17961,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_sot[e]" reversible="true" name="D-Sorbitol exchange" metaid="R_ex_sot[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_sot_e" reversible="true" name="D-Sorbitol exchange" metaid="R_ex_sot_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_sot[e]">
+            <rdf:Description rdf:about="#R_ex_sot_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -17977,10 +17977,10 @@
           <speciesReference constant="true" species="M_sot_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_bdfru[e]" reversible="true" name="fructose exchange" metaid="R_ex_bdfru[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_bdfru_e" reversible="true" name="fructose exchange" metaid="R_ex_bdfru_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_bdfru[e]">
+            <rdf:Description rdf:about="#R_ex_bdfru_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -17993,10 +17993,10 @@
           <speciesReference constant="true" species="M_bdfru_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_gln[e]" reversible="true" name="L-Glutamine exchange" metaid="R_ex_gln[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_gln_e" reversible="true" name="L-Glutamine exchange" metaid="R_ex_gln_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_gln[e]">
+            <rdf:Description rdf:about="#R_ex_gln_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -18028,10 +18028,10 @@
           <speciesReference constant="true" species="M_trp_m" stoichiometry="1"/>
         </listOfProducts>
       </reaction>
-      <reaction fast="false" id="R_ex_c160[e]" reversible="true" name="C160 exchange" metaid="R_ex_c160[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_c160_e" reversible="true" name="C160 exchange" metaid="R_ex_c160_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_c160[e]">
+            <rdf:Description rdf:about="#R_ex_c160_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -18115,10 +18115,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_glcnt[e]" reversible="true" name="D-Gluconate exchange" metaid="R_ex_glcnt[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_glcnt_e" reversible="true" name="D-Gluconate exchange" metaid="R_ex_glcnt_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_glcnt[e]">
+            <rdf:Description rdf:about="#R_ex_glcnt_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -18209,10 +18209,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_ota[e]" reversible="false" name="Ochratoxin A exchange" metaid="R_ex_ota[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
+      <reaction fast="false" id="R_ex_ota_e" reversible="false" name="Ochratoxin A exchange" metaid="R_ex_ota_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_ota[e]">
+            <rdf:Description rdf:about="#R_ex_ota_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -18498,10 +18498,10 @@
           <speciesReference constant="true" species="M_hco3_c" stoichiometry="1"/>
         </listOfProducts>
       </reaction>
-      <reaction fast="false" id="R_ex_llac[e]" reversible="true" name="L-Lactate exchange" metaid="R_ex_llac[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_llac_e" reversible="true" name="L-Lactate exchange" metaid="R_ex_llac_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_llac[e]">
+            <rdf:Description rdf:about="#R_ex_llac_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -18794,10 +18794,10 @@
           <speciesReference constant="true" species="M_h2o_m" stoichiometry="1"/>
         </listOfProducts>
       </reaction>
-      <reaction fast="false" id="R_ex_glu[e]" reversible="true" name="L-Glutamate exchange" metaid="R_ex_glu[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_glu_e" reversible="true" name="L-Glutamate exchange" metaid="R_ex_glu_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_glu[e]">
+            <rdf:Description rdf:about="#R_ex_glu_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -19741,10 +19741,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_06869"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_uri[e]" reversible="true" name="uridine exchange" metaid="R_ex_uri[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_uri_e" reversible="true" name="uridine exchange" metaid="R_ex_uri_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_uri[e]">
+            <rdf:Description rdf:about="#R_ex_uri_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -20277,10 +20277,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_gl[e]" reversible="true" name="Glycerol exchange" metaid="R_ex_gl[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_gl_e" reversible="true" name="Glycerol exchange" metaid="R_ex_gl_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_gl[e]">
+            <rdf:Description rdf:about="#R_ex_gl_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -20293,10 +20293,10 @@
           <speciesReference constant="true" species="M_gl_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_val[e]" reversible="true" name="L-Valine exchange" metaid="R_ex_val[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_val_e" reversible="true" name="L-Valine exchange" metaid="R_ex_val_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_val[e]">
+            <rdf:Description rdf:about="#R_ex_val_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -20375,10 +20375,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_h2o[e]" reversible="true" name="Water exchange" metaid="R_ex_h2o[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_h2o_e" reversible="true" name="Water exchange" metaid="R_ex_h2o_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_h2o[e]">
+            <rdf:Description rdf:about="#R_ex_h2o_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -20680,10 +20680,10 @@
           <speciesReference constant="true" species="M_c60coa_m" stoichiometry="1"/>
         </listOfProducts>
       </reaction>
-      <reaction fast="false" id="R_ex_phe[e]" reversible="true" name="L-Phenylalanine exchange" metaid="R_ex_phe[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_phe_e" reversible="true" name="L-Phenylalanine exchange" metaid="R_ex_phe_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_phe[e]">
+            <rdf:Description rdf:about="#R_ex_phe_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -20789,10 +20789,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_galunt[e]" reversible="true" name="D-Galacturonate exchange" metaid="R_ex_galunt[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_galunt_e" reversible="true" name="D-Galacturonate exchange" metaid="R_ex_galunt_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_galunt[e]">
+            <rdf:Description rdf:about="#R_ex_galunt_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -20805,10 +20805,10 @@
           <speciesReference constant="true" species="M_galunt_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_g15l[e]" reversible="false" name="Gluconic_acid_lactone exchange" metaid="R_ex_g15l[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
+      <reaction fast="false" id="R_ex_g15l_e" reversible="false" name="Gluconic_acid_lactone exchange" metaid="R_ex_g15l_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_g15l[e]">
+            <rdf:Description rdf:about="#R_ex_g15l_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -20840,10 +20840,10 @@
           <speciesReference constant="true" species="M_dtb_c" stoichiometry="1"/>
         </listOfProducts>
       </reaction>
-      <reaction fast="false" id="R_ex_gaba[e]" reversible="true" name="4-Aminobutanoate exchange" metaid="R_ex_gaba[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_gaba_e" reversible="true" name="4-Aminobutanoate exchange" metaid="R_ex_gaba_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_gaba[e]">
+            <rdf:Description rdf:about="#R_ex_gaba_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -21223,10 +21223,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_08674"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_larab[e]" reversible="true" name="L-Arabinose exchange" metaid="R_ex_larab[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_larab_e" reversible="true" name="L-Arabinose exchange" metaid="R_ex_larab_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_larab[e]">
+            <rdf:Description rdf:about="#R_ex_larab_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -22423,10 +22423,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_00659"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_e4p[e]" reversible="false" name="D-Erythrose-4-phosphate exchange" metaid="R_ex_e4p[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
+      <reaction fast="false" id="R_ex_e4p_e" reversible="false" name="D-Erythrose-4-phosphate exchange" metaid="R_ex_e4p_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_e4p[e]">
+            <rdf:Description rdf:about="#R_ex_e4p_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -22832,10 +22832,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_05887"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_fum[e]" reversible="true" name="Fumarate exchange" metaid="R_ex_fum[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_fum_e" reversible="true" name="Fumarate exchange" metaid="R_ex_fum_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_fum[e]">
+            <rdf:Description rdf:about="#R_ex_fum_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -22848,10 +22848,10 @@
           <speciesReference constant="true" species="M_fum_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_lovst[e]" reversible="false" name="lovastatin exchange" metaid="R_ex_lovst[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
+      <reaction fast="false" id="R_ex_lovst_e" reversible="false" name="lovastatin exchange" metaid="R_ex_lovst_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_lovst[e]">
+            <rdf:Description rdf:about="#R_ex_lovst_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -22864,10 +22864,10 @@
           <speciesReference constant="true" species="M_lovst_c" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_gdpman[e]" reversible="true" name="GDP-mannose exchange" metaid="R_ex_gdpman[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_gdpman_e" reversible="true" name="GDP-mannose exchange" metaid="R_ex_gdpman_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_gdpman[e]">
+            <rdf:Description rdf:about="#R_ex_gdpman_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -22880,10 +22880,10 @@
           <speciesReference constant="true" species="M_gdpman_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_urea[e]" reversible="true" name="Urea exchange" metaid="R_ex_urea[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_urea_e" reversible="true" name="Urea exchange" metaid="R_ex_urea_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_urea[e]">
+            <rdf:Description rdf:about="#R_ex_urea_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -22896,10 +22896,10 @@
           <speciesReference constant="true" species="M_urea_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_ala[e]" reversible="true" name="L-Alanine exchange" metaid="R_ex_ala[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_ala_e" reversible="true" name="L-Alanine exchange" metaid="R_ex_ala_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_ala[e]">
+            <rdf:Description rdf:about="#R_ex_ala_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -22967,10 +22967,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_ptate[e]" reversible="true" name="Pectate exchange" metaid="R_ex_ptate[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_ptate_e" reversible="true" name="Pectate exchange" metaid="R_ex_ptate_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_ptate[e]">
+            <rdf:Description rdf:about="#R_ex_ptate_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -23196,10 +23196,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_01422"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_cyts[e]" reversible="true" name="cytosine exchange" metaid="R_ex_cyts[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_cyts_e" reversible="true" name="cytosine exchange" metaid="R_ex_cyts_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_cyts[e]">
+            <rdf:Description rdf:about="#R_ex_cyts_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -23268,10 +23268,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_c181[e]" reversible="true" name="C181 exchange" metaid="R_ex_c181[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_c181_e" reversible="true" name="C181 exchange" metaid="R_ex_c181_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_c181[e]">
+            <rdf:Description rdf:about="#R_ex_c181_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -23622,10 +23622,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_05896"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_i5p[e]" reversible="true" name="Inositol 1,3,4,5,6-pentakisphosphate" metaid="R_ex_i5p[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_i5p_e" reversible="true" name="Inositol 1,3,4,5,6-pentakisphosphate" metaid="R_ex_i5p_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_i5p[e]">
+            <rdf:Description rdf:about="#R_ex_i5p_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -23635,7 +23635,7 @@
           </rdf:RDF>
         </sbml:annotation>
         <listOfReactants>
-          <speciesReference constant="true" species="M_i5p[e]" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_i5p_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
       <reaction fast="false" id="R_r0865" reversible="false" name="Long-chain acyl-CoA synthetase" metaid="R_r0865" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
@@ -23893,10 +23893,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_13glucan[e]" reversible="true" name="Glucan exchange" metaid="R_ex_13glucan[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_13glucan_e" reversible="true" name="Glucan exchange" metaid="R_ex_13glucan_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_13glucan[e]">
+            <rdf:Description rdf:about="#R_ex_13glucan_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -23909,10 +23909,10 @@
           <speciesReference constant="true" species="M_13glucan_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_dfru[e]" reversible="true" name="D-Fructose exchange" metaid="R_ex_dfru[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_dfru_e" reversible="true" name="D-Fructose exchange" metaid="R_ex_dfru_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_dfru[e]">
+            <rdf:Description rdf:about="#R_ex_dfru_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -23925,10 +23925,10 @@
           <speciesReference constant="true" species="M_dfru_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_msali[e]" reversible="true" name="6-methysalicylate acid exchange" metaid="R_ex_msali[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_msali_e" reversible="true" name="6-methysalicylate acid exchange" metaid="R_ex_msali_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_msali[e]">
+            <rdf:Description rdf:about="#R_ex_msali_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -23938,7 +23938,7 @@
           </rdf:RDF>
         </sbml:annotation>
         <listOfReactants>
-          <speciesReference constant="true" species="M_msali[e]" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_msali_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
       <reaction fast="false" id="R_tr_cellob" reversible="true" name="Cellobiose transporter" metaid="R_tr_cellob" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
@@ -24280,10 +24280,10 @@
           </fbc:and>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_1dgali[e]" reversible="true" name="Galactinol exchange" metaid="R_ex_1dgali[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_1dgali_e" reversible="true" name="Galactinol exchange" metaid="R_ex_1dgali_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_1dgali[e]">
+            <rdf:Description rdf:about="#R_ex_1dgali_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -24296,10 +24296,10 @@
           <speciesReference constant="true" species="M_1dgali_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_c182[e]" reversible="true" name="C182 exchange" metaid="R_ex_c182[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_c182_e" reversible="true" name="C182 exchange" metaid="R_ex_c182_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_c182[e]">
+            <rdf:Description rdf:about="#R_ex_c182_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -24562,10 +24562,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_04517"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_dglc[e]" reversible="true" name="D-Glucose exchange" metaid="R_ex_dglc[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_dglc_e" reversible="true" name="D-Glucose exchange" metaid="R_ex_dglc_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_dglc[e]">
+            <rdf:Description rdf:about="#R_ex_dglc_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -24578,10 +24578,10 @@
           <speciesReference constant="true" species="M_dglc_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_i5p2[e]" reversible="true" name="Inositol 1,2,4,5,6-pentakisphosphate exchange" metaid="R_ex_i5p2[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_i5p2_e" reversible="true" name="Inositol 1,2,4,5,6-pentakisphosphate exchange" metaid="R_ex_i5p2_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_i5p2[e]">
+            <rdf:Description rdf:about="#R_ex_i5p2_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -25402,10 +25402,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_00934"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_icit[e]" reversible="true" name="Isocitrate exchange" metaid="R_ex_icit[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_icit_e" reversible="true" name="Isocitrate exchange" metaid="R_ex_icit_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_icit[e]">
+            <rdf:Description rdf:about="#R_ex_icit_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -25777,10 +25777,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_04264"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_co2[e]" reversible="true" name="CO2 exchange" metaid="R_ex_co2[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_co2_e" reversible="true" name="CO2 exchange" metaid="R_ex_co2_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_co2[e]">
+            <rdf:Description rdf:about="#R_ex_co2_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -26334,10 +26334,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_sihm[e]" reversible="false" name="Siroheme exchange" metaid="R_ex_sihm[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
+      <reaction fast="false" id="R_ex_sihm_e" reversible="false" name="Siroheme exchange" metaid="R_ex_sihm_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_sihm[e]">
+            <rdf:Description rdf:about="#R_ex_sihm_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -26400,10 +26400,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_asn[e]" reversible="true" name="L-Asparagine exchange" metaid="R_ex_asn[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_asn_e" reversible="true" name="L-Asparagine exchange" metaid="R_ex_asn_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_asn[e]">
+            <rdf:Description rdf:about="#R_ex_asn_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -26450,10 +26450,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_rib[e]" reversible="true" name="D-Ribose exchange" metaid="R_ex_rib[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_rib_e" reversible="true" name="D-Ribose exchange" metaid="R_ex_rib_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_rib[e]">
+            <rdf:Description rdf:about="#R_ex_rib_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -26538,10 +26538,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_bt[e]" reversible="true" name="Biotin exchange" metaid="R_ex_bt[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_bt_e" reversible="true" name="Biotin exchange" metaid="R_ex_bt_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_bt[e]">
+            <rdf:Description rdf:about="#R_ex_bt_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -26592,10 +26592,10 @@
           <speciesReference constant="true" species="M_c160coa_m" stoichiometry="1"/>
         </listOfProducts>
       </reaction>
-      <reaction fast="false" id="R_ex_lxul[e]" reversible="true" name="L-Xylulose exchange" metaid="R_ex_lxul[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_lxul_e" reversible="true" name="L-Xylulose exchange" metaid="R_ex_lxul_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_lxul[e]">
+            <rdf:Description rdf:about="#R_ex_lxul_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -26608,10 +26608,10 @@
           <speciesReference constant="true" species="M_lxul_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_xyl[e]" reversible="true" name="D-Xylose exchange" metaid="R_ex_xyl[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_xyl_e" reversible="true" name="D-Xylose exchange" metaid="R_ex_xyl_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_xyl[e]">
+            <rdf:Description rdf:about="#R_ex_xyl_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -26624,10 +26624,10 @@
           <speciesReference constant="true" species="M_xyl_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_i6p[e]" reversible="true" name="Phytate exchange" metaid="R_ex_i6p[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_i6p_e" reversible="true" name="Phytate exchange" metaid="R_ex_i6p_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_i6p[e]">
+            <rdf:Description rdf:about="#R_ex_i6p_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -26640,10 +26640,10 @@
           <speciesReference constant="true" species="M_i6p_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_idol[e]" reversible="true" name="L-iditol exchange" metaid="R_ex_idol[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_idol_e" reversible="true" name="L-iditol exchange" metaid="R_ex_idol_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_idol[e]">
+            <rdf:Description rdf:about="#R_ex_idol_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -26957,10 +26957,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_05104"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_stac[e]" reversible="true" name="Stachyose exchange" metaid="R_ex_stac[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_stac_e" reversible="true" name="Stachyose exchange" metaid="R_ex_stac_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_stac[e]">
+            <rdf:Description rdf:about="#R_ex_stac_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -27804,10 +27804,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_00581"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_cellu[e]" reversible="true" name="Cellulose exchange" metaid="R_ex_cellu[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_cellu_e" reversible="true" name="Cellulose exchange" metaid="R_ex_cellu_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_cellu[e]">
+            <rdf:Description rdf:about="#R_ex_cellu_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -28131,10 +28131,10 @@
           <speciesReference constant="true" species="M_thr_m" stoichiometry="1"/>
         </listOfProducts>
       </reaction>
-      <reaction fast="false" id="R_ex_h[e]" reversible="true" name="H+ exchange" metaid="R_ex_h[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_h_e" reversible="true" name="H+ exchange" metaid="R_ex_h_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_h[e]">
+            <rdf:Description rdf:about="#R_ex_h_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -28547,10 +28547,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_08066"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_gua[e]" reversible="false" name="Guaiacol exchange" metaid="R_ex_gua[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
+      <reaction fast="false" id="R_ex_gua_e" reversible="false" name="Guaiacol exchange" metaid="R_ex_gua_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_gua[e]">
+            <rdf:Description rdf:about="#R_ex_gua_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -28616,10 +28616,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_10390"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_cys[e]" reversible="true" name="L-Cysteine exchange" metaid="R_ex_cys[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_cys_e" reversible="true" name="L-Cysteine exchange" metaid="R_ex_cys_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_cys[e]">
+            <rdf:Description rdf:about="#R_ex_cys_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -28707,10 +28707,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_08918"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_arabin[e]" reversible="true" name="Arabinan exchange" metaid="R_ex_arabin[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_arabin_e" reversible="true" name="Arabinan exchange" metaid="R_ex_arabin_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_arabin[e]">
+            <rdf:Description rdf:about="#R_ex_arabin_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -28723,10 +28723,10 @@
           <speciesReference constant="true" species="M_arabin_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_tyr[e]" reversible="true" name="L-Tyrosine exchange" metaid="R_ex_tyr[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_tyr_e" reversible="true" name="L-Tyrosine exchange" metaid="R_ex_tyr_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_tyr[e]">
+            <rdf:Description rdf:about="#R_ex_tyr_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -29064,10 +29064,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_08996"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_ca[e]" reversible="true" name="Ca exchange" metaid="R_ex_ca[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_ca_e" reversible="true" name="Ca exchange" metaid="R_ex_ca_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_ca[e]">
+            <rdf:Description rdf:about="#R_ex_ca_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -29284,10 +29284,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_thr[e]" reversible="true" name="L-Threonine exchange" metaid="R_ex_thr[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_thr_e" reversible="true" name="L-Threonine exchange" metaid="R_ex_thr_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_thr[e]">
+            <rdf:Description rdf:about="#R_ex_thr_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -29362,10 +29362,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_c183[e]" reversible="true" name="C183 exchange" metaid="R_ex_c183[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_c183_e" reversible="true" name="C183 exchange" metaid="R_ex_c183_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_c183[e]">
+            <rdf:Description rdf:about="#R_ex_c183_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -29378,10 +29378,10 @@
           <speciesReference constant="true" species="M_c183_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_xylan[e]" reversible="true" name="Xylan exchange" metaid="R_ex_xylan[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_xylan_e" reversible="true" name="Xylan exchange" metaid="R_ex_xylan_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_xylan[e]">
+            <rdf:Description rdf:about="#R_ex_xylan_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -29419,10 +29419,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_c60[e]" reversible="true" name="C60 exchange" metaid="R_ex_c60[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_c60_e" reversible="true" name="C60 exchange" metaid="R_ex_c60_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_c60[e]">
+            <rdf:Description rdf:about="#R_ex_c60_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -29503,10 +29503,10 @@
           <speciesReference constant="true" species="M_leu_c" stoichiometry="1"/>
         </listOfProducts>
       </reaction>
-      <reaction fast="false" id="R_ex_sor[e]" reversible="true" name="L-Sorbose exchange" metaid="R_ex_sor[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_sor_e" reversible="true" name="L-Sorbose exchange" metaid="R_ex_sor_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_sor[e]">
+            <rdf:Description rdf:about="#R_ex_sor_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -30095,10 +30095,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_00476"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_pyr[e]" reversible="true" name="Pyruvate exchange" metaid="R_ex_pyr[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_pyr_e" reversible="true" name="Pyruvate exchange" metaid="R_ex_pyr_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_pyr[e]">
+            <rdf:Description rdf:about="#R_ex_pyr_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -30977,10 +30977,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_doris[e]" reversible="true" name="Deoxyribose exchange" metaid="R_ex_doris[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_doris_e" reversible="true" name="Deoxyribose exchange" metaid="R_ex_doris_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_doris[e]">
+            <rdf:Description rdf:about="#R_ex_doris_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -31889,10 +31889,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_amp[e]" reversible="true" name="Adenosine 5'-monophosphate exchange" metaid="R_ex_amp[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_amp_e" reversible="true" name="Adenosine 5'-monophosphate exchange" metaid="R_ex_amp_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_amp[e]">
+            <rdf:Description rdf:about="#R_ex_amp_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -31905,10 +31905,10 @@
           <speciesReference constant="true" species="M_amp_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_raff[e]" reversible="true" name="Raffinose exchange" metaid="R_ex_raff[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_raff_e" reversible="true" name="Raffinose exchange" metaid="R_ex_raff_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_raff[e]">
+            <rdf:Description rdf:about="#R_ex_raff_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -32145,10 +32145,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_06808"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_asp[e]" reversible="true" name="L-Aspartate exchange" metaid="R_ex_asp[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_asp_e" reversible="true" name="L-Aspartate exchange" metaid="R_ex_asp_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_asp[e]">
+            <rdf:Description rdf:about="#R_ex_asp_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -32267,10 +32267,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_melt[e]" reversible="true" name="Melibiitol exchange" metaid="R_ex_melt[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_melt_e" reversible="true" name="Melibiitol exchange" metaid="R_ex_melt_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_melt[e]">
+            <rdf:Description rdf:about="#R_ex_melt_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -32283,10 +32283,10 @@
           <speciesReference constant="true" species="M_melt_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_imlt[e]" reversible="true" name="Isomaltose exchange" metaid="R_ex_imlt[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_imlt_e" reversible="true" name="Isomaltose exchange" metaid="R_ex_imlt_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_imlt[e]">
+            <rdf:Description rdf:about="#R_ex_imlt_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -32380,7 +32380,7 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_geod[c]" reversible="false" name="geodin exchange" metaid="R_ex_geod[c]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
+      <reaction fast="false" id="R_ex_geod_c" reversible="false" name="geodin exchange" metaid="R_ex_geod[c]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
             <rdf:Description rdf:about="#R_ex_geod[c]">
@@ -32396,10 +32396,10 @@
           <speciesReference constant="true" species="M_geod_c" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_pro[e]" reversible="true" name="L-Proline exchange" metaid="R_ex_pro[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_pro_e" reversible="true" name="L-Proline exchange" metaid="R_ex_pro_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_pro[e]">
+            <rdf:Description rdf:about="#R_ex_pro_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -32440,10 +32440,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_c140[e]" reversible="true" name="C140 exchange" metaid="R_ex_c140[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_c140_e" reversible="true" name="C140 exchange" metaid="R_ex_c140_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_c140[e]">
+            <rdf:Description rdf:about="#R_ex_c140_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -32456,7 +32456,7 @@
           <speciesReference constant="true" species="M_c140_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_atp[c]" reversible="true" name="Adenosine 5'-triphosphate exchange" metaid="R_ex_atp[c]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_atp_c" reversible="true" name="Adenosine 5'-triphosphate exchange" metaid="R_ex_atp[c]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
             <rdf:Description rdf:about="#R_ex_atp[c]">
@@ -32531,10 +32531,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_suc[e]" reversible="true" name="Sucrose exchange" metaid="R_ex_suc[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_suc_e" reversible="true" name="Sucrose exchange" metaid="R_ex_suc_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_suc[e]">
+            <rdf:Description rdf:about="#R_ex_suc_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -32834,10 +32834,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_ve[e]" reversible="true" name="VE exchange" metaid="R_ex_ve[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_ve_e" reversible="true" name="VE exchange" metaid="R_ex_ve_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_ve[e]">
+            <rdf:Description rdf:about="#R_ex_ve_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -35595,10 +35595,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_met[e]" reversible="true" name="L-Methionine exchange" metaid="R_ex_met[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_met_e" reversible="true" name="L-Methionine exchange" metaid="R_ex_met_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_met[e]">
+            <rdf:Description rdf:about="#R_ex_met_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -35722,10 +35722,10 @@
           <speciesReference constant="true" species="M_citr_m" stoichiometry="1"/>
         </listOfProducts>
       </reaction>
-      <reaction fast="false" id="R_ex_man[e]" reversible="true" name="D-Mannose exchange" metaid="R_ex_man[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_man_e" reversible="true" name="D-Mannose exchange" metaid="R_ex_man_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_man[e]">
+            <rdf:Description rdf:about="#R_ex_man_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -35768,10 +35768,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_trp[e]" reversible="true" name="L-Tryptophan exchange" metaid="R_ex_trp[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_trp_e" reversible="true" name="L-Tryptophan exchange" metaid="R_ex_trp_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_trp[e]">
+            <rdf:Description rdf:about="#R_ex_trp_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -35828,10 +35828,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_04414"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_cellob[e]" reversible="true" name="Cellobiose exchange" metaid="R_ex_cellob[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_cellob_e" reversible="true" name="Cellobiose exchange" metaid="R_ex_cellob_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_cellob[e]">
+            <rdf:Description rdf:about="#R_ex_cellob_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -36142,10 +36142,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_09791"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_gal[e]" reversible="true" name="D-Galactose exchange" metaid="R_ex_gal[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_gal_e" reversible="true" name="D-Galactose exchange" metaid="R_ex_gal_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_gal[e]">
+            <rdf:Description rdf:about="#R_ex_gal_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -36235,10 +36235,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_ile[e]" reversible="true" name="L-Isoleucine exchange" metaid="R_ex_ile[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_ile_e" reversible="true" name="L-Isoleucine exchange" metaid="R_ex_ile_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_ile[e]">
+            <rdf:Description rdf:about="#R_ex_ile_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -36848,10 +36848,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_cit[e]" reversible="true" name="Citrate exchange" metaid="R_ex_cit[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_cit_e" reversible="true" name="Citrate exchange" metaid="R_ex_cit_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_cit[e]">
+            <rdf:Description rdf:about="#R_ex_cit_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -37698,10 +37698,10 @@
           </fbc:and>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_blaras[e]" reversible="true" name="beta-L-Arabinoside exchange" metaid="R_ex_blaras[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_blaras_e" reversible="true" name="beta-L-Arabinoside exchange" metaid="R_ex_blaras_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_blaras[e]">
+            <rdf:Description rdf:about="#R_ex_blaras_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -38591,10 +38591,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_xol[e]" reversible="true" name="Xylitol exchange" metaid="R_ex_xol[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_xol_e" reversible="true" name="Xylitol exchange" metaid="R_ex_xol_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_xol[e]">
+            <rdf:Description rdf:about="#R_ex_xol_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -38607,10 +38607,10 @@
           <speciesReference constant="true" species="M_xol_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_hisan[e]" reversible="true" name="Hisamine exchange" metaid="R_ex_hisan[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_hisan_e" reversible="true" name="Hisamine exchange" metaid="R_ex_hisan_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_hisan[e]">
+            <rdf:Description rdf:about="#R_ex_hisan_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -38664,10 +38664,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_03522"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_pi[e]" reversible="true" name="phosphate exchange" metaid="R_ex_pi[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_pi_e" reversible="true" name="phosphate exchange" metaid="R_ex_pi_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_pi[e]">
+            <rdf:Description rdf:about="#R_ex_pi_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -38680,10 +38680,10 @@
           <speciesReference constant="true" species="M_pi_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_leu[e]" reversible="true" name="L-Leucine exchange" metaid="R_ex_leu[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_leu_e" reversible="true" name="L-Leucine exchange" metaid="R_ex_leu_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_leu[e]">
+            <rdf:Description rdf:about="#R_ex_leu_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -38987,10 +38987,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_gn[e]" reversible="true" name="Guanine exchange" metaid="R_ex_gn[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_gn_e" reversible="true" name="Guanine exchange" metaid="R_ex_gn_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_gn[e]">
+            <rdf:Description rdf:about="#R_ex_gn_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -39003,10 +39003,10 @@
           <speciesReference constant="true" species="M_gn_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_vb2[e]" reversible="false" name="VB2 exchange" metaid="R_ex_vb2[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
+      <reaction fast="false" id="R_ex_vb2_e" reversible="false" name="VB2 exchange" metaid="R_ex_vb2_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_vb2[e]">
+            <rdf:Description rdf:about="#R_ex_vb2_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -39019,10 +39019,10 @@
           <speciesReference constant="true" species="M_vb2_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_rl[e]" reversible="true" name="D-Ribulose exchange" metaid="R_ex_rl[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_rl_e" reversible="true" name="D-Ribulose exchange" metaid="R_ex_rl_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_rl[e]">
+            <rdf:Description rdf:about="#R_ex_rl_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -39470,10 +39470,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_oxal[e]" reversible="true" name="Oxalate exchange" metaid="R_ex_oxal[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_oxal_e" reversible="true" name="Oxalate exchange" metaid="R_ex_oxal_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_oxal[e]">
+            <rdf:Description rdf:about="#R_ex_oxal_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -39787,10 +39787,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_hno3[e]" reversible="true" name="nitrate exchange" metaid="R_ex_hno3[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_hno3_e" reversible="true" name="nitrate exchange" metaid="R_ex_hno3_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_hno3[e]">
+            <rdf:Description rdf:about="#R_ex_hno3_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -40406,10 +40406,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_00316"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_cyan[e]" reversible="true" name="cyanate exchange" metaid="R_ex_cyan[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_cyan_e" reversible="true" name="cyanate exchange" metaid="R_ex_cyan_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_cyan[e]">
+            <rdf:Description rdf:about="#R_ex_cyan_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -40539,10 +40539,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_chit[e]" reversible="true" name="chitin exchange" metaid="R_ex_chit[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_chit_e" reversible="true" name="chitin exchange" metaid="R_ex_chit_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_chit[e]">
+            <rdf:Description rdf:about="#R_ex_chit_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -40708,10 +40708,10 @@
           <speciesReference constant="true" species="M_gl3p_m" stoichiometry="1"/>
         </listOfProducts>
       </reaction>
-      <reaction fast="false" id="R_ex_bgal[e]" reversible="true" name="beta-D-galactose exchange" metaid="R_ex_bgal[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_bgal_e" reversible="true" name="beta-D-galactose exchange" metaid="R_ex_bgal_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_bgal[e]">
+            <rdf:Description rdf:about="#R_ex_bgal_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -40724,10 +40724,10 @@
           <speciesReference constant="true" species="M_bgal_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_star[e]" reversible="true" name="Starch exchange" metaid="R_ex_star[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_star_e" reversible="true" name="Starch exchange" metaid="R_ex_star_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_star[e]">
+            <rdf:Description rdf:about="#R_ex_star_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -40740,10 +40740,10 @@
           <speciesReference constant="true" species="M_star_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_mnt[e]" reversible="true" name="D-Mannitol exchange" metaid="R_ex_mnt[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_mnt_e" reversible="true" name="D-Mannitol exchange" metaid="R_ex_mnt_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_mnt[e]">
+            <rdf:Description rdf:about="#R_ex_mnt_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -40791,10 +40791,10 @@
           </fbc:and>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_lac[e]" reversible="true" name="D-Lactate exchange" metaid="R_ex_lac[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_lac_e" reversible="true" name="D-Lactate exchange" metaid="R_ex_lac_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_lac[e]">
+            <rdf:Description rdf:about="#R_ex_lac_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -40932,10 +40932,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_04258"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_c180[e]" reversible="true" name="C180 exchange" metaid="R_ex_c180[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_c180_e" reversible="true" name="C180 exchange" metaid="R_ex_c180_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_c180[e]">
+            <rdf:Description rdf:about="#R_ex_c180_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -41321,10 +41321,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_02572"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_nh3[e]" reversible="true" name="ammonia exchange" metaid="R_ex_nh3[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_nh3_e" reversible="true" name="ammonia exchange" metaid="R_ex_nh3_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_nh3[e]">
+            <rdf:Description rdf:about="#R_ex_nh3_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -41337,10 +41337,10 @@
           <speciesReference constant="true" species="M_nh3_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_fe[e]" reversible="true" name="Fe exchange" metaid="R_ex_fe[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_fe_e" reversible="true" name="Fe exchange" metaid="R_ex_fe_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_fe[e]">
+            <rdf:Description rdf:about="#R_ex_fe_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -41353,10 +41353,10 @@
           <speciesReference constant="true" species="M_fe_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_arg[e]" reversible="true" name="L-Arginine exchange" metaid="R_ex_arg[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_arg_e" reversible="true" name="L-Arginine exchange" metaid="R_ex_arg_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_arg[e]">
+            <rdf:Description rdf:about="#R_ex_arg_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -41369,10 +41369,10 @@
           <speciesReference constant="true" species="M_arg_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_meth[e]" reversible="true" name="Methanol exchange" metaid="R_ex_meth[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_meth_e" reversible="true" name="Methanol exchange" metaid="R_ex_meth_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_meth[e]">
+            <rdf:Description rdf:about="#R_ex_meth_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -41774,10 +41774,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_c120[e]" reversible="true" name="C120 exchange" metaid="R_ex_c120[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_c120_e" reversible="true" name="C120 exchange" metaid="R_ex_c120_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_c120[e]">
+            <rdf:Description rdf:about="#R_ex_c120_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -41790,10 +41790,10 @@
           <speciesReference constant="true" species="M_c120_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_ins[e]" reversible="false" name="myo-inositol exchange" metaid="R_ex_ins[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
+      <reaction fast="false" id="R_ex_ins_e" reversible="false" name="myo-inositol exchange" metaid="R_ex_ins_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_ins[e]">
+            <rdf:Description rdf:about="#R_ex_ins_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -42114,10 +42114,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_00123"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_mannan[e]" reversible="true" name="Mannan exchange" metaid="R_ex_mannan[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_mannan_e" reversible="true" name="Mannan exchange" metaid="R_ex_mannan_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_mannan[e]">
+            <rdf:Description rdf:about="#R_ex_mannan_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -42130,10 +42130,10 @@
           <speciesReference constant="true" species="M_mannan_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_arab[e]" reversible="true" name="D-Arabinose exchange" metaid="R_ex_arab[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_arab_e" reversible="true" name="D-Arabinose exchange" metaid="R_ex_arab_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_arab[e]">
+            <rdf:Description rdf:about="#R_ex_arab_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -42146,10 +42146,10 @@
           <speciesReference constant="true" species="M_arab_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_bn[e]" reversible="true" name="Benzonitrile exchange" metaid="R_ex_bn[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_bn_e" reversible="true" name="Benzonitrile exchange" metaid="R_ex_bn_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_bn[e]">
+            <rdf:Description rdf:about="#R_ex_bn_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -42181,10 +42181,10 @@
           <speciesReference constant="true" species="M_pro_m" stoichiometry="1"/>
         </listOfProducts>
       </reaction>
-      <reaction fast="false" id="R_ex_slfi[e]" reversible="false" name="Sulfite efflux" metaid="R_ex_slfi[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
+      <reaction fast="false" id="R_ex_slfi_e" reversible="false" name="Sulfite efflux" metaid="R_ex_slfi_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_slfi[e]">
+            <rdf:Description rdf:about="#R_ex_slfi_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -42290,10 +42290,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_c80[e]" reversible="true" name="C80 exchange" metaid="R_ex_c80[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_c80_e" reversible="true" name="C80 exchange" metaid="R_ex_c80_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_c80[e]">
+            <rdf:Description rdf:about="#R_ex_c80_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -42476,10 +42476,10 @@
           </fbc:and>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_lys[e]" reversible="true" name="L-Lysine exchange" metaid="R_ex_lys[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_lys_e" reversible="true" name="L-Lysine exchange" metaid="R_ex_lys_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_lys[e]">
+            <rdf:Description rdf:about="#R_ex_lys_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -42695,10 +42695,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_07476"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_ad[e]" reversible="true" name="Adenine exchange" metaid="R_ex_ad[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_ad_e" reversible="true" name="Adenine exchange" metaid="R_ex_ad_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_ad[e]">
+            <rdf:Description rdf:about="#R_ex_ad_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -42803,10 +42803,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_04604"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_bamn[e]" reversible="true" name="Benzoylamine exchange" metaid="R_ex_bamn[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_bamn_e" reversible="true" name="Benzoylamine exchange" metaid="R_ex_bamn_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_bamn[e]">
+            <rdf:Description rdf:about="#R_ex_bamn_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -43242,10 +43242,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_09680"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_slf[e]" reversible="true" name="Sulfate exchange" metaid="R_ex_slf[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_slf_e" reversible="true" name="Sulfate exchange" metaid="R_ex_slf_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_slf[e]">
+            <rdf:Description rdf:about="#R_ex_slf_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -43673,10 +43673,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_02238"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_akg[e]" reversible="true" name="2-Oxoglutarate exchange" metaid="R_ex_akg[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_akg_e" reversible="true" name="2-Oxoglutarate exchange" metaid="R_ex_akg_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_akg[e]">
+            <rdf:Description rdf:about="#R_ex_akg_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -44550,10 +44550,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_aol[e]" reversible="true" name="D-Arabitol exchange" metaid="R_ex_aol[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_aol_e" reversible="true" name="D-Arabitol exchange" metaid="R_ex_aol_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_aol[e]">
+            <rdf:Description rdf:about="#R_ex_aol_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -44668,10 +44668,10 @@
           <speciesReference constant="true" species="M_oxal_c" stoichiometry="1"/>
         </listOfProducts>
       </reaction>
-      <reaction fast="false" id="R_ex_mlt[e]" reversible="true" name="Maltose exchange" metaid="R_ex_mlt[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_mlt_e" reversible="true" name="Maltose exchange" metaid="R_ex_mlt_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_mlt[e]">
+            <rdf:Description rdf:about="#R_ex_mlt_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -44714,10 +44714,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_k[e]" reversible="true" name="K exchange" metaid="R_ex_k[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_k_e" reversible="true" name="K exchange" metaid="R_ex_k_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_k[e]">
+            <rdf:Description rdf:about="#R_ex_k_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -44752,10 +44752,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_05888"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_xul[e]" reversible="true" name="D-Xylulose exchange" metaid="R_ex_xul[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_xul_e" reversible="true" name="D-Xylulose exchange" metaid="R_ex_xul_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_xul[e]">
+            <rdf:Description rdf:about="#R_ex_xul_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -44793,10 +44793,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_succ[e]" reversible="true" name="Succinate exchange" metaid="R_ex_succ[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_succ_e" reversible="true" name="Succinate exchange" metaid="R_ex_succ_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_succ[e]">
+            <rdf:Description rdf:about="#R_ex_succ_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -45645,10 +45645,10 @@
           <speciesReference constant="true" species="M_hcys_m" stoichiometry="1"/>
         </listOfProducts>
       </reaction>
-      <reaction fast="false" id="R_ex_cln[e]" reversible="true" name="Choline exchange" metaid="R_ex_cln[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_cln_e" reversible="true" name="Choline exchange" metaid="R_ex_cln_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_cln[e]">
+            <rdf:Description rdf:about="#R_ex_cln_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -46806,10 +46806,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_04534"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_eth[e]" reversible="true" name="Ethanol exchange" metaid="R_ex_eth[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_eth_e" reversible="true" name="Ethanol exchange" metaid="R_ex_eth_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_eth[e]">
+            <rdf:Description rdf:about="#R_ex_eth_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -47416,10 +47416,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_pnto[e]" reversible="true" name="(R)-Pantothenate exchange" metaid="R_ex_pnto[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_pnto_e" reversible="true" name="(R)-Pantothenate exchange" metaid="R_ex_pnto_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_pnto[e]">
+            <rdf:Description rdf:about="#R_ex_pnto_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -47616,10 +47616,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_gly[e]" reversible="true" name="Glycine exchange" metaid="R_ex_gly[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_gly_e" reversible="true" name="Glycine exchange" metaid="R_ex_gly_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_gly[e]">
+            <rdf:Description rdf:about="#R_ex_gly_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -48079,10 +48079,10 @@
           <speciesReference constant="true" species="M_phe_m" stoichiometry="1"/>
         </listOfProducts>
       </reaction>
-      <reaction fast="false" id="R_ex_sali[e]" reversible="true" name="Salicylate exchange" metaid="R_ex_sali[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_sali_e" reversible="true" name="Salicylate exchange" metaid="R_ex_sali_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_sali[e]">
+            <rdf:Description rdf:about="#R_ex_sali_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -49347,10 +49347,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_lact[e]" reversible="true" name="Lactose exchange" metaid="R_ex_lact[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_lact_e" reversible="true" name="Lactose exchange" metaid="R_ex_lact_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_lact[e]">
+            <rdf:Description rdf:about="#R_ex_lact_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -49429,10 +49429,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_05896"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_for[e]" reversible="true" name="Formate exchange" metaid="R_ex_for[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_for_e" reversible="true" name="Formate exchange" metaid="R_ex_for_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_for[e]">
+            <rdf:Description rdf:about="#R_ex_for_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -49511,10 +49511,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_09270"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_gali[e]" reversible="true" name="Galactitol exchange" metaid="R_ex_gali[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_gali_e" reversible="true" name="Galactitol exchange" metaid="R_ex_gali_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_gali[e]">
+            <rdf:Description rdf:about="#R_ex_gali_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -49527,10 +49527,10 @@
           <speciesReference constant="true" species="M_gali_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_c161[e]" reversible="true" name="C161 exchange" metaid="R_ex_c161[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_c161_e" reversible="true" name="C161 exchange" metaid="R_ex_c161_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_c161[e]">
+            <rdf:Description rdf:about="#R_ex_c161_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -49543,10 +49543,10 @@
           <speciesReference constant="true" species="M_c161_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_qt[e]" reversible="true" name="Quinate exchange" metaid="R_ex_qt[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_qt_e" reversible="true" name="Quinate exchange" metaid="R_ex_qt_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_qt[e]">
+            <rdf:Description rdf:about="#R_ex_qt_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -49578,10 +49578,10 @@
           <speciesReference constant="true" species="M_ve_e" stoichiometry="1"/>
         </listOfProducts>
       </reaction>
-      <reaction fast="false" id="R_ex_r5p[e]" reversible="false" name="D-Ribose-5-phosphate exchange" metaid="R_ex_r5p[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
+      <reaction fast="false" id="R_ex_r5p_e" reversible="false" name="D-Ribose-5-phosphate exchange" metaid="R_ex_r5p_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_r5p[e]">
+            <rdf:Description rdf:about="#R_ex_r5p_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -49591,7 +49591,7 @@
           </rdf:RDF>
         </sbml:annotation>
         <listOfReactants>
-          <speciesReference constant="true" species="M_r5p[e]" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_r5p_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
       <reaction fast="false" id="R_tr_met" reversible="true" name="Amino acid permease" metaid="R_tr_met" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
@@ -49674,10 +49674,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_03352"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_cellot[e]" reversible="true" name="Cellotriose exchange" metaid="R_ex_cellot[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_cellot_e" reversible="true" name="Cellotriose exchange" metaid="R_ex_cellot_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_cellot[e]">
+            <rdf:Description rdf:about="#R_ex_cellot_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -50011,10 +50011,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_05539"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_glycogen[e]" reversible="true" name="Glycogen exchange" metaid="R_ex_glycogen[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_glycogen_e" reversible="true" name="Glycogen exchange" metaid="R_ex_glycogen_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_glycogen[e]">
+            <rdf:Description rdf:about="#R_ex_glycogen_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -50205,10 +50205,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_04258"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_ser[e]" reversible="true" name="L-Serine exchange" metaid="R_ex_ser[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_ser_e" reversible="true" name="L-Serine exchange" metaid="R_ex_ser_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_ser[e]">
+            <rdf:Description rdf:about="#R_ex_ser_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -50221,10 +50221,10 @@
           <speciesReference constant="true" species="M_ser_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_galnt[e]" reversible="true" name="D-Galactonate exchange" metaid="R_ex_galnt[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_galnt_e" reversible="true" name="D-Galactonate exchange" metaid="R_ex_galnt_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_galnt[e]">
+            <rdf:Description rdf:about="#R_ex_galnt_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -50491,10 +50491,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_09696"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_meli[e]" reversible="true" name="melibiose exchange" metaid="R_ex_meli[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_meli_e" reversible="true" name="melibiose exchange" metaid="R_ex_meli_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_meli[e]">
+            <rdf:Description rdf:about="#R_ex_meli_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -50507,10 +50507,10 @@
           <speciesReference constant="true" species="M_meli_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_ia[e]" reversible="false" name="Itaconate exchange" metaid="R_ex_ia[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
+      <reaction fast="false" id="R_ex_ia_e" reversible="false" name="Itaconate exchange" metaid="R_ex_ia_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_ia[e]">
+            <rdf:Description rdf:about="#R_ex_ia_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -51432,10 +51432,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_04211"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_ac[e]" reversible="true" name="Acetate exchange" metaid="R_ex_ac[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_ac_e" reversible="true" name="Acetate exchange" metaid="R_ex_ac_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_ac[e]">
+            <rdf:Description rdf:about="#R_ex_ac_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -51448,10 +51448,10 @@
           <speciesReference constant="true" species="M_ac_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
-      <reaction fast="false" id="R_ex_epm[e]_" reversible="true" name="Epimelibiose exchange" metaid="R_ex_epm[e]_" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_epm_e_" reversible="true" name="Epimelibiose exchange" metaid="R_ex_epm_e_" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_epm[e]_">
+            <rdf:Description rdf:about="#R_ex_epm_e_">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -51621,10 +51621,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_ura[e]" reversible="true" name="Uracil exchange" metaid="R_ex_ura[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_ura_e" reversible="true" name="Uracil exchange" metaid="R_ex_ura_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_ura[e]">
+            <rdf:Description rdf:about="#R_ex_ura_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -51738,10 +51738,10 @@
           <fbc:geneProductRef fbc:geneProduct="G_ATEG_09445"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_ggl[e]" reversible="true" name="Galactosylglycerol exchange" metaid="R_ex_ggl[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_ggl_e" reversible="true" name="Galactosylglycerol exchange" metaid="R_ex_ggl_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_ggl[e]">
+            <rdf:Description rdf:about="#R_ex_ggl_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>
@@ -51836,10 +51836,10 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_ex_na[e]" reversible="true" name="Na exchange" metaid="R_ex_na[e]" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_ex_na_e" reversible="true" name="Na exchange" metaid="R_ex_na_e" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_ex_na[e]">
+            <rdf:Description rdf:about="#R_ex_na_e">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/SERt2rpp"/>

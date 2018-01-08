@@ -2711,7 +2711,7 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_AP4G[c]" name="generated AP4G[c]" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_AP4G_c" name="generated AP4G[c]" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ASP_m" name="L-aspartic acid" metaid="M_ASP_m" compartment="m" fbc:chemicalFormula="C4H6NO4">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -5289,7 +5289,7 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_METHOL[e]" name="generated METHOL[e]" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_METHOL_e" name="generated METHOL[e]" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DT_e" name="thymidine" metaid="M_DT_e" compartment="e" fbc:chemicalFormula="C10H14N2O5">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -15959,7 +15959,7 @@
           <speciesReference constant="true" species="M_H_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_AP4G[c]" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_AP4G_c" stoichiometry="1"/>
           <speciesReference constant="true" species="M_PI_c" stoichiometry="1"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -19132,7 +19132,7 @@
           </rdf:RDF>
         </sbml:annotation>
         <listOfReactants>
-          <speciesReference constant="true" species="M_METHOL[e]" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_METHOL_e" stoichiometry="1"/>
         </listOfReactants>
       </reaction>
       <reaction fast="false" id="R_ZH0989" reversible="false" name="thymidine transport in via proton symport" metaid="R_ZH0989" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
@@ -36905,7 +36905,7 @@
           </rdf:RDF>
         </sbml:annotation>
         <listOfReactants>
-          <speciesReference constant="true" species="M_METHOL[e]" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_METHOL_e" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_METHOL_c" stoichiometry="1"/>
