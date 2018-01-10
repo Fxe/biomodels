@@ -23,13 +23,13 @@
       <parameter constant="true" id="cobra_0_bound" sboTerm="SBO:0000626" units="mmol_per_gDW_per_hr" value="0"/>
     </listOfParameters>
     <listOfCompartments>
-      <compartment constant="true" id="z8" name="z8"/>
-      <compartment constant="true" id="z4" name="z4"/>
-      <compartment constant="true" id="z5" name="z5"/>
-      <compartment constant="true" id="z6" name="z6"/>
-      <compartment constant="true" id="z0" name="z0"/>
-      <compartment constant="true" id="z2" name="z2"/>
-      <compartment constant="true" id="z3" name="z3"/>
+      <compartment constant="true" id="z8" name="extracellular space"/>
+      <compartment constant="true" id="z4" name="nuclear lumen"/>
+      <compartment constant="true" id="z5" name="glyoxysome"/>
+      <compartment constant="true" id="z6" name="mitochondrial lumen"/>
+      <compartment constant="true" id="z0" name="cytosol"/>
+      <compartment constant="true" id="z2" name="periplasmic space (sensu Fungi)"/>
+      <compartment constant="true" id="z3" name="vacuolar lumen"/>
     </listOfCompartments>
     <listOfSpecies>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_CPD-45-4575" name="4alpha-hydroxymethyl-4beta-methyl-5alpha-cholesta-8,24-dien-3beta-ol" metaid="M_CPD-45-4575" compartment="z0">
