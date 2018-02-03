@@ -1,0 +1,1195 @@
+ID	Name	Formula	Compartment	CompartmentName	Boundary	LigandCompound	MetaCyc	ModelSeed	ChEBI
+M_r736	(2S)-2-amino-3-oxo-4-phosphonooxybutanoate		C_1	Cytoplasm	false				
+M_r803	(E)-3-(methoxycarbonyl)pent-2-enedioate		C_1	Cytoplasm	false				
+M_r814	(E)-4-hydroxy-3-methylbut 2-en-1-yl diphosphate		C_1	Cytoplasm	false				
+M_r825	(KDO)-lipid IVA		C_1	Cytoplasm	false				
+M_r836	(R)-1-amino-2-propanol O-2-phosphate		C_1	Cytoplasm	false				
+M_r858	(R)-2-hydroxyglutarate		C_1	Cytoplasm	false				
+M_r870	(R)-2-hydroxyglutaryl-CoA		C_1	Cytoplasm	false				
+M_r892	(R)-4-Hydroxymandelate		C_1	Cytoplasm	false				
+M_r914	(R)-mandelate		C_1	Cytoplasm	false				
+M_r925	(S)-3-Amino-2-methylpropanoate		C_1	Cytoplasm	false				
+M_r936	(S)-3-hydroxybutanoyl-CoA		C_1	Cytoplasm	false				
+M_r947	(S)-4-Hydroxymandelate		C_1	Cytoplasm	false				
+M_r969	(S)-mandelate		C_1	Cytoplasm	false				
+M_r981	(S)-ureidoglycolate		C_1	Cytoplasm	false				
+M_r1003	1-(o-carboxyphenylamino)-1'-deoxyribulose-5'-phosphate		C_1	Cytoplasm	false				
+M_r1025	1,2-dihydroxycyclohexa-3,5-diene-1-carboxylate		C_1	Cytoplasm	false				
+M_r1036	1,3-diphosphateglycerate		C_1	Cytoplasm	false				
+M_r1047	1,6-kestotetraose		C_1	Cytoplasm	false				
+M_r1080	1-amino-propan-2-one-3-phosphate		C_1	Cytoplasm	false				
+M_r1092	1-carboxyvinyl carboxyphosphonate		C_1	Cytoplasm	false				
+M_r290	1-dodecanoyl-sn-glycerol 3-phosphate		C_1	Cytoplasm	false				
+M_r1114	1-deoxy-D-xylulose 5-phosphate		C_1	Cytoplasm	false				
+M_r335	1-hexadec-9-enoyl-sn-glycerol 3-phosphate		C_1	Cytoplasm	false				
+M_r312	1-hexadecanoyl-sn-glycerol 3-phosphate		C_1	Cytoplasm	false				
+M_r1125	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate		C_1	Cytoplasm	false				
+M_r1136	1-kestotriose		C_1	Cytoplasm	false				
+M_r1158	1-octanal		C_1	Cytoplasm	false				
+M_r353	1-octadec-11-enoyl-sn-glycerol 3-phosphate		C_1	Cytoplasm	false				
+M_r351	1-octadecanoyl-sn-glycerol 3-phosphate		C_1	Cytoplasm	false				
+M_r1180	2'-(5''-triphosphoribosyl)-3'-dephospho-CoA		C_1	Cytoplasm	false				
+M_r1191	2,3-bis(3-hydroxymyristoyl)-beta-D-glucosaminyl 1-phosphate		C_1	Cytoplasm	false				
+M_r1203	2,3-dihydro-2,3-dihydroxybenzoate		C_1	Cytoplasm	false				
+M_r1214	2,3-dihydroxy-3-methylvalerate		C_1	Cytoplasm	false				
+M_r1236	2,3-dihydroxy-isovalerate		C_1	Cytoplasm	false				
+M_r1258	2,5-diamino-6-(ribosylamino)-4-(3H)-pyrimidinone 5'-phosphate		C_1	Cytoplasm	false				
+M_r1269	2,5-didehydro-D-gluconate		C_1	Cytoplasm	false				
+M_r1280	2,5-dihydro-5-oxofuran-2-acetate		C_1	Cytoplasm	false				
+M_r1314	2,5-dioxopentanoate		C_1	Cytoplasm	false				
+M_r1325	2-aceto-2-hydroxy-butyrate		C_1	Cytoplasm	false				
+M_r1336	2-acetolactate		C_1	Cytoplasm	false				
+M_r1347	2-amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine diphosphate		C_1	Cytoplasm	false				
+M_r1357	2-carboxy-5-oxo-2,5-dihydrofuran-2-acetate		C_1	Cytoplasm	false				
+M_r1379	2-cis,6-trans,10-trans-geranylgeranyl diphosphate		C_1	Cytoplasm	false				
+M_r1390	2-C-methyl-D-erythritol-2,4-cyclodiphosphate		C_1	Cytoplasm	false				
+M_r1401	2-C-methyl-D-erythritol-4-phosphate		C_1	Cytoplasm	false				
+M_r1412	2-dehydro-3-deoxy-D-galactonate		C_1	Cytoplasm	false				
+M_r1424	2-dehydro-3-deoxy-D-galactonate-6-phosphate		C_1	Cytoplasm	false				
+M_r1435	2-dehydro-3-deoxy-D-gluconate		C_1	Cytoplasm	false				
+M_r88	2-dehydro-D-gluconate		C_3	External	true				
+M_r195	2-dehydro-D-gluconate		C_3	External	true				
+M_r277	2-dehydro-D-gluconate		C_2	Extracellular	false				
+M_r1446	2-dehydro-D-gluconate		C_1	Cytoplasm	false				
+M_r1457	2-dehydropantoate		C_1	Cytoplasm	false				
+M_r1468	2-hydroxy-3-oxosuccinate		C_1	Cytoplasm	false				
+M_r1479	2-hydroxy-5-carboxymethylmuconate semialdehyde		C_1	Cytoplasm	false				
+M_r319	2-hydroxyethanesulfonate		C_1	Cytoplasm	false				
+M_r320	2-hydroxyethanesulfonate		C_2	Extracellular	false				
+M_r321	2-hydroxyethanesulfonate		C_3	External	true				
+M_r1490	2-hydroxyhepta-2,4-dienedioate		C_1	Cytoplasm	false				
+M_r1501	2-isopropyl-3-oxosuccinate		C_1	Cytoplasm	false				
+M_r1512	2-isopropylmalate		C_1	Cytoplasm	false				
+M_r1523	2-keto-3-deoxy-6-phospho-gluconate		C_1	Cytoplasm	false				
+M_r414	2-keto-3-methyl-valerate		C_1	Cytoplasm	false				
+M_r425	2-ketoisocaproate		C_1	Cytoplasm	false				
+M_r436	2-keto-isovalerate		C_1	Cytoplasm	false				
+M_r447	2-keto-myo-inositol		C_1	Cytoplasm	false				
+M_r458	2-maleylacetate		C_1	Cytoplasm	false				
+M_r469	2-methyl-3-hydroxybutyryl-CoA		C_1	Cytoplasm	false				
+M_r480	2-methylacetoacetyl-CoA		C_1	Cytoplasm	false				
+M_r490	2-methylbutanal		C_1	Cytoplasm	false				
+M_r501	2-methylbutanol		C_1	Cytoplasm	false				
+M_r522	2-methyl-cis-aconitate		C_1	Cytoplasm	false				
+M_r532	2-methylcitrate		C_1	Cytoplasm	false				
+M_r552	2-nitropropane		C_1	Cytoplasm	false				
+M_r553	2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinol		C_1	Cytoplasm	false				
+M_r558	2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone		C_1	Cytoplasm	false				
+M_r560	2-octaprenyl-6-hydroxyphenol		C_1	Cytoplasm	false				
+M_r561	2-octaprenyl-6-methoxy-1,4-benzoquinone		C_1	Cytoplasm	false				
+M_r562	2-octaprenyl-6-methoxyphenol		C_1	Cytoplasm	false				
+M_r563	2-octaprenylphenol		C_1	Cytoplasm	false				
+M_r567	2-oxo-3-hydroxy-4-phosphobutanoate		C_1	Cytoplasm	false				
+M_r54	2-oxoarginine		C_1	Cytoplasm	false				
+M_r568	2-oxobutanoate		C_1	Cytoplasm	false				
+M_r569	2-oxo-hept-3-ene-1,7-dioate		C_1	Cytoplasm	false				
+M_r571	2-oxohept-3-enedioate		C_1	Cytoplasm	false				
+M_r572	2-oxopent-4-enoate		C_1	Cytoplasm	false				
+M_r573	2-phenylethanol		C_1	Cytoplasm	false				
+M_r574	2-phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol		C_1	Cytoplasm	false				
+M_r575	2-phosphoglycerate		C_1	Cytoplasm	false				
+M_r576	2-phosphoglycolate		C_1	Cytoplasm	false				
+M_r577	2-pyrone-4,6-dicarboxylate		C_1	Cytoplasm	false				
+M_r578	3-(4-methylpent-3-en-1-yl)-pent-2-enedioyl-CoA		C_1	Cytoplasm	false				
+M_r579	3,4-dihydroxy-2-butanone-4-P		C_1	Cytoplasm	false				
+M_r580	3,4-dihydroxyphenylacetaldehyde		C_1	Cytoplasm	false				
+M_r582	3,4-dihydroxyphenylacetate		C_1	Cytoplasm	false				
+M_r585	3-carboxy-cis,cis-muconate		C_1	Cytoplasm	false				
+M_r586	3-cyanopyridine		C_1	Cytoplasm	false				
+M_r587	3-dehydroquinate		C_1	Cytoplasm	false				
+M_r588	3-dehydro-shikimate		C_1	Cytoplasm	false				
+M_r589	3-demethylubiquinone-8		C_1	Cytoplasm	false				
+M_r590	3-demethylubiquinone-9		C_1	Cytoplasm	false				
+M_r591	3-deoxy-D-arabino-heptulosonate-7-phosphate		C_1	Cytoplasm	false				
+M_r593	3-deoxy-D-manno-octulosonate		C_1	Cytoplasm	false				
+M_r594	3-deoxy-D-manno-octulosonate 8-P		C_1	Cytoplasm	false				
+M_r364	(3R)-3-Hydroxyacyl-[acyl-carrier protein]		C_1	Cytoplasm	false				
+M_r365	(R)-3-hydroxy-cis-dodec-5-enoyl-[acyl-carrier protein]		C_1	Cytoplasm	false				
+M_r366	(R)-3-hydroxy-cis-myristol-7-eoyl-[acyl-carrier protein]		C_1	Cytoplasm	false				
+M_r367	(R)-3-hydroxy-cis-palm-9-eoyl-[acyl-carrier protein]		C_1	Cytoplasm	false				
+M_r369	(R)-3-hydroxy-cis-vacc-11-enoyl-[acyl-carrier protein]		C_1	Cytoplasm	false				
+M_r19	(S)-3-Hydroxydecanoyl-CoA		C_1	Cytoplasm	false				
+M_r20	(S)-3-Hydroxydodecanoyl-CoA		C_1	Cytoplasm	false				
+M_r370	(R)-3-Hydroxydodecanoyl-[acyl-carrier protein]		C_1	Cytoplasm	false				
+M_r371	(R)-3-Hydroxydecanoyl-[acyl-carrier protein]		C_1	Cytoplasm	false				
+M_r21	(S)-3-Hydroxyhexanoyl-CoA		C_1	Cytoplasm	false				
+M_r22	(S)-3-Hydroxyhexadecanoyl-CoA		C_1	Cytoplasm	false				
+M_r372	(R)-3-Hydroxyhexanoyl-[acyl-carrier protein]		C_1	Cytoplasm	false				
+M_r373	(R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]		C_1	Cytoplasm	false				
+M_r23	(S)-3-Hydroxyoctanoyl-CoA		C_1	Cytoplasm	false				
+M_r375	(R)-3-Hydroxyoctadecanoyl-[acyl-carrier protein]		C_1	Cytoplasm	false				
+M_r374	(R)-3-Hydroxyoctanoyl-[acyl-carrier protein]		C_1	Cytoplasm	false				
+M_r376	R-3-hydroxypalmitoyl-[acyl-carrier protein]		C_1	Cytoplasm	false				
+M_r25	(S)-3-Hydroxytetradecanoyl-CoA		C_1	Cytoplasm	false				
+M_r595	3-hydrohydroxyphosphorylpyruvate		C_1	Cytoplasm	false				
+M_r596	3-hydroxy-3-methyl-glutaryl-CoA		C_1	Cytoplasm	false				
+M_r597	3-hydroxyadipyl-CoA		C_1	Cytoplasm	false				
+M_r598	3-hydroxybutyryl-CoA		C_1	Cytoplasm	false				
+M_r599	3-hydroxy-isobutyrate		C_1	Cytoplasm	false				
+M_r600	3-hydroxy-isobutyryl-CoA		C_1	Cytoplasm	false				
+M_r602	3-hydroxypropionyl-CoA		C_1	Cytoplasm	false				
+M_r604	3-isopropylmalate		C_1	Cytoplasm	false				
+M_r605	3-methylbutanal		C_1	Cytoplasm	false				
+M_r606	3-methylcrotonyl-CoA		C_1	Cytoplasm	false				
+M_r607	3-methylglutaconyl-CoA		C_1	Cytoplasm	false				
+M_r608	3-methylthiopropanal		C_1	Cytoplasm	false				
+M_r391	3-oxo-cis-dodec-5-enoyl-[acyl-carrier protein]		C_1	Cytoplasm	false				
+M_r392	3-oxo-cis-myristol-7-eoyl-[acyl-carrier protein]		C_1	Cytoplasm	false				
+M_r393	3-oxo-cis-palm-9-eoyl-[acyl-carrier protein]		C_1	Cytoplasm	false				
+M_r609	3-octaprenyl-4-hydroxybenzoate		C_1	Cytoplasm	false				
+M_r394	3-oxo-cis-vacc-11-enoyl-[acyl-carrier protein]		C_1	Cytoplasm	false				
+M_r31	3-Oxodecanoyl-CoA		C_1	Cytoplasm	false				
+M_r32	3-Oxododecanoyl-CoA		C_1	Cytoplasm	false				
+M_r395	3-Oxododecanoyl-[acyl-carrier protein]		C_1	Cytoplasm	false				
+M_r396	3-Oxodecanoyl-[acyl-carrier protein]		C_1	Cytoplasm	false				
+M_r33	3-Oxohexanoyl-CoA		C_1	Cytoplasm	false				
+M_r34	3-Oxohexadecanoyl-CoA		C_1	Cytoplasm	false				
+M_r397	3-Oxohexanoyl-[acyl-carrier protein]		C_1	Cytoplasm	false				
+M_r398	3-Oxotetradecanoyl-[acyl-carrier protein]		C_1	Cytoplasm	false				
+M_r36	3-Oxooctanoyl-CoA		C_1	Cytoplasm	false				
+M_r399	3-Oxooctanoyl-[acyl-carrier protein]		C_1	Cytoplasm	false				
+M_r400	3-Oxooctadecanoyl-[acyl-carrier protein]		C_1	Cytoplasm	false				
+M_r402	3-Oxohexadecanoyl-[acyl-carrier protein]		C_1	Cytoplasm	false				
+M_r37	3-Oxotetradecanoyl-CoA		C_1	Cytoplasm	false				
+M_r187	3-phenylpropionate		C_3	External	true				
+M_r271	3-phenylpropionate		C_3	External	true				
+M_r610	3-phenylpropionate		C_1	Cytoplasm	false				
+M_r611	3-phenylpropionate		C_2	Extracellular	false				
+M_r612	3-phosphoglycerate		C_1	Cytoplasm	false				
+M_r613	3-phospho-hydroxypyruvate		C_1	Cytoplasm	false				
+M_r615	3-phospho-serine		C_1	Cytoplasm	false				
+M_r616	3-sulfinoalanine		C_1	Cytoplasm	false				
+M_r617	3-sulfinyl-pyruvate		C_1	Cytoplasm	false				
+M_r618	3-ureidopropionate		C_1	Cytoplasm	false				
+M_r620	4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol		C_1	Cytoplasm	false				
+M_r621	4-(phosphonooxy)-threonine		C_1	Cytoplasm	false				
+M_r622	4,5-dioxo-3alpha,4,5,6,7,8,9,9beta-octahydro-1H pyrrolo[2,3-f]quinoline-2,7,9-tricarboxylate		C_1	Cytoplasm	false				
+M_r623	4-amino-4-deoxychorismate		C_1	Cytoplasm	false				
+M_r624	4-amino-5-hydroxymethyl-2-methylpyrimidine-pyrophosphate		C_1	Cytoplasm	false				
+M_r91	4-aminobutyrate		C_3	External	true				
+M_r197	4-aminobutyrate		C_3	External	true				
+M_r626	4-aminobutyrate		C_1	Cytoplasm	false				
+M_r627	4-aminobutyrate		C_2	Extracellular	false				
+M_r629	4-carboxy-2-oxo-3-hexenedioate		C_1	Cytoplasm	false				
+M_r630	4-carboxy-4-hydroxy-2-oxoadipate		C_1	Cytoplasm	false				
+M_r631	4-carboxyaminoimidazole ribonucleotide		C_1	Cytoplasm	false				
+M_r632	4-carboxymethylenebut-2-en-4-olide		C_1	Cytoplasm	false				
+M_r633	4-fumaryl-acetoacetate		C_1	Cytoplasm	false				
+M_r52	4-guanidinobutanal		C_1	Cytoplasm	false				
+M_r53	4-guanidinobutanoate		C_1	Cytoplasm	false				
+M_r634	4-hydroxy-2-ketopimelate		C_1	Cytoplasm	false				
+M_r635	4-hydroxy-2-ketovalerate		C_1	Cytoplasm	false				
+M_r637	4-hydroxybenzaldehyde		C_1	Cytoplasm	false				
+M_r638	4-hydroxybenzyl alcohol		C_1	Cytoplasm	false				
+M_r640	4-imidazolone-5-propionate		C_1	Cytoplasm	false				
+M_r641	4-maleyl-acetoacetate		C_1	Cytoplasm	false				
+M_r643	4-methyl-5-(beta-hydroxyethyl)thiazole phosphate		C_1	Cytoplasm	false				
+M_r644	4-oxohex-2-enedioate		C_1	Cytoplasm	false				
+M_r646	5,10-methenyl-THF		C_1	Cytoplasm	false				
+M_r649	5,10-methylene-THF		C_1	Cytoplasm	false				
+M_r650	5',5'''-diadenosine tetraphosphate		C_1	Cytoplasm	false				
+M_r652	5-amino-6-(5'-phosphoribitylamino)uracil		C_1	Cytoplasm	false				
+M_r653	5-amino-6-(5'-phosphoribosylamino)uracil		C_1	Cytoplasm	false				
+M_r654	5-amino-6-ribitylamino-2,4(1H,3H)-pyrimidinedione		C_1	Cytoplasm	false				
+M_r655	5-aminoimidazole ribonucleotide		C_1	Cytoplasm	false				
+M_r656	5-amino-levulinate		C_1	Cytoplasm	false				
+M_r44	5-aminopentanamide		C_1	Cytoplasm	false				
+M_r45	5-aminopentanoate		C_1	Cytoplasm	false				
+M_r657	5-carboxy-2-oxohept-3-enedioate		C_1	Cytoplasm	false				
+M_r658	5-carboxymethyl-2-hydroxymuconate		C_1	Cytoplasm	false				
+M_r662	5'-deoxyadenosine		C_1	Cytoplasm	false				
+M_r663	5-enolpyruvyl-shikimate-3-phosphate		C_1	Cytoplasm	false				
+M_r667	5-hydroxyisourate		C_1	Cytoplasm	false				
+M_r668	5-keto-4-deoxy-D-glucarate		C_1	Cytoplasm	false				
+M_r669	5-ketogluconate		C_1	Cytoplasm	false				
+M_r671	5-methyltetrahydropteroyltri-L-glutamate		C_1	Cytoplasm	false				
+M_r672	5-methyl-THF		C_1	Cytoplasm	false				
+M_r47	5-oxopentanoate		C_1	Cytoplasm	false				
+M_r675	5-phospho-beta-D-ribosyl-amine		C_1	Cytoplasm	false				
+M_r676	5-phosphoribosyl 1-pyrophosphate		C_1	Cytoplasm	false				
+M_r677	5'-phosphoribosyl-4-(N-succinocarboxamide)-5-aminoimidazole		C_1	Cytoplasm	false				
+M_r678	5-phospho-ribosyl-glycineamide		C_1	Cytoplasm	false				
+M_r679	5'-phosphoribosyl-N-formylglycineamide		C_1	Cytoplasm	false				
+M_r680	5-phosphoribosyl-N-formylglycineamidine		C_1	Cytoplasm	false				
+M_r682	6-(2-amino-2-carboxyethyl)-7,8-dioxo-1,2,3,4,5,6,7,8-octahydroquinoline 2,4-dicarboxylate		C_1	Cytoplasm	false				
+M_r684	6,7-dimethyl-8-(1-D-ribityl)lumazine		C_1	Cytoplasm	false				
+M_r687	6-hydroxymethyl-dihydropterin		C_1	Cytoplasm	false				
+M_r689	6-kestotriose		C_1	Cytoplasm	false				
+M_r690	6-phospho-2-dehydro-D-gluconate		C_1	Cytoplasm	false				
+M_r691	6-phospho-D-gluconate		C_1	Cytoplasm	false				
+M_r693	6-pyruvoyltetrahydropterin		C_1	Cytoplasm	false				
+M_r694	7,8-diaminopelargonate		C_1	Cytoplasm	false				
+M_r695	7,8-dihydrofolate		C_1	Cytoplasm	false				
+M_r696	7,8-dihydroneopterin 3'-triphosphate		C_1	Cytoplasm	false				
+M_r697	7,8-dihydropteroate		C_1	Cytoplasm	false				
+M_r698	7-keto-8-aminopelargonate		C_1	Cytoplasm	false				
+M_r699	9-mercaptodethiobiotin		C_1	Cytoplasm	false				
+M_r509	a protein-histidine		C_1	Cytoplasm	false				
+M_r510	a protein-Ntau-phospho-L-histidine		C_1	Cytoplasm	false				
+M_r467	a reduced cytochrome c		C_1	Cytoplasm	false				
+M_r50	a reduced rubredoxin		C_1	Cytoplasm	false				
+M_r496	a reduced thioredoxin		C_1	Cytoplasm	false				
+M_r62	a ThiF protein		C_1	Cytoplasm	true				
+M_r61	a ThiS persulfide		C_1	Cytoplasm	true				
+M_r63	a ThiS sulfur-carrier protein		C_1	Cytoplasm	true				
+M_r60	a ThiS-ThiF acyl-disulfide		C_1	Cytoplasm	true				
+M_r716	acetaldehyde		C_1	Cytoplasm	false				
+M_r93	acetate		C_3	External	true				
+M_r199	acetate		C_3	External	true				
+M_r717	acetate		C_1	Cytoplasm	false				
+M_r718	acetate		C_2	Extracellular	false				
+M_r719	acetoacetate		C_1	Cytoplasm	false				
+M_r56	acetoacetylACP		C_1	Cytoplasm	false				
+M_r721	acetoacetyl-CoA		C_1	Cytoplasm	false				
+M_r722	acetone		C_1	Cytoplasm	false				
+M_r723	acetone cyanohydrin		C_1	Cytoplasm	false				
+M_r55	acetylACP		C_1	Cytoplasm	false				
+M_r726	acetyl-CoA		C_1	Cytoplasm	false				
+M_r727	acetyl-mannuronate		C_1	Cytoplasm	false				
+M_r729	acetylphosphate		C_1	Cytoplasm	false				
+M_r1	ACP		C_1	Cytoplasm	false				
+M_r730	acrylamide		C_1	Cytoplasm	false				
+M_r731	acrylate		C_1	Cytoplasm	false				
+M_r732	acrylonitrile		C_1	Cytoplasm	false				
+M_r733	acrylyl-CoA		C_1	Cytoplasm	false				
+M_r734	adenine		C_1	Cytoplasm	false				
+M_r735	adenosine		C_1	Cytoplasm	false				
+M_r737	adenosine 5'-phosphosulfate		C_1	Cytoplasm	false				
+M_r738	adenosine-3',5'-bisphosphate		C_1	Cytoplasm	false				
+M_r740	adenosylcobinamide-GDP		C_1	Cytoplasm	false				
+M_r741	adenosylcobinamide-P		C_1	Cytoplasm	false				
+M_r742	adenosyl-cobyrate		C_1	Cytoplasm	false				
+M_r743	adenosyl-cobyrinic acid a,c-diamide		C_1	Cytoplasm	false				
+M_r744	adenylo-succinate		C_1	Cytoplasm	false				
+M_r745	ADP		C_1	Cytoplasm	false				
+M_r748	ADP-D-glycero-D-manno-heptose		C_1	Cytoplasm	false				
+M_r749	ADP-L-glycero-D-manno-heptose		C_1	Cytoplasm	false				
+M_r752	agmatine		C_1	Cytoplasm	false				
+M_r753	AICAR		C_1	Cytoplasm	false				
+M_r755	alginate		C_1	Cytoplasm	false				
+M_r756	alginate		C_2	Extracellular	false				
+M_r757	allantoate		C_1	Cytoplasm	false				
+M_r94	allantoin		C_3	External	true				
+M_r203	allantoin		C_3	External	true				
+M_r760	allantoin		C_1	Cytoplasm	false				
+M_r761	allantoin		C_2	Extracellular	false				
+M_r766	all-trans-nonaprenyl diphosphate		C_1	Cytoplasm	false				
+M_r412	alpha-carotene		C_1	Cytoplasm	false				
+M_r647	alpha-D-galactose		C_1	Cytoplasm	false				
+M_r869	alpha-D-glucose		C_1	Cytoplasm	false				
+M_r980	alpha-D-glucose 1-phosphate		C_1	Cytoplasm	false				
+M_r1091	alpha-D-glucose 6-phosphate		C_1	Cytoplasm	false				
+M_r1202	alpha-D-mannose 1-phosphate		C_1	Cytoplasm	false				
+M_r89	alpha-ketoglutarate		C_3	External	true				
+M_r196	alpha-ketoglutarate		C_3	External	true				
+M_r1313	alpha-ketoglutarate		C_1	Cytoplasm	false				
+M_r1423	alpha-ketoglutarate		C_2	Extracellular	false				
+M_r413	alpha-ribazole		C_1	Cytoplasm	false				
+M_r521	alpha-ribazole-5'-P		C_1	Cytoplasm	false				
+M_r769	aminoacetaldehyde		C_1	Cytoplasm	false				
+M_r95	ammonia		C_3	External	true				
+M_r204	ammonia		C_3	External	true				
+M_r771	ammonia		C_1	Cytoplasm	false				
+M_r772	ammonia		C_2	Extracellular	false				
+M_r773	AMP		C_1	Cytoplasm	false				
+M_r468	an oxidized cytochrome c		C_1	Cytoplasm	false				
+M_r51	an oxidized rubredoxin		C_1	Cytoplasm	false				
+M_r497	an oxidized thioredoxin		C_1	Cytoplasm	false				
+M_r780	anthranilate		C_1	Cytoplasm	false				
+M_r498	apo-[acp]		C_1	Cytoplasm	false				
+M_r784	arsenite		C_1	Cytoplasm	false				
+M_r786	asparaginyl-tRNAAsn		C_1	Cytoplasm	false				
+M_r206	ATP		C_3	External	true				
+M_r787	ATP		C_1	Cytoplasm	false				
+M_r793	benzoate		C_1	Cytoplasm	false				
+M_r559	beta-alanine		C_1	Cytoplasm	false				
+M_r570	beta-D-galactose		C_1	Cytoplasm	false				
+M_r111	beta-D-glucose		C_3	External	true				
+M_r284	beta-D-glucose		C_2	Extracellular	false				
+M_r581	beta-D-glucose		C_1	Cytoplasm	false				
+M_r592	beta-D-glucose-6-phosphate		C_1	Cytoplasm	false				
+M_r796	beta-hydroxydecanoyl-CoA		C_1	Cytoplasm	false				
+M_r797	betaine aldehyde		C_1	Cytoplasm	false				
+M_r648	beta-ketoadipate		C_1	Cytoplasm	false				
+M_r659	beta-ketoadipate-enol-lactone		C_1	Cytoplasm	false				
+M_r670	beta-ketoadipyl-CoA		C_1	Cytoplasm	false				
+M_r349	BIOMASS		C_3	External	true				
+M_r350	BIOMASS		C_1	Cytoplasm	false				
+M_r799	biotin		C_1	Cytoplasm	false				
+M_r389	but2eACP		C_1	Cytoplasm	false				
+M_r410	butACP		C_1	Cytoplasm	false				
+M_r802	butyrate		C_1	Cytoplasm	false				
+M_r805	butyryl-CoA		C_1	Cytoplasm	false				
+M_r191	Ca2+		C_3	External	true				
+M_r809	Ca2+		C_1	Cytoplasm	false				
+M_r810	Ca2+		C_2	Extracellular	false				
+M_r49	cadaverine		C_1	Cytoplasm	false				
+M_r811	canavanine		C_1	Cytoplasm	false				
+M_r812	canavaninosuccinate		C_1	Cytoplasm	false				
+M_r815	carbamoyl-phosphate		C_1	Cytoplasm	false				
+M_r1541	carboxynorspermidine		C_1	Cytoplasm	false				
+M_r817	catechol		C_1	Cytoplasm	false				
+M_r411	cis-dodec-5-enoyl-[acyl-carrier protein] (n-C12:1)		C_1	Cytoplasm	false				
+M_r819	CDP		C_1	Cytoplasm	false				
+M_r355	CDP-1,2-didodecanoylglycerol		C_1	Cytoplasm	false				
+M_r356	CDP-1,2-dihexadec-9-enoylglycerol		C_1	Cytoplasm	false				
+M_r357	CDP-1,2-dihexadecanoylglycerol		C_1	Cytoplasm	false				
+M_r358	CDP-1,2-dioctadec-11-enoylglycerol		C_1	Cytoplasm	false				
+M_r360	CDP-1,2-dioctadecanoylglycerol		C_1	Cytoplasm	false				
+M_r163	chloride		C_3	External	true				
+M_r820	chloride		C_1	Cytoplasm	false				
+M_r821	chloride		C_2	Extracellular	false				
+M_r97	choline		C_3	External	true				
+M_r208	choline		C_3	External	true				
+M_r823	choline		C_1	Cytoplasm	false				
+M_r826	choline		C_2	Extracellular	false				
+M_r824	choline sulfate		C_1	Cytoplasm	false				
+M_r1536	choline sulfate		C_2	Extracellular	false				
+M_r1537	choline sulfate		C_3	External	true				
+M_r1538	choline sulfate		C_3	External	true				
+M_r827	chorismate		C_1	Cytoplasm	false				
+M_r830	cis,cis-muconate		C_1	Cytoplasm	false				
+M_r831	cis-aconitate		C_1	Cytoplasm	false				
+M_r828	cis-Delta3-decenoyl-ACP		C_1	Cytoplasm	false				
+M_r832	cis-dihydrodiol derivative of phenylacetyl-CoA		C_1	Cytoplasm	false				
+M_r98	citrate		C_3	External	true				
+M_r209	citrate		C_3	External	true				
+M_r834	citrate		C_1	Cytoplasm	false				
+M_r835	citrate		C_2	Extracellular	false				
+M_r837	citrulline		C_1	Cytoplasm	false				
+M_r190	cardiolipin (tetradodecanoyl, n-C12:0)		C_1	Cytoplasm	false				
+M_r201	cardiolipin (tetrahexadecanoyl, n-C16:0)		C_1	Cytoplasm	false				
+M_r212	cardiolipin (tetrahexadec-9-enoyl, n-C16:1)		C_1	Cytoplasm	false				
+M_r224	cardiolipin (tetraoctadecanoyl, n-C18:0)		C_1	Cytoplasm	false				
+M_r235	cardiolipin (tetraoctadec-11-enoyl, n-C18:1)		C_1	Cytoplasm	false				
+M_r839	CMP		C_1	Cytoplasm	false				
+M_r840	CMP-3-deoxy-D-manno-octulosonate		C_1	Cytoplasm	false				
+M_r100	CO2		C_3	External	true				
+M_r210	CO2		C_3	External	true				
+M_r281	CO2		C_2	Extracellular	false				
+M_r843	CO2		C_1	Cytoplasm	false				
+M_r282	Co2+		C_2	Extracellular	false				
+M_r844	Co2+		C_1	Cytoplasm	false				
+M_r102	Co2+_		C_3	External	true				
+M_r845	cob(I)alamin		C_1	Cytoplasm	false				
+M_r846	cob(I)yrinic acid a,c-diamide		C_1	Cytoplasm	false				
+M_r848	cob(II)yrinic acid a,c-diamide		C_1	Cytoplasm	false				
+M_r850	coenzyme A		C_1	Cytoplasm	false				
+M_r99	coenzyme B12		C_3	External	true				
+M_r280	coenzyme B12		C_2	Extracellular	false				
+M_r851	coenzyme B12		C_1	Cytoplasm	false				
+M_r854	coproporphyrinogen III		C_1	Cytoplasm	false				
+M_r855	coumarinate		C_1	Cytoplasm	false				
+M_r856	coumarinic acid-beta-D-glucoside		C_1	Cytoplasm	false				
+M_r246	cyclopropane phosphatidylethanolamine (dihexadec-9,10-cyclo-anoyl, n-C16:0 cyclo)		C_1	Cytoplasm	false				
+M_r257	cyclopropane phosphatidylethanolamine (dioctadec-11,12-cyclo-anoyl, n-C18:0 cyclo)		C_1	Cytoplasm	false				
+M_r268	cyclopropane phosphatidylglycerol (dihexadec-9,10-cyclo-anoyl, n-C16:0 cyclo)		C_1	Cytoplasm	false				
+M_r279	cyclopropane phosphatidylglycerol (dioctadec-11,12-cyclo-anoyl, n-C18:0 cyclo)		C_1	Cytoplasm	false				
+M_r859	crotonyl-CoA		C_1	Cytoplasm	false				
+M_r860	CTP		C_1	Cytoplasm	false				
+M_r864	cyclic-AMP		C_1	Cytoplasm	false				
+M_r865	Cys-Gly		C_1	Cytoplasm	false				
+M_r866	cystathionine		C_1	Cytoplasm	false				
+M_r867	cytidine		C_1	Cytoplasm	false				
+M_r103	cytosine		C_3	External	true				
+M_r211	cytosine		C_3	External	true				
+M_r868	cytosine		C_1	Cytoplasm	false				
+M_r871	cytosine		C_2	Extracellular	false				
+M_r876	D-4-hydroxy-2-keto-glutarate		C_1	Cytoplasm	false				
+M_r877	D-4'-phosphopantothenate		C_1	Cytoplasm	false				
+M_r878	dADP		C_1	Cytoplasm	false				
+M_r104	D-alanine		C_3	External	true				
+M_r213	D-alanine		C_3	External	true				
+M_r879	D-alanine		C_1	Cytoplasm	false				
+M_r880	D-alanine		C_2	Extracellular	false				
+M_r882	D-alanyl-D-alanine		C_1	Cytoplasm	false				
+M_r872	D-alpha,beta-D-heptose-7-phosphate		C_1	Cytoplasm	false				
+M_r42	dAMP		C_1	Cytoplasm	false				
+M_r884	D-arabinose 5-phosphate		C_1	Cytoplasm	false				
+M_r885	D-aspartate		C_1	Cytoplasm	false				
+M_r886	dATP		C_1	Cytoplasm	false				
+M_r873	D-beta-D-heptose-1,7-bisphosphate		C_1	Cytoplasm	false				
+M_r874	D-beta-D-heptose-1-phosphate		C_1	Cytoplasm	false				
+M_r26	Decanoate (n-C10:0)		C_1	Cytoplasm	false				
+M_r86	Decanoate (n-C10:0)		C_2	Extracellular	false				
+M_r107	Decanoate (n-C10:0)		C_3	External	true				
+M_r216	Decanoate (n-C10:0)		C_3	External	true				
+M_r4	Decanoyl-ACP (n-C10:0ACP)		C_1	Cytoplasm	false				
+M_r11	Decanoyl-CoA (n-C10:0CoA)		C_1	Cytoplasm	false				
+M_r888	dCDP		C_1	Cytoplasm	false				
+M_r889	dCMP		C_1	Cytoplasm	false				
+M_r890	dCTP		C_1	Cytoplasm	false				
+M_r105	D-cysteine		C_3	External	true				
+M_r214	D-cysteine		C_3	External	true				
+M_r283	D-cysteine		C_2	Extracellular	false				
+M_r891	D-cysteine		C_1	Cytoplasm	false				
+M_r14	trans-Dodec-2-enoyl-CoA		C_1	Cytoplasm	false				
+M_r27	Dodecanoate (n-C12:0)		C_1	Cytoplasm	false				
+M_r87	Dodecanoate (n-C12:0)		C_2	Extracellular	false				
+M_r120	Dodecanoate (n-C12:0)		C_3	External	true				
+M_r226	Dodecanoate (n-C12:0)		C_3	External	true				
+M_r5	Dodecanoyl-ACP (n-C12:0ACP)		C_1	Cytoplasm	false				
+M_r12	Dodecanoyl-CoA (n-C12:0CoA)		C_1	Cytoplasm	false				
+M_r893	deamido-NAD		C_1	Cytoplasm	false				
+M_r703	Delta3-isopentenyl-PP		C_1	Cytoplasm	false				
+M_r895	deoxyadenosine		C_1	Cytoplasm	false				
+M_r43	deoxycytidine		C_1	Cytoplasm	false				
+M_r896	deoxyguanosine		C_1	Cytoplasm	false				
+M_r897	deoxyinosine		C_1	Cytoplasm	false				
+M_r899	dephospho-CoA		C_1	Cytoplasm	false				
+M_r900	D-erythro-imidazole-glycerol-phosphate		C_1	Cytoplasm	false				
+M_r901	D-erythrose-4-phosphate		C_1	Cytoplasm	false				
+M_r902	dethiobiotin		C_1	Cytoplasm	false				
+M_r108	D-fructose		C_3	External	true				
+M_r495	D-fructose		C_1	Cytoplasm	false				
+M_r904	D-fructose		C_2	Extracellular	false				
+M_r905	D-galactarate		C_1	Cytoplasm	false				
+M_r109	D-galactonate		C_3	External	true				
+M_r217	D-galactonate		C_3	External	true				
+M_r906	D-galactonate		C_1	Cytoplasm	false				
+M_r907	D-galactonate		C_2	Extracellular	false				
+M_r909	dGDP		C_1	Cytoplasm	false				
+M_r188	D-glucarate		C_3	External	true				
+M_r272	D-glucarate		C_3	External	true				
+M_r910	D-glucarate		C_1	Cytoplasm	false				
+M_r911	D-glucarate		C_2	Extracellular	false				
+M_r912	D-glucono-delta-lactone-6-phosphate		C_1	Cytoplasm	false				
+M_r913	D-glucosamine 1-phosphate		C_1	Cytoplasm	false				
+M_r915	D-glucosamine-6-phosphate		C_1	Cytoplasm	false				
+M_r917	D-glucuronolactone		C_1	Cytoplasm	false				
+M_r918	D-glutamate		C_1	Cytoplasm	false				
+M_r919	D-glyceraldehyde-3-phosphate		C_1	Cytoplasm	false				
+M_r41	dGMP		C_1	Cytoplasm	false				
+M_r920	dGTP		C_1	Cytoplasm	false				
+M_r921	diacetyl		C_1	Cytoplasm	false				
+M_r922	diadenosine pentaphosphate		C_1	Cytoplasm	false				
+M_r926	dihydrolipoate		C_1	Cytoplasm	false				
+M_r547	dihydrolipoyltranssuccinylase N6-(dihydrolipoyl)lysine		C_1	Cytoplasm	false				
+M_r528	dihydrolipoyltranssuccinylase N6-(lipoyl)lysine		C_1	Cytoplasm	false				
+M_r546	dihydrolipoyltranssuccinylase N6-(S-succinyldihydrolipoyl)lysine		C_1	Cytoplasm	false				
+M_r927	dihydro-monapterin		C_1	Cytoplasm	false				
+M_r40	dihydromonapterin phosphate		C_1	Cytoplasm	false				
+M_r928	dihydromonapterin-triphosphate		C_1	Cytoplasm	false				
+M_r929	dihydro-neo-pterin		C_1	Cytoplasm	false				
+M_r930	dihydroneopterin phosphate		C_1	Cytoplasm	false				
+M_r931	dihydroorotate		C_1	Cytoplasm	false				
+M_r932	dihydrouracil		C_1	Cytoplasm	false				
+M_r933	dihydroxy-acetone-phosphate		C_1	Cytoplasm	false				
+M_r934	DIMBOA		C_1	Cytoplasm	false				
+M_r935	DIMBOA-Glc		C_1	Cytoplasm	false				
+M_r938	dimethylallyl-PP		C_1	Cytoplasm	false				
+M_r939	dimethylbenzimidazole		C_1	Cytoplasm	false				
+M_r940	dimethylglycine		C_1	Cytoplasm	false				
+M_r942	diphosphate		C_1	Cytoplasm	false				
+M_r943	di-trans,poly-cis-decaprenyl diphosphate		C_1	Cytoplasm	false				
+M_r950	di-trans,poly-cis-undecaprenyl diphosphate		C_1	Cytoplasm	false				
+M_r951	di-trans,poly-cis-undecaprenyl phosphate		C_1	Cytoplasm	false				
+M_r115	D-lactate		C_3	External	true				
+M_r220	D-lactate		C_3	External	true				
+M_r286	D-lactate		C_2	Extracellular	false				
+M_r953	D-lactate		C_1	Cytoplasm	false				
+M_r116	D-malate		C_3	External	true				
+M_r221	D-malate		C_3	External	true				
+M_r287	D-malate		C_1	Cytoplasm	false				
+M_r288	D-malate		C_2	Extracellular	false				
+M_r119	D-methionine		C_3	External	true				
+M_r225	D-methionine		C_3	External	true				
+M_r956	D-methionine		C_1	Cytoplasm	false				
+M_r957	D-methionine		C_2	Extracellular	false				
+M_r960	D-myo-inositol (3)-monophosphate		C_1	Cytoplasm	false				
+M_r121	D-ribose		C_3	External	true				
+M_r459	D-ribose		C_1	Cytoplasm	false				
+M_r962	D-ribose		C_2	Extracellular	false				
+M_r963	D-ribose-5-phosphate		C_1	Cytoplasm	false				
+M_r964	D-ribulose-5-phosphate		C_1	Cytoplasm	false				
+M_r965	D-sedoheptulose-7-phosphate		C_1	Cytoplasm	false				
+M_r106	D-serine		C_3	External	true				
+M_r215	D-serine		C_3	External	true				
+M_r966	D-serine		C_1	Cytoplasm	false				
+M_r967	D-serine		C_2	Extracellular	false				
+M_r968	D-sorbitol		C_1	Cytoplasm	false				
+M_r971	dTDP		C_1	Cytoplasm	false				
+M_r974	dTDP-4-dehydro-6-deoxy-D-glucose		C_1	Cytoplasm	false				
+M_r975	dTDP-4-dehydro-6-deoxy-L-mannose		C_1	Cytoplasm	false				
+M_r972	dTDP-alpha-L-rhamnose		C_1	Cytoplasm	false				
+M_r977	dTDP-D-glucose		C_1	Cytoplasm	false				
+M_r978	dTMP		C_1	Cytoplasm	false				
+M_r979	dTTP		C_1	Cytoplasm	false				
+M_r982	dUDP		C_1	Cytoplasm	false				
+M_r983	dUMP		C_1	Cytoplasm	false				
+M_r984	dUTP		C_1	Cytoplasm	false				
+M_r122	D-xylose		C_3	External	true				
+M_r292	D-xylose		C_2	Extracellular	false				
+M_r985	D-xylose		C_1	Cytoplasm	false				
+M_r986	D-xylulose		C_1	Cytoplasm	false				
+M_r987	D-xylulose-5-phosphate		C_1	Cytoplasm	false				
+M_r993	erythronate-4-phosphate		C_1	Cytoplasm	false				
+M_r316	ethanesulfonate		C_1	Cytoplasm	false				
+M_r317	ethanesulfonate		C_2	Extracellular	false				
+M_r318	ethanesulfonate		C_3	External	true				
+M_r994	ethanol		C_1	Cytoplasm	false				
+M_r995	ethanolamine		C_1	Cytoplasm	false				
+M_r996	ethyl-(2R)-methyl-(3S)-hydroxybutanoate		C_1	Cytoplasm	false				
+M_r997	ethyl-2-methylacetoacetate		C_1	Cytoplasm	false				
+M_r998	ethylene glycol		C_1	Cytoplasm	false				
+M_r1539	Exported alginate, DA=0.19		C_3	External	true				
+M_r1540	Exported alginate, DA=0.32		C_3	External	true				
+M_r1000	FAD		C_1	Cytoplasm	false				
+M_r1001	FADH2		C_1	Cytoplasm	false				
+M_r123	Fe2+		C_3	External	true				
+M_r293	Fe2+		C_2	Extracellular	false				
+M_r1004	Fe2+		C_1	Cytoplasm	false				
+M_r294	Fe3+		C_1	Cytoplasm	false				
+M_r295	Fe3+		C_2	Extracellular	false				
+M_r1005	FMN		C_1	Cytoplasm	false				
+M_r1006	FMNH2		C_1	Cytoplasm	false				
+M_r1007	formaldehyde		C_1	Cytoplasm	false				
+M_r1008	formamide		C_1	Cytoplasm	false				
+M_r1009	formate		C_1	Cytoplasm	false				
+M_r1010	formyl-L-methionyl peptide		C_1	Cytoplasm	false				
+M_r1011	fructose-1,6-bisphosphate		C_1	Cytoplasm	false				
+M_r1012	fructose-1-phosphate		C_1	Cytoplasm	false				
+M_r1013	fructose-6-phosphate		C_1	Cytoplasm	false				
+M_r125	fumarate		C_3	External	true				
+M_r227	fumarate		C_3	External	true				
+M_r296	fumarate		C_2	Extracellular	false				
+M_r1016	fumarate		C_1	Cytoplasm	false				
+M_r1020	gallate		C_1	Cytoplasm	false				
+M_r714	gamma-butyrobetaine		C_1	Cytoplasm	false				
+M_r1021	GDP		C_1	Cytoplasm	false				
+M_r1023	GDP-4-dehydro-6-deoxy-D-mannose		C_1	Cytoplasm	false				
+M_r1024	GDP-4-dehydro-6-L-deoxygalactose		C_1	Cytoplasm	false				
+M_r1027	GDP-D-mannose		C_1	Cytoplasm	false				
+M_r1029	GDP-D-rhamnose		C_1	Cytoplasm	false				
+M_r1031	GDP-L-fucose		C_1	Cytoplasm	false				
+M_r1032	GDP-mannuronate		C_1	Cytoplasm	false				
+M_r1033	geranoyl-coA		C_1	Cytoplasm	false				
+M_r1037	geranyl-PP		C_1	Cytoplasm	false				
+M_r110	gluconate		C_3	External	true				
+M_r218	gluconate		C_3	External	true				
+M_r1038	gluconate		C_1	Cytoplasm	false				
+M_r1039	gluconate		C_2	Extracellular	false				
+M_r1040	glucono-delta-lactone		C_1	Cytoplasm	false				
+M_r1041	glucosyl-heptosyl2-KDO2-lipid A		C_1	Cytoplasm	false				
+M_r1042	glucosyl-heptosyl2-KDO2-lipid A-phosphate		C_1	Cytoplasm	false				
+M_r1045	glutaconate		C_1	Cytoplasm	false				
+M_r1046	glutaconyl-CoA		C_1	Cytoplasm	false				
+M_r1048	glutamate-1-semialdehyde		C_1	Cytoplasm	false				
+M_r1049	glutaminyl-tRNAGln		C_1	Cytoplasm	false				
+M_r1050	glutamyl-tRNAGln		C_1	Cytoplasm	false				
+M_r48	glutarate		C_1	Cytoplasm	false				
+M_r1051	glutaryl-CoA		C_1	Cytoplasm	false				
+M_r1052	glutathione		C_1	Cytoplasm	false				
+M_r114	glyceraldehyde		C_3	External	true				
+M_r219	glyceraldehyde		C_3	External	true				
+M_r285	glyceraldehyde		C_2	Extracellular	false				
+M_r1055	glyceraldehyde		C_1	Cytoplasm	false				
+M_r1056	glycerate		C_1	Cytoplasm	false				
+M_r126	glycerol		C_3	External	true				
+M_r228	glycerol		C_3	External	true				
+M_r1057	glycerol		C_1	Cytoplasm	false				
+M_r1059	glycerol		C_2	Extracellular	false				
+M_r128	glycine		C_3	External	true				
+M_r230	glycine		C_3	External	true				
+M_r1060	glycine		C_1	Cytoplasm	false				
+M_r1063	glycine		C_2	Extracellular	false				
+M_r129	glycine betaine		C_3	External	true				
+M_r1061	glycine betaine		C_1	Cytoplasm	false				
+M_r1062	glycine betaine		C_2	Extracellular	false				
+M_r1064	glycolaldehyde		C_1	Cytoplasm	false				
+M_r130	glycolate		C_3	External	true				
+M_r231	glycolate		C_3	External	true				
+M_r1065	glycolate		C_1	Cytoplasm	false				
+M_r1066	glycolate		C_2	Extracellular	false				
+M_r463	glycyl-tRNAgly		C_1	Cytoplasm	false				
+M_r1067	glyoxylate		C_1	Cytoplasm	false				
+M_r1068	GMP		C_1	Cytoplasm	false				
+M_r1070	GTP		C_1	Cytoplasm	false				
+M_r1071	guanine		C_1	Cytoplasm	false				
+M_r1072	guanosine		C_1	Cytoplasm	false				
+M_r1073	guanosine 3'-diphosphate 5'-triphosphate		C_1	Cytoplasm	false				
+M_r1074	guanosine 5'-diphosphate,3'-diphosphate		C_1	Cytoplasm	false				
+M_r131	H+		C_3	External	true				
+M_r232	H+		C_3	External	true				
+M_r1077	H+		C_1	Cytoplasm	true				
+M_r1078	H+		C_2	Extracellular	true				
+M_r1534	H+ involved in electron transport and ATP generation		C_1	Cytoplasm	false				
+M_r1535	H+ involved in electron transport and ATP generation		C_2	Extracellular	false				
+M_r132	H2		C_3	External	true				
+M_r233	H2		C_3	External	true				
+M_r297	H2		C_2	Extracellular	false				
+M_r1079	H2		C_1	Cytoplasm	false				
+M_r1081	H2CO3		C_1	Cytoplasm	false				
+M_r133	H2O		C_3	External	true				
+M_r234	H2O		C_3	External	true				
+M_r298	H2O		C_2	Extracellular	true				
+M_r1082	H2O		C_1	Cytoplasm	true				
+M_r1083	H2O2		C_1	Cytoplasm	false				
+M_r96	HCO3-		C_3	External	true				
+M_r207	HCO3-		C_3	External	true				
+M_r278	HCO3-		C_2	Extracellular	false				
+M_r1085	HCO3-		C_1	Cytoplasm	false				
+M_r28	Hexadecanoate (n-C16:0)		C_2	Extracellular	false				
+M_r134	Hexadecanoate (n-C16:0)		C_3	External	true				
+M_r236	Hexadecanoate (n-C16:0)		C_3	External	true				
+M_r342	Hexadecanoate (n-C16:0)		C_1	Cytoplasm	false				
+M_r18	trans-Hexadec-2-enoyl-CoA		C_1	Cytoplasm	false				
+M_r6	cis-hexadec-9-enoyl-[acyl-carrier protein] (n-C16:1)		C_1	Cytoplasm	false				
+M_r504	heme		C_1	Cytoplasm	false				
+M_r505	heme		C_2	Extracellular	false				
+M_r275	heme 		C_3	External	true				
+M_r1086	heme o		C_1	Cytoplasm	false				
+M_r1088	heptosyl2-KDO2-lipid A		C_1	Cytoplasm	false				
+M_r1089	heptosyl-KDO2-lipid A		C_1	Cytoplasm	false				
+M_r409	Hexanoyl-ACP (n-C6:0ACP)		C_1	Cytoplasm	false				
+M_r189	Hg0		C_3	External	true				
+M_r273	Hg0		C_3	External	true				
+M_r1094	Hg0		C_1	Cytoplasm	false				
+M_r1095	Hg0		C_2	Extracellular	false				
+M_r1096	histidinal		C_1	Cytoplasm	false				
+M_r1097	histidinol		C_1	Cytoplasm	false				
+M_r1098	homogentisate		C_1	Cytoplasm	false				
+M_r164	homoserine		C_3	External	true				
+M_r263	homoserine		C_3	External	true				
+M_r304	homoserine		C_2	Extracellular	false				
+M_r1099	homoserine		C_1	Cytoplasm	false				
+M_r8	trans-Hex-2-enoyl-CoA		C_1	Cytoplasm	false				
+M_r29	Hexanoate (n-C6:0)		C_2	Extracellular	false				
+M_r136	Hexanoate (n-C6:0)		C_3	External	true				
+M_r237	Hexanoate (n-C6:0)		C_3	External	true				
+M_r343	Hexanoate (n-C6:0)		C_1	Cytoplasm	false				
+M_r9	Hexanoyl-CoA (n-C6:0CoA)		C_1	Cytoplasm	false				
+M_r1101	hydrogen cyanide		C_1	Cytoplasm	false				
+M_r1102	hydrogen sulfide		C_1	Cytoplasm	false				
+M_r1104	hydrogenobyrinate		C_1	Cytoplasm	false				
+M_r1105	hydrogenobyrinate a,c-diamide		C_1	Cytoplasm	false				
+M_r1106	hydroxymethylbilane		C_1	Cytoplasm	false				
+M_r1107	hydroxymethylpyrimidine		C_1	Cytoplasm	false				
+M_r1108	hydroxymethylpyrimidine phosphate		C_1	Cytoplasm	false				
+M_r1109	hydroxypyruvate		C_1	Cytoplasm	false				
+M_r1110	hypoxanthine		C_1	Cytoplasm	false				
+M_r1112	imidazole acetol-phosphate		C_1	Cytoplasm	false				
+M_r1113	iminoaspartate		C_1	Cytoplasm	false				
+M_r1115	indole		C_1	Cytoplasm	false				
+M_r1116	indole-3-acetamide		C_1	Cytoplasm	false				
+M_r1117	indole-3-acetate		C_1	Cytoplasm	false				
+M_r1118	indole-3-acetonitrile		C_1	Cytoplasm	false				
+M_r1119	indole-3-glycerol-phosphate		C_1	Cytoplasm	false				
+M_r1120	inosine		C_1	Cytoplasm	false				
+M_r1121	inosine-5'-phosphate		C_1	Cytoplasm	false				
+M_r1123	isoamyl alcohol		C_1	Cytoplasm	false				
+M_r1124	isobutanal		C_1	Cytoplasm	false				
+M_r1126	isobutanol		C_1	Cytoplasm	false				
+M_r1127	isobutyryl-CoA		C_1	Cytoplasm	false				
+M_r1128	isochorismate		C_1	Cytoplasm	false				
+M_r137	isocitrate		C_3	External	true				
+M_r238	isocitrate		C_3	External	true				
+M_r299	isocitrate		C_2	Extracellular	false				
+M_r1129	isocitrate		C_1	Cytoplasm	false				
+M_r1131	isopropylmaleate		C_1	Cytoplasm	false				
+M_r1135	isovaleryl-CoA		C_1	Cytoplasm	false				
+M_r138	K+		C_3	External	true				
+M_r239	K+		C_3	External	true				
+M_r1138	K+		C_1	Cytoplasm	true				
+M_r1139	K+		C_2	Extracellular	true				
+M_r1140	KDO2-(lauroyl)-lipid IVA		C_1	Cytoplasm	false				
+M_r1141	KDO2-(palmitoleoyl)-lipid IVA		C_1	Cytoplasm	false				
+M_r1142	KDO2-lipid A		C_1	Cytoplasm	false				
+M_r1143	KDO2-lipid A, cold adapted		C_1	Cytoplasm	false				
+M_r1144	KDO2-lipid IVA		C_1	Cytoplasm	false				
+M_r1146	L,L-diaminopimelate		C_1	Cytoplasm	false				
+M_r1149	L-2,3-dihydrodipicolinate		C_1	Cytoplasm	false				
+M_r1150	L-2,4-diaminobutanoate		C_1	Cytoplasm	false				
+M_r139	L-alanine		C_3	External	true				
+M_r240	L-alanine		C_3	External	true				
+M_r332	L-alanine		C_2	Extracellular	false				
+M_r1156	L-alanine		C_1	Cytoplasm	false				
+M_r64	L-alanyl-tRNAala		C_1	Cytoplasm	false				
+M_r1157	L-allo-threonine		C_1	Cytoplasm	false				
+M_r327	L-arabinose		C_3	External	true				
+M_r524	L-arabinose		C_1	Cytoplasm	false				
+M_r525	L-arabinose		C_2	Extracellular	false				
+M_r140	L-arginine		C_3	External	true				
+M_r241	L-arginine		C_3	External	true				
+M_r1160	L-arginine		C_1	Cytoplasm	false				
+M_r1161	L-arginine		C_2	Extracellular	false				
+M_r1162	L-arginino-succinate		C_1	Cytoplasm	false				
+M_r65	L-arginyl-tRNAarg		C_1	Cytoplasm	false				
+M_r1163	L-arogenate		C_1	Cytoplasm	false				
+M_r1164	L-asparagine		C_1	Cytoplasm	false				
+M_r141	L-aspartate		C_3	External	true				
+M_r205	L-aspartate		C_3	External	true				
+M_r1165	L-aspartate		C_1	Cytoplasm	false				
+M_r1166	L-aspartate		C_2	Extracellular	false				
+M_r1167	L-aspartate-semialdehyde		C_1	Cytoplasm	false				
+M_r1168	L-aspartyl-4-phosphate		C_1	Cytoplasm	false				
+M_r1170	L-aspartyl-tRNAAsn		C_1	Cytoplasm	false				
+M_r66	L-aspartyl-tRNAasp		C_1	Cytoplasm	false				
+M_r1172	L-canaline		C_1	Cytoplasm	false				
+M_r142	L-carnitine		C_3	External	true				
+M_r243	L-carnitine		C_3	External	true				
+M_r300	L-carnitine		C_2	Extracellular	false				
+M_r1173	L-carnitine		C_1	Cytoplasm	false				
+M_r143	L-cysteine		C_3	External	true				
+M_r244	L-cysteine		C_3	External	true				
+M_r340	L-cysteine		C_2	Extracellular	false				
+M_r1174	L-cysteine		C_1	Cytoplasm	false				
+M_r67	L-cysteinyl-tRNAcys		C_1	Cytoplasm	false				
+M_r1175	L-erythro-4-hydroxy-glutamate		C_1	Cytoplasm	false				
+M_r1145	L-gamma-glutamylcysteine		C_1	Cytoplasm	false				
+M_r144	L-glutamate		C_3	External	true				
+M_r245	L-glutamate		C_3	External	true				
+M_r1176	L-glutamate		C_1	Cytoplasm	false				
+M_r1178	L-glutamate		C_2	Extracellular	false				
+M_r1177	L-glutamate gamma-semialdehyde		C_1	Cytoplasm	false				
+M_r1179	L-glutamate-5-phosphate		C_1	Cytoplasm	false				
+M_r145	L-glutamine		C_3	External	true				
+M_r247	L-glutamine		C_3	External	true				
+M_r1181	L-glutamine		C_1	Cytoplasm	false				
+M_r1182	L-glutamine		C_2	Extracellular	false				
+M_r69	L-glutaminyl-tRNAgln		C_1	Cytoplasm	false				
+M_r70	L-glutamyl-tRNAglu		C_1	Cytoplasm	false				
+M_r1183	L-gulono-1,4-lactone		C_1	Cytoplasm	false				
+M_r147	L-histidine		C_3	External	true				
+M_r248	L-histidine		C_3	External	true				
+M_r1184	L-histidine		C_1	Cytoplasm	false				
+M_r1185	L-histidine		C_2	Extracellular	false				
+M_r1186	L-histidinol-phosphate		C_1	Cytoplasm	false				
+M_r71	L-histidyl-tRNAhis		C_1	Cytoplasm	false				
+M_r1187	L-homocysteine		C_1	Cytoplasm	false				
+M_r1189	L-iditol		C_1	Cytoplasm	false				
+M_r1190	L-idonate		C_1	Cytoplasm	false				
+M_r1192	linamarin		C_1	Cytoplasm	false				
+M_r1194	lipid A disaccharide		C_1	Cytoplasm	false				
+M_r1196	lipid IVA		C_1	Cytoplasm	false				
+M_r1198	lipoate		C_1	Cytoplasm	false				
+M_r533	lipoate acetyltransferase N6-(dihydrolipoyl)lysine		C_1	Cytoplasm	false				
+M_r531	lipoate acetyltransferase N6-(lipoyl)lysine		C_1	Cytoplasm	false				
+M_r536	lipoate acetyltransferase N6-(S-acetyldihydrolipoyl)lysine		C_1	Cytoplasm	false				
+M_r148	L-isoleucine		C_3	External	true				
+M_r249	L-isoleucine		C_3	External	true				
+M_r330	L-isoleucine		C_2	Extracellular	false				
+M_r1199	L-isoleucine		C_1	Cytoplasm	false				
+M_r72	L-isoleucyl-tRNAile		C_1	Cytoplasm	false				
+M_r149	L-lactate		C_3	External	true				
+M_r250	L-lactate		C_3	External	true				
+M_r302	L-lactate		C_2	Extracellular	false				
+M_r1201	L-lactate		C_1	Cytoplasm	false				
+M_r150	L-leucine		C_3	External	true				
+M_r251	L-leucine		C_3	External	true				
+M_r329	L-leucine		C_2	Extracellular	false				
+M_r1204	L-leucine		C_1	Cytoplasm	false				
+M_r73	L-leucyl-tRNAleu		C_1	Cytoplasm	false				
+M_r151	L-lysine		C_3	External	true				
+M_r252	L-lysine		C_3	External	true				
+M_r341	L-lysine		C_2	Extracellular	false				
+M_r1205	L-lysine		C_1	Cytoplasm	false				
+M_r74	L-lysyl-tRNAlys		C_1	Cytoplasm	false				
+M_r153	L-methionine		C_3	External	true				
+M_r254	L-methionine		C_3	External	true				
+M_r336	L-methionine		C_2	Extracellular	false				
+M_r1206	L-methionine		C_1	Cytoplasm	false				
+M_r460	L-methionyl-tRNAfmet		C_1	Cytoplasm	false				
+M_r75	L-methionyl-tRNAmet		C_1	Cytoplasm	false				
+M_r484	L-O-phosphoserine		C_1	Cytoplasm	false				
+M_r174	L-ornithine		C_3	External	true				
+M_r266	L-ornithine		C_3	External	true				
+M_r1207	L-ornithine		C_1	Cytoplasm	false				
+M_r1208	L-ornithine		C_2	Extracellular	false				
+M_r1209	L-pantoate		C_1	Cytoplasm	false				
+M_r154	L-phenylalanine		C_3	External	true				
+M_r255	L-phenylalanine		C_3	External	true				
+M_r338	L-phenylalanine		C_2	Extracellular	false				
+M_r1210	L-phenylalanine		C_1	Cytoplasm	false				
+M_r76	L-phenylalanyl-tRNAphe		C_1	Cytoplasm	false				
+M_r155	L-proline		C_3	External	true				
+M_r256	L-proline		C_3	External	true				
+M_r1211	L-proline		C_1	Cytoplasm	false				
+M_r1212	L-proline		C_2	Extracellular	false				
+M_r77	L-prolyl-tRNApro		C_1	Cytoplasm	false				
+M_r156	L-serine		C_3	External	true				
+M_r258	L-serine		C_3	External	true				
+M_r1213	L-serine		C_1	Cytoplasm	false				
+M_r1215	L-serine		C_2	Extracellular	false				
+M_r80	L-seryl-tRNAsec		C_1	Cytoplasm	false				
+M_r78	L-seryl-tRNAser		C_1	Cytoplasm	false				
+M_r158	L-threonine		C_3	External	true				
+M_r259	L-threonine		C_3	External	true				
+M_r339	L-threonine		C_2	Extracellular	false				
+M_r1216	L-threonine		C_1	Cytoplasm	false				
+M_r81	L-threonyl-tRNAthr		C_1	Cytoplasm	false				
+M_r337	L-tryptophan		C_2	Extracellular	false				
+M_r345	L-tryptophan		C_3	External	true				
+M_r347	L-tryptophan		C_3	External	true				
+M_r1217	L-tryptophan		C_1	Cytoplasm	false				
+M_r82	L-tryptophanyl-tRNAtrp		C_1	Cytoplasm	false				
+M_r159	L-tyrosine		C_3	External	true				
+M_r260	L-tyrosine		C_3	External	true				
+M_r331	L-tyrosine		C_2	Extracellular	false				
+M_r1218	L-tyrosine		C_1	Cytoplasm	false				
+M_r83	L-tyrosyl-tRNAtyr		C_1	Cytoplasm	false				
+M_r160	L-valine		C_3	External	true				
+M_r261	L-valine		C_3	External	true				
+M_r333	L-valine		C_2	Extracellular	false				
+M_r1219	L-valine		C_1	Cytoplasm	false				
+M_r84	L-valyl-tRNAval		C_1	Cytoplasm	false				
+M_r152	malate		C_3	External	true				
+M_r253	malate		C_3	External	true				
+M_r303	malate		C_2	Extracellular	false				
+M_r1220	malate		C_1	Cytoplasm	false				
+M_r1222	maleate		C_1	Cytoplasm	false				
+M_r162	malonate		C_3	External	true				
+M_r262	malonate		C_3	External	true				
+M_r1223	malonate		C_1	Cytoplasm	false				
+M_r1226	malonate		C_2	Extracellular	false				
+M_r1224	malonate semialdehyde		C_1	Cytoplasm	false				
+M_r58	malonylACP		C_1	Cytoplasm	false				
+M_r1227	malonyl-CoA		C_1	Cytoplasm	false				
+M_r165	maltose		C_3	External	true				
+M_r305	maltose		C_2	Extracellular	false				
+M_r1231	maltose		C_1	Cytoplasm	false				
+M_r1232	maltotetraose		C_1	Cytoplasm	false				
+M_r1233	maltotriose		C_1	Cytoplasm	false				
+M_r117	mannitol		C_3	External	true				
+M_r222	mannitol		C_3	External	true				
+M_r289	mannitol		C_2	Extracellular	false				
+M_r1235	mannitol		C_1	Cytoplasm	false				
+M_r118	mannose		C_3	External	true				
+M_r291	mannose		C_2	Extracellular	false				
+M_r1237	mannose		C_1	Cytoplasm	false				
+M_r1238	mannose-6-phosphate		C_1	Cytoplasm	false				
+M_r1239	mannuronate		C_1	Cytoplasm	false				
+M_r1243	meso-diaminopimelate		C_1	Cytoplasm	false				
+M_r313	methanesulfonate		C_1	Cytoplasm	false				
+M_r314	methanesulfonate		C_2	Extracellular	false				
+M_r315	methanesulfonate		C_3	External	true				
+M_r1244	methanethiol		C_1	Cytoplasm	false				
+M_r1246	methionol		C_1	Cytoplasm	false				
+M_r1248	methionyl peptide		C_1	Cytoplasm	false				
+M_r1249	methylacrylyl-CoA		C_1	Cytoplasm	false				
+M_r1250	methylglyoxal		C_1	Cytoplasm	false				
+M_r1251	methylisocitrate		C_1	Cytoplasm	false				
+M_r1252	methylmalonate-semialdehyde		C_1	Cytoplasm	false				
+M_r161	Mg2+		C_3	External	true				
+M_r1254	Mg2+		C_1	Cytoplasm	false				
+M_r1255	Mg2+		C_2	Extracellular	false				
+M_r1256	Mg-protoporphyrin		C_1	Cytoplasm	false				
+M_r166	Mn2+		C_3	External	true				
+M_r306	Mn2+		C_1	Cytoplasm	false				
+M_r307	Mn2+		C_2	Extracellular	false				
+M_r167	Mo2+		C_3	External	true				
+M_r1261	Mo2+		C_1	Cytoplasm	false				
+M_r1262	Mo2+		C_2	Extracellular	false				
+M_r1263	molybdopterin		C_1	Cytoplasm	false				
+M_r1264	molybdopterin guanine dinucleotide		C_1	Cytoplasm	false				
+M_r1266	morphine		C_1	Cytoplasm	false				
+M_r1267	morphinone		C_1	Cytoplasm	false				
+M_r1270	myo-inositol		C_1	Cytoplasm	false				
+M_r59	myristoylACP		C_1	Cytoplasm	false				
+M_r1273	N-(5'-phosphoribosyl)-anthranilate		C_1	Cytoplasm	false				
+M_r1274	N10-formyl-THF		C_1	Cytoplasm	false				
+M_r1276	N2-succinylglutamate		C_1	Cytoplasm	false				
+M_r1277	N2-succinyl-L-arginine		C_1	Cytoplasm	false				
+M_r1278	N2-succinyl-L-glutamate 5-semialdehyde		C_1	Cytoplasm	false				
+M_r1279	N2-succinyl-L-ornithine		C_1	Cytoplasm	false				
+M_r1281	N5-carboxyaminoimidazole ribonucleotide		C_1	Cytoplasm	false				
+M_r169	Na+		C_3	External	true				
+M_r264	Na+		C_3	External	true				
+M_r1284	Na+		C_1	Cytoplasm	true				
+M_r1285	Na+		C_2	Extracellular	true				
+M_r1286	N-acetyl-4-aminobutanal		C_1	Cytoplasm	false				
+M_r1287	N-acetyl-4-aminobutyrate		C_1	Cytoplasm	false				
+M_r1288	N-acetyl-D-glucosamine-6-phosphate		C_1	Cytoplasm	false				
+M_r1289	N-acetyl-glucosamine-1-phosphate		C_1	Cytoplasm	false				
+M_r1290	N-acetylglutamyl-phosphate		C_1	Cytoplasm	false				
+M_r1292	N-acetyl-L-citrulline		C_1	Cytoplasm	false				
+M_r1293	N-acetyl-L-glutamate		C_1	Cytoplasm	false				
+M_r1294	N-acetyl-L-glutamate 5-semialdehyde		C_1	Cytoplasm	false				
+M_r1295	N-acetyl-L-ornithine		C_1	Cytoplasm	false				
+M_r1299	NAD+		C_1	Cytoplasm	false				
+M_r1300	NADH		C_1	Cytoplasm	false				
+M_r1301	NADP+		C_1	Cytoplasm	false				
+M_r1303	NADPH		C_1	Cytoplasm	false				
+M_r1304	N-carbamoyl-L-aspartate		C_1	Cytoplasm	false				
+M_r1305	N-formimino-L-glutamate		C_1	Cytoplasm	false				
+M_r1306	N-formyl-L-glutamate		C_1	Cytoplasm	false				
+M_r461	N-formyl-L-methionyl-tRNAfmet		C_1	Cytoplasm	false				
+M_r1307	NH(4)OH		C_1	Cytoplasm	false				
+M_r1311	nicotinamide		C_1	Cytoplasm	false				
+M_r170	nicotinamide mononucleotide		C_3	External	true				
+M_r265	nicotinamide mononucleotide		C_3	External	true				
+M_r1312	nicotinamide mononucleotide		C_1	Cytoplasm	false				
+M_r1315	nicotinamide mononucleotide		C_2	Extracellular	false				
+M_r1316	nicotinamide riboside		C_1	Cytoplasm	false				
+M_r1317	nicotinate		C_1	Cytoplasm	false				
+M_r1318	nicotinate nucleotide		C_1	Cytoplasm	false				
+M_r1319	nitric oxide		C_1	Cytoplasm	false				
+M_r172	nitrite		C_3	External	true				
+M_r308	nitrite		C_2	Extracellular	false				
+M_r1320	nitrite		C_1	Cytoplasm	false				
+M_r1322	NMNH		C_1	Cytoplasm	false				
+M_r171	NO3-		C_3	External	true				
+M_r1323	NO3-		C_1	Cytoplasm	false				
+M_r1324	NO3-		C_2	Extracellular	false				
+M_r1326	nonaprenyl-4-hydroxybenzoate		C_1	Cytoplasm	false				
+M_r1327	N-succinyl-2-amino-6-ketopimelate		C_1	Cytoplasm	false				
+M_r1328	N-succinyl-L,L-2,6-diaminopimelate		C_1	Cytoplasm	false				
+M_r173	O2		C_3	External	true				
+M_r309	O2		C_2	Extracellular	false				
+M_r1330	O2		C_1	Cytoplasm	false				
+M_r1331	O2-		C_1	Cytoplasm	false				
+M_r1332	O-acetyl-L-homoserine		C_1	Cytoplasm	false				
+M_r1333	O-acetyl-L-serine		C_1	Cytoplasm	false				
+M_r10	trans-Oct-2-enoyl-CoA		C_1	Cytoplasm	false				
+M_r406	Octanoyl-ACP (n-C8:0ACP)		C_1	Cytoplasm	false				
+M_r352	Octadecanoyl-ACP (n-C18:0ACP)		C_1	Cytoplasm	false				
+M_r1334	octane		C_1	Cytoplasm	false				
+M_r1335	octanoate		C_1	Cytoplasm	false				
+M_r1337	octanol		C_1	Cytoplasm	false				
+M_r1338	octanoyl-CoA		C_1	Cytoplasm	false				
+M_r1339	octaprenyl diphosphate		C_1	Cytoplasm	false				
+M_r354	cis-octadec-11-enoyl-[acyl-carrier protein] (n-C18:1)		C_1	Cytoplasm	false				
+M_r1341	oligopeptide		C_1	Cytoplasm	false				
+M_r1342	oligopeptide		C_2	Extracellular	false				
+M_r1343	O-phospho-L-homoserine		C_1	Cytoplasm	false				
+M_r1344	orotate		C_1	Cytoplasm	false				
+M_r1345	orotidine-5'-phosphate		C_1	Cytoplasm	false				
+M_r1346	O-succinyl-L-homoserine		C_1	Cytoplasm	false				
+M_r1348	O-ureidohomoserine		C_1	Cytoplasm	false				
+M_r1349	oxaloacetate		C_1	Cytoplasm	false				
+M_r112	1,2-didodecanoyl-sn-glycerol 3-phosphate		C_1	Cytoplasm	false				
+M_r223	1,2-dihexadecanoyl-sn-glycerol 3-phosphate		C_1	Cytoplasm	false				
+M_r334	1,2-dihexadec-9-enoyl-sn-glycerol 3-phosphate		C_1	Cytoplasm	false				
+M_r359	1,2-dioctadecanoyl-sn-glycerol 3-phosphate		C_1	Cytoplasm	false				
+M_r368	1,2-dioctadec-11-enoyl-sn-glycerol 3-phosphate		C_1	Cytoplasm	false				
+M_r323	Palmitoyl-ACP (n-C16:0ACP)		C_1	Cytoplasm	false				
+M_r1352	p-aminobenzoate		C_1	Cytoplasm	false				
+M_r1353	pantetheine 4'-phosphate		C_1	Cytoplasm	false				
+M_r1354	pantothenate		C_1	Cytoplasm	false				
+M_r379	phosphatidylethanolamine (didodecanoyl, n-C12:0)		C_1	Cytoplasm	false				
+M_r390	phosphatidylethanolamine (dihexadecanoyl, n-C16:0)		C_1	Cytoplasm	false				
+M_r401	phosphatidylethanolamine (dihexadec-9enoyl, n-C16:1)		C_1	Cytoplasm	false				
+M_r2	phosphatidylethanolamine (dioctadecanoyl, n-C18:0)		C_1	Cytoplasm	false				
+M_r13	phosphatidylethanolamine (dioctadec-11-enoyl, n-C18:1)		C_1	Cytoplasm	false				
+M_r326	pentanal		C_1	Cytoplasm	false				
+M_r322	pentanesulfonate		C_1	Cytoplasm	false				
+M_r324	pentanesulfonate		C_2	Extracellular	false				
+M_r325	pentanesulfonate		C_3	External	true				
+M_r348	Peptidoglycan subunit of P.putida KT2440		C_1	Cytoplasm	false				
+M_r1358	peptidylproline (omega = 0)		C_1	Cytoplasm	false				
+M_r1359	peptidylproline (omega = 180)		C_1	Cytoplasm	false				
+M_r24	Phosphatidylglycerol (didodecanoyl, n-C12:0)		C_1	Cytoplasm	false				
+M_r35	Phosphatidylglycerol (dihexadecanoyl, n-C16:0)		C_1	Cytoplasm	false				
+M_r46	Phosphatidylglycerol (dihexadec-9-enoyl, n-C16:1)		C_1	Cytoplasm	false				
+M_r57	Phosphatidylglycerol (dioctadecanoyl, n-C18:0)		C_1	Cytoplasm	false				
+M_r68	Phosphatidylglycerol (dioctadec-11-enoyl, n-C18:1)		C_1	Cytoplasm	false				
+M_r79	Phosphatidylglycerophosphate (didodecanoyl, n-C12:0)		C_1	Cytoplasm	false				
+M_r90	Phosphatidylglycerophosphate (dihexadecanoyl, n-C16:0)		C_1	Cytoplasm	false				
+M_r101	Phosphatidylglycerophosphate (dihexadec-9-enoyl, n-C16:1)		C_1	Cytoplasm	false				
+M_r113	Phosphatidylglycerophosphate (dioctadecanoyl, n-C18:0)		C_1	Cytoplasm	false				
+M_r124	Phosphatidylglycerophosphate (dioctadec-11-enoyl, n-C18:1)		C_1	Cytoplasm	false				
+M_r1360	phenylacetaldehyde		C_1	Cytoplasm	false				
+M_r1361	phenylacetate		C_1	Cytoplasm	false				
+M_r1363	phenylpyruvate		C_1	Cytoplasm	false				
+M_r175	phosphate		C_3	External	true				
+M_r1364	phosphate		C_1	Cytoplasm	false				
+M_r1365	phosphate		C_2	Extracellular	false				
+M_r1366	phosphoadenosine-5'-phosphosulfate		C_1	Cytoplasm	false				
+M_r1367	phosphoenolpyruvate		C_1	Cytoplasm	false				
+M_r176	phosphonate		C_3	External	true				
+M_r1369	phosphonate		C_1	Cytoplasm	false				
+M_r1370	phosphonate		C_2	Extracellular	false				
+M_r1371	phosphoribosyl-AMP		C_1	Cytoplasm	false				
+M_r1372	phosphoribosyl-ATP		C_1	Cytoplasm	false				
+M_r1373	phosphoribosyl-formamido-carboxamide		C_1	Cytoplasm	false				
+M_r1374	phosphoribosylformiminoAICAR-phosphate		C_1	Cytoplasm	false				
+M_r1375	phosphoribulosylformimino-AICAR-P		C_1	Cytoplasm	false				
+M_r92	p-hydroxybenzoate		C_3	External	true				
+M_r198	p-hydroxybenzoate		C_3	External	true				
+M_r1377	p-hydroxybenzoate		C_1	Cytoplasm	false				
+M_r1378	p-hydroxybenzoate		C_2	Extracellular	false				
+M_r1381	p-hydroxyphenylpyruvate		C_1	Cytoplasm	false				
+M_r1382	pimeloyl-CoA		C_1	Cytoplasm	false				
+M_r17	Palmitoyl-CoA (n-C16:0CoA)		C_1	Cytoplasm	false				
+M_r1383	porphobilinogen		C_1	Cytoplasm	false				
+M_r1384	Inorganic triphosphate		C_1	Cytoplasm	false				
+M_r1385	precorrin-1		C_1	Cytoplasm	false				
+M_r1386	precorrin-2		C_1	Cytoplasm	false				
+M_r1387	precorrin-3A		C_1	Cytoplasm	false				
+M_r1388	precorrin-3B		C_1	Cytoplasm	false				
+M_r1389	precorrin-4		C_1	Cytoplasm	false				
+M_r1391	precorrin-5		C_1	Cytoplasm	false				
+M_r1392	precorrin-6x		C_1	Cytoplasm	false				
+M_r1393	precorrin-6y		C_1	Cytoplasm	false				
+M_r1394	precorrin-8x		C_1	Cytoplasm	false				
+M_r1395	prephenate		C_1	Cytoplasm	false				
+M_r1396	propionate		C_1	Cytoplasm	false				
+M_r1397	propionyl-CoA		C_1	Cytoplasm	false				
+M_r1398	protocatechuate		C_1	Cytoplasm	false				
+M_r192	protoheme IX		C_3	External	true				
+M_r274	protoheme IX		C_3	External	true				
+M_r1399	protoheme IX		C_1	Cytoplasm	false				
+M_r1400	protoheme IX		C_2	Extracellular	false				
+M_r1402	protoporphyrin IX		C_1	Cytoplasm	false				
+M_r1403	protoporphyrinogen IX		C_1	Cytoplasm	false				
+M_r135	phosphatidylserine (didodecanoyl, n-C12:0)		C_1	Cytoplasm	false				
+M_r146	phosphatidylserine (dihexadecanoyl, n-C16:0)		C_1	Cytoplasm	false				
+M_r157	phosphatidylserine (dihexadec-9-enoyl, n-C16:1)		C_1	Cytoplasm	false				
+M_r168	phosphatidylserine (dioctadecanoyl, n-C18:0)		C_1	Cytoplasm	false				
+M_r179	phosphatidylserine (dioctadec-11-enoyl, n-C18:1)		C_1	Cytoplasm	false				
+M_r1404	pseudouridine 5'-phosphate		C_1	Cytoplasm	false				
+M_r39	pterin-4alpha-carbinolamine		C_1	Cytoplasm	false				
+M_r177	putrescine		C_3	External	true				
+M_r1405	putrescine		C_1	Cytoplasm	false				
+M_r1406	putrescine		C_2	Extracellular	false				
+M_r1407	pyridoxal		C_1	Cytoplasm	false				
+M_r1408	pyridoxal 5'-phosphate		C_1	Cytoplasm	false				
+M_r1409	pyridoxamine		C_1	Cytoplasm	false				
+M_r1410	pyridoxamine 5'-phosphate		C_1	Cytoplasm	false				
+M_r1411	pyridoxine		C_1	Cytoplasm	false				
+M_r1413	pyridoxine-5'-phosphate		C_1	Cytoplasm	false				
+M_r1414	pyrroline 5-carboxylate		C_1	Cytoplasm	false				
+M_r1415	pyrroline-hydroxy-carboxylate		C_1	Cytoplasm	false				
+M_r1416	pyruvate		C_1	Cytoplasm	false				
+M_r1418	quinolinate		C_1	Cytoplasm	false				
+M_r1425	R-4'-phosphopantothenoyl-L-cysteine		C_1	Cytoplasm	false				
+M_r1427	riboflavin		C_1	Cytoplasm	false				
+M_r1428	ribose-1-arsenate		C_1	Cytoplasm	false				
+M_r1431	S		C_1	Cytoplasm	true				
+M_r1432	S-2-methyl-butyryl-CoA		C_1	Cytoplasm	false				
+M_r1433	S-adenosyl-4-methylthio-2-oxobutanoate		C_1	Cytoplasm	false				
+M_r1434	S-adenosyl-L-homocysteine		C_1	Cytoplasm	false				
+M_r1436	S-adenosyl-L-methionine		C_1	Cytoplasm	false				
+M_r1437	S-allantoin		C_1	Cytoplasm	false				
+M_r1438	sarcosine		C_1	Cytoplasm	false				
+M_r1443	shikimate		C_1	Cytoplasm	false				
+M_r1444	shikimate-3-phosphate		C_1	Cytoplasm	false				
+M_r1447	siroheme		C_1	Cytoplasm	false				
+M_r1448	sirohydrochlorin		C_1	Cytoplasm	false				
+M_r1449	S-lactoyl-glutathione		C_1	Cytoplasm	false				
+M_r1450	S-methyl-L-methionine		C_1	Cytoplasm	false				
+M_r127	sn-glycerol-3-phosphate		C_3	External	true				
+M_r229	sn-glycerol-3-phosphate		C_3	External	true				
+M_r1452	sn-glycerol-3-phosphate		C_1	Cytoplasm	false				
+M_r1453	sn-glycerol-3-phosphate		C_2	Extracellular	false				
+M_r545	sorbose		C_1	Cytoplasm	false				
+M_r178	spermidine		C_3	External	true				
+M_r310	spermidine		C_2	Extracellular	false				
+M_r1454	spermidine		C_1	Cytoplasm	false				
+M_r180	succinate		C_3	External	true				
+M_r267	succinate		C_3	External	true				
+M_r311	succinate		C_2	Extracellular	false				
+M_r1456	succinate		C_1	Cytoplasm	false				
+M_r1458	succinate semialdehyde		C_1	Cytoplasm	false				
+M_r1459	succinyl-CoA		C_1	Cytoplasm	false				
+M_r1460	sucrose		C_1	Cytoplasm	false				
+M_r181	sulfate		C_3	External	true				
+M_r1461	sulfate		C_1	Cytoplasm	false				
+M_r1462	sulfate		C_2	Extracellular	false				
+M_r1463	sulfite		C_1	Cytoplasm	false				
+M_r377	trans-3-cis-11-vacceoyl-[acyl-carrier protein]		C_1	Cytoplasm	false				
+M_r378	trans-3-cis-5-dodecenoyl-[acyl-carrier protein]		C_1	Cytoplasm	false				
+M_r380	trans-3-cis-7-myristoleoyl-[acyl-carrier protein]		C_1	Cytoplasm	false				
+M_r381	trans-3-cis-9-palmitoleoyl-[acyl-carrier protein]		C_1	Cytoplasm	false				
+M_r1464	tartrate		C_1	Cytoplasm	false				
+M_r1465	tartronate semialdehyde		C_1	Cytoplasm	false				
+M_r182	taurine		C_3	External	true				
+M_r269	taurine		C_3	External	true				
+M_r1466	taurine		C_1	Cytoplasm	false				
+M_r1467	taurine		C_2	Extracellular	false				
+M_r15	trans-Tetradec-2-enoyl-CoA		C_1	Cytoplasm	false				
+M_r16	Tetradecanoyl-CoA (n-C14:0CoA)		C_1	Cytoplasm	false				
+M_r382	trans-Tetradec-2-enoyl-CoA		C_1	Cytoplasm	false				
+M_r404	Tetradecanoyl-CoA (n-C14:0CoA)		C_1	Cytoplasm	false				
+M_r1471	tetrahydrodipicolinate		C_1	Cytoplasm	false				
+M_r1472	tetrahydrofolate		C_1	Cytoplasm	false				
+M_r38	tetrahydromonapterin		C_1	Cytoplasm	false				
+M_r1473	tetrahydropteroyltri-L-glutamate		C_1	Cytoplasm	false				
+M_r384	trans-Hex-2-enoyl-[acyl-carrier protein]		C_1	Cytoplasm	false				
+M_r1476	thiamine diphosphate		C_1	Cytoplasm	false				
+M_r1477	thiamine-phosphate		C_1	Cytoplasm	false				
+M_r1478	thiocyanate		C_1	Cytoplasm	false				
+M_r184	thiosulfate		C_3	External	true				
+M_r1480	thiosulfate		C_1	Cytoplasm	false				
+M_r1481	thiosulfate		C_2	Extracellular	false				
+M_r1482	thymidine		C_1	Cytoplasm	false				
+M_r1484	tiglyl-CoA		C_1	Cytoplasm	false				
+M_r385	trans-Tetradec-2-enoyl-[acyl-carrier protein]		C_1	Cytoplasm	false				
+M_r386	trans-Oct-2-enoyl-[acyl-carrier protein]		C_1	Cytoplasm	false				
+M_r387	trans-octadec-2-enoyl-[acyl-carrier protein]		C_1	Cytoplasm	false				
+M_r388	trans-Hexadec-2-enoyl-[acyl-carrier protein]		C_1	Cytoplasm	false				
+M_r1492	trans, trans-farnesyl diphosphate		C_1	Cytoplasm	false				
+M_r1493	trans-aconitate		C_1	Cytoplasm	false				
+M_r1487	trans-Delta2, cis-Delta4-decadienoyl-CoA		C_1	Cytoplasm	false				
+M_r1488	trans-Delta2-decenoyl-ACP		C_1	Cytoplasm	false				
+M_r1489	trans-Delta2-decenoyl-CoA		C_1	Cytoplasm	false				
+M_r185	trehalose		C_3	External	true				
+M_r1518	trehalose		C_2	Extracellular	false				
+M_r1517	trehalose 6-phosphate		C_1	Cytoplasm	false				
+M_r1494	tRNAala		C_1	Cytoplasm	false				
+M_r1495	tRNAarg		C_1	Cytoplasm	false				
+M_r1497	tRNAasp		C_1	Cytoplasm	false				
+M_r1498	tRNAcys		C_1	Cytoplasm	false				
+M_r1499	tRNAgln		C_1	Cytoplasm	false				
+M_r1500	tRNAglu		C_1	Cytoplasm	false				
+M_r462	tRNAgly		C_1	Cytoplasm	false				
+M_r1503	tRNAhis		C_1	Cytoplasm	false				
+M_r1504	tRNAile		C_1	Cytoplasm	false				
+M_r1505	tRNAleu		C_1	Cytoplasm	false				
+M_r1506	tRNAlys		C_1	Cytoplasm	false				
+M_r1507	tRNAmet		C_1	Cytoplasm	false				
+M_r1508	tRNAphe		C_1	Cytoplasm	false				
+M_r1509	tRNApro		C_1	Cytoplasm	false				
+M_r85	tRNAsec		C_1	Cytoplasm	false				
+M_r1510	tRNAser		C_1	Cytoplasm	false				
+M_r1511	tRNAthr		C_1	Cytoplasm	false				
+M_r1513	tRNAtrp		C_1	Cytoplasm	false				
+M_r1514	tRNAtyr		C_1	Cytoplasm	false				
+M_r1515	tRNAval		C_1	Cytoplasm	false				
+M_r30	tetradecanoate (n-C14:0)		C_2	Extracellular	false				
+M_r183	tetradecanoate (n-C14:0)		C_3	External	true				
+M_r270	tetradecanoate (n-C14:0)		C_3	External	true				
+M_r344	tetradecanoate (n-C14:0)		C_1	Cytoplasm	false				
+M_r361	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-ala-D-glu-meso-2,6-diaminopimeloyl-D-ala-D-ala		C_1	Cytoplasm	false				
+M_r363	Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine		C_1	Cytoplasm	false				
+M_r1524	ubiquinol-8		C_1	Cytoplasm	false				
+M_r1527	ubiquinone-8		C_1	Cytoplasm	false				
+M_r1528	ubiquinone-9		C_1	Cytoplasm	false				
+M_r1529	UDP		C_1	Cytoplasm	false				
+M_r1530	UDP-2,3-bis(3-hydroxymyristoyl)glucosamine		C_1	Cytoplasm	false				
+M_r1531	UDP-3-O-(3-hydroxymyristoyl)glucosamine		C_1	Cytoplasm	false				
+M_r1532	UDP-3-O-(3-hydroxymyristoyl)-N-acetylglucosamine		C_1	Cytoplasm	false				
+M_r415	UDP-D-glucose		C_1	Cytoplasm	false				
+M_r417	UDP-galactose		C_1	Cytoplasm	false				
+M_r418	UDP-GlcNAc-enolpyruvate		C_1	Cytoplasm	false				
+M_r420	UDP-N-acetyl-D-glucosamine		C_1	Cytoplasm	false				
+M_r421	UDP-N-acetyl-D-mannosamine		C_1	Cytoplasm	false				
+M_r422	UDP-N-acetylmuramate		C_1	Cytoplasm	false				
+M_r423	UDP-N-acetylmuramoyl-L-alanine		C_1	Cytoplasm	false				
+M_r424	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate		C_1	Cytoplasm	false				
+M_r428	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminoheptanedioate		C_1	Cytoplasm	false				
+M_r362	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine		C_1	Cytoplasm	false				
+M_r429	UMP		C_1	Cytoplasm	false				
+M_r430	undecaprenol		C_1	Cytoplasm	false				
+M_r431	undecaprenyl diphosphate		C_1	Cytoplasm	false				
+M_r435	undecaprenyl phosphate		C_1	Cytoplasm	false				
+M_r186	uracil		C_3	External	true				
+M_r438	uracil		C_1	Cytoplasm	false				
+M_r439	uracil		C_2	Extracellular	false				
+M_r440	urate		C_1	Cytoplasm	false				
+M_r441	urea		C_1	Cytoplasm	false				
+M_r442	urea-1-carboxylate		C_1	Cytoplasm	false				
+M_r443	uridine		C_1	Cytoplasm	false				
+M_r444	urocanate		C_1	Cytoplasm	false				
+M_r445	uroporphyrinogen-III		C_1	Cytoplasm	false				
+M_r446	UTP		C_1	Cytoplasm	false				
+M_r193	xanthine		C_3	External	true				
+M_r276	xanthine		C_3	External	true				
+M_r450	xanthine		C_1	Cytoplasm	false				
+M_r451	xanthine		C_2	Extracellular	false				
+M_r452	xanthosine		C_1	Cytoplasm	false				
+M_r453	xanthosine-5-phosphate		C_1	Cytoplasm	false				
+M_r454	zeinoxanthin		C_1	Cytoplasm	false				
+M_r194	Zn2+		C_3	External	true				
+M_r456	Zn2+		C_1	Cytoplasm	false				
+M_r457	Zn2+		C_2	Extracellular	false				
