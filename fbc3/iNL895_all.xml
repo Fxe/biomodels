@@ -711,6 +711,7 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0110" name="1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate" compartment="c_12"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0450" name="ATP" metaid="M_s_0450" compartment="c_12">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -727,7 +728,6 @@
         </sbml:annotation>
       </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0116" name="1-phosphatidyl-1D-myo-inositol 4-phosphate" compartment="c_12"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0110" name="1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate" compartment="c_12"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0511" name="CMP" metaid="M_s_0511" compartment="c_02">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -743,8 +743,6 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0485" name="CDP-diacylglycerol" compartment="c_01"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0090" name="1-phosphatidyl-1D-myo-inositol" compartment="c_01"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0763_b" name="H+" metaid="M_s_0763_b" compartment="c_01">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -762,6 +760,8 @@
         </sbml:annotation>
       </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1020" name="myo-inositol" compartment="c_01"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0090" name="1-phosphatidyl-1D-myo-inositol" compartment="c_01"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0485" name="CDP-diacylglycerol" compartment="c_01"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0094" name="1-phosphatidyl-1D-myo-inositol" compartment="c_10"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0115" name="1-phosphatidyl-1D-myo-inositol 4-phosphate" compartment="c_10"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0769_b" name="H+" metaid="M_s_0769_b" compartment="c_10">
@@ -848,8 +848,8 @@
         </sbml:annotation>
       </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0113" name="1-phosphatidyl-1D-myo-inositol 4-phosphate" compartment="c_03"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0099" name="1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate" compartment="c_03"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0104" name="1-phosphatidyl-1D-myo-inositol 3-phosphate" compartment="c_03"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0099" name="1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate" compartment="c_03"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0832" name="iron(2+)" compartment="c_05"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_5008" name="tributyrin" metaid="M_s_5008" compartment="c_05">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
@@ -897,21 +897,6 @@
         </sbml:annotation>
       </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1156" name="oxaloacetate(2-)" compartment="c_02"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1277" name="pyruvate" metaid="M_s_1277" compartment="c_02">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_1277">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:PYRUVATE"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00022"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00020"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1207" name="phosphate" metaid="M_s_1207" compartment="c_02">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -921,6 +906,21 @@
                   <rdf:li rdf:resource="http://identifiers.org/biocyc/META:Pi"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00009"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00009"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1277" name="pyruvate" metaid="M_s_1277" compartment="c_02">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_1277">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:PYRUVATE"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00022"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00020"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -943,21 +943,6 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0446" name="ATP" metaid="M_s_0446" compartment="c_02">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_0446">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:ATP"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00002"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00002"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0400" name="ADP" metaid="M_s_0400" compartment="c_02">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -967,6 +952,21 @@
                   <rdf:li rdf:resource="http://identifiers.org/biocyc/META:ADP"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00008"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00008"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0446" name="ATP" metaid="M_s_0446" compartment="c_02">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_0446">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:ATP"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00002"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00002"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1282,6 +1282,19 @@
         </sbml:annotation>
       </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0975" name="lauroyl-[acyl-carrier protein]" compartment="c_02"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1495_b" name="acyl-carrier protein" metaid="M_s_1495_b" compartment="c_02">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_1495_b">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11493"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0969" name="laurate" metaid="M_s_0969" compartment="c_02">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -1291,19 +1304,6 @@
                   <rdf:li rdf:resource="http://identifiers.org/biocyc/META:DODECANOATE"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C02679"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd01741"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1495_b" name="acyl-carrier protein" metaid="M_s_1495_b" compartment="c_02">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_1495_b">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11493"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1527,8 +1527,8 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0995" name="linoleic acid" compartment="c_02"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1129" name="octadec-9-ynoyl-CoA" compartment="c_02"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0995" name="linoleic acid" compartment="c_02"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0009" name="5'-phosphoribosyl-4-(N-succinocarboxamide)-5-aminoimidazole" metaid="M_s_0009" compartment="c_02">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -1822,21 +1822,6 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0521" name="CTP" metaid="M_s_0521" compartment="c_02">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_0521">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:CTP"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00063"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00052"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0481" name="CDP" metaid="M_s_0481" compartment="c_02">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -1846,6 +1831,21 @@
                   <rdf:li rdf:resource="http://identifiers.org/biocyc/META:CDP"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00112"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00096"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0521" name="CTP" metaid="M_s_0521" compartment="c_02">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_0521">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:CTP"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00063"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00052"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1960,21 +1960,6 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1026" name="myo-inositol hexakisphosphate" metaid="M_s_1026" compartment="c_02">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_1026">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:MI-HEXAKISPHOSPHATE"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C01204"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00885"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0324" name="5-diphospho-1D-myo-inositol pentakisphosphate" metaid="M_s_0324" compartment="c_02">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -1984,6 +1969,21 @@
                   <rdf:li rdf:resource="http://identifiers.org/biocyc/META:5-DIPHOSPHO-1D-MYO-INOSITOL-12346P"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C11526"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd08361"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1026" name="myo-inositol hexakisphosphate" metaid="M_s_1026" compartment="c_02">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_1026">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:MI-HEXAKISPHOSPHATE"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C01204"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00885"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -3338,21 +3338,6 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1082" name="NAD" metaid="M_s_1082" compartment="c_02">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_1082">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:NAD"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00003"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00003"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1087" name="NADH" metaid="M_s_1087" compartment="c_02">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -3362,6 +3347,21 @@
                   <rdf:li rdf:resource="http://identifiers.org/biocyc/META:NADH"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00004"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00004"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1082" name="NAD" metaid="M_s_1082" compartment="c_02">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_1082">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:NAD"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00003"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00003"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -3535,22 +3535,6 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0432" name="ammonium" metaid="M_s_0432" compartment="c_10">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_0432">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:AMMONIUM"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:28938"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C01342"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00013"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0603" name="dihydrolipoamide" metaid="M_s_0603" compartment="c_10">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -3561,6 +3545,22 @@
                   <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:17694"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00579"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00449"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0432" name="ammonium" metaid="M_s_0432" compartment="c_10">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_0432">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:AMMONIUM"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:28938"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C01342"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00013"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -3766,21 +3766,6 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1283" name="riboflavin" metaid="M_s_1283" compartment="c_02">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_1283">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:RIBOFLAVIN"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00255"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00220"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0683" name="FMN" metaid="M_s_0683" compartment="c_02">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -3790,6 +3775,21 @@
                   <rdf:li rdf:resource="http://identifiers.org/biocyc/META:FMN"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00061"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00050"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1283" name="riboflavin" metaid="M_s_1283" compartment="c_02">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_1283">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:RIBOFLAVIN"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00255"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00220"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -3995,21 +3995,6 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0974" name="laurate" metaid="M_s_0974" compartment="c_14">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_0974">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:DODECANOATE"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C02679"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd01741"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0980" name="lauroyl-CoA" metaid="M_s_0980" compartment="c_14">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -4019,6 +4004,21 @@
                   <rdf:li rdf:resource="http://identifiers.org/biocyc/META:LAUROYLCOA-CPD"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C01832"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd01260"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0974" name="laurate" metaid="M_s_0974" compartment="c_14">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_0974">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:DODECANOATE"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C02679"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd01741"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -4146,6 +4146,7 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0993" name="lignoceric acid" compartment="c_14"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1358" name="tetracosanoyl-CoA" metaid="M_s_1358" compartment="c_14">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -4161,7 +4162,6 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0993" name="lignoceric acid" compartment="c_14"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1176" name="palmitate" metaid="M_s_1176" compartment="c_14">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -5226,21 +5226,6 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0280" name="4-aminobutanal" metaid="M_s_0280" compartment="c_02">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_0280">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:4-AMINO-BUTYRALDEHYDE"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00555"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00434"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1401" name="trimethylenediamine" metaid="M_s_1401" compartment="c_02">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -5294,6 +5279,21 @@
                   <rdf:li rdf:resource="http://identifiers.org/biocyc/META:SPERMIDINE"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00315"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00264"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0280" name="4-aminobutanal" metaid="M_s_0280" compartment="c_02">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_0280">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:4-AMINO-BUTYRALDEHYDE"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00555"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00434"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -6706,10 +6706,10 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0951" name="L-threonine" metaid="M_s_0951" compartment="c_10">
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0949" name="L-threonine" metaid="M_s_0949" compartment="c_02">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_0951">
+            <rdf:Description rdf:about="#M_s_0949">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/biocyc/META:THR"/>
@@ -6722,10 +6722,10 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0949" name="L-threonine" metaid="M_s_0949" compartment="c_02">
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0951" name="L-threonine" metaid="M_s_0951" compartment="c_10">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_0949">
+            <rdf:Description rdf:about="#M_s_0951">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/biocyc/META:THR"/>
@@ -6787,37 +6787,6 @@
       </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0491" name="cerotate" compartment="c_02"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0582" name="decanoyl-CoA" compartment="c_02"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0379" name="acetyl-[acyl-carrier protein]" compartment="c_10"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1496_b" name="acyl-carrier protein" metaid="M_s_1496_b" compartment="c_10">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_1496_b">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11493"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0479" name="carboxyacetyl-[acyl-carrier protein]" compartment="c_10"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1094" name="NADP(+)" metaid="M_s_1094" compartment="c_10">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_1094">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:NADP"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00006"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00006"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1139" name="octanoyl-[acyl-carrier protein]" compartment="c_10"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1098" name="NADPH" metaid="M_s_1098" compartment="c_10">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -6833,6 +6802,37 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1094" name="NADP(+)" metaid="M_s_1094" compartment="c_10">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_1094">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:NADP"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00006"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00006"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1496_b" name="acyl-carrier protein" metaid="M_s_1496_b" compartment="c_10">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_1496_b">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11493"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0379" name="acetyl-[acyl-carrier protein]" compartment="c_10"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1139" name="octanoyl-[acyl-carrier protein]" compartment="c_10"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0479" name="carboxyacetyl-[acyl-carrier protein]" compartment="c_10"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1430" name="UTP" metaid="M_s_1430" compartment="c_02">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -6998,21 +6998,6 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0148" name="2-[3-carboxy-3-(methylammonio)propyl]-L-histidine" metaid="M_s_0148" compartment="c_02">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_0148">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:2-3-CARBOXY-3-METHYLAMMONIOPROPYL-L-"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C04692"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd02858"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0147" name="2-(3-amino-3-carboxypropyl)-L-histidine" metaid="M_s_0147" compartment="c_02">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -7022,6 +7007,21 @@
                   <rdf:li rdf:resource="http://identifiers.org/biocyc/META:2-3-CARBOXY-3-AMINOPROPYL-L-HISTIDINE"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C04441"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd02710"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0148" name="2-[3-carboxy-3-(methylammonio)propyl]-L-histidine" metaid="M_s_0148" compartment="c_02">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_0148">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:2-3-CARBOXY-3-METHYLAMMONIOPROPYL-L-"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C04692"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd02858"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -7284,8 +7284,8 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1216" name="phosphatidate" compartment="c_02"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0596" name="diglyceride" compartment="c_02"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1216" name="phosphatidate" compartment="c_02"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0516" name="coenzyme A" metaid="M_s_0516" compartment="c_08">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -7301,8 +7301,6 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1400" name="triglyceride" compartment="c_08"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0598" name="diglyceride" compartment="c_08"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0768_b" name="H+" metaid="M_s_0768_b" compartment="c_08">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -7319,6 +7317,8 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1400" name="triglyceride" compartment="c_08"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0598" name="diglyceride" compartment="c_08"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1050" name="N(1)-acetylspermine" metaid="M_s_1050" compartment="c_02">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -8133,22 +8133,6 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1117" name="O-acetyl-L-homoserine" metaid="M_s_1117" compartment="c_02">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_1117">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:CPD-667"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:16288"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C01077"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00790"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0701" name="gamma-aminobutyrate" metaid="M_s_0701" compartment="c_02">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -8159,6 +8143,22 @@
                   <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:16865"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00334"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00281"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1117" name="O-acetyl-L-homoserine" metaid="M_s_1117" compartment="c_02">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_1117">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:CPD-667"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:16288"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C01077"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00790"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -9026,6 +9026,21 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0385" name="acetyl-CoA" metaid="M_s_0385" compartment="c_14">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_0385">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:ACETYL-COA"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00024"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00022"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1086" name="NAD" metaid="M_s_1086" compartment="c_14">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -9035,6 +9050,21 @@
                   <rdf:li rdf:resource="http://identifiers.org/biocyc/META:NAD"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00003"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00003"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1095" name="NADP(+)" metaid="M_s_1095" compartment="c_14">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_1095">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:NADP"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00006"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00006"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -9051,36 +9081,6 @@
                   <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:15379"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00007"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00007"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0385" name="acetyl-CoA" metaid="M_s_0385" compartment="c_14">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_0385">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:ACETYL-COA"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00024"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00022"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1095" name="NADP(+)" metaid="M_s_1095" compartment="c_14">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_1095">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:NADP"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00006"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00006"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -9376,20 +9376,6 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0173" name="2-methylbutanol" metaid="M_s_0173" compartment="c_10">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_0173">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:CPD-7033"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:48945"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0176" name="2-methylbutanal" metaid="M_s_0176" compartment="c_10">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -9400,6 +9386,20 @@
                   <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:16182"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C02223"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd01499"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0173" name="2-methylbutanol" metaid="M_s_0173" compartment="c_10">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_0173">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:CPD-7033"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:48945"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -9518,21 +9518,6 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1085" name="NAD" metaid="M_s_1085" compartment="c_12">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_1085">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:NAD"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00003"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00003"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0436" name="AMP" metaid="M_s_0436" compartment="c_12">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -9542,6 +9527,21 @@
                   <rdf:li rdf:resource="http://identifiers.org/biocyc/META:AMP"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00020"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00018"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1085" name="NAD" metaid="M_s_1085" compartment="c_12">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_1085">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:NAD"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00003"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00003"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10267,16 +10267,31 @@
       </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_2536" name="geranylgeranylated protein with methylated C-terminal" compartment="c_03"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_2533" name="farnesylated protein with methylated C-terminal" compartment="c_03"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1000" name="lipid" metaid="M_s_1000" compartment="c_02">
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0627" name="episterol" metaid="M_s_0627" compartment="c_02">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_1000">
+            <rdf:Description rdf:about="#M_s_0627">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:Lipids"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:18059"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C01356"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11852"/>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:EPISTEROL"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C15777"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd14514"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0632" name="ergosta-5,7,22,24(28)-tetraen-3beta-ol" metaid="M_s_0632" compartment="c_02">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_0632">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:57222428-ERGOSTATETRAENOL"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:18249"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C05440"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd03223"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10299,16 +10314,16 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0632" name="ergosta-5,7,22,24(28)-tetraen-3beta-ol" metaid="M_s_0632" compartment="c_02">
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1000" name="lipid" metaid="M_s_1000" compartment="c_02">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_0632">
+            <rdf:Description rdf:about="#M_s_1000">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:57222428-ERGOSTATETRAENOL"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:18249"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C05440"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd03223"/>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:Lipids"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:18059"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C01356"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11852"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10347,15 +10362,16 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0627" name="episterol" metaid="M_s_0627" compartment="c_02">
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1234" name="phosphatidylethanolamine" metaid="M_s_1234" compartment="c_02">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_0627">
+            <rdf:Description rdf:about="#M_s_1234">
               <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
                 <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:EPISTEROL"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C15777"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd14514"/>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:L-1-PHOSPHATIDYL-ETHANOLAMINE"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:16038"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00350"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11456"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10372,22 +10388,6 @@
                   <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:18303"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C02737"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11455"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1234" name="phosphatidylethanolamine" metaid="M_s_1234" compartment="c_02">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_1234">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:L-1-PHOSPHATIDYL-ETHANOLAMINE"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:16038"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00350"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11456"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10653,22 +10653,6 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1486_b" name="tRNA(Ser), ic" metaid="M_s_1486_b" compartment="c_02">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_1486_b">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:SER-tRNAs"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:29179"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C01650"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11921"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1305" name="Ser-tRNA(Ser)" metaid="M_s_1305" compartment="c_02">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -10679,6 +10663,22 @@
                   <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:29162"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C02553"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd12132"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1486_b" name="tRNA(Ser), ic" metaid="M_s_1486_b" compartment="c_02">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_1486_b">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:SER-tRNAs"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:29179"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C01650"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11921"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10801,6 +10801,21 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1088" name="NADH" metaid="M_s_1088" compartment="c_03">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_1088">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:NADH"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00004"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00004"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1328" name="squalene" metaid="M_s_1328" compartment="c_03">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -10811,21 +10826,6 @@
                   <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:15440"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00751"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00559"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1088" name="NADH" metaid="M_s_1088" compartment="c_03">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_1088">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:NADH"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00004"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00004"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -10934,21 +10934,6 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0212" name="3-(imidazol-4-yl)-2-oxopropyl dihydrogen phosphate" metaid="M_s_0212" compartment="c_02">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_0212">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:IMIDAZOLE-ACETOL-P"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C01267"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00930"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0916" name="L-histidinol phosphate" metaid="M_s_0916" compartment="c_02">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -10958,6 +10943,21 @@
                   <rdf:li rdf:resource="http://identifiers.org/biocyc/META:L-HISTIDINOL-P"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C01100"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00807"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0212" name="3-(imidazol-4-yl)-2-oxopropyl dihydrogen phosphate" metaid="M_s_0212" compartment="c_02">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_0212">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:IMIDAZOLE-ACETOL-P"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C01267"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00930"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -11235,10 +11235,10 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_2575_b" name="MAK10:MAK3:MAK31" compartment="c_02"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_2502_b" name="MAK3" compartment="c_02"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1634_b" name="MAK31" compartment="c_02"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_2575_b" name="MAK10:MAK3:MAK31" compartment="c_02"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1791_b" name="MAK10" compartment="c_02"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_2502_b" name="MAK3" compartment="c_02"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_2529" name="acetylated protein with terminal(Met-Phe)" compartment="c_02"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1506_b" name="protein with N-terminal(Met-Phe)" compartment="c_02"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0089" name="1-methylnicotinamide" metaid="M_s_0089" compartment="c_02">
@@ -12127,9 +12127,9 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0546" name="D-glucose" compartment="c_03"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0728" name="glycan G10599" compartment="c_03"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0726" name="glycan G00008" compartment="c_03"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0728" name="glycan G10599" compartment="c_03"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0546" name="D-glucose" compartment="c_03"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0725" name="glycan G00006" compartment="c_03"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0727" name="glycan G10595" compartment="c_03"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0418" name="alpha,alpha-trehalose" compartment="c_16"/>
@@ -12929,22 +12929,6 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0276" name="4-amino-5-hydroxymethyl-2-methylpyrimidine" metaid="M_s_0276" compartment="c_02">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_0276">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:HMP"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:16892"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C01279"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00939"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0313" name="5-(2-hydroxyethyl)-4-methylthiazole" metaid="M_s_0313" compartment="c_02">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -12955,6 +12939,22 @@
                   <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:17957"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C04294"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd02636"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0276" name="4-amino-5-hydroxymethyl-2-methylpyrimidine" metaid="M_s_0276" compartment="c_02">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_0276">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:HMP"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:16892"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C01279"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00939"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13613,21 +13613,6 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1265" name="protoporphyrinogen" metaid="M_s_1265" compartment="c_02">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_1265">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:PROTOPORPHYRINOGEN"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C01079"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00791"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0520" name="coproporphyrinogen III" metaid="M_s_0520" compartment="c_02">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -13637,6 +13622,21 @@
                   <rdf:li rdf:resource="http://identifiers.org/biocyc/META:COPROPORPHYRINOGEN_III"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C03263"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd02083"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1265" name="protoporphyrinogen" metaid="M_s_1265" compartment="c_02">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_1265">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:PROTOPORPHYRINOGEN"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C01079"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00791"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -14377,21 +14377,6 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1073" name="N-carbamoyl-L-aspartate" metaid="M_s_1073" compartment="c_02">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_1073">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:CARBAMYUL-L-ASPARTATE"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00438"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00343"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0469" name="carbamoyl phosphate" metaid="M_s_0469" compartment="c_02">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -14401,6 +14386,21 @@
                   <rdf:li rdf:resource="http://identifiers.org/biocyc/META:CARBAMOYL-P"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00169"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00146"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1073" name="N-carbamoyl-L-aspartate" metaid="M_s_1073" compartment="c_02">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_1073">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:CARBAMYUL-L-ASPARTATE"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00438"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00343"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -14554,21 +14554,6 @@
         </sbml:annotation>
       </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0847" name="isocitrate(3-)" compartment="c_02"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0713" name="geranylgeranyl diphosphate" metaid="M_s_0713" compartment="c_08">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_0713">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:GERANYLGERANYL-PP"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00353"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00289"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0662" name="farnesyl diphosphate" metaid="M_s_0662" compartment="c_08">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -14578,6 +14563,21 @@
                   <rdf:li rdf:resource="http://identifiers.org/biocyc/META:FARNESYL-PP"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00448"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00350"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0713" name="geranylgeranyl diphosphate" metaid="M_s_0713" compartment="c_08">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_0713">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:GERANYLGERANYL-PP"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00353"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00289"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -14599,6 +14599,19 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1151" name="ornithine" metaid="M_s_1151" compartment="c_02">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_1151">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00064"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0887" name="L-citrulline" metaid="M_s_0887" compartment="c_02">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -14609,19 +14622,6 @@
                   <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:16349"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00327"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00274"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1151" name="ornithine" metaid="M_s_1151" compartment="c_02">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_1151">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00064"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -14674,8 +14674,8 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0102" name="1-phosphatidyl-1D-myo-inositol 3-phosphate" compartment="c_01"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0097" name="1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate" compartment="c_01"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0102" name="1-phosphatidyl-1D-myo-inositol 3-phosphate" compartment="c_01"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0314" name="5-(methylsulfanyl)-2,3-dioxopentyl phosphate" metaid="M_s_0314" compartment="c_02">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -14892,19 +14892,6 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1494_b" name="tRNA(Val), mitchondrial" metaid="M_s_1494_b" compartment="c_10">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_1494_b">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11924"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1433" name="Val-tRNA(Val)" metaid="M_s_1433" compartment="c_10">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -14915,6 +14902,19 @@
                   <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:29164"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C02554"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd12133"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1494_b" name="tRNA(Val), mitchondrial" metaid="M_s_1494_b" compartment="c_10">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_1494_b">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11924"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15840,21 +15840,6 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0066" name="(S)-lactate" metaid="M_s_0066" compartment="c_02">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_0066">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:L-LACTATE"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00186"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00159"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0679" name="ferricytochrome c" metaid="M_s_0679" compartment="c_10">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -15881,6 +15866,21 @@
                   <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:16928"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00126"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00110"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0066" name="(S)-lactate" metaid="M_s_0066" compartment="c_02">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_0066">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:L-LACTATE"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00186"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00159"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -16215,19 +16215,6 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1484_b" name="tRNA(Phe), mitchondrial" metaid="M_s_1484_b" compartment="c_10">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_1484_b">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11919"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0938" name="L-phenylalanine" metaid="M_s_0938" compartment="c_10">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -16238,6 +16225,19 @@
                   <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:17295"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00079"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00066"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1484_b" name="tRNA(Phe), mitchondrial" metaid="M_s_1484_b" compartment="c_10">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_1484_b">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11919"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -16331,6 +16331,90 @@
                   <rdf:li rdf:resource="http://identifiers.org/biocyc/META:SOLANESYL-PYROPHOSPHATE"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C04145"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd02172"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1481_b" name="tRNA(Met), ic" metaid="M_s_1481_b" compartment="c_02">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_1481_b">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11918"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0002" name="(1-&gt;3)-beta-D-glucan" metaid="M_s_0002" compartment="c_02">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_0002">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:1-3-beta-D-Glucans"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:37671"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00965"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11791"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1491_b" name="tRNA(Tyr), ic" metaid="M_s_1491_b" compartment="c_02">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_1491_b">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11751"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1475_b" name="tRNA(Ile), ic" metaid="M_s_1475_b" compartment="c_02">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_1475_b">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11915"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1477_b" name="tRNA(Leu), ic" metaid="M_s_1477_b" compartment="c_02">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_1477_b">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11916"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1011" name="mannan" metaid="M_s_1011" compartment="c_02">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_1011">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:Mannan"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:28808"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00464"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11685"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -16549,19 +16633,6 @@
                   <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:15603"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00123"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00107"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1477_b" name="tRNA(Leu), ic" metaid="M_s_1477_b" compartment="c_02">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_1477_b">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11916"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -17010,19 +17081,6 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1491_b" name="tRNA(Tyr), ic" metaid="M_s_1491_b" compartment="c_02">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_1491_b">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11751"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0958" name="L-tyrosine" metaid="M_s_0958" compartment="c_14">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -17217,7 +17275,6 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0045" name="(S)-3-hydroxydecanoyl-CoA" compartment="c_14"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0245" name="3-oxodecanoyl-CoA" metaid="M_s_0245" compartment="c_14">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -17234,6 +17291,7 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0045" name="(S)-3-hydroxydecanoyl-CoA" compartment="c_14"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1212" name="phosphate" compartment="c_12"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1414" name="UDP-D-galactose" metaid="M_s_1414" compartment="c_06">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
@@ -17735,22 +17793,6 @@
                   <rdf:li rdf:resource="http://identifiers.org/biocyc/META:PSEUDOURIDINE-5-P"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C01168"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00859"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0002" name="(1-&gt;3)-beta-D-glucan" metaid="M_s_0002" compartment="c_02">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_0002">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:1-3-beta-D-Glucans"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:37671"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00965"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11791"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -18403,22 +18445,6 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0494" name="chitin" metaid="M_s_0494" compartment="c_02">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_0494">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:CHITIN"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:17029"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00461"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11683"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0495" name="chitosan" metaid="M_s_0495" compartment="c_01">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -18429,6 +18455,22 @@
                   <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:16261"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00734"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11741"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0494" name="chitin" metaid="M_s_0494" compartment="c_02">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_0494">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:CHITIN"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:17029"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00461"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11683"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -18501,48 +18543,6 @@
                   <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:16091"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00381"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11662"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1011" name="mannan" metaid="M_s_1011" compartment="c_02">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_1011">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:Mannan"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:28808"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00464"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11685"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1475_b" name="tRNA(Ile), ic" metaid="M_s_1475_b" compartment="c_02">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_1475_b">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11915"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_1481_b" name="tRNA(Met), ic" metaid="M_s_1481_b" compartment="c_02">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_1481_b">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11918"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -18806,22 +18806,6 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0302" name="4alpha-methylzymosterol" metaid="M_s_0302" compartment="c_02">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_s_0302">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:4-METHYL-824-CHOLESTADIENOL"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:1949"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C05103"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd03035"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0215" name="3-dehydro-4-methylzymosterol" metaid="M_s_0215" compartment="c_02">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -18832,6 +18816,22 @@
                   <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:50593"/>
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C15816"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd14552"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0302" name="4alpha-methylzymosterol" metaid="M_s_0302" compartment="c_02">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_s_0302">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:4-METHYL-824-CHOLESTADIENOL"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:1949"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C05103"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd03035"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -18947,8 +18947,8 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0486" name="CDP-diacylglycerol" compartment="c_03"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0606" name="pyrophosphate" compartment="c_03"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0486" name="CDP-diacylglycerol" compartment="c_03"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0522" name="CTP" compartment="c_03"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_s_0565" name="dAMP" metaid="M_s_0565" compartment="c_10">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
@@ -19350,28 +19350,29 @@
       </species>
     </listOfSpecies>
     <fbc:listOfGeneProducts>
-      <fbc:geneProduct fbc:id="G_YALI0D15422g" fbc:label="YALI0D15422g" fbc:name="YALI0D15422g"/>
-      <fbc:geneProduct fbc:id="G_YALI0C17237g" fbc:label="YALI0C17237g" fbc:name="YALI0C17237g"/>
-      <fbc:geneProduct fbc:id="G_YALI0C00451g" fbc:label="YALI0C00451g" fbc:name="YALI0C00451g"/>
-      <fbc:geneProduct fbc:id="G_YALI0F01254g" fbc:label="YALI0F01254g" fbc:name="YALI0F01254g"/>
-      <fbc:geneProduct fbc:id="G_YALI0B20064g" fbc:label="YALI0B20064g" fbc:name="YALI0B20064g"/>
-      <fbc:geneProduct fbc:id="G_YALI0B19338g" fbc:label="YALI0B19338g" fbc:name="YALI0B19338g"/>
-      <fbc:geneProduct fbc:id="G_YALI0B16522g" fbc:label="YALI0B16522g" fbc:name="YALI0B16522g"/>
-      <fbc:geneProduct fbc:id="G_YALI0B19492g" fbc:label="YALI0B19492g" fbc:name="YALI0B19492g"/>
-      <fbc:geneProduct fbc:id="G_YALI0C09889g" fbc:label="YALI0C09889g" fbc:name="YALI0C09889g"/>
-      <fbc:geneProduct fbc:id="G_YALI0E20713g" fbc:label="YALI0E20713g" fbc:name="YALI0E20713g"/>
-      <fbc:geneProduct fbc:id="G_YALI0C07678g" fbc:label="YALI0C07678g" fbc:name="YALI0C07678g"/>
-      <fbc:geneProduct fbc:id="G_YALI0B09537g" fbc:label="YALI0B09537g" fbc:name="YALI0B09537g"/>
-      <fbc:geneProduct fbc:id="G_YALI0F19866g" fbc:label="YALI0F19866g" fbc:name="YALI0F19866g"/>
       <fbc:geneProduct fbc:id="G_YALI0B19800g" fbc:label="YALI0B19800g" fbc:name="YALI0B19800g"/>
-      <fbc:geneProduct fbc:id="G_YALI0E10219g" fbc:label="YALI0E10219g" fbc:name="YALI0E10219g"/>
+      <fbc:geneProduct fbc:id="G_YALI0C00451g" fbc:label="YALI0C00451g" fbc:name="YALI0C00451g"/>
+      <fbc:geneProduct fbc:id="G_YALI0D15422g" fbc:label="YALI0D15422g" fbc:name="YALI0D15422g"/>
+      <fbc:geneProduct fbc:id="G_YALI0B19492g" fbc:label="YALI0B19492g" fbc:name="YALI0B19492g"/>
+      <fbc:geneProduct fbc:id="G_YALI0C17237g" fbc:label="YALI0C17237g" fbc:name="YALI0C17237g"/>
+      <fbc:geneProduct fbc:id="G_YALI0B16522g" fbc:label="YALI0B16522g" fbc:name="YALI0B16522g"/>
+      <fbc:geneProduct fbc:id="G_YALI0B20064g" fbc:label="YALI0B20064g" fbc:name="YALI0B20064g"/>
+      <fbc:geneProduct fbc:id="G_YALI0B09537g" fbc:label="YALI0B09537g" fbc:name="YALI0B09537g"/>
+      <fbc:geneProduct fbc:id="G_YALI0B19338g" fbc:label="YALI0B19338g" fbc:name="YALI0B19338g"/>
+      <fbc:geneProduct fbc:id="G_YALI0C07678g" fbc:label="YALI0C07678g" fbc:name="YALI0C07678g"/>
+      <fbc:geneProduct fbc:id="G_YALI0C09889g" fbc:label="YALI0C09889g" fbc:name="YALI0C09889g"/>
       <fbc:geneProduct fbc:id="G_YALI0D09295g" fbc:label="YALI0D09295g" fbc:name="YALI0D09295g"/>
+      <fbc:geneProduct fbc:id="G_YALI0E20713g" fbc:label="YALI0E20713g" fbc:name="YALI0E20713g"/>
+      <fbc:geneProduct fbc:id="G_YALI0E10219g" fbc:label="YALI0E10219g" fbc:name="YALI0E10219g"/>
+      <fbc:geneProduct fbc:id="G_YALI0F19866g" fbc:label="YALI0F19866g" fbc:name="YALI0F19866g"/>
+      <fbc:geneProduct fbc:id="G_YALI0F01254g" fbc:label="YALI0F01254g" fbc:name="YALI0F01254g"/>
       <fbc:geneProduct fbc:id="G_YALI0D11836g" fbc:label="YALI0D11836g" fbc:name="YALI0D11836g"/>
       <fbc:geneProduct fbc:id="G_YALI0C15345g" fbc:label="YALI0C15345g" fbc:name="YALI0C15345g"/>
       <fbc:geneProduct fbc:id="G_YALI0D26147g" fbc:label="YALI0D26147g" fbc:name="YALI0D26147g"/>
       <fbc:geneProduct fbc:id="G_YALI0F30063g" fbc:label="YALI0F30063g" fbc:name="YALI0F30063g"/>
       <fbc:geneProduct fbc:id="G_YALI0D18458g" fbc:label="YALI0D18458g" fbc:name="YALI0D18458g"/>
       <fbc:geneProduct fbc:id="G_YALI0E16643g" fbc:label="YALI0E16643g" fbc:name="YALI0E16643g"/>
+      <fbc:geneProduct fbc:id="G_YALI0A11605g" fbc:label="YALI0A11605g" fbc:name="YALI0A11605g"/>
       <fbc:geneProduct fbc:id="G_YALI0C00847g" fbc:label="YALI0C00847g" fbc:name="YALI0C00847g"/>
       <fbc:geneProduct fbc:id="G_YALI0F13981g" fbc:label="YALI0F13981g" fbc:name="YALI0F13981g"/>
       <fbc:geneProduct fbc:id="G_YALI0B21142g" fbc:label="YALI0B21142g" fbc:name="YALI0B21142g"/>
@@ -19403,7 +19404,6 @@
       <fbc:geneProduct fbc:id="G_YALI0D24651g" fbc:label="YALI0D24651g" fbc:name="YALI0D24651g"/>
       <fbc:geneProduct fbc:id="G_YALI0C10670g" fbc:label="YALI0C10670g" fbc:name="YALI0C10670g"/>
       <fbc:geneProduct fbc:id="G_YALI0E27159g" fbc:label="YALI0E27159g" fbc:name="YALI0E27159g"/>
-      <fbc:geneProduct fbc:id="G_YALI0A11605g" fbc:label="YALI0A11605g" fbc:name="YALI0A11605g"/>
       <fbc:geneProduct fbc:id="G_YALI0F23573g" fbc:label="YALI0F23573g" fbc:name="YALI0F23573g"/>
       <fbc:geneProduct fbc:id="G_YALI0F20328g" fbc:label="YALI0F20328g" fbc:name="YALI0F20328g"/>
       <fbc:geneProduct fbc:id="G_YALI0D05995g" fbc:label="YALI0D05995g" fbc:name="YALI0D05995g"/>
@@ -19412,23 +19412,23 @@
       <fbc:geneProduct fbc:id="G_YALI0B14399g" fbc:label="YALI0B14399g" fbc:name="YALI0B14399g"/>
       <fbc:geneProduct fbc:id="G_YALI0D14322g" fbc:label="YALI0D14322g" fbc:name="YALI0D14322g"/>
       <fbc:geneProduct fbc:id="G_YALI0D10131g" fbc:label="YALI0D10131g" fbc:name="YALI0D10131g"/>
-      <fbc:geneProduct fbc:id="G_YALI0B19382g" fbc:label="YALI0B19382g" fbc:name="YALI0B19382g"/>
       <fbc:geneProduct fbc:id="G_YALI0B15059g" fbc:label="YALI0B15059g" fbc:name="YALI0B15059g"/>
+      <fbc:geneProduct fbc:id="G_YALI0B19382g" fbc:label="YALI0B19382g" fbc:name="YALI0B19382g"/>
       <fbc:geneProduct fbc:id="G_YALI0E21934g" fbc:label="YALI0E21934g" fbc:name="YALI0E21934g"/>
       <fbc:geneProduct fbc:id="G_YALI0D17864g" fbc:label="YALI0D17864g" fbc:name="YALI0D17864g"/>
       <fbc:geneProduct fbc:id="G_YALI0E33033g" fbc:label="YALI0E33033g" fbc:name="YALI0E33033g"/>
       <fbc:geneProduct fbc:id="G_YALI0F20570g" fbc:label="YALI0F20570g" fbc:name="YALI0F20570g"/>
-      <fbc:geneProduct fbc:id="G_YALI0A20922g" fbc:label="YALI0A20922g" fbc:name="YALI0A20922g"/>
       <fbc:geneProduct fbc:id="G_YALI0E17391g" fbc:label="YALI0E17391g" fbc:name="YALI0E17391g"/>
+      <fbc:geneProduct fbc:id="G_YALI0A20922g" fbc:label="YALI0A20922g" fbc:name="YALI0A20922g"/>
       <fbc:geneProduct fbc:id="G_YALI0A06787g" fbc:label="YALI0A06787g" fbc:name="YALI0A06787g"/>
       <fbc:geneProduct fbc:id="G_YALI0B16104g" fbc:label="YALI0B16104g" fbc:name="YALI0B16104g"/>
       <fbc:geneProduct fbc:id="G_YALI0F05632g" fbc:label="YALI0F05632g" fbc:name="YALI0F05632g"/>
       <fbc:geneProduct fbc:id="G_YALI0B16038g" fbc:label="YALI0B16038g" fbc:name="YALI0B16038g"/>
       <fbc:geneProduct fbc:id="G_YALI0F31999g" fbc:label="YALI0F31999g" fbc:name="YALI0F31999g"/>
-      <fbc:geneProduct fbc:id="G_YALI0E17017g" fbc:label="YALI0E17017g" fbc:name="YALI0E17017g"/>
-      <fbc:geneProduct fbc:id="G_YALI0F07733g" fbc:label="YALI0F07733g" fbc:name="YALI0F07733g"/>
       <fbc:geneProduct fbc:id="G_YALI0B20746g" fbc:label="YALI0B20746g" fbc:name="YALI0B20746g"/>
       <fbc:geneProduct fbc:id="G_YALI0D12749g" fbc:label="YALI0D12749g" fbc:name="YALI0D12749g"/>
+      <fbc:geneProduct fbc:id="G_YALI0E17017g" fbc:label="YALI0E17017g" fbc:name="YALI0E17017g"/>
+      <fbc:geneProduct fbc:id="G_YALI0F07733g" fbc:label="YALI0F07733g" fbc:name="YALI0F07733g"/>
       <fbc:geneProduct fbc:id="G_YALI0A08536g" fbc:label="YALI0A08536g" fbc:name="YALI0A08536g"/>
       <fbc:geneProduct fbc:id="G_YALI0E02090g" fbc:label="YALI0E02090g" fbc:name="YALI0E02090g"/>
       <fbc:geneProduct fbc:id="G_YALI0C03608g" fbc:label="YALI0C03608g" fbc:name="YALI0C03608g"/>
@@ -19444,18 +19444,18 @@
       <fbc:geneProduct fbc:id="G_YALI0F23463g" fbc:label="YALI0F23463g" fbc:name="YALI0F23463g"/>
       <fbc:geneProduct fbc:id="G_YALI0F03597g" fbc:label="YALI0F03597g" fbc:name="YALI0F03597g"/>
       <fbc:geneProduct fbc:id="G_YALI0F13607g" fbc:label="YALI0F13607g" fbc:name="YALI0F13607g"/>
-      <fbc:geneProduct fbc:id="G_YALI0C17281g" fbc:label="YALI0C17281g" fbc:name="YALI0C17281g"/>
       <fbc:geneProduct fbc:id="G_YALI0E35200g" fbc:label="YALI0E35200g" fbc:name="YALI0E35200g"/>
+      <fbc:geneProduct fbc:id="G_YALI0C17281g" fbc:label="YALI0C17281g" fbc:name="YALI0C17281g"/>
       <fbc:geneProduct fbc:id="G_YALI0C17303g" fbc:label="YALI0C17303g" fbc:name="YALI0C17303g"/>
       <fbc:geneProduct fbc:id="G_YALI0C02431g" fbc:label="YALI0C02431g" fbc:name="YALI0C02431g"/>
       <fbc:geneProduct fbc:id="G_YALI0E18095g" fbc:label="YALI0E18095g" fbc:name="YALI0E18095g"/>
       <fbc:geneProduct fbc:id="G_YALI0F12749g" fbc:label="YALI0F12749g" fbc:name="YALI0F12749g"/>
+      <fbc:geneProduct fbc:id="G_YALI0F17996g" fbc:label="YALI0F17996g" fbc:name="YALI0F17996g"/>
       <fbc:geneProduct fbc:id="G_YALI0D25828g" fbc:label="YALI0D25828g" fbc:name="YALI0D25828g"/>
       <fbc:geneProduct fbc:id="G_YALI0E14729g" fbc:label="YALI0E14729g" fbc:name="YALI0E14729g"/>
       <fbc:geneProduct fbc:id="G_YALI0B12980g" fbc:label="YALI0B12980g" fbc:name="YALI0B12980g"/>
       <fbc:geneProduct fbc:id="G_YALI0B02544g" fbc:label="YALI0B02544g" fbc:name="YALI0B02544g"/>
       <fbc:geneProduct fbc:id="G_YALI0C20265g" fbc:label="YALI0C20265g" fbc:name="YALI0C20265g"/>
-      <fbc:geneProduct fbc:id="G_YALI0F17996g" fbc:label="YALI0F17996g" fbc:name="YALI0F17996g"/>
       <fbc:geneProduct fbc:id="G_YALI0E25652g" fbc:label="YALI0E25652g" fbc:name="YALI0E25652g"/>
       <fbc:geneProduct fbc:id="G_YALI0D21530g" fbc:label="YALI0D21530g" fbc:name="YALI0D21530g"/>
       <fbc:geneProduct fbc:id="G_YALI0F09229g" fbc:label="YALI0F09229g" fbc:name="YALI0F09229g"/>
@@ -19465,17 +19465,17 @@
       <fbc:geneProduct fbc:id="G_YALI0F09559g" fbc:label="YALI0F09559g" fbc:name="YALI0F09559g"/>
       <fbc:geneProduct fbc:id="G_YALI0E14597g" fbc:label="YALI0E14597g" fbc:name="YALI0E14597g"/>
       <fbc:geneProduct fbc:id="G_YALI0A09856g" fbc:label="YALI0A09856g" fbc:name="YALI0A09856g"/>
-      <fbc:geneProduct fbc:id="G_YALI0D20768g" fbc:label="YALI0D20768g" fbc:name="YALI0D20768g"/>
       <fbc:geneProduct fbc:id="G_YALI0F02849g" fbc:label="YALI0F02849g" fbc:name="YALI0F02849g"/>
+      <fbc:geneProduct fbc:id="G_YALI0D20768g" fbc:label="YALI0D20768g" fbc:name="YALI0D20768g"/>
       <fbc:geneProduct fbc:id="G_YALI0E00242g" fbc:label="YALI0E00242g" fbc:name="YALI0E00242g"/>
       <fbc:geneProduct fbc:id="G_YALI0C21065g" fbc:label="YALI0C21065g" fbc:name="YALI0C21065g"/>
       <fbc:geneProduct fbc:id="G_YALI0F18502g" fbc:label="YALI0F18502g" fbc:name="YALI0F18502g"/>
       <fbc:geneProduct fbc:id="G_YALI0E16929g" fbc:label="YALI0E16929g" fbc:name="YALI0E16929g"/>
       <fbc:geneProduct fbc:id="G_YALI0E33517g" fbc:label="YALI0E33517g" fbc:name="YALI0E33517g"/>
       <fbc:geneProduct fbc:id="G_YALI0D22484g" fbc:label="YALI0D22484g" fbc:name="YALI0D22484g"/>
-      <fbc:geneProduct fbc:id="G_YALI0E27005g" fbc:label="YALI0E27005g" fbc:name="YALI0E27005g"/>
       <fbc:geneProduct fbc:id="G_YALI0B09845g" fbc:label="YALI0B09845g" fbc:name="YALI0B09845g"/>
       <fbc:geneProduct fbc:id="G_YALI0D23683g" fbc:label="YALI0D23683g" fbc:name="YALI0D23683g"/>
+      <fbc:geneProduct fbc:id="G_YALI0E27005g" fbc:label="YALI0E27005g" fbc:name="YALI0E27005g"/>
       <fbc:geneProduct fbc:id="G_YALI0F20702g" fbc:label="YALI0F20702g" fbc:name="YALI0F20702g"/>
       <fbc:geneProduct fbc:id="G_YALI0F09185g" fbc:label="YALI0F09185g" fbc:name="YALI0F09185g"/>
       <fbc:geneProduct fbc:id="G_YALI0B01826g" fbc:label="YALI0B01826g" fbc:name="YALI0B01826g"/>
@@ -19509,8 +19509,8 @@
       <fbc:geneProduct fbc:id="G_YALI0A02541g" fbc:label="YALI0A02541g" fbc:name="YALI0A02541g"/>
       <fbc:geneProduct fbc:id="G_YALI0F26521g" fbc:label="YALI0F26521g" fbc:name="YALI0F26521g"/>
       <fbc:geneProduct fbc:id="G_YALI0E20361g" fbc:label="YALI0E20361g" fbc:name="YALI0E20361g"/>
-      <fbc:geneProduct fbc:id="G_YALI0A08734g" fbc:label="YALI0A08734g" fbc:name="YALI0A08734g"/>
       <fbc:geneProduct fbc:id="G_YALI0C05709g" fbc:label="YALI0C05709g" fbc:name="YALI0C05709g"/>
+      <fbc:geneProduct fbc:id="G_YALI0A08734g" fbc:label="YALI0A08734g" fbc:name="YALI0A08734g"/>
       <fbc:geneProduct fbc:id="G_YALI0B18759g" fbc:label="YALI0B18759g" fbc:name="YALI0B18759g"/>
       <fbc:geneProduct fbc:id="G_YALI0B00704g" fbc:label="YALI0B00704g" fbc:name="YALI0B00704g"/>
       <fbc:geneProduct fbc:id="G_YALI0E17347g" fbc:label="YALI0E17347g" fbc:name="YALI0E17347g"/>
@@ -19525,41 +19525,41 @@
       <fbc:geneProduct fbc:id="G_YALI0F21791g" fbc:label="YALI0F21791g" fbc:name="YALI0F21791g"/>
       <fbc:geneProduct fbc:id="G_YALI0C22616g" fbc:label="YALI0C22616g" fbc:name="YALI0C22616g"/>
       <fbc:geneProduct fbc:id="G_YALI0D08382g" fbc:label="YALI0D08382g" fbc:name="YALI0D08382g"/>
+      <fbc:geneProduct fbc:id="G_YALI0A17171g" fbc:label="YALI0A17171g" fbc:name="YALI0A17171g"/>
       <fbc:geneProduct fbc:id="G_YALI0A19580g" fbc:label="YALI0A19580g" fbc:name="YALI0A19580g"/>
+      <fbc:geneProduct fbc:id="G_YALI0F12089g" fbc:label="YALI0F12089g" fbc:name="YALI0F12089g"/>
       <fbc:geneProduct fbc:id="G_YALI0D24189g" fbc:label="YALI0D24189g" fbc:name="YALI0D24189g"/>
       <fbc:geneProduct fbc:id="G_YALI0E25201g" fbc:label="YALI0E25201g" fbc:name="YALI0E25201g"/>
       <fbc:geneProduct fbc:id="G_YALI0F31845g" fbc:label="YALI0F31845g" fbc:name="YALI0F31845g"/>
-      <fbc:geneProduct fbc:id="G_YALI0F12089g" fbc:label="YALI0F12089g" fbc:name="YALI0F12089g"/>
       <fbc:geneProduct fbc:id="G_YALI0E14234g" fbc:label="YALI0E14234g" fbc:name="YALI0E14234g"/>
       <fbc:geneProduct fbc:id="G_YALI0E08969g" fbc:label="YALI0E08969g" fbc:name="YALI0E08969g"/>
       <fbc:geneProduct fbc:id="G_YALI0C18051g" fbc:label="YALI0C18051g" fbc:name="YALI0C18051g"/>
-      <fbc:geneProduct fbc:id="G_YALI0A17171g" fbc:label="YALI0A17171g" fbc:name="YALI0A17171g"/>
       <fbc:geneProduct fbc:id="G_YALI0F00462g" fbc:label="YALI0F00462g" fbc:name="YALI0F00462g"/>
       <fbc:geneProduct fbc:id="G_YALI0F09405g" fbc:label="YALI0F09405g" fbc:name="YALI0F09405g"/>
-      <fbc:geneProduct fbc:id="G_YALI0E09933g" fbc:label="YALI0E09933g" fbc:name="YALI0E09933g"/>
       <fbc:geneProduct fbc:id="G_YALI0A11143g" fbc:label="YALI0A11143g" fbc:name="YALI0A11143g"/>
       <fbc:geneProduct fbc:id="G_YALI0E11355g" fbc:label="YALI0E11355g" fbc:name="YALI0E11355g"/>
       <fbc:geneProduct fbc:id="G_YALI0E27346g" fbc:label="YALI0E27346g" fbc:name="YALI0E27346g"/>
       <fbc:geneProduct fbc:id="G_YALI0D00583g" fbc:label="YALI0D00583g" fbc:name="YALI0D00583g"/>
       <fbc:geneProduct fbc:id="G_YALI0F16181g" fbc:label="YALI0F16181g" fbc:name="YALI0F16181g"/>
+      <fbc:geneProduct fbc:id="G_YALI0E08617g" fbc:label="YALI0E08617g" fbc:name="YALI0E08617g"/>
       <fbc:geneProduct fbc:id="G_YALI0A09900g" fbc:label="YALI0A09900g" fbc:name="YALI0A09900g"/>
       <fbc:geneProduct fbc:id="G_YALI0E31471g" fbc:label="YALI0E31471g" fbc:name="YALI0E31471g"/>
       <fbc:geneProduct fbc:id="G_YALI0F15631g" fbc:label="YALI0F15631g" fbc:name="YALI0F15631g"/>
+      <fbc:geneProduct fbc:id="G_YALI0E09933g" fbc:label="YALI0E09933g" fbc:name="YALI0E09933g"/>
       <fbc:geneProduct fbc:id="G_YALI0F31119g" fbc:label="YALI0F31119g" fbc:name="YALI0F31119g"/>
-      <fbc:geneProduct fbc:id="G_YALI0E08617g" fbc:label="YALI0E08617g" fbc:name="YALI0E08617g"/>
       <fbc:geneProduct fbc:id="G_YALI0F24475g" fbc:label="YALI0F24475g" fbc:name="YALI0F24475g"/>
       <fbc:geneProduct fbc:id="G_YALI0E16192g" fbc:label="YALI0E16192g" fbc:name="YALI0E16192g"/>
-      <fbc:geneProduct fbc:id="G_YALI0C03179g" fbc:label="YALI0C03179g" fbc:name="YALI0C03179g"/>
       <fbc:geneProduct fbc:id="G_YALI0F15345g" fbc:label="YALI0F15345g" fbc:name="YALI0F15345g"/>
-      <fbc:geneProduct fbc:id="G_YALI0E24497g" fbc:label="YALI0E24497g" fbc:name="YALI0E24497g"/>
+      <fbc:geneProduct fbc:id="G_YALI0C03179g" fbc:label="YALI0C03179g" fbc:name="YALI0C03179g"/>
       <fbc:geneProduct fbc:id="G_YALI0A10032g" fbc:label="YALI0A10032g" fbc:name="YALI0A10032g"/>
+      <fbc:geneProduct fbc:id="G_YALI0E24497g" fbc:label="YALI0E24497g" fbc:name="YALI0E24497g"/>
       <fbc:geneProduct fbc:id="G_YALI0D04202g" fbc:label="YALI0D04202g" fbc:name="YALI0D04202g"/>
       <fbc:geneProduct fbc:id="G_YALI0F11649g" fbc:label="YALI0F11649g" fbc:name="YALI0F11649g"/>
       <fbc:geneProduct fbc:id="G_YALI0D03069g" fbc:label="YALI0D03069g" fbc:name="YALI0D03069g"/>
       <fbc:geneProduct fbc:id="G_YALI0F30019g" fbc:label="YALI0F30019g" fbc:name="YALI0F30019g"/>
       <fbc:geneProduct fbc:id="G_YALI0B07667g" fbc:label="YALI0B07667g" fbc:name="YALI0B07667g"/>
-      <fbc:geneProduct fbc:id="G_YALI0B10043g" fbc:label="YALI0B10043g" fbc:name="YALI0B10043g"/>
       <fbc:geneProduct fbc:id="G_YALI0F30767g" fbc:label="YALI0F30767g" fbc:name="YALI0F30767g"/>
+      <fbc:geneProduct fbc:id="G_YALI0B10043g" fbc:label="YALI0B10043g" fbc:name="YALI0B10043g"/>
       <fbc:geneProduct fbc:id="G_YALI0F03927g" fbc:label="YALI0F03927g" fbc:name="YALI0F03927g"/>
       <fbc:geneProduct fbc:id="G_YALI0D24409g" fbc:label="YALI0D24409g" fbc:name="YALI0D24409g"/>
       <fbc:geneProduct fbc:id="G_YALI0F21010g" fbc:label="YALI0F21010g" fbc:name="YALI0F21010g"/>
@@ -19588,6 +19588,7 @@
       <fbc:geneProduct fbc:id="G_YALI0E00418g" fbc:label="YALI0E00418g" fbc:name="YALI0E00418g"/>
       <fbc:geneProduct fbc:id="G_YALI0E28963g" fbc:label="YALI0E28963g" fbc:name="YALI0E28963g"/>
       <fbc:geneProduct fbc:id="G_YALI0B04180g" fbc:label="YALI0B04180g" fbc:name="YALI0B04180g"/>
+      <fbc:geneProduct fbc:id="G_YALI0B00396g" fbc:label="YALI0B00396g" fbc:name="YALI0B00396g"/>
       <fbc:geneProduct fbc:id="G_YALI0E23287g" fbc:label="YALI0E23287g" fbc:name="YALI0E23287g"/>
       <fbc:geneProduct fbc:id="G_YALI0B01342g" fbc:label="YALI0B01342g" fbc:name="YALI0B01342g"/>
       <fbc:geneProduct fbc:id="G_YALI0D00132g" fbc:label="YALI0D00132g" fbc:name="YALI0D00132g"/>
@@ -19610,7 +19611,6 @@
       <fbc:geneProduct fbc:id="G_YALI0C16522g" fbc:label="YALI0C16522g" fbc:name="YALI0C16522g"/>
       <fbc:geneProduct fbc:id="G_YALI0A08998g" fbc:label="YALI0A08998g" fbc:name="YALI0A08998g"/>
       <fbc:geneProduct fbc:id="G_YALI0A01958g" fbc:label="YALI0A01958g" fbc:name="YALI0A01958g"/>
-      <fbc:geneProduct fbc:id="G_YALI0B00396g" fbc:label="YALI0B00396g" fbc:name="YALI0B00396g"/>
       <fbc:geneProduct fbc:id="G_YALI0C12771g" fbc:label="YALI0C12771g" fbc:name="YALI0C12771g"/>
       <fbc:geneProduct fbc:id="G_YALI0D18920g" fbc:label="YALI0D18920g" fbc:name="YALI0D18920g"/>
       <fbc:geneProduct fbc:id="G_YALI0B14531g" fbc:label="YALI0B14531g" fbc:name="YALI0B14531g"/>
@@ -19618,8 +19618,8 @@
       <fbc:geneProduct fbc:id="G_YALI0E33495g" fbc:label="YALI0E33495g" fbc:name="YALI0E33495g"/>
       <fbc:geneProduct fbc:id="G_YALI0F01210g" fbc:label="YALI0F01210g" fbc:name="YALI0F01210g"/>
       <fbc:geneProduct fbc:id="G_YALI0B13420g" fbc:label="YALI0B13420g" fbc:name="YALI0B13420g"/>
-      <fbc:geneProduct fbc:id="G_YALI0F30569g" fbc:label="YALI0F30569g" fbc:name="YALI0F30569g"/>
       <fbc:geneProduct fbc:id="G_YALI0D07392g" fbc:label="YALI0D07392g" fbc:name="YALI0D07392g"/>
+      <fbc:geneProduct fbc:id="G_YALI0F30569g" fbc:label="YALI0F30569g" fbc:name="YALI0F30569g"/>
       <fbc:geneProduct fbc:id="G_YALI0E16434g" fbc:label="YALI0E16434g" fbc:name="YALI0E16434g"/>
       <fbc:geneProduct fbc:id="G_YALI0F11231g" fbc:label="YALI0F11231g" fbc:name="YALI0F11231g"/>
       <fbc:geneProduct fbc:id="G_YALI0A09427g" fbc:label="YALI0A09427g" fbc:name="YALI0A09427g"/>
@@ -19642,8 +19642,8 @@
       <fbc:geneProduct fbc:id="G_YALI0F24651g" fbc:label="YALI0F24651g" fbc:name="YALI0F24651g"/>
       <fbc:geneProduct fbc:id="G_YALI0B14839g" fbc:label="YALI0B14839g" fbc:name="YALI0B14839g"/>
       <fbc:geneProduct fbc:id="G_YALI0B02222g" fbc:label="YALI0B02222g" fbc:name="YALI0B02222g"/>
-      <fbc:geneProduct fbc:id="G_YALI0E03960g" fbc:label="YALI0E03960g" fbc:name="YALI0E03960g"/>
       <fbc:geneProduct fbc:id="G_YALI0E12089g" fbc:label="YALI0E12089g" fbc:name="YALI0E12089g"/>
+      <fbc:geneProduct fbc:id="G_YALI0E03960g" fbc:label="YALI0E03960g" fbc:name="YALI0E03960g"/>
       <fbc:geneProduct fbc:id="G_YALI0A10310g" fbc:label="YALI0A10310g" fbc:name="YALI0A10310g"/>
       <fbc:geneProduct fbc:id="G_YALI0E02288g" fbc:label="YALI0E02288g" fbc:name="YALI0E02288g"/>
       <fbc:geneProduct fbc:id="G_YALI0E25740g" fbc:label="YALI0E25740g" fbc:name="YALI0E25740g"/>
@@ -19704,8 +19704,8 @@
       <fbc:geneProduct fbc:id="G_YALI0D12122g" fbc:label="YALI0D12122g" fbc:name="YALI0D12122g"/>
       <fbc:geneProduct fbc:id="G_YALI0D04422g" fbc:label="YALI0D04422g" fbc:name="YALI0D04422g"/>
       <fbc:geneProduct fbc:id="G_YALI0F22517g" fbc:label="YALI0F22517g" fbc:name="YALI0F22517g"/>
-      <fbc:geneProduct fbc:id="G_YALI0E27874g" fbc:label="YALI0E27874g" fbc:name="YALI0E27874g"/>
       <fbc:geneProduct fbc:id="G_YALI0E23991g" fbc:label="YALI0E23991g" fbc:name="YALI0E23991g"/>
+      <fbc:geneProduct fbc:id="G_YALI0E27874g" fbc:label="YALI0E27874g" fbc:name="YALI0E27874g"/>
       <fbc:geneProduct fbc:id="G_YALI0F25135g" fbc:label="YALI0F25135g" fbc:name="YALI0F25135g"/>
       <fbc:geneProduct fbc:id="G_YALI0A20108g" fbc:label="YALI0A20108g" fbc:name="YALI0A20108g"/>
       <fbc:geneProduct fbc:id="G_YALI0B00220g" fbc:label="YALI0B00220g" fbc:name="YALI0B00220g"/>
@@ -19730,8 +19730,8 @@
       <fbc:geneProduct fbc:id="G_YALI0F12639g" fbc:label="YALI0F12639g" fbc:name="YALI0F12639g"/>
       <fbc:geneProduct fbc:id="G_YALI0B05918g" fbc:label="YALI0B05918g" fbc:name="YALI0B05918g"/>
       <fbc:geneProduct fbc:id="G_YALI0F02629g" fbc:label="YALI0F02629g" fbc:name="YALI0F02629g"/>
-      <fbc:geneProduct fbc:id="G_YALI0D14762g" fbc:label="YALI0D14762g" fbc:name="YALI0D14762g"/>
       <fbc:geneProduct fbc:id="G_YALI0B16126g" fbc:label="YALI0B16126g" fbc:name="YALI0B16126g"/>
+      <fbc:geneProduct fbc:id="G_YALI0D14762g" fbc:label="YALI0D14762g" fbc:name="YALI0D14762g"/>
       <fbc:geneProduct fbc:id="G_YALI0A07142g" fbc:label="YALI0A07142g" fbc:name="YALI0A07142g"/>
       <fbc:geneProduct fbc:id="G_YALI0F05390g" fbc:label="YALI0F05390g" fbc:name="YALI0F05390g"/>
       <fbc:geneProduct fbc:id="G_YALI0B03564g" fbc:label="YALI0B03564g" fbc:name="YALI0B03564g"/>
@@ -19741,8 +19741,8 @@
       <fbc:geneProduct fbc:id="G_YALI0E16907g" fbc:label="YALI0E16907g" fbc:name="YALI0E16907g"/>
       <fbc:geneProduct fbc:id="G_YALI0D17050g" fbc:label="YALI0D17050g" fbc:name="YALI0D17050g"/>
       <fbc:geneProduct fbc:id="G_YALI0E09276g" fbc:label="YALI0E09276g" fbc:name="YALI0E09276g"/>
-      <fbc:geneProduct fbc:id="G_YALI0E32035g" fbc:label="YALI0E32035g" fbc:name="YALI0E32035g"/>
       <fbc:geneProduct fbc:id="G_YALI0E00528g" fbc:label="YALI0E00528g" fbc:name="YALI0E00528g"/>
+      <fbc:geneProduct fbc:id="G_YALI0E32035g" fbc:label="YALI0E32035g" fbc:name="YALI0E32035g"/>
       <fbc:geneProduct fbc:id="G_YALI0C05951g" fbc:label="YALI0C05951g" fbc:name="YALI0C05951g"/>
       <fbc:geneProduct fbc:id="G_YALI0E15730g" fbc:label="YALI0E15730g" fbc:name="YALI0E15730g"/>
       <fbc:geneProduct fbc:id="G_YALI0A10076g" fbc:label="YALI0A10076g" fbc:name="YALI0A10076g"/>
@@ -19763,8 +19763,8 @@
       <fbc:geneProduct fbc:id="G_YALI0B09647g" fbc:label="YALI0B09647g" fbc:name="YALI0B09647g"/>
       <fbc:geneProduct fbc:id="G_YALI0F30811g" fbc:label="YALI0F30811g" fbc:name="YALI0F30811g"/>
       <fbc:geneProduct fbc:id="G_YALI0A21263g" fbc:label="YALI0A21263g" fbc:name="YALI0A21263g"/>
-      <fbc:geneProduct fbc:id="G_YALI0C11539g" fbc:label="YALI0C11539g" fbc:name="YALI0C11539g"/>
       <fbc:geneProduct fbc:id="G_YALI0F08591g" fbc:label="YALI0F08591g" fbc:name="YALI0F08591g"/>
+      <fbc:geneProduct fbc:id="G_YALI0C11539g" fbc:label="YALI0C11539g" fbc:name="YALI0C11539g"/>
       <fbc:geneProduct fbc:id="G_YALI0A21153g" fbc:label="YALI0A21153g" fbc:name="YALI0A21153g"/>
       <fbc:geneProduct fbc:id="G_YALI0A09636g" fbc:label="YALI0A09636g" fbc:name="YALI0A09636g"/>
       <fbc:geneProduct fbc:id="G_YALIUNK4" fbc:label="YALIUNK4" fbc:name="YALIUNK4"/>
@@ -19784,14 +19784,14 @@
       <fbc:geneProduct fbc:id="G_YALI0C21406g" fbc:label="YALI0C21406g" fbc:name="YALI0C21406g"/>
       <fbc:geneProduct fbc:id="G_YALI0B19470g" fbc:label="YALI0B19470g" fbc:name="YALI0B19470g"/>
       <fbc:geneProduct fbc:id="G_YALI0C15488g" fbc:label="YALI0C15488g" fbc:name="YALI0C15488g"/>
-      <fbc:geneProduct fbc:id="G_YALI0D11176g" fbc:label="YALI0D11176g" fbc:name="YALI0D11176g"/>
       <fbc:geneProduct fbc:id="G_YALI0E16368g" fbc:label="YALI0E16368g" fbc:name="YALI0E16368g"/>
+      <fbc:geneProduct fbc:id="G_YALI0D11176g" fbc:label="YALI0D11176g" fbc:name="YALI0D11176g"/>
       <fbc:geneProduct fbc:id="G_YALI0A14784g" fbc:label="YALI0A14784g" fbc:name="YALI0A14784g"/>
-      <fbc:geneProduct fbc:id="G_YALI0D11374g" fbc:label="YALI0D11374g" fbc:name="YALI0D11374g"/>
       <fbc:geneProduct fbc:id="G_YALI0E29667g" fbc:label="YALI0E29667g" fbc:name="YALI0E29667g"/>
+      <fbc:geneProduct fbc:id="G_YALI0D11374g" fbc:label="YALI0D11374g" fbc:name="YALI0D11374g"/>
       <fbc:geneProduct fbc:id="G_YALI0D23397g" fbc:label="YALI0D23397g" fbc:name="YALI0D23397g"/>
-      <fbc:geneProduct fbc:id="G_YALI0E24013g" fbc:label="YALI0E24013g" fbc:name="YALI0E24013g"/>
       <fbc:geneProduct fbc:id="G_YALI0D04741g" fbc:label="YALI0D04741g" fbc:name="YALI0D04741g"/>
+      <fbc:geneProduct fbc:id="G_YALI0E24013g" fbc:label="YALI0E24013g" fbc:name="YALI0E24013g"/>
       <fbc:geneProduct fbc:id="G_YALI0F26191g" fbc:label="YALI0F26191g" fbc:name="YALI0F26191g"/>
       <fbc:geneProduct fbc:id="G_YALI0E26719g" fbc:label="YALI0E26719g" fbc:name="YALI0E26719g"/>
       <fbc:geneProduct fbc:id="G_YALI0B08184g" fbc:label="YALI0B08184g" fbc:name="YALI0B08184g"/>
@@ -19815,12 +19815,12 @@
       <fbc:geneProduct fbc:id="G_YALI0B08965g" fbc:label="YALI0B08965g" fbc:name="YALI0B08965g"/>
       <fbc:geneProduct fbc:id="G_YALI0E15708g" fbc:label="YALI0E15708g" fbc:name="YALI0E15708g"/>
       <fbc:geneProduct fbc:id="G_YALI0E18634g" fbc:label="YALI0E18634g" fbc:name="YALI0E18634g"/>
-      <fbc:geneProduct fbc:id="G_YALI0D16753g" fbc:label="YALI0D16753g" fbc:name="YALI0D16753g"/>
       <fbc:geneProduct fbc:id="G_YALI0E14190g" fbc:label="YALI0E14190g" fbc:name="YALI0E14190g"/>
+      <fbc:geneProduct fbc:id="G_YALI0D16753g" fbc:label="YALI0D16753g" fbc:name="YALI0D16753g"/>
       <fbc:geneProduct fbc:id="G_YALI0C06490g" fbc:label="YALI0C06490g" fbc:name="YALI0C06490g"/>
       <fbc:geneProduct fbc:id="G_YALI0B18348g" fbc:label="YALI0B18348g" fbc:name="YALI0B18348g"/>
-      <fbc:geneProduct fbc:id="G_YALI0F30745g" fbc:label="YALI0F30745g" fbc:name="YALI0F30745g"/>
       <fbc:geneProduct fbc:id="G_YALI0E01056g" fbc:label="YALI0E01056g" fbc:name="YALI0E01056g"/>
+      <fbc:geneProduct fbc:id="G_YALI0F30745g" fbc:label="YALI0F30745g" fbc:name="YALI0F30745g"/>
       <fbc:geneProduct fbc:id="G_YALI0E22649g" fbc:label="YALI0E22649g" fbc:name="YALI0E22649g"/>
       <fbc:geneProduct fbc:id="G_YALI0A19206g" fbc:label="YALI0A19206g" fbc:name="YALI0A19206g"/>
       <fbc:geneProduct fbc:id="G_YALI0F08415g" fbc:label="YALI0F08415g" fbc:name="YALI0F08415g"/>
@@ -19829,8 +19829,8 @@
       <fbc:geneProduct fbc:id="G_YALI0F17820g" fbc:label="YALI0F17820g" fbc:name="YALI0F17820g"/>
       <fbc:geneProduct fbc:id="G_YALI0E00638g" fbc:label="YALI0E00638g" fbc:name="YALI0E00638g"/>
       <fbc:geneProduct fbc:id="G_YALI0E02684g" fbc:label="YALI0E02684g" fbc:name="YALI0E02684g"/>
-      <fbc:geneProduct fbc:id="G_YALI0C18799g" fbc:label="YALI0C18799g" fbc:name="YALI0C18799g"/>
       <fbc:geneProduct fbc:id="G_YALI0D17556g" fbc:label="YALI0D17556g" fbc:name="YALI0D17556g"/>
+      <fbc:geneProduct fbc:id="G_YALI0C18799g" fbc:label="YALI0C18799g" fbc:name="YALI0C18799g"/>
       <fbc:geneProduct fbc:id="G_YALI0A08041g" fbc:label="YALI0A08041g" fbc:name="YALI0A08041g"/>
       <fbc:geneProduct fbc:id="G_YALI0F27665g" fbc:label="YALI0F27665g" fbc:name="YALI0F27665g"/>
       <fbc:geneProduct fbc:id="G_YALI0E32527g" fbc:label="YALI0E32527g" fbc:name="YALI0E32527g"/>
@@ -19875,15 +19875,15 @@
       <fbc:geneProduct fbc:id="G_YALI0D03135g" fbc:label="YALI0D03135g" fbc:name="YALI0D03135g"/>
       <fbc:geneProduct fbc:id="G_YALI0E02728g" fbc:label="YALI0E02728g" fbc:name="YALI0E02728g"/>
       <fbc:geneProduct fbc:id="G_YALI0E22781g" fbc:label="YALI0E22781g" fbc:name="YALI0E22781g"/>
-      <fbc:geneProduct fbc:id="G_YALI0F25047g" fbc:label="YALI0F25047g" fbc:name="YALI0F25047g"/>
-      <fbc:geneProduct fbc:id="G_YALI0B00836g" fbc:label="YALI0B00836g" fbc:name="YALI0B00836g"/>
       <fbc:geneProduct fbc:id="G_YALI0E32351g" fbc:label="YALI0E32351g" fbc:name="YALI0E32351g"/>
+      <fbc:geneProduct fbc:id="G_YALI0B00836g" fbc:label="YALI0B00836g" fbc:name="YALI0B00836g"/>
+      <fbc:geneProduct fbc:id="G_YALI0F25047g" fbc:label="YALI0F25047g" fbc:name="YALI0F25047g"/>
       <fbc:geneProduct fbc:id="G_YALI0B13552g" fbc:label="YALI0B13552g" fbc:name="YALI0B13552g"/>
       <fbc:geneProduct fbc:id="G_YALI0F08701g" fbc:label="YALI0F08701g" fbc:name="YALI0F08701g"/>
-      <fbc:geneProduct fbc:id="G_YALI0C05753g" fbc:label="YALI0C05753g" fbc:name="YALI0C05753g"/>
       <fbc:geneProduct fbc:id="G_YALI0F14223g" fbc:label="YALI0F14223g" fbc:name="YALI0F14223g"/>
-      <fbc:geneProduct fbc:id="G_YALI0E23859g" fbc:label="YALI0E23859g" fbc:name="YALI0E23859g"/>
+      <fbc:geneProduct fbc:id="G_YALI0C05753g" fbc:label="YALI0C05753g" fbc:name="YALI0C05753g"/>
       <fbc:geneProduct fbc:id="G_YALI0A21307g" fbc:label="YALI0A21307g" fbc:name="YALI0A21307g"/>
+      <fbc:geneProduct fbc:id="G_YALI0E23859g" fbc:label="YALI0E23859g" fbc:name="YALI0E23859g"/>
       <fbc:geneProduct fbc:id="G_YALI0E31064g" fbc:label="YALI0E31064g" fbc:name="YALI0E31064g"/>
       <fbc:geneProduct fbc:id="G_YALI0A15125g" fbc:label="YALI0A15125g" fbc:name="YALI0A15125g"/>
       <fbc:geneProduct fbc:id="G_YALI0F06710g" fbc:label="YALI0F06710g" fbc:name="YALI0F06710g"/>
@@ -19913,8 +19913,8 @@
       <fbc:geneProduct fbc:id="G_YALI0D18271g" fbc:label="YALI0D18271g" fbc:name="YALI0D18271g"/>
       <fbc:geneProduct fbc:id="G_YALI0D14894g" fbc:label="YALI0D14894g" fbc:name="YALI0D14894g"/>
       <fbc:geneProduct fbc:id="G_YALI0D25168g" fbc:label="YALI0D25168g" fbc:name="YALI0D25168g"/>
-      <fbc:geneProduct fbc:id="G_YALI0C23364g" fbc:label="YALI0C23364g" fbc:name="YALI0C23364g"/>
       <fbc:geneProduct fbc:id="G_YALI0E15081g" fbc:label="YALI0E15081g" fbc:name="YALI0E15081g"/>
+      <fbc:geneProduct fbc:id="G_YALI0C23364g" fbc:label="YALI0C23364g" fbc:name="YALI0C23364g"/>
       <fbc:geneProduct fbc:id="G_YALI0E29161g" fbc:label="YALI0E29161g" fbc:name="YALI0E29161g"/>
       <fbc:geneProduct fbc:id="G_YALI0A14498g" fbc:label="YALI0A14498g" fbc:name="YALI0A14498g"/>
       <fbc:geneProduct fbc:id="G_YALI0D16797g" fbc:label="YALI0D16797g" fbc:name="YALI0D16797g"/>
@@ -19932,13 +19932,13 @@
       <fbc:geneProduct fbc:id="G_YALI0F09449g" fbc:label="YALI0F09449g" fbc:name="YALI0F09449g"/>
       <fbc:geneProduct fbc:id="G_YALI0A02310g" fbc:label="YALI0A02310g" fbc:name="YALI0A02310g"/>
       <fbc:geneProduct fbc:id="G_YALI0F20218g" fbc:label="YALI0F20218g" fbc:name="YALI0F20218g"/>
+      <fbc:geneProduct fbc:id="G_YALI0A02244g" fbc:label="YALI0A02244g" fbc:name="YALI0A02244g"/>
+      <fbc:geneProduct fbc:id="G_YALI0F12925g" fbc:label="YALI0F12925g" fbc:name="YALI0F12925g"/>
       <fbc:geneProduct fbc:id="G_YALI0B13794g" fbc:label="YALI0B13794g" fbc:name="YALI0B13794g"/>
       <fbc:geneProduct fbc:id="G_YALI0F16896g" fbc:label="YALI0F16896g" fbc:name="YALI0F16896g"/>
       <fbc:geneProduct fbc:id="G_YALI0A19228g" fbc:label="YALI0A19228g" fbc:name="YALI0A19228g"/>
-      <fbc:geneProduct fbc:id="G_YALI0F12925g" fbc:label="YALI0F12925g" fbc:name="YALI0F12925g"/>
       <fbc:geneProduct fbc:id="G_YALI0C23298g" fbc:label="YALI0C23298g" fbc:name="YALI0C23298g"/>
       <fbc:geneProduct fbc:id="G_YALI0E27203g" fbc:label="YALI0E27203g" fbc:name="YALI0E27203g"/>
-      <fbc:geneProduct fbc:id="G_YALI0A02244g" fbc:label="YALI0A02244g" fbc:name="YALI0A02244g"/>
       <fbc:geneProduct fbc:id="G_YALI0E34672g" fbc:label="YALI0E34672g" fbc:name="YALI0E34672g"/>
       <fbc:geneProduct fbc:id="G_YALI0E24167g" fbc:label="YALI0E24167g" fbc:name="YALI0E24167g"/>
       <fbc:geneProduct fbc:id="G_YALI0E16346g" fbc:label="YALI0E16346g" fbc:name="YALI0E16346g"/>
@@ -19977,12 +19977,12 @@
       <fbc:geneProduct fbc:id="G_YALI0F15433g" fbc:label="YALI0F15433g" fbc:name="YALI0F15433g"/>
       <fbc:geneProduct fbc:id="G_YALI0B08943g" fbc:label="YALI0B08943g" fbc:name="YALI0B08943g"/>
       <fbc:geneProduct fbc:id="G_YALI0C18425g" fbc:label="YALI0C18425g" fbc:name="YALI0C18425g"/>
-      <fbc:geneProduct fbc:id="G_YALI0F10010g" fbc:label="YALI0F10010g" fbc:name="YALI0F10010g"/>
       <fbc:geneProduct fbc:id="G_YALI0D17534g" fbc:label="YALI0D17534g" fbc:name="YALI0D17534g"/>
+      <fbc:geneProduct fbc:id="G_YALI0F10010g" fbc:label="YALI0F10010g" fbc:name="YALI0F10010g"/>
       <fbc:geneProduct fbc:id="G_YALI0F05214g" fbc:label="YALI0F05214g" fbc:name="YALI0F05214g"/>
       <fbc:geneProduct fbc:id="G_YALI0F24893g" fbc:label="YALI0F24893g" fbc:name="YALI0F24893g"/>
-      <fbc:geneProduct fbc:id="G_YALI0E20977g" fbc:label="YALI0E20977g" fbc:name="YALI0E20977g"/>
       <fbc:geneProduct fbc:id="G_YALI0C05258g" fbc:label="YALI0C05258g" fbc:name="YALI0C05258g"/>
+      <fbc:geneProduct fbc:id="G_YALI0E20977g" fbc:label="YALI0E20977g" fbc:name="YALI0E20977g"/>
       <fbc:geneProduct fbc:id="G_YALI0E01078g" fbc:label="YALI0E01078g" fbc:name="YALI0E01078g"/>
       <fbc:geneProduct fbc:id="G_YALI0C18535g" fbc:label="YALI0C18535g" fbc:name="YALI0C18535g"/>
       <fbc:geneProduct fbc:id="G_YALI0C00495g" fbc:label="YALI0C00495g" fbc:name="YALI0C00495g"/>
@@ -19995,12 +19995,12 @@
       <fbc:geneProduct fbc:id="G_YALI0C13090g" fbc:label="YALI0C13090g" fbc:name="YALI0C13090g"/>
       <fbc:geneProduct fbc:id="G_YALI0F23947g" fbc:label="YALI0F23947g" fbc:name="YALI0F23947g"/>
       <fbc:geneProduct fbc:id="G_YALI0E05203g" fbc:label="YALI0E05203g" fbc:name="YALI0E05203g"/>
-      <fbc:geneProduct fbc:id="G_YALI0D26345g" fbc:label="YALI0D26345g" fbc:name="YALI0D26345g"/>
       <fbc:geneProduct fbc:id="G_YALI0C24354g" fbc:label="YALI0C24354g" fbc:name="YALI0C24354g"/>
-      <fbc:geneProduct fbc:id="G_YALI0E02827g" fbc:label="YALI0E02827g" fbc:name="YALI0E02827g"/>
+      <fbc:geneProduct fbc:id="G_YALI0D26345g" fbc:label="YALI0D26345g" fbc:name="YALI0D26345g"/>
       <fbc:geneProduct fbc:id="G_YALI0D21670g" fbc:label="YALI0D21670g" fbc:name="YALI0D21670g"/>
-      <fbc:geneProduct fbc:id="G_YALI0E13992g" fbc:label="YALI0E13992g" fbc:name="YALI0E13992g"/>
+      <fbc:geneProduct fbc:id="G_YALI0E02827g" fbc:label="YALI0E02827g" fbc:name="YALI0E02827g"/>
       <fbc:geneProduct fbc:id="G_YALI0E23177g" fbc:label="YALI0E23177g" fbc:name="YALI0E23177g"/>
+      <fbc:geneProduct fbc:id="G_YALI0E13992g" fbc:label="YALI0E13992g" fbc:name="YALI0E13992g"/>
       <fbc:geneProduct fbc:id="G_YALI0D25476g" fbc:label="YALI0D25476g" fbc:name="YALI0D25476g"/>
       <fbc:geneProduct fbc:id="G_YALI0B06006g" fbc:label="YALI0B06006g" fbc:name="YALI0B06006g"/>
       <fbc:geneProduct fbc:id="G_YALI0E24057g" fbc:label="YALI0E24057g" fbc:name="YALI0E24057g"/>
@@ -20021,8 +20021,8 @@
       <fbc:geneProduct fbc:id="G_YALI0D21010g" fbc:label="YALI0D21010g" fbc:name="YALI0D21010g"/>
       <fbc:geneProduct fbc:id="G_YALI0F27885g" fbc:label="YALI0F27885g" fbc:name="YALI0F27885g"/>
       <fbc:geneProduct fbc:id="G_YALI0E12683g" fbc:label="YALI0E12683g" fbc:name="YALI0E12683g"/>
-      <fbc:geneProduct fbc:id="G_YALI0B04202g" fbc:label="YALI0B04202g" fbc:name="YALI0B04202g"/>
       <fbc:geneProduct fbc:id="G_YALI0C15807g" fbc:label="YALI0C15807g" fbc:name="YALI0C15807g"/>
+      <fbc:geneProduct fbc:id="G_YALI0B04202g" fbc:label="YALI0B04202g" fbc:name="YALI0B04202g"/>
       <fbc:geneProduct fbc:id="G_YALI0F22781g" fbc:label="YALI0F22781g" fbc:name="YALI0F22781g"/>
       <fbc:geneProduct fbc:id="G_YALI0A18183g" fbc:label="YALI0A18183g" fbc:name="YALI0A18183g"/>
       <fbc:geneProduct fbc:id="G_YALI0F26323g" fbc:label="YALI0F26323g" fbc:name="YALI0F26323g"/>
@@ -20041,40 +20041,40 @@
       <fbc:geneProduct fbc:id="G_YALI0A15972g" fbc:label="YALI0A15972g" fbc:name="YALI0A15972g"/>
       <fbc:geneProduct fbc:id="G_YALI0E17633g" fbc:label="YALI0E17633g" fbc:name="YALI0E17633g"/>
       <fbc:geneProduct fbc:id="G_YALI0C06776g" fbc:label="YALI0C06776g" fbc:name="YALI0C06776g"/>
-      <fbc:geneProduct fbc:id="G_YALI0B01606g" fbc:label="YALI0B01606g" fbc:name="YALI0B01606g"/>
       <fbc:geneProduct fbc:id="G_YALI0E17875g" fbc:label="YALI0E17875g" fbc:name="YALI0E17875g"/>
+      <fbc:geneProduct fbc:id="G_YALI0B01606g" fbc:label="YALI0B01606g" fbc:name="YALI0B01606g"/>
       <fbc:geneProduct fbc:id="G_YALI0E21780g" fbc:label="YALI0E21780g" fbc:name="YALI0E21780g"/>
       <fbc:geneProduct fbc:id="G_YALI0C11693g" fbc:label="YALI0C11693g" fbc:name="YALI0C11693g"/>
       <fbc:geneProduct fbc:id="G_YALI0B05786g" fbc:label="YALI0B05786g" fbc:name="YALI0B05786g"/>
-      <fbc:geneProduct fbc:id="G_YALI0A03113g" fbc:label="YALI0A03113g" fbc:name="YALI0A03113g"/>
       <fbc:geneProduct fbc:id="G_YALI0E00594g" fbc:label="YALI0E00594g" fbc:name="YALI0E00594g"/>
+      <fbc:geneProduct fbc:id="G_YALI0A03113g" fbc:label="YALI0A03113g" fbc:name="YALI0A03113g"/>
       <fbc:geneProduct fbc:id="G_YALI0B04026g" fbc:label="YALI0B04026g" fbc:name="YALI0B04026g"/>
       <fbc:geneProduct fbc:id="G_YALI0F26455g" fbc:label="YALI0F26455g" fbc:name="YALI0F26455g"/>
       <fbc:geneProduct fbc:id="G_YALI0D02497g" fbc:label="YALI0D02497g" fbc:name="YALI0D02497g"/>
       <fbc:geneProduct fbc:id="G_YALI0E10307g" fbc:label="YALI0E10307g" fbc:name="YALI0E10307g"/>
-      <fbc:geneProduct fbc:id="G_YALI0B08052g" fbc:label="YALI0B08052g" fbc:name="YALI0B08052g"/>
-      <fbc:geneProduct fbc:id="G_YALI0D07062g" fbc:label="YALI0D07062g" fbc:name="YALI0D07062g"/>
-      <fbc:geneProduct fbc:id="G_YALI0D08778g" fbc:label="YALI0D08778g" fbc:name="YALI0D08778g"/>
+      <fbc:geneProduct fbc:id="G_YALI0F24937g" fbc:label="YALI0F24937g" fbc:name="YALI0F24937g"/>
       <fbc:geneProduct fbc:id="G_YALI0D12386g" fbc:label="YALI0D12386g" fbc:name="YALI0D12386g"/>
+      <fbc:geneProduct fbc:id="G_YALI0B08052g" fbc:label="YALI0B08052g" fbc:name="YALI0B08052g"/>
+      <fbc:geneProduct fbc:id="G_YALI0D08778g" fbc:label="YALI0D08778g" fbc:name="YALI0D08778g"/>
       <fbc:geneProduct fbc:id="G_YALI0F09097g" fbc:label="YALI0F09097g" fbc:name="YALI0F09097g"/>
       <fbc:geneProduct fbc:id="G_YALI0D11616g" fbc:label="YALI0D11616g" fbc:name="YALI0D11616g"/>
-      <fbc:geneProduct fbc:id="G_YALI0F24937g" fbc:label="YALI0F24937g" fbc:name="YALI0F24937g"/>
+      <fbc:geneProduct fbc:id="G_YALI0D07062g" fbc:label="YALI0D07062g" fbc:name="YALI0D07062g"/>
       <fbc:geneProduct fbc:id="G_YALI0C20251g" fbc:label="YALI0C20251g" fbc:name="YALI0C20251g"/>
       <fbc:geneProduct fbc:id="G_YALI0F26433g" fbc:label="YALI0F26433g" fbc:name="YALI0F26433g"/>
       <fbc:geneProduct fbc:id="G_YALI0C05170g" fbc:label="YALI0C05170g" fbc:name="YALI0C05170g"/>
       <fbc:geneProduct fbc:id="G_YALI0F04774g" fbc:label="YALI0F04774g" fbc:name="YALI0F04774g"/>
-      <fbc:geneProduct fbc:id="G_YALI0E32164g" fbc:label="YALI0E32164g" fbc:name="YALI0E32164g"/>
+      <fbc:geneProduct fbc:id="G_YALI0F20306g" fbc:label="YALI0F20306g" fbc:name="YALI0F20306g"/>
       <fbc:geneProduct fbc:id="G_YALI0D17490g" fbc:label="YALI0D17490g" fbc:name="YALI0D17490g"/>
       <fbc:geneProduct fbc:id="G_YALI0D11814g" fbc:label="YALI0D11814g" fbc:name="YALI0D11814g"/>
       <fbc:geneProduct fbc:id="G_YALI0B21527g" fbc:label="YALI0B21527g" fbc:name="YALI0B21527g"/>
+      <fbc:geneProduct fbc:id="G_YALI0B03982g" fbc:label="YALI0B03982g" fbc:name="YALI0B03982g"/>
       <fbc:geneProduct fbc:id="G_YALI0F03179g" fbc:label="YALI0F03179g" fbc:name="YALI0F03179g"/>
       <fbc:geneProduct fbc:id="G_NP_075437" fbc:label="NP_075437" fbc:name="NP_075437"/>
       <fbc:geneProduct fbc:id="G_YALI0D22022g" fbc:label="YALI0D22022g" fbc:name="YALI0D22022g"/>
-      <fbc:geneProduct fbc:id="G_YALI0F20306g" fbc:label="YALI0F20306g" fbc:name="YALI0F20306g"/>
+      <fbc:geneProduct fbc:id="G_YALI0E32164g" fbc:label="YALI0E32164g" fbc:name="YALI0E32164g"/>
       <fbc:geneProduct fbc:id="G_YALI0B06831g" fbc:label="YALI0B06831g" fbc:name="YALI0B06831g"/>
       <fbc:geneProduct fbc:id="G_NP_075432" fbc:label="NP_075432" fbc:name="NP_075432"/>
       <fbc:geneProduct fbc:id="G_YALI0F02893g" fbc:label="YALI0F02893g" fbc:name="YALI0F02893g"/>
-      <fbc:geneProduct fbc:id="G_YALI0B03982g" fbc:label="YALI0B03982g" fbc:name="YALI0B03982g"/>
       <fbc:geneProduct fbc:id="G_YALI0D12584g" fbc:label="YALI0D12584g" fbc:name="YALI0D12584g"/>
       <fbc:geneProduct fbc:id="G_NP_075433" fbc:label="NP_075433" fbc:name="NP_075433"/>
       <fbc:geneProduct fbc:id="G_YALI0B22066g" fbc:label="YALI0B22066g" fbc:name="YALI0B22066g"/>
@@ -20083,21 +20083,21 @@
       <fbc:geneProduct fbc:id="G_YALI0B18898g" fbc:label="YALI0B18898g" fbc:name="YALI0B18898g"/>
       <fbc:geneProduct fbc:id="G_YALI0B08536g" fbc:label="YALI0B08536g" fbc:name="YALI0B08536g"/>
       <fbc:geneProduct fbc:id="G_YALI0F10923g" fbc:label="YALI0F10923g" fbc:name="YALI0F10923g"/>
-      <fbc:geneProduct fbc:id="G_YALI0C12749g" fbc:label="YALI0C12749g" fbc:name="YALI0C12749g"/>
       <fbc:geneProduct fbc:id="G_YALI0D25234g" fbc:label="YALI0D25234g" fbc:name="YALI0D25234g"/>
+      <fbc:geneProduct fbc:id="G_YALI0C12749g" fbc:label="YALI0C12749g" fbc:name="YALI0C12749g"/>
       <fbc:geneProduct fbc:id="G_YALI0F18216g" fbc:label="YALI0F18216g" fbc:name="YALI0F18216g"/>
-      <fbc:geneProduct fbc:id="G_YALI0F05984g" fbc:label="YALI0F05984g" fbc:name="YALI0F05984g"/>
-      <fbc:geneProduct fbc:id="G_YALI0E27247g" fbc:label="YALI0E27247g" fbc:name="YALI0E27247g"/>
-      <fbc:geneProduct fbc:id="G_YALI0F28369g" fbc:label="YALI0F28369g" fbc:name="YALI0F28369g"/>
-      <fbc:geneProduct fbc:id="G_YALI0E20471g" fbc:label="YALI0E20471g" fbc:name="YALI0E20471g"/>
-      <fbc:geneProduct fbc:id="G_YALI0F21109g" fbc:label="YALI0F21109g" fbc:name="YALI0F21109g"/>
-      <fbc:geneProduct fbc:id="G_YALI0C08569g" fbc:label="YALI0C08569g" fbc:name="YALI0C08569g"/>
-      <fbc:geneProduct fbc:id="G_YALI0D10043g" fbc:label="YALI0D10043g" fbc:name="YALI0D10043g"/>
-      <fbc:geneProduct fbc:id="G_YALI0D12100g" fbc:label="YALI0D12100g" fbc:name="YALI0D12100g"/>
-      <fbc:geneProduct fbc:id="G_YALI0C02783g" fbc:label="YALI0C02783g" fbc:name="YALI0C02783g"/>
-      <fbc:geneProduct fbc:id="G_YALI0E20273g" fbc:label="YALI0E20273g" fbc:name="YALI0E20273g"/>
       <fbc:geneProduct fbc:id="G_YALI0F28193g" fbc:label="YALI0F28193g" fbc:name="YALI0F28193g"/>
+      <fbc:geneProduct fbc:id="G_YALI0F21109g" fbc:label="YALI0F21109g" fbc:name="YALI0F21109g"/>
+      <fbc:geneProduct fbc:id="G_YALI0F05984g" fbc:label="YALI0F05984g" fbc:name="YALI0F05984g"/>
+      <fbc:geneProduct fbc:id="G_YALI0D10043g" fbc:label="YALI0D10043g" fbc:name="YALI0D10043g"/>
+      <fbc:geneProduct fbc:id="G_YALI0F28369g" fbc:label="YALI0F28369g" fbc:name="YALI0F28369g"/>
+      <fbc:geneProduct fbc:id="G_YALI0C02783g" fbc:label="YALI0C02783g" fbc:name="YALI0C02783g"/>
+      <fbc:geneProduct fbc:id="G_YALI0E20471g" fbc:label="YALI0E20471g" fbc:name="YALI0E20471g"/>
+      <fbc:geneProduct fbc:id="G_YALI0C08569g" fbc:label="YALI0C08569g" fbc:name="YALI0C08569g"/>
       <fbc:geneProduct fbc:id="G_YALI0F19536g" fbc:label="YALI0F19536g" fbc:name="YALI0F19536g"/>
+      <fbc:geneProduct fbc:id="G_YALI0D12100g" fbc:label="YALI0D12100g" fbc:name="YALI0D12100g"/>
+      <fbc:geneProduct fbc:id="G_YALI0E20273g" fbc:label="YALI0E20273g" fbc:name="YALI0E20273g"/>
+      <fbc:geneProduct fbc:id="G_YALI0E27247g" fbc:label="YALI0E27247g" fbc:name="YALI0E27247g"/>
       <fbc:geneProduct fbc:id="G_YALI0D06798g" fbc:label="YALI0D06798g" fbc:name="YALI0D06798g"/>
       <fbc:geneProduct fbc:id="G_YALI0E04048g" fbc:label="YALI0E04048g" fbc:name="YALI0E04048g"/>
       <fbc:geneProduct fbc:id="G_YALI0F28765g" fbc:label="YALI0F28765g" fbc:name="YALI0F28765g"/>
@@ -20115,12 +20115,12 @@
       <fbc:geneProduct fbc:id="G_YALI0F04114g" fbc:label="YALI0F04114g" fbc:name="YALI0F04114g"/>
       <fbc:geneProduct fbc:id="G_YALI0F03201g" fbc:label="YALI0F03201g" fbc:name="YALI0F03201g"/>
       <fbc:geneProduct fbc:id="G_YALI0E19723g" fbc:label="YALI0E19723g" fbc:name="YALI0E19723g"/>
-      <fbc:geneProduct fbc:id="G_YALI0F03567g" fbc:label="YALI0F03567g" fbc:name="YALI0F03567g"/>
       <fbc:geneProduct fbc:id="G_YALI0E16709g" fbc:label="YALI0E16709g" fbc:name="YALI0E16709g"/>
       <fbc:geneProduct fbc:id="G_NP_075438" fbc:label="NP_075438" fbc:name="NP_075438"/>
       <fbc:geneProduct fbc:id="G_YALI0E12628g" fbc:label="YALI0E12628g" fbc:name="YALI0E12628g"/>
       <fbc:geneProduct fbc:id="G_NP_075434" fbc:label="NP_075434" fbc:name="NP_075434"/>
       <fbc:geneProduct fbc:id="G_YALI0E10144g" fbc:label="YALI0E10144g" fbc:name="YALI0E10144g"/>
+      <fbc:geneProduct fbc:id="G_YALI0F03567g" fbc:label="YALI0F03567g" fbc:name="YALI0F03567g"/>
       <fbc:geneProduct fbc:id="G_YALI0F04103g" fbc:label="YALI0F04103g" fbc:name="YALI0F04103g"/>
       <fbc:geneProduct fbc:id="G_YALI0D18568g" fbc:label="YALI0D18568g" fbc:name="YALI0D18568g"/>
       <fbc:geneProduct fbc:id="G_YALI0E34037g" fbc:label="YALI0E34037g" fbc:name="YALI0E34037g"/>
@@ -20174,17 +20174,17 @@
       <fbc:geneProduct fbc:id="G_YALI0E02244g" fbc:label="YALI0E02244g" fbc:name="YALI0E02244g"/>
       <fbc:geneProduct fbc:id="G_YALI0E18964g" fbc:label="YALI0E18964g" fbc:name="YALI0E18964g"/>
       <fbc:geneProduct fbc:id="G_YALI0C04092g" fbc:label="YALI0C04092g" fbc:name="YALI0C04092g"/>
-      <fbc:geneProduct fbc:id="G_YALI0B09361g" fbc:label="YALI0B09361g" fbc:name="YALI0B09361g"/>
       <fbc:geneProduct fbc:id="G_YALI0D1984g" fbc:label="YALI0D1984g" fbc:name="YALI0D1984g"/>
+      <fbc:geneProduct fbc:id="G_YALI0B09361g" fbc:label="YALI0B09361g" fbc:name="YALI0B09361g"/>
       <fbc:geneProduct fbc:id="G_YALI0A20350g" fbc:label="YALI0A20350g" fbc:name="YALI0A20350g"/>
       <fbc:geneProduct fbc:id="G_YALI0F20504g" fbc:label="YALI0F20504g" fbc:name="YALI0F20504g"/>
       <fbc:geneProduct fbc:id="G_YALI0F19470g" fbc:label="YALI0F19470g" fbc:name="YALI0F19470g"/>
       <fbc:geneProduct fbc:id="G_YALI0D16357g" fbc:label="YALI0D16357g" fbc:name="YALI0D16357g"/>
       <fbc:geneProduct fbc:id="G_YALI0B15598g" fbc:label="YALI0B15598g" fbc:name="YALI0B15598g"/>
       <fbc:geneProduct fbc:id="G_YALI0F09966g" fbc:label="YALI0F09966g" fbc:name="YALI0F09966g"/>
+      <fbc:geneProduct fbc:id="G_YALI0B01771g" fbc:label="YALI0B01771g" fbc:name="YALI0B01771g"/>
       <fbc:geneProduct fbc:id="G_YALI0F14113g" fbc:label="YALI0F14113g" fbc:name="YALI0F14113g"/>
       <fbc:geneProduct fbc:id="G_YALI0D08206g" fbc:label="YALI0D08206g" fbc:name="YALI0D08206g"/>
-      <fbc:geneProduct fbc:id="G_YALI0B01771g" fbc:label="YALI0B01771g" fbc:name="YALI0B01771g"/>
       <fbc:geneProduct fbc:id="G_YALI0F19228g" fbc:label="YALI0F19228g" fbc:name="YALI0F19228g"/>
       <fbc:geneProduct fbc:id="G_YALI0F30481g" fbc:label="YALI0F30481g" fbc:name="YALI0F30481g"/>
       <fbc:geneProduct fbc:id="G_YALI0E33957g" fbc:label="YALI0E33957g" fbc:name="YALI0E33957g"/>
@@ -20206,8 +20206,8 @@
       <fbc:geneProduct fbc:id="G_YALI0B21824g" fbc:label="YALI0B21824g" fbc:name="YALI0B21824g"/>
       <fbc:geneProduct fbc:id="G_YALI0E14509g" fbc:label="YALI0E14509g" fbc:name="YALI0E14509g"/>
       <fbc:geneProduct fbc:id="G_YALI0E28787g" fbc:label="YALI0E28787g" fbc:name="YALI0E28787g"/>
-      <fbc:geneProduct fbc:id="G_YALI0D02145g" fbc:label="YALI0D02145g" fbc:name="YALI0D02145g"/>
       <fbc:geneProduct fbc:id="G_YALI0D20724g" fbc:label="YALI0D20724g" fbc:name="YALI0D20724g"/>
+      <fbc:geneProduct fbc:id="G_YALI0D02145g" fbc:label="YALI0D02145g" fbc:name="YALI0D02145g"/>
       <fbc:geneProduct fbc:id="G_YALI0F11583g" fbc:label="YALI0F11583g" fbc:name="YALI0F11583g"/>
       <fbc:geneProduct fbc:id="G_YALI0E14443g" fbc:label="YALI0E14443g" fbc:name="YALI0E14443g"/>
       <fbc:geneProduct fbc:id="G_YALI0B10340g" fbc:label="YALI0B10340g" fbc:name="YALI0B10340g"/>
@@ -20244,8 +20244,8 @@
       <fbc:geneProduct fbc:id="G_YALI0C16885g" fbc:label="YALI0C16885g" fbc:name="YALI0C16885g"/>
       <fbc:geneProduct fbc:id="G_YALI0F04015g" fbc:label="YALI0F04015g" fbc:name="YALI0F04015g"/>
       <fbc:geneProduct fbc:id="G_YALI0D16137g" fbc:label="YALI0D16137g" fbc:name="YALI0D16137g"/>
-      <fbc:geneProduct fbc:id="G_YALI0F25795g" fbc:label="YALI0F25795g" fbc:name="YALI0F25795g"/>
       <fbc:geneProduct fbc:id="G_YALI0F07018g" fbc:label="YALI0F07018g" fbc:name="YALI0F07018g"/>
+      <fbc:geneProduct fbc:id="G_YALI0F25795g" fbc:label="YALI0F25795g" fbc:name="YALI0F25795g"/>
       <fbc:geneProduct fbc:id="G_YALI0D08228g" fbc:label="YALI0D08228g" fbc:name="YALI0D08228g"/>
       <fbc:geneProduct fbc:id="G_YALI0A10659g" fbc:label="YALI0A10659g" fbc:name="YALI0A10659g"/>
     </fbc:listOfGeneProducts>
@@ -36519,6 +36519,85 @@
             <fbc:geneProductRef fbc:geneProduct="G_YALI0C18799g"/>
           </fbc:or>
         </fbc:geneProductAssociation>
+      </reaction>
+      <reaction fast="false" id="R_r_021_xxxM" reversible="false" name="biomass production" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
+        <listOfReactants>
+          <speciesReference constant="true" species="M_s_0002" stoichiometry="1.1358"/>
+          <speciesReference constant="true" species="M_s_0091" stoichiometry="0.001531"/>
+          <speciesReference constant="true" species="M_s_0124" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_s_0409" stoichiometry="0.35734"/>
+          <speciesReference constant="true" species="M_s_0434" stoichiometry="0.051"/>
+          <speciesReference constant="true" species="M_s_0440" stoichiometry="0.13579"/>
+          <speciesReference constant="true" species="M_s_0442" stoichiometry="0.17152"/>
+          <speciesReference constant="true" species="M_s_0444" stoichiometry="0.17152"/>
+          <speciesReference constant="true" species="M_s_0446" stoichiometry="59.276"/>
+          <speciesReference constant="true" species="M_s_0511" stoichiometry="0.05"/>
+          <speciesReference constant="true" species="M_s_0524" stoichiometry="0.04288"/>
+          <speciesReference constant="true" species="M_s_0564" stoichiometry="0.003587"/>
+          <speciesReference constant="true" species="M_s_0569" stoichiometry="0.002432"/>
+          <speciesReference constant="true" species="M_s_0593" stoichiometry="0.002432"/>
+          <speciesReference constant="true" species="M_s_0619" stoichiometry="0.003587"/>
+          <speciesReference constant="true" species="M_s_0627" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_s_0632" stoichiometry="0.000125"/>
+          <speciesReference constant="true" species="M_s_0636" stoichiometry="0.005603"/>
+          <speciesReference constant="true" species="M_s_0642" stoichiometry="0.000812"/>
+          <speciesReference constant="true" species="M_s_0664" stoichiometry="0.000206"/>
+          <speciesReference constant="true" species="M_s_0670" stoichiometry="0.000114"/>
+          <speciesReference constant="true" species="M_s_0714" stoichiometry="0.268"/>
+          <speciesReference constant="true" species="M_s_0715" stoichiometry="0.268"/>
+          <speciesReference constant="true" species="M_s_0724" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_s_0740" stoichiometry="0.32518"/>
+          <speciesReference constant="true" species="M_s_0743" stoichiometry="0.51852"/>
+          <speciesReference constant="true" species="M_s_0752" stoichiometry="0.051"/>
+          <speciesReference constant="true" species="M_s_0796" stoichiometry="0.075041"/>
+          <speciesReference constant="true" species="M_s_0813" stoichiometry="0.17152"/>
+          <speciesReference constant="true" species="M_s_0963" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_s_0981" stoichiometry="0.25014"/>
+          <speciesReference constant="true" species="M_s_1003" stoichiometry="0.23942"/>
+          <speciesReference constant="true" species="M_s_1011" stoichiometry="0.82099"/>
+          <speciesReference constant="true" species="M_s_1016" stoichiometry="0.050027"/>
+          <speciesReference constant="true" species="M_s_1199" stoichiometry="0.11435"/>
+          <speciesReference constant="true" species="M_s_1220" stoichiometry="0.000373"/>
+          <speciesReference constant="true" species="M_s_1229" stoichiometry="0.002884"/>
+          <speciesReference constant="true" species="M_s_1234" stoichiometry="0.000697"/>
+          <speciesReference constant="true" species="M_s_1260" stoichiometry="0.12864"/>
+          <speciesReference constant="true" species="M_s_1283" stoichiometry="0.0009"/>
+          <speciesReference constant="true" species="M_s_1305" stoichiometry="0.25371"/>
+          <speciesReference constant="true" species="M_s_1347" stoichiometry="0.02"/>
+          <speciesReference constant="true" species="M_s_1371" stoichiometry="0.19653"/>
+          <speciesReference constant="true" species="M_s_1399" stoichiometry="0.000781"/>
+          <speciesReference constant="true" species="M_s_1402" stoichiometry="0.028"/>
+          <speciesReference constant="true" species="M_s_1407" stoichiometry="0.096481"/>
+          <speciesReference constant="true" species="M_s_1417" stoichiometry="0.067"/>
+          <speciesReference constant="true" species="M_s_1432" stoichiometry="0.25728"/>
+          <speciesReference constant="true" species="M_s_1448" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_s_4867916324031723730003465267113001569766204042973139179315134464" stoichiometry="1"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference constant="true" species="M_s_0400" stoichiometry="59.276"/>
+          <speciesReference constant="true" species="M_s_0463" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_s_1207" stoichiometry="59.305"/>
+          <speciesReference constant="true" species="M_s_1461_b" stoichiometry="0.35734"/>
+          <speciesReference constant="true" species="M_s_1462_b" stoichiometry="0.13579"/>
+          <speciesReference constant="true" species="M_s_1464_b" stoichiometry="0.17152"/>
+          <speciesReference constant="true" species="M_s_1466_b" stoichiometry="0.17152"/>
+          <speciesReference constant="true" species="M_s_1468_b" stoichiometry="0.04288"/>
+          <speciesReference constant="true" species="M_s_1469_b" stoichiometry="0.268"/>
+          <speciesReference constant="true" species="M_s_1470_b" stoichiometry="0.268"/>
+          <speciesReference constant="true" species="M_s_1472_b" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_s_1473_b" stoichiometry="0.075041"/>
+          <speciesReference constant="true" species="M_s_1475_b" stoichiometry="0.17152"/>
+          <speciesReference constant="true" species="M_s_1477_b" stoichiometry="0.25014"/>
+          <speciesReference constant="true" species="M_s_1479_b" stoichiometry="0.23942"/>
+          <speciesReference constant="true" species="M_s_1481_b" stoichiometry="0.050027"/>
+          <speciesReference constant="true" species="M_s_1483_b" stoichiometry="0.11435"/>
+          <speciesReference constant="true" species="M_s_1485_b" stoichiometry="0.12864"/>
+          <speciesReference constant="true" species="M_s_1486_b" stoichiometry="0.25371"/>
+          <speciesReference constant="true" species="M_s_1487_b" stoichiometry="0.19653"/>
+          <speciesReference constant="true" species="M_s_1489_b" stoichiometry="0.028"/>
+          <speciesReference constant="true" species="M_s_1491_b" stoichiometry="0.096481"/>
+          <speciesReference constant="true" species="M_s_1493_b" stoichiometry="0.25728"/>
+        </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_r_0314" reversible="true" name="cis-prenyltransferase step 06" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <listOfReactants>
