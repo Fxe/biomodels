@@ -13,7 +13,7 @@
     <fbc:listOfObjectives fbc:activeObjective="obj">
       <fbc:objective fbc:id="obj" fbc:type="maximize">
         <fbc:listOfFluxObjectives>
-          <fbc:fluxObjective fbc:reaction="R_r1147" fbc:coefficient="1"/>
+          <fbc:fluxObjective fbc:reaction="R_r1147M" fbc:coefficient="1"/>
         </fbc:listOfFluxObjectives>
       </fbc:objective>
     </fbc:listOfObjectives>
@@ -43,10 +43,10 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GTP_c" name="GTP" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_THF_m" name="tetrahydrofolate" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GLU_m" name="L-glutamate" compartment="m"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PI_m" name="phosphate" compartment="m"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ADP_m" name="ADP" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ATP_m" name="ATP" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_THFG_m" name="tetrahydrofolyl-(Glu)n" compartment="m"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ADP_m" name="ADP" compartment="m"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PI_m" name="phosphate" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_THFG_c" name="tetrahydrofolyl-(Glu)n" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ATP_c" name="ATP" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_THF_c" name="tetrahydrofolate" compartment="c"/>
@@ -159,9 +159,9 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C16HCOA_m" name="3-hydroxypalmitoyl-CoA" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_FRU_e" name="D-fructose" compartment="e"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_FRU_c" name="D-fructose" compartment="c"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_NADP_m" name="NADP(+)" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_NADPH_m" name="NADPH" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_NH3_m" name="NH3" compartment="m"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_NADP_m" name="NADP(+)" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_AKG_c" name="2-oxoglutarate" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_NH3_c" name="NH3" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_NAGA6P_c" name="N-acetyl-D-glucosamine 6-phosphate" compartment="c"/>
@@ -243,8 +243,8 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_UREA_x" name="urea" compartment="x"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_UREA_c" name="urea" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GAL1P_c" name="alpha-D-galactose 1-phosphate" compartment="c"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_UDPG_c" name="UDP-glucose" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_G1P_c" name="alpha-D-glucose 1-phosphate" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_UDPG_c" name="UDP-glucose" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_UDPGAL_c" name="UDP-D-galactose" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_XUL_c" name="D-xylulose" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_XUL5P_c" name="D-xylulose 5-phosphate" compartment="c"/>
@@ -264,8 +264,8 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ADP_e" name="ADP" compartment="e"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_LARABP_e" name="beta-L-arabinose 1-phosphate" compartment="e"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_CAFFCOA_m" name="Caffeoyl-CoA" compartment="m"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_SAM_m" name="S-adenosyl-L-methionine" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_SAH_m" name="S-adenosyl-L-homocysteine" compartment="m"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_SAM_m" name="S-adenosyl-L-methionine" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_FERYLCOA_m" name="feruloyl-CoA" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_SERNIN_c" name="Serotonin" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_NSERNIN_c" name="N-acetyl-Serotonin" compartment="c"/>
@@ -295,13 +295,13 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_EPST_p" name="episterol" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_MLEPL_p" name="4,4-dimethyl-5alpha-cholest-7-en-3beta-ol" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C160_c" name="palmitate" compartment="c"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C181_c" name="oleic acid" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C182_c" name="linoleate" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C183_c" name="octadecatrienoic acid" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C161_c" name="hexadecenoate" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C180_c" name="stearate" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GL_c" name="glycerol" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_MAGLY_c" name="1-monoglycerides" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C181_c" name="oleic acid" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_IMP_c" name="IMP" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_INS_c" name="inosine" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GMP_c" name="GMP" compartment="c"/>
@@ -334,8 +334,8 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DTMP_c" name="dTMP" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DU_c" name="deoxyuridine" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DUMP_c" name="dUMP" compartment="c"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GN_c" name="guanine" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PRPP_c" name="5-phospho-alpha-D-ribose 1-diphosphate" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GN_c" name="guanine" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ADN_c" name="adenosine" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_CYTD_c" name="cytidine" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_CMP_c" name="CMP" compartment="c"/>
@@ -396,7 +396,36 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_3PSME_c" name="5-O-(1-carboxyvinyl)-3-phosphoshikimate" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ACAL_p" name="acetaldehyde" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_AC_p" name="acetate" compartment="p"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C181COA_c" name="oleoyl-CoA" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GLN_c" name="L-glutamine" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PRO_c" name="L-proline" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ASN_c" name="L-asparagine" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_CTP_c" name="CTP" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_TRP_c" name="L-tryptophan" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_MAN_c" name="D-mannose" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PINS_c" name="1-phosphatidyl-1D-myo-inositols" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_UDPGE_c" name="UDP-D-glucuronate" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ILE_c" name="L-isoleucine" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_BIOMASS_c" name="biomass" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_CHITO_c" name="chitosan" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ARG_c" name="L-arginine" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GDPFUC_c" name="GDP-L-fucose" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GLYNIN_c" name="glycogenin" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PC_c" name="phosphatidylcholines" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_MET_c" name="L-methionine" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_LYS_c" name="L-lysine" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_FFA_c" name="free fatty acid" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DTTP_c" name="dTTP" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PS_c" name="phosphatidylserine" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ALA_c" name="L-alanine" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_THR_c" name="L-threonine" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DATP_c" name="dATP" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PA_c" name="phosphatidate" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_CHIT_c" name="chitin" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PE_c" name="phosphatidylethanolamines" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_SER_c" name="L-serine" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ERGOSE_c" name="sterol ester" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_UTP_c" name="UTP" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DCTP_c" name="dCTP" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_AC_m" name="acetate" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ACAL_m" name="acetaldehyde" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_MELI_c" name="melibiose" compartment="c"/>
@@ -404,6 +433,7 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C8DCOA_m" name="trans-oct-2-enoyl-CoA" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C80COA_m" name="octanoyl-CoA" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_MCECOA_x" name="2-methylacetoacetyl-CoA" compartment="x"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C181COA_c" name="oleoyl-CoA" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_URA_m" name="uracil" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_CYTS_m" name="cytosine" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DITP_c" name="dITP" compartment="c"/>
@@ -446,15 +476,12 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DTB_c" name="dethiobiotin" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_S_c" name="sulfur" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_BT_c" name="biotin" compartment="c"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_MET_c" name="L-methionine" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C183COA_c" name="octadecatrienoyl-CoA" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PROPCOA_m" name="propionyl-CoA" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_HCO3_m" name="HCO3" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_MMCOA_m" name="(S)-methylmalonyl-CoA" compartment="m"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_TRP_c" name="L-tryptophan" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_TRPTRNA_c" name="L-tryptophanyl-tRNA(Trp)" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ASNTRNA_c" name="L-asparaginyl-tRNA(Asn)" compartment="c"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ASN_c" name="L-asparagine" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_TTHBOTR_c" name="tetrahydrobiopterin" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_HYTTHBOTR_c" name="4a-hydroxytetrahydrobiopterin" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_MAYLPYR_c" name="maleylpyruvate" compartment="c"/>
@@ -462,15 +489,13 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_NAGLU_c" name="N-acetyl-L-glutamate" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_NAORN_c" name="N2-acetyl-L-ornithine" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ORN_c" name="L-ornithine" compartment="c"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PRO_c" name="L-proline" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_P5C_c" name="(S)-1-pyrroline-5-carboxylate" compartment="c"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_FERI_m" name="ferricytochrome c" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_LAC_m" name="(R)-lactate" compartment="m"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_FERI_m" name="ferricytochrome c" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_FERO_m" name="ferrocytochrome c" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_RX_p" name="RX" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_OGT_p" name="oxidized glutathione" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_HX_p" name="HX" compartment="p"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ARG_c" name="L-arginine" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ADP_p" name="ADP" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GLU_p" name="L-glutamate" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GLUP_p" name="D-alpha-glutamyl phosphate" compartment="p"/>
@@ -505,13 +530,13 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_P5C_m" name="(S)-1-pyrroline-5-carboxylate" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GLUGSAL_m" name="L-glutamate 5-semialdehyde" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_AMP_p" name="AMP" compartment="p"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C182_p" name="linoleate" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_COA_p" name="coenzyme A" compartment="p"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C182_p" name="linoleate" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_LLCT_c" name="L-cystathionine" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ATP_x" name="ATP" compartment="x"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_SMMNYLCOA_x" name="(S)-methylmalonyl-CoA" compartment="x"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_HCO3_x" name="HCO3" compartment="x"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PI_x" name="phosphate" compartment="x"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_SMMNYLCOA_x" name="(S)-methylmalonyl-CoA" compartment="x"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_OBUT_m" name="2-oxobutanoate" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_LLCT_m" name="L-cystathionine" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ACPC_c" name="1-aminocyclopropanecarboxylate" compartment="c"/>
@@ -521,12 +546,10 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_IPPMAL_m" name="2-isopropylmalate" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_FRU1P_p" name="D-fructose 1-phosphate" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_FRU_p" name="D-fructose" compartment="p"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GLN_c" name="L-glutamine" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_BASP_c" name="4-phospho-L-aspartate" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C180COA_c" name="stearoyl-CoA" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ASPTRNA_c" name="L-aspartyl-tRNA(Asp)" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PINS_e" name="1-phosphatidyl-1D-myo-inositols" compartment="e"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PINS_c" name="1-phosphatidyl-1D-myo-inositols" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C140ACP_c" name="myristoyl-[acp]" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C14DACP_c" name="trans-tetradec-2-enoyl-[acp]" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C180COA_p" name="stearoyl-CoA" compartment="p"/>
@@ -548,7 +571,6 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ACAL_c" name="acetaldehyde" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C120ACP_c" name="lauroyl-[acp]" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C12DACP_c" name="trans-dodec-2-enoyl-[acp]" compartment="c"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ALA_c" name="L-alanine" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DASP_c" name="D-aspartate" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_NITE_c" name="nitrile" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_CARBO_c" name="monocarboxylic acid anion" compartment="c"/>
@@ -557,22 +579,18 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_H_PO_c" name="H(+)" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ITP_c" name="ITP" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_XMP_c" name="xanthosine 5'-phosphate" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DASP_e" name="D-aspartate" compartment="e"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_OA_e" name="oxaloacetate" compartment="e"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_NH3_e" name="NH3" compartment="e"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DASP_e" name="D-aspartate" compartment="e"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_XAN_e" name="xanthine" compartment="e"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GN_e" name="guanine" compartment="e"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_MALCOA_m" name="malonyl-CoA" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PHSER_c" name="O-phospho-L-homoserine" compartment="c"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_THR_c" name="L-threonine" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C161COA_c" name="hexadecenoyl-CoA" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_LTHETRNA_c" name="L-threonyl-tRNA(Thr)" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C100COA_c" name="decanoyl-CoA" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_SER_m" name="L-serine" compartment="m"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_Q_m" name="ubiquinone" compartment="m"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_QH2_m" name="ubiquinol" compartment="m"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_H_PO_m" name="H(+)" compartment="m"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_SER_c" name="L-serine" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_LSERTRNA_m" name="L-seryl-tRNA(Ser)" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_LSERTRNA_c" name="L-seryl-tRNA(Ser)" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PQ_e" name="Pyrroloquinoline quinone" compartment="e"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_BETALD_e" name="betaine aldehyde" compartment="e"/>
@@ -626,7 +644,6 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C6HCOA_c" name="3-hydroxyhexanoyl-CoA" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C6DCOA_c" name="trans-hex-2-enoyl-CoA" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C160COA_c" name="palmitoyl-CoA" compartment="c"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_FFA_c" name="free fatty acid" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C40COA_m" name="butyryl-CoA" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C6DCOA_m" name="trans-hex-2-enoyl-CoA" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C8HCOA_m" name="3-hydroxyoctanoyl-CoA" compartment="m"/>
@@ -639,8 +656,8 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_LValTRNA_c" name="L-valyl-tRNA(Val)" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_HAN_c" name="3-hydroxyanthranilate" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_HKYN_c" name="3-hydroxykynurenine" compartment="c"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_S7P_c" name="sedoheptulose 7-phosphate" compartment="c"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_UDPGE_c" name="UDP-D-glucuronate" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_UDPXYL_m" name="UDP-D-xylose " compartment="m"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_UDPGE_m" name="UDP-D-glucuronate" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_UDPXYL_c" name="UDP-D-xylose " compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PPRIX_c" name="protoporphyrin" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_FE_c" name="Fe2+" compartment="c"/>
@@ -654,7 +671,6 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C4HCOA_c" name="(S)-3-hydroxybutanoyl-CoA" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_UDPGAL_m" name="UDP-D-galactose" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_UDPG_m" name="UDP-glucose" compartment="m"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_UTP_c" name="UTP" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_R1P_c" name="D-ribose 1-phosphate" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_HYXN_c" name="hypoxanthine" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DR1P_c" name="2-deoxyribose 1-phosphate" compartment="c"/>
@@ -662,7 +678,6 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ATN_p" name="allantoin" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_HIURTE_p" name="5-hydroxyisourate" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_CO2_p" name="CO2" compartment="p"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DATP_c" name="dATP" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DADP_c" name="dADP" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_LLeuTRNA_c" name="L-leucyl-tRNA(Leu)" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DB4P_c" name="2-hydroxy-3-oxobutyl phosphate" compartment="c"/>
@@ -727,7 +742,6 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GLTCOA_m" name="glutaryl-CoA" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DHMVA_c" name="(R)-2,3-dihydroxy-3-methylbutanoate" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_OMVAL_c" name="2-keto-3-methyl-valerate" compartment="c"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_LSERTRNA_m" name="L-seryl-tRNA(Ser)" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_SUCC_x" name="succinate" compartment="x"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ICIT_x" name="isocitrate" compartment="x"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GLYTRNA_c" name="glycyl-tRNA(Gly)" compartment="c"/>
@@ -747,7 +761,6 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C183_p" name="octadecatrienoic acid" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C183_m" name="octadecatrienoic acid" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C183COA_m" name="octadecatrienoyl-CoA" compartment="m"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PA_c" name="phosphatidate" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GABA_m" name="gamma-aminobutyrate" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_SUCCSAL_m" name="succinate semialdehyde" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C10OCOA_m" name="3-oxodecanoyl-CoA" compartment="m"/>
@@ -776,8 +789,8 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_MECPYR_m" name="mercaptopyruvate" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DNAMCYS_c" name="DNA containing 5-methylcytosine" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DNACYS_c" name="DNA containing cytosine" compartment="c"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_MANNACD_p" name="D-Man-alpha-(1-&gt;2)-D-Man-alpha-(1-&gt;2)-D-Man-alpha-(1-&gt;3)-[D-Man-alpha-(1-&gt;6)]-D-Man-beta-(1-&gt;4)-D-GlcNAc-beta-(1-&gt;4)-D-GlcNAc-diphosphodolichol" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_MANDPPD_p" name="D-Man-alpha-(1-&gt;3)-[D-Man-alpha-(1-&gt;6)]-D-Man-beta-(1-&gt;4)-D-GlcNAc-beta-(1-&gt;4)-D-GlcNAc-diphosphodolichol" compartment="p"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_MANNACD_p" name="D-Man-alpha-(1-&gt;2)-D-Man-alpha-(1-&gt;2)-D-Man-alpha-(1-&gt;3)-[D-Man-alpha-(1-&gt;6)]-D-Man-beta-(1-&gt;4)-D-GlcNAc-beta-(1-&gt;4)-D-GlcNAc-diphosphodolichol" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GDPMAN_p" name="GDP-mannose" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_MANDPPD_c" name="D-Man-alpha-(1-&gt;3)-[D-Man-alpha-(1-&gt;6)]-D-Man-beta-(1-&gt;4)-D-GlcNAc-beta-(1-&gt;4)-D-GlcNAc-diphosphodolichol" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DOLMANP_p" name="dolichyl beta-D-mannosyl phosphate" compartment="p"/>
@@ -792,19 +805,21 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GLCADPP_p" name="D-Glc-alpha-(1-&gt;2)-D-Glc-alpha-(1-&gt;3)-D-Glc-alpha-(1-&gt;3)-D-Man-alpha-(1-&gt;2)-D-Man-alpha-(1-&gt;2)-D-Man-alpha-(1-&gt;3)-[D-Man-alpha-(1-&gt;2)-D-Man-alpha-(1-&gt;3)-[D-Man-alpha-(1-&gt;2)-D-Man-alpha-(1-&gt;6)]-D-Man-alpha-(1-&gt;6)]-D-Man-beta-(1-&gt;4)-D-GlcNAc-beta-(1-&gt;4)-D-GlcNAc-diphosphodolichol" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DEXG_m" name="2-deoxy-D-gluconic acid" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DEHXG_m" name="3-dehydro-2-deoxy-D-gluconate" compartment="m"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DEXG_c" name="2-deoxy-D-gluconic acid" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DEHXG_c" name="3-dehydro-2-deoxy-D-gluconate" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DEXG_c" name="2-deoxy-D-gluconic acid" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_UDPGE_p" name="UDP-D-glucuronate" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GLUCRE_p" name="beta-D-glucosiduronic acids" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DEXG_e" name="2-deoxy-D-gluconic acid" compartment="e"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DEHXG_e" name="3-dehydro-2-deoxy-D-gluconate" compartment="e"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_UDP_m" name="UDP" compartment="m"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_UDPGE_m" name="UDP-D-glucuronate" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GLUCRE_m" name="beta-D-glucosiduronic acids" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DHF_m" name="dihydrofolate" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GLUCRE_c" name="beta-D-glucosiduronic acids" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DHF_c" name="dihydrofolate" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_CYTD_p" name="cytidine" compartment="p"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_Q_m" name="ubiquinone" compartment="m"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_QH2_m" name="ubiquinol" compartment="m"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_H_PO_m" name="H(+)" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C60COA_c" name="hexanoyl-CoA" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_CYTD_m" name="cytidine" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_MTHGXL_c" name="methylglyoxal" compartment="c"/>
@@ -816,7 +831,6 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ACAL_e" name="acetaldehyde" compartment="e"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PINS_p" name="1-phosphatidyl-1D-myo-inositols" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PS_p" name="phosphatidylserine" compartment="p"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PS_c" name="phosphatidylserine" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_SME_c" name="shikimate" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_SME_m" name="shikimate" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GLN_m" name="L-glutamine" compartment="m"/>
@@ -828,18 +842,13 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_G6P_p" name="alpha-D-glucose 6-phosphate" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_FRU1P_c" name="D-fructose 1-phosphate" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_bDGLC_e" name="beta-D-glucose" compartment="e"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PE_c" name="phosphatidylethanolamines" compartment="c"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ERGOSE_c" name="sterol ester" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PC_e" name="phosphatidylcholines" compartment="e"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PC_c" name="phosphatidylcholines" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_14GLUCAN_e" name="1,4-beta-D-glucan" compartment="e"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_14GLUCAN_c" name="1,4-beta-D-glucan" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ACGLPE_c" name="1-acyl-sn-glycero-3-phosphoserine" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ACGLPE_e" name="1-acyl-sn-glycero-3-phosphoserine" compartment="e"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_LPC_c" name="lysophosphatidylcholine" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_LPC_e" name="lysophosphatidylcholine" compartment="e"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C40ACP_c" name="butyryl-[acp]" compartment="c"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C4DACP_c" name="trans-but-2-enoyl-[acp]" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_APOCE_m" name="apocytochrome C" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_CYMEC_m" name="holocytochrome c" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ARG_m" name="L-arginine" compartment="m"/>
@@ -849,7 +858,6 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_NAGPMIL_p" name="6-(N-acetyl-alpha-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol " compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DIDIPC_c" name="(S)-2,3-dihydrodipicolinate" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ASPSA_c" name="L-aspartate 4-semialdehyde" compartment="c"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_LYS_c" name="L-lysine" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_LLTRNA_c" name="L-lysyl-tRNA(Lys)" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_AABUTNOL_c" name="Acetyl amino butanol" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_LYS_m" name="L-lysine" compartment="m"/>
@@ -863,12 +871,10 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_BIOMASS_e" name="biomass" compartment="e"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_NAGLU_m" name="N-acetyl-L-glutamate" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_CHIB_c" name="chitobiose" compartment="c"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_CHIT_c" name="chitin" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DHVAL_m" name="(R)-3-hydroxy-3-methyl-2-oxobutanoate" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GC_c" name="gamma-L-glutamyl-L-cysteine" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ABUT_m" name="acetohydroxybutyrate" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_AHM_c" name="4-amino-5-hydroxymethyl-2-methylpyrimidine" compartment="c"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_MAN_c" name="D-mannose" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GLCOL_e" name="D-glucitol" compartment="e"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GLCLACNE_e" name="D-gluconolactone " compartment="e"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_MAN6P_p" name="D-mannose 6-phosphate" compartment="p"/>
@@ -882,13 +888,15 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_LYSOPAF_p" name="1-alkyl-sn-glycero-3-phosphocholine" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PAF_p" name="2-acetyl-1-alkyl-sn-glycero-3-phosphocholine" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ACCOA_p" name="acetyl-CoA" compartment="p"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_BCCP_c" name="holo-[carboxylase]" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_CBCCP_c" name="carboxybiotin-carboxyl-carrier protein" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_BCCP_c" name="holo-[carboxylase]" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_MALACP_m" name="malonyl-[acp]" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ACP_m" name="acyl-carrier protein" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GDPDDMAN_c" name="GDP-4-dehydro-6-deoxy-D-mannose" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GDPMAN_m" name="GDP-mannose" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_MAN1P_m" name="D-mannose 1-phosphate" compartment="m"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_METHPENP_c" name="5-(methylthio)-2,3-dioxopentyl phosphate" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_METHIR1P_c" name="S-methyl-5-thio-D-ribulose 1-phosphate " compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ISOBUCOA_m" name="isobutyryl-CoA" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C161COA_p" name="hexadecenoyl-CoA" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C160COA_p" name="palmitoyl-CoA" compartment="p"/>
@@ -936,15 +944,14 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C180COA_m" name="stearoyl-CoA" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C160ACP_c" name="palmitoyl-[acp]" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DHSPH_c" name="3-dehydrosphinganine" compartment="c"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_UDPXYL_m" name="UDP-D-xylose " compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_CDPDG_p" name="CDP-diacylglycerols" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_MYOI_p" name="myo-inositol" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DHSPH_m" name="3-dehydrosphinganine" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ACYLPYR_m" name="3-acylpyruvate " compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ARGSUCC_c" name="N-(L-arginino)succinate" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_CITR_c" name="L-citrulline" compartment="c"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_CAR_c" name="carnitine" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_TMAMMOBNATE_c" name="4-Trimethylammoniobutanoate" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_CAR_c" name="carnitine" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DSAM_c" name="S-adenosylmethioninamine" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_SPRM_c" name="spermine" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_SPRMD_c" name="spermidine" compartment="c"/>
@@ -961,13 +968,10 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GLCNT_c" name="D-gluconate" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GLCN_p" name="D-glucosamine" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GA6P_p" name="D-glucosamine 6-phosphate" compartment="p"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_S7P_c" name="sedoheptulose 7-phosphate" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_R5P_c" name="D-ribose 5-phosphate" compartment="c"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GDPFUC_c" name="GDP-L-fucose" compartment="c"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_CHITO_c" name="chitosan" compartment="c"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GLYNIN_c" name="glycogenin" compartment="c"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_RNA_c" name="RNA" compartment="c"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DNA_c" name="DNA" compartment="c"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_BIOMASS_c" name="biomass" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C4HACP_m" name="3-hydroxybutyryl-[acp]" compartment="m"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_AACACP_m" name="3-oxoacyl-[acp]" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DEORIPI_c" name="2-deoxy-D-ribose 5-phosphate" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C6OACP_c" name="3-oxohexanoyl-[acp]" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C6OACP_m" name="3-oxohexanoyl-[acp]" compartment="m"/>
@@ -1059,9 +1063,7 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PSPH_p" name="phytosphingosine" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_CER3_c" name="phytoceramides" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_CER2_c" name="dihydroceramides" compartment="c"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DCTP_c" name="dCTP" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DUDP_m" name="dUDP" compartment="m"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DTTP_c" name="dTTP" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DCTP_m" name="dCTP" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PHPYR_c" name="keto-phenylpyruvate" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DUTP_c" name="dUTP" compartment="c"/>
@@ -1157,8 +1159,8 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_LCysTRNA_c" name="L-cysteinyl-tRNA(Cys)" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_HYPRO_m" name="trans-4-hydroxy-L-proline" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ACGLU5PI_m" name="N-acetyl-L-glutamyl 5-phosphate" compartment="m"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_AIR_c" name="5-amino-1-(5-phospho-D-ribosyl)imidazole" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_FGAM_c" name="2-formamido-N(1)-(5-phospho-D-ribosyl)acetamidine" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_AIR_c" name="5-amino-1-(5-phospho-D-ribosyl)imidazole" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_FAD_c" name="FAD" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ACOA_p" name="acyl CoAs" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_RFERN_c" name="reduced [2Fe-2S] ferredoxin" compartment="c"/>
@@ -1180,8 +1182,8 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_HNO3_m" name="nitrate" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_HNO3_c" name="nitrate" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C6OCOA_x" name="3-oxohexanoyl-CoA" compartment="x"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GAR_c" name="N(1)-(5-phospho-D-ribosyl)glycinamide" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_FGAR_c" name="N(2)-formyl-N(1)-(5-phospho-D-ribosyl)glycinamide" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GAR_c" name="N(1)-(5-phospho-D-ribosyl)glycinamide" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PRAM_c" name="5-phospho-D-ribosylamine" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PRFICA_c" name="5-formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_AICAR_c" name="5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide" compartment="c"/>
@@ -1209,11 +1211,9 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_H_PO_p" name="H(+)" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_FERI_p" name="ferricytochrome c" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_5OXOPRO_c" name="5-oxo-L-proline" compartment="c"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ILE_c" name="L-isoleucine" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ILE_m" name="L-isoleucine" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_LPE_p" name="Lysophosphatidylethanolamine" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GLYCEROETM_p" name="Glycerophosphoethanolamine" compartment="p"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_METHIR1P_c" name="S-methyl-5-thio-D-ribulose 1-phosphate " compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_OGT_c" name="oxidized glutathione" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PSPH_e" name="phytosphingosine" compartment="e"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_CER3_e" name="phytoceramides" compartment="e"/>
@@ -1238,7 +1238,6 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PETHM_c" name="ethanolamine phosphate" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PC_m" name="phosphatidylcholines" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_CHO_m" name="choline" compartment="m"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_CTP_c" name="CTP" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_CDPETN_c" name="CDP-ethanolamine" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PA_p" name="phosphatidate" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PDME_p" name="phosphatidyl-N-dimethylethanolamine" compartment="p"/>
@@ -1369,7 +1368,6 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_UTP_m" name="UTP" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_CTP_m" name="CTP" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_IDP_c" name="IDP" compartment="c"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_METHPENP_c" name="5-(methylthio)-2,3-dioxopentyl phosphate" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_RX_c" name="RX" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_HX_c" name="HX" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_THPTGLU_c" name="tetrahydropteroyltri-L-glutamate" compartment="c"/>
@@ -1395,13 +1393,13 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C18DACP_c" name="trans-octadec-2-enoyl-[acp]" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C18OACP_m" name="3-oxostearoyl-[acp]" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C18HACP_m" name="3-hydroxystearoyl-[acp]" compartment="m"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C40ACP_c" name="butyryl-[acp]" compartment="c"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C4DACP_c" name="trans-but-2-enoyl-[acp]" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C161_p" name="hexadecenoate" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_MASCORBATE_m" name="monodehydroascorbate" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_THME_c" name="thiamin" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_THDP_c" name="thiamin diphosphate" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_THMP_c" name="thiamin monophosphate" compartment="c"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C4HACP_m" name="3-hydroxybutyryl-[acp]" compartment="m"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_AACACP_m" name="3-oxoacyl-[acp]" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_NIDRINE_c" name="nicotinamide ribonucleotide" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C182_m" name="linoleate" compartment="m"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_LPROTRNA_c" name="L-prolyl-tRNA(Pro)" compartment="c"/>
@@ -1431,8 +1429,8 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_CAIR_c" name="1-(5-phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_GALUNT_e" name="D-galacturonate" compartment="e"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_PTATE_e" name="pectate" compartment="e"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C80COA_p" name="octanoyl-CoA" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C8DCOA_p" name="trans-oct-2-enoyl-CoA" compartment="p"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_C80COA_p" name="octanoyl-CoA" compartment="p"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_SAICAR_c" name="(2S)-2-[5-amino-1-(5-phospho-beta-D-ribosyl)imidazole-4-carboxamido]succinic acid" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ATN_c" name="allantoin" compartment="c"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_DSER_c" name="D-serine" compartment="c"/>
@@ -1520,29 +1518,29 @@
       <fbc:geneProduct fbc:id="G_186024" fbc:label="186024" fbc:name="186024"/>
       <fbc:geneProduct fbc:id="G_143338" fbc:label="143338" fbc:name="143338"/>
       <fbc:geneProduct fbc:id="G_153118" fbc:label="153118" fbc:name="153118"/>
-      <fbc:geneProduct fbc:id="G_116409" fbc:label="116409" fbc:name="116409"/>
       <fbc:geneProduct fbc:id="G_85917" fbc:label="85917" fbc:name="85917"/>
       <fbc:geneProduct fbc:id="G_154471" fbc:label="154471" fbc:name="154471"/>
       <fbc:geneProduct fbc:id="G_40808" fbc:label="40808" fbc:name="40808"/>
       <fbc:geneProduct fbc:id="G_41661" fbc:label="41661" fbc:name="41661"/>
       <fbc:geneProduct fbc:id="G_12948" fbc:label="12948" fbc:name="12948"/>
-      <fbc:geneProduct fbc:id="G_72427" fbc:label="72427" fbc:name="72427"/>
+      <fbc:geneProduct fbc:id="G_154996" fbc:label="154996" fbc:name="154996"/>
+      <fbc:geneProduct fbc:id="G_114551" fbc:label="114551" fbc:name="114551"/>
       <fbc:geneProduct fbc:id="G_153241" fbc:label="153241" fbc:name="153241"/>
-      <fbc:geneProduct fbc:id="G_139938" fbc:label="139938" fbc:name="139938"/>
+      <fbc:geneProduct fbc:id="G_116409" fbc:label="116409" fbc:name="116409"/>
       <fbc:geneProduct fbc:id="G_114562" fbc:label="114562" fbc:name="114562"/>
       <fbc:geneProduct fbc:id="G_104542" fbc:label="104542" fbc:name="104542"/>
+      <fbc:geneProduct fbc:id="G_72427" fbc:label="72427" fbc:name="72427"/>
       <fbc:geneProduct fbc:id="G_12920" fbc:label="12920" fbc:name="12920"/>
       <fbc:geneProduct fbc:id="G_188342" fbc:label="188342" fbc:name="188342"/>
-      <fbc:geneProduct fbc:id="G_154996" fbc:label="154996" fbc:name="154996"/>
       <fbc:geneProduct fbc:id="G_168848" fbc:label="168848" fbc:name="168848"/>
+      <fbc:geneProduct fbc:id="G_145794" fbc:label="145794" fbc:name="145794"/>
       <fbc:geneProduct fbc:id="G_143643" fbc:label="143643" fbc:name="143643"/>
       <fbc:geneProduct fbc:id="G_71463" fbc:label="71463" fbc:name="71463"/>
-      <fbc:geneProduct fbc:id="G_114551" fbc:label="114551" fbc:name="114551"/>
+      <fbc:geneProduct fbc:id="G_139938" fbc:label="139938" fbc:name="139938"/>
       <fbc:geneProduct fbc:id="G_146431" fbc:label="146431" fbc:name="146431"/>
       <fbc:geneProduct fbc:id="G_151786" fbc:label="151786" fbc:name="151786"/>
       <fbc:geneProduct fbc:id="G_138564" fbc:label="138564" fbc:name="138564"/>
       <fbc:geneProduct fbc:id="G_147829" fbc:label="147829" fbc:name="147829"/>
-      <fbc:geneProduct fbc:id="G_145794" fbc:label="145794" fbc:name="145794"/>
       <fbc:geneProduct fbc:id="G_155029" fbc:label="155029" fbc:name="155029"/>
       <fbc:geneProduct fbc:id="G_51930" fbc:label="51930" fbc:name="51930"/>
       <fbc:geneProduct fbc:id="G_158413" fbc:label="158413" fbc:name="158413"/>
@@ -1574,16 +1572,16 @@
       <fbc:geneProduct fbc:id="G_115852" fbc:label="115852" fbc:name="115852"/>
       <fbc:geneProduct fbc:id="G_129556" fbc:label="129556" fbc:name="129556"/>
       <fbc:geneProduct fbc:id="G_109798" fbc:label="109798" fbc:name="109798"/>
-      <fbc:geneProduct fbc:id="G_153255" fbc:label="153255" fbc:name="153255"/>
-      <fbc:geneProduct fbc:id="G_163857" fbc:label="163857" fbc:name="163857"/>
       <fbc:geneProduct fbc:id="G_154472" fbc:label="154472" fbc:name="154472"/>
       <fbc:geneProduct fbc:id="G_45445" fbc:label="45445" fbc:name="45445"/>
       <fbc:geneProduct fbc:id="G_76960" fbc:label="76960" fbc:name="76960"/>
       <fbc:geneProduct fbc:id="G_108845" fbc:label="108845" fbc:name="108845"/>
       <fbc:geneProduct fbc:id="G_71272" fbc:label="71272" fbc:name="71272"/>
+      <fbc:geneProduct fbc:id="G_153255" fbc:label="153255" fbc:name="153255"/>
+      <fbc:geneProduct fbc:id="G_163857" fbc:label="163857" fbc:name="163857"/>
       <fbc:geneProduct fbc:id="G_155047" fbc:label="155047" fbc:name="155047"/>
-      <fbc:geneProduct fbc:id="G_186020" fbc:label="186020" fbc:name="186020"/>
       <fbc:geneProduct fbc:id="G_134536" fbc:label="134536" fbc:name="134536"/>
+      <fbc:geneProduct fbc:id="G_186020" fbc:label="186020" fbc:name="186020"/>
       <fbc:geneProduct fbc:id="G_82930" fbc:label="82930" fbc:name="82930"/>
       <fbc:geneProduct fbc:id="G_153506" fbc:label="153506" fbc:name="153506"/>
       <fbc:geneProduct fbc:id="G_168275" fbc:label="168275" fbc:name="168275"/>
@@ -1619,16 +1617,16 @@
       <fbc:geneProduct fbc:id="G_80478" fbc:label="80478" fbc:name="80478"/>
       <fbc:geneProduct fbc:id="G_156316" fbc:label="156316" fbc:name="156316"/>
       <fbc:geneProduct fbc:id="G_152622" fbc:label="152622" fbc:name="152622"/>
-      <fbc:geneProduct fbc:id="G_155896" fbc:label="155896" fbc:name="155896"/>
       <fbc:geneProduct fbc:id="G_108623" fbc:label="108623" fbc:name="108623"/>
+      <fbc:geneProduct fbc:id="G_155896" fbc:label="155896" fbc:name="155896"/>
       <fbc:geneProduct fbc:id="G_151823" fbc:label="151823" fbc:name="151823"/>
       <fbc:geneProduct fbc:id="G_91027" fbc:label="91027" fbc:name="91027"/>
       <fbc:geneProduct fbc:id="G_182749" fbc:label="182749" fbc:name="182749"/>
-      <fbc:geneProduct fbc:id="G_155052" fbc:label="155052" fbc:name="155052"/>
       <fbc:geneProduct fbc:id="G_144240" fbc:label="144240" fbc:name="144240"/>
       <fbc:geneProduct fbc:id="G_152855" fbc:label="152855" fbc:name="152855"/>
       <fbc:geneProduct fbc:id="G_106827" fbc:label="106827" fbc:name="106827"/>
       <fbc:geneProduct fbc:id="G_156270" fbc:label="156270" fbc:name="156270"/>
+      <fbc:geneProduct fbc:id="G_155052" fbc:label="155052" fbc:name="155052"/>
       <fbc:geneProduct fbc:id="G_173198" fbc:label="173198" fbc:name="173198"/>
       <fbc:geneProduct fbc:id="G_170921" fbc:label="170921" fbc:name="170921"/>
       <fbc:geneProduct fbc:id="G_32654" fbc:label="32654" fbc:name="32654"/>
@@ -1706,8 +1704,8 @@
       <fbc:geneProduct fbc:id="G_156209" fbc:label="156209" fbc:name="156209"/>
       <fbc:geneProduct fbc:id="G_143537" fbc:label="143537" fbc:name="143537"/>
       <fbc:geneProduct fbc:id="G_111540" fbc:label="111540" fbc:name="111540"/>
-      <fbc:geneProduct fbc:id="G_84477" fbc:label="84477" fbc:name="84477"/>
       <fbc:geneProduct fbc:id="G_72966" fbc:label="72966" fbc:name="72966"/>
+      <fbc:geneProduct fbc:id="G_84477" fbc:label="84477" fbc:name="84477"/>
       <fbc:geneProduct fbc:id="G_151777" fbc:label="151777" fbc:name="151777"/>
       <fbc:geneProduct fbc:id="G_159931" fbc:label="159931" fbc:name="159931"/>
       <fbc:geneProduct fbc:id="G_154788" fbc:label="154788" fbc:name="154788"/>
@@ -1717,38 +1715,38 @@
       <fbc:geneProduct fbc:id="G_160585" fbc:label="160585" fbc:name="160585"/>
       <fbc:geneProduct fbc:id="G_144710" fbc:label="144710" fbc:name="144710"/>
       <fbc:geneProduct fbc:id="G_152522" fbc:label="152522" fbc:name="152522"/>
-      <fbc:geneProduct fbc:id="G_115564" fbc:label="115564" fbc:name="115564"/>
+      <fbc:geneProduct fbc:id="G_164675" fbc:label="164675" fbc:name="164675"/>
+      <fbc:geneProduct fbc:id="G_104294" fbc:label="104294" fbc:name="104294"/>
+      <fbc:geneProduct fbc:id="G_137559" fbc:label="137559" fbc:name="137559"/>
+      <fbc:geneProduct fbc:id="G_159390" fbc:label="159390" fbc:name="159390"/>
+      <fbc:geneProduct fbc:id="G_107150" fbc:label="107150" fbc:name="107150"/>
       <fbc:geneProduct fbc:id="G_43750" fbc:label="43750" fbc:name="43750"/>
       <fbc:geneProduct fbc:id="G_46183" fbc:label="46183" fbc:name="46183"/>
       <fbc:geneProduct fbc:id="G_87170" fbc:label="87170" fbc:name="87170"/>
       <fbc:geneProduct fbc:id="G_111062" fbc:label="111062" fbc:name="111062"/>
       <fbc:geneProduct fbc:id="G_110043" fbc:label="110043" fbc:name="110043"/>
       <fbc:geneProduct fbc:id="G_183101" fbc:label="183101" fbc:name="183101"/>
-      <fbc:geneProduct fbc:id="G_164675" fbc:label="164675" fbc:name="164675"/>
-      <fbc:geneProduct fbc:id="G_104294" fbc:label="104294" fbc:name="104294"/>
-      <fbc:geneProduct fbc:id="G_137559" fbc:label="137559" fbc:name="137559"/>
-      <fbc:geneProduct fbc:id="G_159390" fbc:label="159390" fbc:name="159390"/>
-      <fbc:geneProduct fbc:id="G_107150" fbc:label="107150" fbc:name="107150"/>
+      <fbc:geneProduct fbc:id="G_115564" fbc:label="115564" fbc:name="115564"/>
       <fbc:geneProduct fbc:id="G_109390" fbc:label="109390" fbc:name="109390"/>
       <fbc:geneProduct fbc:id="G_136026" fbc:label="136026" fbc:name="136026"/>
       <fbc:geneProduct fbc:id="G_171083" fbc:label="171083" fbc:name="171083"/>
       <fbc:geneProduct fbc:id="G_32850" fbc:label="32850" fbc:name="32850"/>
-      <fbc:geneProduct fbc:id="G_38809" fbc:label="38809" fbc:name="38809"/>
       <fbc:geneProduct fbc:id="G_163914" fbc:label="163914" fbc:name="163914"/>
       <fbc:geneProduct fbc:id="G_155265" fbc:label="155265" fbc:name="155265"/>
+      <fbc:geneProduct fbc:id="G_38809" fbc:label="38809" fbc:name="38809"/>
       <fbc:geneProduct fbc:id="G_158059" fbc:label="158059" fbc:name="158059"/>
       <fbc:geneProduct fbc:id="G_153654" fbc:label="153654" fbc:name="153654"/>
-      <fbc:geneProduct fbc:id="G_143490" fbc:label="143490" fbc:name="143490"/>
       <fbc:geneProduct fbc:id="G_187193" fbc:label="187193" fbc:name="187193"/>
+      <fbc:geneProduct fbc:id="G_143490" fbc:label="143490" fbc:name="143490"/>
       <fbc:geneProduct fbc:id="G_157012" fbc:label="157012" fbc:name="157012"/>
       <fbc:geneProduct fbc:id="G_178894" fbc:label="178894" fbc:name="178894"/>
       <fbc:geneProduct fbc:id="G_114992" fbc:label="114992" fbc:name="114992"/>
-      <fbc:geneProduct fbc:id="G_160416" fbc:label="160416" fbc:name="160416"/>
       <fbc:geneProduct fbc:id="G_154797" fbc:label="154797" fbc:name="154797"/>
+      <fbc:geneProduct fbc:id="G_160416" fbc:label="160416" fbc:name="160416"/>
       <fbc:geneProduct fbc:id="G_71892" fbc:label="71892" fbc:name="71892"/>
+      <fbc:geneProduct fbc:id="G_84681" fbc:label="84681" fbc:name="84681"/>
       <fbc:geneProduct fbc:id="G_112015" fbc:label="112015" fbc:name="112015"/>
       <fbc:geneProduct fbc:id="G_157997" fbc:label="157997" fbc:name="157997"/>
-      <fbc:geneProduct fbc:id="G_84681" fbc:label="84681" fbc:name="84681"/>
       <fbc:geneProduct fbc:id="G_156273" fbc:label="156273" fbc:name="156273"/>
       <fbc:geneProduct fbc:id="G_106396" fbc:label="106396" fbc:name="106396"/>
       <fbc:geneProduct fbc:id="G_45111" fbc:label="45111" fbc:name="45111"/>
@@ -1788,20 +1786,20 @@
       <fbc:geneProduct fbc:id="G_94652" fbc:label="94652" fbc:name="94652"/>
       <fbc:geneProduct fbc:id="G_155066" fbc:label="155066" fbc:name="155066"/>
       <fbc:geneProduct fbc:id="G_131707" fbc:label="131707" fbc:name="131707"/>
-      <fbc:geneProduct fbc:id="G_140394" fbc:label="140394" fbc:name="140394"/>
-      <fbc:geneProduct fbc:id="G_183535" fbc:label="183535" fbc:name="183535"/>
-      <fbc:geneProduct fbc:id="G_40611" fbc:label="40611" fbc:name="40611"/>
-      <fbc:geneProduct fbc:id="G_39095" fbc:label="39095" fbc:name="39095"/>
-      <fbc:geneProduct fbc:id="G_178122" fbc:label="178122" fbc:name="178122"/>
-      <fbc:geneProduct fbc:id="G_106785" fbc:label="106785" fbc:name="106785"/>
       <fbc:geneProduct fbc:id="G_153606" fbc:label="153606" fbc:name="153606"/>
-      <fbc:geneProduct fbc:id="G_183401" fbc:label="183401" fbc:name="183401"/>
+      <fbc:geneProduct fbc:id="G_178122" fbc:label="178122" fbc:name="178122"/>
+      <fbc:geneProduct fbc:id="G_140394" fbc:label="140394" fbc:name="140394"/>
+      <fbc:geneProduct fbc:id="G_39095" fbc:label="39095" fbc:name="39095"/>
+      <fbc:geneProduct fbc:id="G_106785" fbc:label="106785" fbc:name="106785"/>
+      <fbc:geneProduct fbc:id="G_40611" fbc:label="40611" fbc:name="40611"/>
+      <fbc:geneProduct fbc:id="G_183535" fbc:label="183535" fbc:name="183535"/>
       <fbc:geneProduct fbc:id="G_155511" fbc:label="155511" fbc:name="155511"/>
-      <fbc:geneProduct fbc:id="G_157169" fbc:label="157169" fbc:name="157169"/>
       <fbc:geneProduct fbc:id="G_152792" fbc:label="152792" fbc:name="152792"/>
       <fbc:geneProduct fbc:id="G_151182" fbc:label="151182" fbc:name="151182"/>
       <fbc:geneProduct fbc:id="G_79453" fbc:label="79453" fbc:name="79453"/>
       <fbc:geneProduct fbc:id="G_154701" fbc:label="154701" fbc:name="154701"/>
+      <fbc:geneProduct fbc:id="G_183401" fbc:label="183401" fbc:name="183401"/>
+      <fbc:geneProduct fbc:id="G_157169" fbc:label="157169" fbc:name="157169"/>
       <fbc:geneProduct fbc:id="G_159104" fbc:label="159104" fbc:name="159104"/>
       <fbc:geneProduct fbc:id="G_43630" fbc:label="43630" fbc:name="43630"/>
       <fbc:geneProduct fbc:id="G_186878" fbc:label="186878" fbc:name="186878"/>
@@ -1812,14 +1810,14 @@
       <fbc:geneProduct fbc:id="G_183529" fbc:label="183529" fbc:name="183529"/>
       <fbc:geneProduct fbc:id="G_183941" fbc:label="183941" fbc:name="183941"/>
       <fbc:geneProduct fbc:id="G_134408" fbc:label="134408" fbc:name="134408"/>
-      <fbc:geneProduct fbc:id="G_120424" fbc:label="120424" fbc:name="120424"/>
       <fbc:geneProduct fbc:id="G_90838" fbc:label="90838" fbc:name="90838"/>
-      <fbc:geneProduct fbc:id="G_160397" fbc:label="160397" fbc:name="160397"/>
-      <fbc:geneProduct fbc:id="G_157439" fbc:label="157439" fbc:name="157439"/>
       <fbc:geneProduct fbc:id="G_155149" fbc:label="155149" fbc:name="155149"/>
+      <fbc:geneProduct fbc:id="G_120424" fbc:label="120424" fbc:name="120424"/>
       <fbc:geneProduct fbc:id="G_139628" fbc:label="139628" fbc:name="139628"/>
       <fbc:geneProduct fbc:id="G_34200" fbc:label="34200" fbc:name="34200"/>
       <fbc:geneProduct fbc:id="G_140177" fbc:label="140177" fbc:name="140177"/>
+      <fbc:geneProduct fbc:id="G_157439" fbc:label="157439" fbc:name="157439"/>
+      <fbc:geneProduct fbc:id="G_160397" fbc:label="160397" fbc:name="160397"/>
       <fbc:geneProduct fbc:id="G_155962" fbc:label="155962" fbc:name="155962"/>
       <fbc:geneProduct fbc:id="G_71408" fbc:label="71408" fbc:name="71408"/>
       <fbc:geneProduct fbc:id="G_155184" fbc:label="155184" fbc:name="155184"/>
@@ -1842,12 +1840,7 @@
       <fbc:geneProduct fbc:id="G_168698" fbc:label="168698" fbc:name="168698"/>
       <fbc:geneProduct fbc:id="G_73796" fbc:label="73796" fbc:name="73796"/>
       <fbc:geneProduct fbc:id="G_186686" fbc:label="186686" fbc:name="186686"/>
-      <fbc:geneProduct fbc:id="G_156821" fbc:label="156821" fbc:name="156821"/>
-      <fbc:geneProduct fbc:id="G_155567" fbc:label="155567" fbc:name="155567"/>
-      <fbc:geneProduct fbc:id="G_45199" fbc:label="45199" fbc:name="45199"/>
-      <fbc:geneProduct fbc:id="G_155547" fbc:label="155547" fbc:name="155547"/>
-      <fbc:geneProduct fbc:id="G_156691" fbc:label="156691" fbc:name="156691"/>
-      <fbc:geneProduct fbc:id="G_155756" fbc:label="155756" fbc:name="155756"/>
+      <fbc:geneProduct fbc:id="G_139115" fbc:label="139115" fbc:name="139115"/>
       <fbc:geneProduct fbc:id="G_153465" fbc:label="153465" fbc:name="153465"/>
       <fbc:geneProduct fbc:id="G_155485" fbc:label="155485" fbc:name="155485"/>
       <fbc:geneProduct fbc:id="G_182769" fbc:label="182769" fbc:name="182769"/>
@@ -1856,9 +1849,10 @@
       <fbc:geneProduct fbc:id="G_122761" fbc:label="122761" fbc:name="122761"/>
       <fbc:geneProduct fbc:id="G_155577" fbc:label="155577" fbc:name="155577"/>
       <fbc:geneProduct fbc:id="G_156117" fbc:label="156117" fbc:name="156117"/>
-      <fbc:geneProduct fbc:id="G_113242" fbc:label="113242" fbc:name="113242"/>
       <fbc:geneProduct fbc:id="G_151635" fbc:label="151635" fbc:name="151635"/>
+      <fbc:geneProduct fbc:id="G_113242" fbc:label="113242" fbc:name="113242"/>
       <fbc:geneProduct fbc:id="G_154478" fbc:label="154478" fbc:name="154478"/>
+      <fbc:geneProduct fbc:id="G_156691" fbc:label="156691" fbc:name="156691"/>
       <fbc:geneProduct fbc:id="G_156534" fbc:label="156534" fbc:name="156534"/>
       <fbc:geneProduct fbc:id="G_105638" fbc:label="105638" fbc:name="105638"/>
       <fbc:geneProduct fbc:id="G_104741" fbc:label="104741" fbc:name="104741"/>
@@ -1881,8 +1875,6 @@
       <fbc:geneProduct fbc:id="G_149410" fbc:label="149410" fbc:name="149410"/>
       <fbc:geneProduct fbc:id="G_167506" fbc:label="167506" fbc:name="167506"/>
       <fbc:geneProduct fbc:id="G_154820" fbc:label="154820" fbc:name="154820"/>
-      <fbc:geneProduct fbc:id="G_176370" fbc:label="176370" fbc:name="176370"/>
-      <fbc:geneProduct fbc:id="G_157490" fbc:label="157490" fbc:name="157490"/>
       <fbc:geneProduct fbc:id="G_113132" fbc:label="113132" fbc:name="113132"/>
       <fbc:geneProduct fbc:id="G_104805" fbc:label="104805" fbc:name="104805"/>
       <fbc:geneProduct fbc:id="G_43302" fbc:label="43302" fbc:name="43302"/>
@@ -1923,26 +1915,25 @@
       <fbc:geneProduct fbc:id="G_17136" fbc:label="17136" fbc:name="17136"/>
       <fbc:geneProduct fbc:id="G_190651" fbc:label="190651" fbc:name="190651"/>
       <fbc:geneProduct fbc:id="G_156373" fbc:label="156373" fbc:name="156373"/>
-      <fbc:geneProduct fbc:id="G_157229" fbc:label="157229" fbc:name="157229"/>
       <fbc:geneProduct fbc:id="G_88953" fbc:label="88953" fbc:name="88953"/>
+      <fbc:geneProduct fbc:id="G_157229" fbc:label="157229" fbc:name="157229"/>
       <fbc:geneProduct fbc:id="G_144626" fbc:label="144626" fbc:name="144626"/>
       <fbc:geneProduct fbc:id="G_157242" fbc:label="157242" fbc:name="157242"/>
-      <fbc:geneProduct fbc:id="G_112766" fbc:label="112766" fbc:name="112766"/>
       <fbc:geneProduct fbc:id="G_139789" fbc:label="139789" fbc:name="139789"/>
-      <fbc:geneProduct fbc:id="G_40415" fbc:label="40415" fbc:name="40415"/>
       <fbc:geneProduct fbc:id="G_153371" fbc:label="153371" fbc:name="153371"/>
-      <fbc:geneProduct fbc:id="G_156964" fbc:label="156964" fbc:name="156964"/>
-      <fbc:geneProduct fbc:id="G_141221" fbc:label="141221" fbc:name="141221"/>
       <fbc:geneProduct fbc:id="G_154019" fbc:label="154019" fbc:name="154019"/>
-      <fbc:geneProduct fbc:id="G_115066" fbc:label="115066" fbc:name="115066"/>
+      <fbc:geneProduct fbc:id="G_156964" fbc:label="156964" fbc:name="156964"/>
       <fbc:geneProduct fbc:id="G_139750" fbc:label="139750" fbc:name="139750"/>
+      <fbc:geneProduct fbc:id="G_141221" fbc:label="141221" fbc:name="141221"/>
+      <fbc:geneProduct fbc:id="G_40415" fbc:label="40415" fbc:name="40415"/>
+      <fbc:geneProduct fbc:id="G_112766" fbc:label="112766" fbc:name="112766"/>
+      <fbc:geneProduct fbc:id="G_115066" fbc:label="115066" fbc:name="115066"/>
       <fbc:geneProduct fbc:id="G_49181" fbc:label="49181" fbc:name="49181"/>
-      <fbc:geneProduct fbc:id="G_104699" fbc:label="104699" fbc:name="104699"/>
       <fbc:geneProduct fbc:id="G_159264" fbc:label="159264" fbc:name="159264"/>
       <fbc:geneProduct fbc:id="G_140107" fbc:label="140107" fbc:name="140107"/>
+      <fbc:geneProduct fbc:id="G_104699" fbc:label="104699" fbc:name="104699"/>
       <fbc:geneProduct fbc:id="G_138271" fbc:label="138271" fbc:name="138271"/>
       <fbc:geneProduct fbc:id="G_104746" fbc:label="104746" fbc:name="104746"/>
-      <fbc:geneProduct fbc:id="G_139115" fbc:label="139115" fbc:name="139115"/>
       <fbc:geneProduct fbc:id="G_139916" fbc:label="139916" fbc:name="139916"/>
       <fbc:geneProduct fbc:id="G_109398" fbc:label="109398" fbc:name="109398"/>
       <fbc:geneProduct fbc:id="G_114858" fbc:label="114858" fbc:name="114858"/>
@@ -1991,32 +1982,32 @@
       <fbc:geneProduct fbc:id="G_129228" fbc:label="129228" fbc:name="129228"/>
       <fbc:geneProduct fbc:id="G_109621" fbc:label="109621" fbc:name="109621"/>
       <fbc:geneProduct fbc:id="G_149253" fbc:label="149253" fbc:name="149253"/>
-      <fbc:geneProduct fbc:id="G_90140" fbc:label="90140" fbc:name="90140"/>
-      <fbc:geneProduct fbc:id="G_157362" fbc:label="157362" fbc:name="157362"/>
-      <fbc:geneProduct fbc:id="G_155447" fbc:label="155447" fbc:name="155447"/>
       <fbc:geneProduct fbc:id="G_151217" fbc:label="151217" fbc:name="151217"/>
       <fbc:geneProduct fbc:id="G_151225" fbc:label="151225" fbc:name="151225"/>
-      <fbc:geneProduct fbc:id="G_151229" fbc:label="151229" fbc:name="151229"/>
-      <fbc:geneProduct fbc:id="G_144857" fbc:label="144857" fbc:name="144857"/>
-      <fbc:geneProduct fbc:id="G_154765" fbc:label="154765" fbc:name="154765"/>
-      <fbc:geneProduct fbc:id="G_48654" fbc:label="48654" fbc:name="48654"/>
       <fbc:geneProduct fbc:id="G_151220" fbc:label="151220" fbc:name="151220"/>
       <fbc:geneProduct fbc:id="G_154692" fbc:label="154692" fbc:name="154692"/>
-      <fbc:geneProduct fbc:id="G_143012" fbc:label="143012" fbc:name="143012"/>
+      <fbc:geneProduct fbc:id="G_154765" fbc:label="154765" fbc:name="154765"/>
+      <fbc:geneProduct fbc:id="G_48654" fbc:label="48654" fbc:name="48654"/>
+      <fbc:geneProduct fbc:id="G_155447" fbc:label="155447" fbc:name="155447"/>
+      <fbc:geneProduct fbc:id="G_90140" fbc:label="90140" fbc:name="90140"/>
+      <fbc:geneProduct fbc:id="G_157362" fbc:label="157362" fbc:name="157362"/>
+      <fbc:geneProduct fbc:id="G_144857" fbc:label="144857" fbc:name="144857"/>
+      <fbc:geneProduct fbc:id="G_151229" fbc:label="151229" fbc:name="151229"/>
       <fbc:geneProduct fbc:id="G_106836" fbc:label="106836" fbc:name="106836"/>
+      <fbc:geneProduct fbc:id="G_143012" fbc:label="143012" fbc:name="143012"/>
       <fbc:geneProduct fbc:id="G_157494" fbc:label="157494" fbc:name="157494"/>
-      <fbc:geneProduct fbc:id="G_45643" fbc:label="45643" fbc:name="45643"/>
       <fbc:geneProduct fbc:id="G_145252" fbc:label="145252" fbc:name="145252"/>
+      <fbc:geneProduct fbc:id="G_45643" fbc:label="45643" fbc:name="45643"/>
       <fbc:geneProduct fbc:id="G_74789" fbc:label="74789" fbc:name="74789"/>
       <fbc:geneProduct fbc:id="G_35205" fbc:label="35205" fbc:name="35205"/>
-      <fbc:geneProduct fbc:id="G_141004" fbc:label="141004" fbc:name="141004"/>
+      <fbc:geneProduct fbc:id="G_107688" fbc:label="107688" fbc:name="107688"/>
       <fbc:geneProduct fbc:id="G_183255" fbc:label="183255" fbc:name="183255"/>
-      <fbc:geneProduct fbc:id="G_151287" fbc:label="151287" fbc:name="151287"/>
       <fbc:geneProduct fbc:id="G_142378" fbc:label="142378" fbc:name="142378"/>
       <fbc:geneProduct fbc:id="G_182309" fbc:label="182309" fbc:name="182309"/>
       <fbc:geneProduct fbc:id="G_75846" fbc:label="75846" fbc:name="75846"/>
-      <fbc:geneProduct fbc:id="G_107688" fbc:label="107688" fbc:name="107688"/>
       <fbc:geneProduct fbc:id="G_157230" fbc:label="157230" fbc:name="157230"/>
+      <fbc:geneProduct fbc:id="G_141004" fbc:label="141004" fbc:name="141004"/>
+      <fbc:geneProduct fbc:id="G_151287" fbc:label="151287" fbc:name="151287"/>
       <fbc:geneProduct fbc:id="G_179978" fbc:label="179978" fbc:name="179978"/>
       <fbc:geneProduct fbc:id="G_151279" fbc:label="151279" fbc:name="151279"/>
       <fbc:geneProduct fbc:id="G_156734" fbc:label="156734" fbc:name="156734"/>
@@ -2027,34 +2018,39 @@
       <fbc:geneProduct fbc:id="G_111711" fbc:label="111711" fbc:name="111711"/>
       <fbc:geneProduct fbc:id="G_160036" fbc:label="160036" fbc:name="160036"/>
       <fbc:geneProduct fbc:id="G_156228" fbc:label="156228" fbc:name="156228"/>
+      <fbc:geneProduct fbc:id="G_156821" fbc:label="156821" fbc:name="156821"/>
+      <fbc:geneProduct fbc:id="G_45199" fbc:label="45199" fbc:name="45199"/>
+      <fbc:geneProduct fbc:id="G_155756" fbc:label="155756" fbc:name="155756"/>
+      <fbc:geneProduct fbc:id="G_155547" fbc:label="155547" fbc:name="155547"/>
+      <fbc:geneProduct fbc:id="G_155567" fbc:label="155567" fbc:name="155567"/>
       <fbc:geneProduct fbc:id="G_148773" fbc:label="148773" fbc:name="148773"/>
       <fbc:geneProduct fbc:id="G_150072" fbc:label="150072" fbc:name="150072"/>
-      <fbc:geneProduct fbc:id="G_107686" fbc:label="107686" fbc:name="107686"/>
       <fbc:geneProduct fbc:id="G_74669" fbc:label="74669" fbc:name="74669"/>
+      <fbc:geneProduct fbc:id="G_107686" fbc:label="107686" fbc:name="107686"/>
       <fbc:geneProduct fbc:id="G_152392" fbc:label="152392" fbc:name="152392"/>
       <fbc:geneProduct fbc:id="G_138520" fbc:label="138520" fbc:name="138520"/>
       <fbc:geneProduct fbc:id="G_89842" fbc:label="89842" fbc:name="89842"/>
       <fbc:geneProduct fbc:id="G_113746" fbc:label="113746" fbc:name="113746"/>
-      <fbc:geneProduct fbc:id="G_112156" fbc:label="112156" fbc:name="112156"/>
+      <fbc:geneProduct fbc:id="G_116926" fbc:label="116926" fbc:name="116926"/>
+      <fbc:geneProduct fbc:id="G_151650" fbc:label="151650" fbc:name="151650"/>
+      <fbc:geneProduct fbc:id="G_151941" fbc:label="151941" fbc:name="151941"/>
       <fbc:geneProduct fbc:id="G_160449" fbc:label="160449" fbc:name="160449"/>
       <fbc:geneProduct fbc:id="G_146788" fbc:label="146788" fbc:name="146788"/>
-      <fbc:geneProduct fbc:id="G_151650" fbc:label="151650" fbc:name="151650"/>
-      <fbc:geneProduct fbc:id="G_116926" fbc:label="116926" fbc:name="116926"/>
-      <fbc:geneProduct fbc:id="G_151941" fbc:label="151941" fbc:name="151941"/>
+      <fbc:geneProduct fbc:id="G_112156" fbc:label="112156" fbc:name="112156"/>
       <fbc:geneProduct fbc:id="G_141234" fbc:label="141234" fbc:name="141234"/>
-      <fbc:geneProduct fbc:id="G_151396" fbc:label="151396" fbc:name="151396"/>
       <fbc:geneProduct fbc:id="G_160852" fbc:label="160852" fbc:name="160852"/>
+      <fbc:geneProduct fbc:id="G_151396" fbc:label="151396" fbc:name="151396"/>
       <fbc:geneProduct fbc:id="G_155320" fbc:label="155320" fbc:name="155320"/>
       <fbc:geneProduct fbc:id="G_164214" fbc:label="164214" fbc:name="164214"/>
       <fbc:geneProduct fbc:id="G_106515" fbc:label="106515" fbc:name="106515"/>
       <fbc:geneProduct fbc:id="G_190555" fbc:label="190555" fbc:name="190555"/>
-      <fbc:geneProduct fbc:id="G_51513" fbc:label="51513" fbc:name="51513"/>
       <fbc:geneProduct fbc:id="G_32382" fbc:label="32382" fbc:name="32382"/>
-      <fbc:geneProduct fbc:id="G_148102" fbc:label="148102" fbc:name="148102"/>
       <fbc:geneProduct fbc:id="G_179665" fbc:label="179665" fbc:name="179665"/>
       <fbc:geneProduct fbc:id="G_154518" fbc:label="154518" fbc:name="154518"/>
       <fbc:geneProduct fbc:id="G_152336" fbc:label="152336" fbc:name="152336"/>
       <fbc:geneProduct fbc:id="G_151329" fbc:label="151329" fbc:name="151329"/>
+      <fbc:geneProduct fbc:id="G_51513" fbc:label="51513" fbc:name="51513"/>
+      <fbc:geneProduct fbc:id="G_148102" fbc:label="148102" fbc:name="148102"/>
       <fbc:geneProduct fbc:id="G_151567" fbc:label="151567" fbc:name="151567"/>
       <fbc:geneProduct fbc:id="G_81048" fbc:label="81048" fbc:name="81048"/>
       <fbc:geneProduct fbc:id="G_135758" fbc:label="135758" fbc:name="135758"/>
@@ -2075,15 +2071,15 @@
       <fbc:geneProduct fbc:id="G_107501" fbc:label="107501" fbc:name="107501"/>
       <fbc:geneProduct fbc:id="G_163125" fbc:label="163125" fbc:name="163125"/>
       <fbc:geneProduct fbc:id="G_139381" fbc:label="139381" fbc:name="139381"/>
+      <fbc:geneProduct fbc:id="G_147817" fbc:label="147817" fbc:name="147817"/>
+      <fbc:geneProduct fbc:id="G_190995" fbc:label="190995" fbc:name="190995"/>
+      <fbc:geneProduct fbc:id="G_142800" fbc:label="142800" fbc:name="142800"/>
+      <fbc:geneProduct fbc:id="G_145185" fbc:label="145185" fbc:name="145185"/>
+      <fbc:geneProduct fbc:id="G_187228" fbc:label="187228" fbc:name="187228"/>
+      <fbc:geneProduct fbc:id="G_36356" fbc:label="36356" fbc:name="36356"/>
       <fbc:geneProduct fbc:id="G_140988" fbc:label="140988" fbc:name="140988"/>
       <fbc:geneProduct fbc:id="G_150013" fbc:label="150013" fbc:name="150013"/>
-      <fbc:geneProduct fbc:id="G_36356" fbc:label="36356" fbc:name="36356"/>
-      <fbc:geneProduct fbc:id="G_147817" fbc:label="147817" fbc:name="147817"/>
       <fbc:geneProduct fbc:id="G_166544" fbc:label="166544" fbc:name="166544"/>
-      <fbc:geneProduct fbc:id="G_190995" fbc:label="190995" fbc:name="190995"/>
-      <fbc:geneProduct fbc:id="G_145185" fbc:label="145185" fbc:name="145185"/>
-      <fbc:geneProduct fbc:id="G_142800" fbc:label="142800" fbc:name="142800"/>
-      <fbc:geneProduct fbc:id="G_187228" fbc:label="187228" fbc:name="187228"/>
       <fbc:geneProduct fbc:id="G_107566" fbc:label="107566" fbc:name="107566"/>
       <fbc:geneProduct fbc:id="G_120093" fbc:label="120093" fbc:name="120093"/>
       <fbc:geneProduct fbc:id="G_155501" fbc:label="155501" fbc:name="155501"/>
@@ -2096,6 +2092,7 @@
       <fbc:geneProduct fbc:id="G_34756" fbc:label="34756" fbc:name="34756"/>
       <fbc:geneProduct fbc:id="G_151049" fbc:label="151049" fbc:name="151049"/>
       <fbc:geneProduct fbc:id="G_175614" fbc:label="175614" fbc:name="175614"/>
+      <fbc:geneProduct fbc:id="G_152206" fbc:label="152206" fbc:name="152206"/>
       <fbc:geneProduct fbc:id="G_139791" fbc:label="139791" fbc:name="139791"/>
       <fbc:geneProduct fbc:id="G_105619" fbc:label="105619" fbc:name="105619"/>
       <fbc:geneProduct fbc:id="G_148011" fbc:label="148011" fbc:name="148011"/>
@@ -2103,13 +2100,13 @@
       <fbc:geneProduct fbc:id="G_77465" fbc:label="77465" fbc:name="77465"/>
       <fbc:geneProduct fbc:id="G_182783" fbc:label="182783" fbc:name="182783"/>
       <fbc:geneProduct fbc:id="G_153210" fbc:label="153210" fbc:name="153210"/>
-      <fbc:geneProduct fbc:id="G_180235" fbc:label="180235" fbc:name="180235"/>
-      <fbc:geneProduct fbc:id="G_72084" fbc:label="72084" fbc:name="72084"/>
       <fbc:geneProduct fbc:id="G_159552" fbc:label="159552" fbc:name="159552"/>
       <fbc:geneProduct fbc:id="G_108492" fbc:label="108492" fbc:name="108492"/>
       <fbc:geneProduct fbc:id="G_157278" fbc:label="157278" fbc:name="157278"/>
       <fbc:geneProduct fbc:id="G_146221" fbc:label="146221" fbc:name="146221"/>
       <fbc:geneProduct fbc:id="G_161483" fbc:label="161483" fbc:name="161483"/>
+      <fbc:geneProduct fbc:id="G_180235" fbc:label="180235" fbc:name="180235"/>
+      <fbc:geneProduct fbc:id="G_72084" fbc:label="72084" fbc:name="72084"/>
       <fbc:geneProduct fbc:id="G_138449" fbc:label="138449" fbc:name="138449"/>
       <fbc:geneProduct fbc:id="G_160137" fbc:label="160137" fbc:name="160137"/>
       <fbc:geneProduct fbc:id="G_184127" fbc:label="184127" fbc:name="184127"/>
@@ -2150,17 +2147,17 @@
       <fbc:geneProduct fbc:id="G_135050" fbc:label="135050" fbc:name="135050"/>
       <fbc:geneProduct fbc:id="G_157550" fbc:label="157550" fbc:name="157550"/>
       <fbc:geneProduct fbc:id="G_134922" fbc:label="134922" fbc:name="134922"/>
-      <fbc:geneProduct fbc:id="G_155701" fbc:label="155701" fbc:name="155701"/>
       <fbc:geneProduct fbc:id="G_190699" fbc:label="190699" fbc:name="190699"/>
+      <fbc:geneProduct fbc:id="G_155701" fbc:label="155701" fbc:name="155701"/>
       <fbc:geneProduct fbc:id="G_150177" fbc:label="150177" fbc:name="150177"/>
-      <fbc:geneProduct fbc:id="G_23450" fbc:label="23450" fbc:name="23450"/>
       <fbc:geneProduct fbc:id="G_133575" fbc:label="133575" fbc:name="133575"/>
       <fbc:geneProduct fbc:id="G_131995" fbc:label="131995" fbc:name="131995"/>
+      <fbc:geneProduct fbc:id="G_162369" fbc:label="162369" fbc:name="162369"/>
       <fbc:geneProduct fbc:id="G_113815" fbc:label="113815" fbc:name="113815"/>
       <fbc:geneProduct fbc:id="G_156744" fbc:label="156744" fbc:name="156744"/>
-      <fbc:geneProduct fbc:id="G_162369" fbc:label="162369" fbc:name="162369"/>
-      <fbc:geneProduct fbc:id="G_79711" fbc:label="79711" fbc:name="79711"/>
       <fbc:geneProduct fbc:id="G_121218" fbc:label="121218" fbc:name="121218"/>
+      <fbc:geneProduct fbc:id="G_79711" fbc:label="79711" fbc:name="79711"/>
+      <fbc:geneProduct fbc:id="G_23450" fbc:label="23450" fbc:name="23450"/>
       <fbc:geneProduct fbc:id="G_81074" fbc:label="81074" fbc:name="81074"/>
       <fbc:geneProduct fbc:id="G_128967" fbc:label="128967" fbc:name="128967"/>
       <fbc:geneProduct fbc:id="G_151501" fbc:label="151501" fbc:name="151501"/>
@@ -2172,8 +2169,8 @@
       <fbc:geneProduct fbc:id="G_139349" fbc:label="139349" fbc:name="139349"/>
       <fbc:geneProduct fbc:id="G_173785" fbc:label="173785" fbc:name="173785"/>
       <fbc:geneProduct fbc:id="G_118892" fbc:label="118892" fbc:name="118892"/>
-      <fbc:geneProduct fbc:id="G_104316" fbc:label="104316" fbc:name="104316"/>
       <fbc:geneProduct fbc:id="G_137572" fbc:label="137572" fbc:name="137572"/>
+      <fbc:geneProduct fbc:id="G_104316" fbc:label="104316" fbc:name="104316"/>
       <fbc:geneProduct fbc:id="G_136316" fbc:label="136316" fbc:name="136316"/>
       <fbc:geneProduct fbc:id="G_191379" fbc:label="191379" fbc:name="191379"/>
       <fbc:geneProduct fbc:id="G_140733" fbc:label="140733" fbc:name="140733"/>
@@ -2227,8 +2224,8 @@
       <fbc:geneProduct fbc:id="G_75416" fbc:label="75416" fbc:name="75416"/>
       <fbc:geneProduct fbc:id="G_120511" fbc:label="120511" fbc:name="120511"/>
       <fbc:geneProduct fbc:id="G_184186" fbc:label="184186" fbc:name="184186"/>
-      <fbc:geneProduct fbc:id="G_109356" fbc:label="109356" fbc:name="109356"/>
       <fbc:geneProduct fbc:id="G_90448" fbc:label="90448" fbc:name="90448"/>
+      <fbc:geneProduct fbc:id="G_109356" fbc:label="109356" fbc:name="109356"/>
       <fbc:geneProduct fbc:id="G_117999" fbc:label="117999" fbc:name="117999"/>
       <fbc:geneProduct fbc:id="G_155786" fbc:label="155786" fbc:name="155786"/>
       <fbc:geneProduct fbc:id="G_153091" fbc:label="153091" fbc:name="153091"/>
@@ -2285,9 +2282,9 @@
       <fbc:geneProduct fbc:id="G_74424" fbc:label="74424" fbc:name="74424"/>
       <fbc:geneProduct fbc:id="G_122620" fbc:label="122620" fbc:name="122620"/>
       <fbc:geneProduct fbc:id="G_127137" fbc:label="127137" fbc:name="127137"/>
-      <fbc:geneProduct fbc:id="G_153298" fbc:label="153298" fbc:name="153298"/>
       <fbc:geneProduct fbc:id="G_152093" fbc:label="152093" fbc:name="152093"/>
       <fbc:geneProduct fbc:id="G_187156" fbc:label="187156" fbc:name="187156"/>
+      <fbc:geneProduct fbc:id="G_153298" fbc:label="153298" fbc:name="153298"/>
       <fbc:geneProduct fbc:id="G_151455" fbc:label="151455" fbc:name="151455"/>
       <fbc:geneProduct fbc:id="G_156672" fbc:label="156672" fbc:name="156672"/>
       <fbc:geneProduct fbc:id="G_155571" fbc:label="155571" fbc:name="155571"/>
@@ -2304,12 +2301,12 @@
       <fbc:geneProduct fbc:id="G_157406" fbc:label="157406" fbc:name="157406"/>
       <fbc:geneProduct fbc:id="G_113014" fbc:label="113014" fbc:name="113014"/>
       <fbc:geneProduct fbc:id="G_142188" fbc:label="142188" fbc:name="142188"/>
-      <fbc:geneProduct fbc:id="G_150244" fbc:label="150244" fbc:name="150244"/>
       <fbc:geneProduct fbc:id="G_151227" fbc:label="151227" fbc:name="151227"/>
+      <fbc:geneProduct fbc:id="G_150244" fbc:label="150244" fbc:name="150244"/>
       <fbc:geneProduct fbc:id="G_151146" fbc:label="151146" fbc:name="151146"/>
+      <fbc:geneProduct fbc:id="G_145821" fbc:label="145821" fbc:name="145821"/>
       <fbc:geneProduct fbc:id="G_157333" fbc:label="157333" fbc:name="157333"/>
       <fbc:geneProduct fbc:id="G_105848" fbc:label="105848" fbc:name="105848"/>
-      <fbc:geneProduct fbc:id="G_145821" fbc:label="145821" fbc:name="145821"/>
       <fbc:geneProduct fbc:id="G_147587" fbc:label="147587" fbc:name="147587"/>
       <fbc:geneProduct fbc:id="G_143436" fbc:label="143436" fbc:name="143436"/>
       <fbc:geneProduct fbc:id="G_127259" fbc:label="127259" fbc:name="127259"/>
@@ -2332,10 +2329,10 @@
       <fbc:geneProduct fbc:id="G_151179" fbc:label="151179" fbc:name="151179"/>
       <fbc:geneProduct fbc:id="G_137553" fbc:label="137553" fbc:name="137553"/>
       <fbc:geneProduct fbc:id="G_157294" fbc:label="157294" fbc:name="157294"/>
-      <fbc:geneProduct fbc:id="G_106234" fbc:label="106234" fbc:name="106234"/>
-      <fbc:geneProduct fbc:id="G_155233" fbc:label="155233" fbc:name="155233"/>
       <fbc:geneProduct fbc:id="G_168620" fbc:label="168620" fbc:name="168620"/>
+      <fbc:geneProduct fbc:id="G_155233" fbc:label="155233" fbc:name="155233"/>
       <fbc:geneProduct fbc:id="G_140876" fbc:label="140876" fbc:name="140876"/>
+      <fbc:geneProduct fbc:id="G_106234" fbc:label="106234" fbc:name="106234"/>
       <fbc:geneProduct fbc:id="G_136788" fbc:label="136788" fbc:name="136788"/>
       <fbc:geneProduct fbc:id="G_76828" fbc:label="76828" fbc:name="76828"/>
       <fbc:geneProduct fbc:id="G_134906" fbc:label="134906" fbc:name="134906"/>
@@ -2343,36 +2340,36 @@
       <fbc:geneProduct fbc:id="G_107657" fbc:label="107657" fbc:name="107657"/>
       <fbc:geneProduct fbc:id="G_185867" fbc:label="185867" fbc:name="185867"/>
       <fbc:geneProduct fbc:id="G_155655" fbc:label="155655" fbc:name="155655"/>
-      <fbc:geneProduct fbc:id="G_74705" fbc:label="74705" fbc:name="74705"/>
+      <fbc:geneProduct fbc:id="G_156997" fbc:label="156997" fbc:name="156997"/>
       <fbc:geneProduct fbc:id="G_156175" fbc:label="156175" fbc:name="156175"/>
       <fbc:geneProduct fbc:id="G_85454" fbc:label="85454" fbc:name="85454"/>
       <fbc:geneProduct fbc:id="G_73571" fbc:label="73571" fbc:name="73571"/>
-      <fbc:geneProduct fbc:id="G_156997" fbc:label="156997" fbc:name="156997"/>
+      <fbc:geneProduct fbc:id="G_74705" fbc:label="74705" fbc:name="74705"/>
       <fbc:geneProduct fbc:id="G_151062" fbc:label="151062" fbc:name="151062"/>
       <fbc:geneProduct fbc:id="G_156167" fbc:label="156167" fbc:name="156167"/>
-      <fbc:geneProduct fbc:id="G_118863" fbc:label="118863" fbc:name="118863"/>
       <fbc:geneProduct fbc:id="G_142223" fbc:label="142223" fbc:name="142223"/>
+      <fbc:geneProduct fbc:id="G_80654" fbc:label="80654" fbc:name="80654"/>
       <fbc:geneProduct fbc:id="G_86670" fbc:label="86670" fbc:name="86670"/>
       <fbc:geneProduct fbc:id="G_149517" fbc:label="149517" fbc:name="149517"/>
-      <fbc:geneProduct fbc:id="G_80654" fbc:label="80654" fbc:name="80654"/>
-      <fbc:geneProduct fbc:id="G_117726" fbc:label="117726" fbc:name="117726"/>
       <fbc:geneProduct fbc:id="G_106177" fbc:label="106177" fbc:name="106177"/>
+      <fbc:geneProduct fbc:id="G_117726" fbc:label="117726" fbc:name="117726"/>
+      <fbc:geneProduct fbc:id="G_118863" fbc:label="118863" fbc:name="118863"/>
       <fbc:geneProduct fbc:id="G_72222" fbc:label="72222" fbc:name="72222"/>
       <fbc:geneProduct fbc:id="G_116253" fbc:label="116253" fbc:name="116253"/>
       <fbc:geneProduct fbc:id="G_135380" fbc:label="135380" fbc:name="135380"/>
       <fbc:geneProduct fbc:id="G_141196" fbc:label="141196" fbc:name="141196"/>
       <fbc:geneProduct fbc:id="G_187168" fbc:label="187168" fbc:name="187168"/>
       <fbc:geneProduct fbc:id="G_73535" fbc:label="73535" fbc:name="73535"/>
-      <fbc:geneProduct fbc:id="G_109857" fbc:label="109857" fbc:name="109857"/>
-      <fbc:geneProduct fbc:id="G_130546" fbc:label="130546" fbc:name="130546"/>
       <fbc:geneProduct fbc:id="G_121587" fbc:label="121587" fbc:name="121587"/>
       <fbc:geneProduct fbc:id="G_38698" fbc:label="38698" fbc:name="38698"/>
-      <fbc:geneProduct fbc:id="G_76555" fbc:label="76555" fbc:name="76555"/>
-      <fbc:geneProduct fbc:id="G_119251" fbc:label="119251" fbc:name="119251"/>
       <fbc:geneProduct fbc:id="G_40585" fbc:label="40585" fbc:name="40585"/>
+      <fbc:geneProduct fbc:id="G_119251" fbc:label="119251" fbc:name="119251"/>
+      <fbc:geneProduct fbc:id="G_165846" fbc:label="165846" fbc:name="165846"/>
       <fbc:geneProduct fbc:id="G_153793" fbc:label="153793" fbc:name="153793"/>
       <fbc:geneProduct fbc:id="G_147080" fbc:label="147080" fbc:name="147080"/>
-      <fbc:geneProduct fbc:id="G_165846" fbc:label="165846" fbc:name="165846"/>
+      <fbc:geneProduct fbc:id="G_109857" fbc:label="109857" fbc:name="109857"/>
+      <fbc:geneProduct fbc:id="G_130546" fbc:label="130546" fbc:name="130546"/>
+      <fbc:geneProduct fbc:id="G_76555" fbc:label="76555" fbc:name="76555"/>
       <fbc:geneProduct fbc:id="G_78611" fbc:label="78611" fbc:name="78611"/>
       <fbc:geneProduct fbc:id="G_128445" fbc:label="128445" fbc:name="128445"/>
       <fbc:geneProduct fbc:id="G_153824" fbc:label="153824" fbc:name="153824"/>
@@ -2433,35 +2430,35 @@
       <fbc:geneProduct fbc:id="G_180434" fbc:label="180434" fbc:name="180434"/>
       <fbc:geneProduct fbc:id="G_186695" fbc:label="186695" fbc:name="186695"/>
       <fbc:geneProduct fbc:id="G_31893" fbc:label="31893" fbc:name="31893"/>
-      <fbc:geneProduct fbc:id="G_147042" fbc:label="147042" fbc:name="147042"/>
-      <fbc:geneProduct fbc:id="G_77271" fbc:label="77271" fbc:name="77271"/>
       <fbc:geneProduct fbc:id="G_156841" fbc:label="156841" fbc:name="156841"/>
       <fbc:geneProduct fbc:id="G_183033" fbc:label="183033" fbc:name="183033"/>
+      <fbc:geneProduct fbc:id="G_77271" fbc:label="77271" fbc:name="77271"/>
+      <fbc:geneProduct fbc:id="G_147042" fbc:label="147042" fbc:name="147042"/>
       <fbc:geneProduct fbc:id="G_154694" fbc:label="154694" fbc:name="154694"/>
       <fbc:geneProduct fbc:id="G_186576" fbc:label="186576" fbc:name="186576"/>
       <fbc:geneProduct fbc:id="G_155012" fbc:label="155012" fbc:name="155012"/>
       <fbc:geneProduct fbc:id="G_156333" fbc:label="156333" fbc:name="156333"/>
       <fbc:geneProduct fbc:id="G_187008" fbc:label="187008" fbc:name="187008"/>
-      <fbc:geneProduct fbc:id="G_156315" fbc:label="156315" fbc:name="156315"/>
-      <fbc:geneProduct fbc:id="G_155262" fbc:label="155262" fbc:name="155262"/>
-      <fbc:geneProduct fbc:id="G_156062" fbc:label="156062" fbc:name="156062"/>
-      <fbc:geneProduct fbc:id="G_136560" fbc:label="136560" fbc:name="136560"/>
-      <fbc:geneProduct fbc:id="G_108697" fbc:label="108697" fbc:name="108697"/>
+      <fbc:geneProduct fbc:id="G_72854" fbc:label="72854" fbc:name="72854"/>
       <fbc:geneProduct fbc:id="G_156362" fbc:label="156362" fbc:name="156362"/>
-      <fbc:geneProduct fbc:id="G_155630" fbc:label="155630" fbc:name="155630"/>
-      <fbc:geneProduct fbc:id="G_88516" fbc:label="88516" fbc:name="88516"/>
+      <fbc:geneProduct fbc:id="G_156062" fbc:label="156062" fbc:name="156062"/>
+      <fbc:geneProduct fbc:id="G_155735" fbc:label="155735" fbc:name="155735"/>
+      <fbc:geneProduct fbc:id="G_155262" fbc:label="155262" fbc:name="155262"/>
+      <fbc:geneProduct fbc:id="G_155566" fbc:label="155566" fbc:name="155566"/>
+      <fbc:geneProduct fbc:id="G_135734" fbc:label="135734" fbc:name="135734"/>
       <fbc:geneProduct fbc:id="G_155048" fbc:label="155048" fbc:name="155048"/>
       <fbc:geneProduct fbc:id="G_122340" fbc:label="122340" fbc:name="122340"/>
-      <fbc:geneProduct fbc:id="G_156524" fbc:label="156524" fbc:name="156524"/>
-      <fbc:geneProduct fbc:id="G_135734" fbc:label="135734" fbc:name="135734"/>
-      <fbc:geneProduct fbc:id="G_72854" fbc:label="72854" fbc:name="72854"/>
+      <fbc:geneProduct fbc:id="G_136560" fbc:label="136560" fbc:name="136560"/>
+      <fbc:geneProduct fbc:id="G_88516" fbc:label="88516" fbc:name="88516"/>
+      <fbc:geneProduct fbc:id="G_156315" fbc:label="156315" fbc:name="156315"/>
       <fbc:geneProduct fbc:id="G_155947" fbc:label="155947" fbc:name="155947"/>
-      <fbc:geneProduct fbc:id="G_156314" fbc:label="156314" fbc:name="156314"/>
-      <fbc:geneProduct fbc:id="G_155566" fbc:label="155566" fbc:name="155566"/>
-      <fbc:geneProduct fbc:id="G_140466" fbc:label="140466" fbc:name="140466"/>
-      <fbc:geneProduct fbc:id="G_104376" fbc:label="104376" fbc:name="104376"/>
+      <fbc:geneProduct fbc:id="G_156524" fbc:label="156524" fbc:name="156524"/>
       <fbc:geneProduct fbc:id="G_155780" fbc:label="155780" fbc:name="155780"/>
-      <fbc:geneProduct fbc:id="G_155735" fbc:label="155735" fbc:name="155735"/>
+      <fbc:geneProduct fbc:id="G_140466" fbc:label="140466" fbc:name="140466"/>
+      <fbc:geneProduct fbc:id="G_155630" fbc:label="155630" fbc:name="155630"/>
+      <fbc:geneProduct fbc:id="G_104376" fbc:label="104376" fbc:name="104376"/>
+      <fbc:geneProduct fbc:id="G_156314" fbc:label="156314" fbc:name="156314"/>
+      <fbc:geneProduct fbc:id="G_108697" fbc:label="108697" fbc:name="108697"/>
       <fbc:geneProduct fbc:id="G_191058" fbc:label="191058" fbc:name="191058"/>
       <fbc:geneProduct fbc:id="G_151919" fbc:label="151919" fbc:name="151919"/>
       <fbc:geneProduct fbc:id="G_108869" fbc:label="108869" fbc:name="108869"/>
@@ -2473,11 +2470,11 @@
       <fbc:geneProduct fbc:id="G_31540" fbc:label="31540" fbc:name="31540"/>
       <fbc:geneProduct fbc:id="G_33893" fbc:label="33893" fbc:name="33893"/>
       <fbc:geneProduct fbc:id="G_157186" fbc:label="157186" fbc:name="157186"/>
-      <fbc:geneProduct fbc:id="G_152631" fbc:label="152631" fbc:name="152631"/>
       <fbc:geneProduct fbc:id="G_136346" fbc:label="136346" fbc:name="136346"/>
       <fbc:geneProduct fbc:id="G_49912" fbc:label="49912" fbc:name="49912"/>
       <fbc:geneProduct fbc:id="G_143000" fbc:label="143000" fbc:name="143000"/>
       <fbc:geneProduct fbc:id="G_110487" fbc:label="110487" fbc:name="110487"/>
+      <fbc:geneProduct fbc:id="G_152631" fbc:label="152631" fbc:name="152631"/>
       <fbc:geneProduct fbc:id="G_150877" fbc:label="150877" fbc:name="150877"/>
       <fbc:geneProduct fbc:id="G_115261" fbc:label="115261" fbc:name="115261"/>
       <fbc:geneProduct fbc:id="G_173434" fbc:label="173434" fbc:name="173434"/>
@@ -2513,22 +2510,21 @@
       <fbc:geneProduct fbc:id="G_154800" fbc:label="154800" fbc:name="154800"/>
       <fbc:geneProduct fbc:id="G_144132" fbc:label="144132" fbc:name="144132"/>
       <fbc:geneProduct fbc:id="G_151060" fbc:label="151060" fbc:name="151060"/>
-      <fbc:geneProduct fbc:id="G_152206" fbc:label="152206" fbc:name="152206"/>
-      <fbc:geneProduct fbc:id="G_157112" fbc:label="157112" fbc:name="157112"/>
-      <fbc:geneProduct fbc:id="G_92044" fbc:label="92044" fbc:name="92044"/>
-      <fbc:geneProduct fbc:id="G_83968" fbc:label="83968" fbc:name="83968"/>
       <fbc:geneProduct fbc:id="G_157314" fbc:label="157314" fbc:name="157314"/>
-      <fbc:geneProduct fbc:id="G_155287" fbc:label="155287" fbc:name="155287"/>
       <fbc:geneProduct fbc:id="G_167066" fbc:label="167066" fbc:name="167066"/>
+      <fbc:geneProduct fbc:id="G_185524" fbc:label="185524" fbc:name="185524"/>
+      <fbc:geneProduct fbc:id="G_155287" fbc:label="155287" fbc:name="155287"/>
       <fbc:geneProduct fbc:id="G_184814" fbc:label="184814" fbc:name="184814"/>
       <fbc:geneProduct fbc:id="G_155713" fbc:label="155713" fbc:name="155713"/>
-      <fbc:geneProduct fbc:id="G_185524" fbc:label="185524" fbc:name="185524"/>
+      <fbc:geneProduct fbc:id="G_83968" fbc:label="83968" fbc:name="83968"/>
+      <fbc:geneProduct fbc:id="G_157112" fbc:label="157112" fbc:name="157112"/>
+      <fbc:geneProduct fbc:id="G_92044" fbc:label="92044" fbc:name="92044"/>
       <fbc:geneProduct fbc:id="G_182842" fbc:label="182842" fbc:name="182842"/>
       <fbc:geneProduct fbc:id="G_157427" fbc:label="157427" fbc:name="157427"/>
       <fbc:geneProduct fbc:id="G_142350" fbc:label="142350" fbc:name="142350"/>
-      <fbc:geneProduct fbc:id="G_152767" fbc:label="152767" fbc:name="152767"/>
       <fbc:geneProduct fbc:id="G_156948" fbc:label="156948" fbc:name="156948"/>
       <fbc:geneProduct fbc:id="G_159099" fbc:label="159099" fbc:name="159099"/>
+      <fbc:geneProduct fbc:id="G_152767" fbc:label="152767" fbc:name="152767"/>
       <fbc:geneProduct fbc:id="G_81676" fbc:label="81676" fbc:name="81676"/>
       <fbc:geneProduct fbc:id="G_105209" fbc:label="105209" fbc:name="105209"/>
       <fbc:geneProduct fbc:id="G_113167" fbc:label="113167" fbc:name="113167"/>
@@ -2546,6 +2542,8 @@
       <fbc:geneProduct fbc:id="G_110210" fbc:label="110210" fbc:name="110210"/>
       <fbc:geneProduct fbc:id="G_22420" fbc:label="22420" fbc:name="22420"/>
       <fbc:geneProduct fbc:id="G_151446" fbc:label="151446" fbc:name="151446"/>
+      <fbc:geneProduct fbc:id="G_176370" fbc:label="176370" fbc:name="176370"/>
+      <fbc:geneProduct fbc:id="G_157490" fbc:label="157490" fbc:name="157490"/>
       <fbc:geneProduct fbc:id="G_153149" fbc:label="153149" fbc:name="153149"/>
       <fbc:geneProduct fbc:id="G_110626" fbc:label="110626" fbc:name="110626"/>
       <fbc:geneProduct fbc:id="G_148580" fbc:label="148580" fbc:name="148580"/>
@@ -2571,9 +2569,9 @@
       <fbc:geneProduct fbc:id="G_154750" fbc:label="154750" fbc:name="154750"/>
       <fbc:geneProduct fbc:id="G_136856" fbc:label="136856" fbc:name="136856"/>
       <fbc:geneProduct fbc:id="G_182872" fbc:label="182872" fbc:name="182872"/>
-      <fbc:geneProduct fbc:id="G_155816" fbc:label="155816" fbc:name="155816"/>
       <fbc:geneProduct fbc:id="G_40223" fbc:label="40223" fbc:name="40223"/>
       <fbc:geneProduct fbc:id="G_32094" fbc:label="32094" fbc:name="32094"/>
+      <fbc:geneProduct fbc:id="G_155816" fbc:label="155816" fbc:name="155816"/>
       <fbc:geneProduct fbc:id="G_156720" fbc:label="156720" fbc:name="156720"/>
       <fbc:geneProduct fbc:id="G_104113" fbc:label="104113" fbc:name="104113"/>
       <fbc:geneProduct fbc:id="G_181379" fbc:label="181379" fbc:name="181379"/>
@@ -2586,11 +2584,11 @@
       <fbc:geneProduct fbc:id="G_178338" fbc:label="178338" fbc:name="178338"/>
       <fbc:geneProduct fbc:id="G_156780" fbc:label="156780" fbc:name="156780"/>
       <fbc:geneProduct fbc:id="G_156506" fbc:label="156506" fbc:name="156506"/>
-      <fbc:geneProduct fbc:id="G_156398" fbc:label="156398" fbc:name="156398"/>
-      <fbc:geneProduct fbc:id="G_86823" fbc:label="86823" fbc:name="86823"/>
       <fbc:geneProduct fbc:id="G_155973" fbc:label="155973" fbc:name="155973"/>
-      <fbc:geneProduct fbc:id="G_154607" fbc:label="154607" fbc:name="154607"/>
+      <fbc:geneProduct fbc:id="G_86823" fbc:label="86823" fbc:name="86823"/>
+      <fbc:geneProduct fbc:id="G_156398" fbc:label="156398" fbc:name="156398"/>
       <fbc:geneProduct fbc:id="G_184131" fbc:label="184131" fbc:name="184131"/>
+      <fbc:geneProduct fbc:id="G_154607" fbc:label="154607" fbc:name="154607"/>
       <fbc:geneProduct fbc:id="G_108152" fbc:label="108152" fbc:name="108152"/>
       <fbc:geneProduct fbc:id="G_163841" fbc:label="163841" fbc:name="163841"/>
       <fbc:geneProduct fbc:id="G_157536" fbc:label="157536" fbc:name="157536"/>
@@ -2599,9 +2597,9 @@
       <fbc:geneProduct fbc:id="G_142925" fbc:label="142925" fbc:name="142925"/>
       <fbc:geneProduct fbc:id="G_73657" fbc:label="73657" fbc:name="73657"/>
       <fbc:geneProduct fbc:id="G_155355" fbc:label="155355" fbc:name="155355"/>
-      <fbc:geneProduct fbc:id="G_151878" fbc:label="151878" fbc:name="151878"/>
       <fbc:geneProduct fbc:id="G_121364" fbc:label="121364" fbc:name="121364"/>
       <fbc:geneProduct fbc:id="G_29216" fbc:label="29216" fbc:name="29216"/>
+      <fbc:geneProduct fbc:id="G_151878" fbc:label="151878" fbc:name="151878"/>
       <fbc:geneProduct fbc:id="G_150848" fbc:label="150848" fbc:name="150848"/>
       <fbc:geneProduct fbc:id="G_86845" fbc:label="86845" fbc:name="86845"/>
       <fbc:geneProduct fbc:id="G_104629" fbc:label="104629" fbc:name="104629"/>
@@ -2612,8 +2610,8 @@
       <fbc:geneProduct fbc:id="G_154049" fbc:label="154049" fbc:name="154049"/>
       <fbc:geneProduct fbc:id="G_154786" fbc:label="154786" fbc:name="154786"/>
       <fbc:geneProduct fbc:id="G_16084" fbc:label="16084" fbc:name="16084"/>
-      <fbc:geneProduct fbc:id="G_114522" fbc:label="114522" fbc:name="114522"/>
       <fbc:geneProduct fbc:id="G_154342" fbc:label="154342" fbc:name="154342"/>
+      <fbc:geneProduct fbc:id="G_114522" fbc:label="114522" fbc:name="114522"/>
       <fbc:geneProduct fbc:id="G_189135" fbc:label="189135" fbc:name="189135"/>
       <fbc:geneProduct fbc:id="G_150794" fbc:label="150794" fbc:name="150794"/>
       <fbc:geneProduct fbc:id="G_108146" fbc:label="108146" fbc:name="108146"/>
@@ -2635,19 +2633,19 @@
       <fbc:geneProduct fbc:id="G_152798" fbc:label="152798" fbc:name="152798"/>
       <fbc:geneProduct fbc:id="G_135619" fbc:label="135619" fbc:name="135619"/>
       <fbc:geneProduct fbc:id="G_153484" fbc:label="153484" fbc:name="153484"/>
-      <fbc:geneProduct fbc:id="G_155404" fbc:label="155404" fbc:name="155404"/>
-      <fbc:geneProduct fbc:id="G_134035" fbc:label="134035" fbc:name="134035"/>
-      <fbc:geneProduct fbc:id="G_148187" fbc:label="148187" fbc:name="148187"/>
       <fbc:geneProduct fbc:id="G_156165" fbc:label="156165" fbc:name="156165"/>
       <fbc:geneProduct fbc:id="G_108819" fbc:label="108819" fbc:name="108819"/>
-      <fbc:geneProduct fbc:id="G_85659" fbc:label="85659" fbc:name="85659"/>
-      <fbc:geneProduct fbc:id="G_150820" fbc:label="150820" fbc:name="150820"/>
-      <fbc:geneProduct fbc:id="G_154804" fbc:label="154804" fbc:name="154804"/>
-      <fbc:geneProduct fbc:id="G_154711" fbc:label="154711" fbc:name="154711"/>
       <fbc:geneProduct fbc:id="G_153977" fbc:label="153977" fbc:name="153977"/>
-      <fbc:geneProduct fbc:id="G_114542" fbc:label="114542" fbc:name="114542"/>
-      <fbc:geneProduct fbc:id="G_76500" fbc:label="76500" fbc:name="76500"/>
+      <fbc:geneProduct fbc:id="G_150820" fbc:label="150820" fbc:name="150820"/>
+      <fbc:geneProduct fbc:id="G_154711" fbc:label="154711" fbc:name="154711"/>
       <fbc:geneProduct fbc:id="G_104610" fbc:label="104610" fbc:name="104610"/>
+      <fbc:geneProduct fbc:id="G_114542" fbc:label="114542" fbc:name="114542"/>
+      <fbc:geneProduct fbc:id="G_154804" fbc:label="154804" fbc:name="154804"/>
+      <fbc:geneProduct fbc:id="G_76500" fbc:label="76500" fbc:name="76500"/>
+      <fbc:geneProduct fbc:id="G_148187" fbc:label="148187" fbc:name="148187"/>
+      <fbc:geneProduct fbc:id="G_155404" fbc:label="155404" fbc:name="155404"/>
+      <fbc:geneProduct fbc:id="G_134035" fbc:label="134035" fbc:name="134035"/>
+      <fbc:geneProduct fbc:id="G_85659" fbc:label="85659" fbc:name="85659"/>
       <fbc:geneProduct fbc:id="G_180763" fbc:label="180763" fbc:name="180763"/>
       <fbc:geneProduct fbc:id="G_154273" fbc:label="154273" fbc:name="154273"/>
       <fbc:geneProduct fbc:id="G_183757" fbc:label="183757" fbc:name="183757"/>
@@ -4941,30 +4939,57 @@
           <fbc:geneProductRef fbc:geneProduct="G_152522"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_r871" reversible="false" name="r871" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
+      <reaction fast="false" id="R_r1147M" reversible="false" name="biomass" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
         <listOfReactants>
-          <speciesReference constant="true" species="M_ATP_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_C181_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_COA_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_ALA_c" stoichiometry="0.2279936"/>
+          <speciesReference constant="true" species="M_ARG_c" stoichiometry="0.1499136"/>
+          <speciesReference constant="true" species="M_ASN_c" stoichiometry="0.1436672"/>
+          <speciesReference constant="true" species="M_ASP_c" stoichiometry="0.1811456"/>
+          <speciesReference constant="true" species="M_ATP_c" stoichiometry="88.30275376"/>
+          <speciesReference constant="true" species="M_CHITO_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_CHIT_c" stoichiometry="0.00258"/>
+          <speciesReference constant="true" species="M_CTP_c" stoichiometry="0.01183281"/>
+          <speciesReference constant="true" species="M_CYS_c" stoichiometry="0.0437248"/>
+          <speciesReference constant="true" species="M_DAGLY_c" stoichiometry="0.01955"/>
+          <speciesReference constant="true" species="M_DATP_c" stoichiometry="0.00347904"/>
+          <speciesReference constant="true" species="M_DCTP_c" stoichiometry="0.00226944"/>
+          <speciesReference constant="true" species="M_DGTP_c" stoichiometry="0.00228096"/>
+          <speciesReference constant="true" species="M_DTTP_c" stoichiometry="0.00349056"/>
+          <speciesReference constant="true" species="M_ERGOSE_c" stoichiometry="0.11785"/>
+          <speciesReference constant="true" species="M_FFA_c" stoichiometry="0.05227"/>
+          <speciesReference constant="true" species="M_GDPFUC_c" stoichiometry="0.29678"/>
+          <speciesReference constant="true" species="M_GLN_c" stoichiometry="0.1436672"/>
+          <speciesReference constant="true" species="M_GLU_c" stoichiometry="0.1842688"/>
+          <speciesReference constant="true" species="M_GLYNIN_c" stoichiometry="0.0018"/>
+          <speciesReference constant="true" species="M_GLY_c" stoichiometry="0.1624064"/>
+          <speciesReference constant="true" species="M_GTP_c" stoichiometry="0.01127157"/>
+          <speciesReference constant="true" species="M_HIS_c" stoichiometry="0.0812032"/>
+          <speciesReference constant="true" species="M_ILE_c" stoichiometry="0.1811456"/>
+          <speciesReference constant="true" species="M_LEU_c" stoichiometry="0.2842112"/>
+          <speciesReference constant="true" species="M_LYS_c" stoichiometry="0.187392"/>
+          <speciesReference constant="true" species="M_MAN_c" stoichiometry="0.11386"/>
+          <speciesReference constant="true" species="M_MET_c" stoichiometry="0.07808"/>
+          <speciesReference constant="true" species="M_PA_c" stoichiometry="0.00684"/>
+          <speciesReference constant="true" species="M_PC_c" stoichiometry="0.03188"/>
+          <speciesReference constant="true" species="M_PE_c" stoichiometry="0.04264"/>
+          <speciesReference constant="true" species="M_PHE_c" stoichiometry="0.1280512"/>
+          <speciesReference constant="true" species="M_PINS_c" stoichiometry="0.00093"/>
+          <speciesReference constant="true" species="M_PRO_c" stoichiometry="0.1467904"/>
+          <speciesReference constant="true" species="M_PS_c" stoichiometry="0.00302"/>
+          <speciesReference constant="true" species="M_SER_c" stoichiometry="0.2436096"/>
+          <speciesReference constant="true" species="M_TAGLY_c" stoichiometry="0.725"/>
+          <speciesReference constant="true" species="M_THR_c" stoichiometry="0.187392"/>
+          <speciesReference constant="true" species="M_TRP_c" stoichiometry="0.0374784"/>
+          <speciesReference constant="true" species="M_TYR_c" stoichiometry="0.1061888"/>
+          <speciesReference constant="true" species="M_UDPGE_c" stoichiometry="0.77927"/>
+          <speciesReference constant="true" species="M_UTP_c" stoichiometry="0.01052325"/>
+          <speciesReference constant="true" species="M_VAL_c" stoichiometry="0.2279936"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_AMP_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_C181COA_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_PPI_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_ADP_c" stoichiometry="88.30275376"/>
+          <speciesReference constant="true" species="M_BIOMASS_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_PI_c" stoichiometry="88.30275376"/>
         </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:or>
-            <fbc:geneProductRef fbc:geneProduct="G_163725"/>
-            <fbc:geneProductRef fbc:geneProduct="G_115564"/>
-            <fbc:geneProductRef fbc:geneProduct="G_43750"/>
-            <fbc:geneProductRef fbc:geneProduct="G_46183"/>
-            <fbc:geneProductRef fbc:geneProduct="G_111062"/>
-            <fbc:geneProductRef fbc:geneProduct="G_110043"/>
-            <fbc:geneProductRef fbc:geneProduct="G_111525"/>
-            <fbc:geneProductRef fbc:geneProduct="G_183101"/>
-            <fbc:geneProductRef fbc:geneProduct="G_87170"/>
-          </fbc:or>
-        </fbc:geneProductAssociation>
       </reaction>
       <reaction fast="false" id="R_r79" reversible="true" name="r79" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <listOfReactants>
@@ -5026,6 +5051,31 @@
             <fbc:geneProductRef fbc:geneProduct="G_143484"/>
             <fbc:geneProductRef fbc:geneProduct="G_43679"/>
             <fbc:geneProductRef fbc:geneProduct="G_159009"/>
+          </fbc:or>
+        </fbc:geneProductAssociation>
+      </reaction>
+      <reaction fast="false" id="R_r871" reversible="false" name="r871" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
+        <listOfReactants>
+          <speciesReference constant="true" species="M_ATP_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_C181_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_COA_c" stoichiometry="1"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference constant="true" species="M_AMP_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_C181COA_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_PPI_c" stoichiometry="1"/>
+        </listOfProducts>
+        <fbc:geneProductAssociation>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_163725"/>
+            <fbc:geneProductRef fbc:geneProduct="G_115564"/>
+            <fbc:geneProductRef fbc:geneProduct="G_43750"/>
+            <fbc:geneProductRef fbc:geneProduct="G_46183"/>
+            <fbc:geneProductRef fbc:geneProduct="G_111062"/>
+            <fbc:geneProductRef fbc:geneProduct="G_110043"/>
+            <fbc:geneProductRef fbc:geneProduct="G_111525"/>
+            <fbc:geneProductRef fbc:geneProduct="G_183101"/>
+            <fbc:geneProductRef fbc:geneProduct="G_87170"/>
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
@@ -6492,26 +6542,19 @@
           <fbc:geneProductRef fbc:geneProduct="G_186686"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_r248" reversible="false" name="r248" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
+      <reaction fast="false" id="R_r375" reversible="false" name="r375" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
         <listOfReactants>
-          <speciesReference constant="true" species="M_FERI_m" stoichiometry="2"/>
-          <speciesReference constant="true" species="M_H_PO_m" stoichiometry="4"/>
-          <speciesReference constant="true" species="M_QH2_m" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_ATP_m" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_SER_m" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_TRNA_m" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_FERO_m" stoichiometry="2"/>
-          <speciesReference constant="true" species="M_H_PO_c" stoichiometry="4"/>
-          <speciesReference constant="true" species="M_Q_m" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_AMP_m" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_LSERTRNA_m" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_PPI_m" stoichiometry="1"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:or>
-            <fbc:geneProductRef fbc:geneProduct="G_155756"/>
-            <fbc:geneProductRef fbc:geneProduct="G_155547"/>
-            <fbc:geneProductRef fbc:geneProduct="G_156691"/>
-            <fbc:geneProductRef fbc:geneProduct="G_155567"/>
-            <fbc:geneProductRef fbc:geneProduct="G_45199"/>
-            <fbc:geneProductRef fbc:geneProduct="G_156821"/>
-          </fbc:or>
+          <fbc:geneProductRef fbc:geneProduct="G_139115"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction fast="false" id="R_r376" reversible="false" name="r376" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
@@ -7116,20 +7159,16 @@
           <fbc:geneProductRef fbc:geneProduct="G_154820"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_r36" reversible="true" name="r36" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_r118" reversible="false" name="r118" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
         <listOfReactants>
-          <speciesReference constant="true" species="M_S7P_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_T3P1_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_UDPGE_m" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_E4P_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_F6P_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_CO2_m" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_UDPXYL_m" stoichiometry="1"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:or>
-            <fbc:geneProductRef fbc:geneProduct="G_176370"/>
-            <fbc:geneProductRef fbc:geneProduct="G_157490"/>
-          </fbc:or>
+          <fbc:geneProductRef fbc:geneProduct="G_113132"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction fast="false" id="R_r119" reversible="false" name="r119" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
@@ -8117,21 +8156,6 @@
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_29874"/>
-        </fbc:geneProductAssociation>
-      </reaction>
-      <reaction fast="false" id="R_r375" reversible="false" name="r375" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
-        <listOfReactants>
-          <speciesReference constant="true" species="M_ATP_m" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_SER_m" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_TRNA_m" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference constant="true" species="M_AMP_m" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_LSERTRNA_m" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_PPI_m" stoichiometry="1"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_139115"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction fast="false" id="R_r1175" reversible="false" name="r1175" fbc:upperFluxBound="cobra_0_bound" fbc:lowerFluxBound="cobra_0_bound">
@@ -9423,19 +9447,25 @@
           <speciesReference constant="true" species="M_LPC_c" stoichiometry="1"/>
         </listOfProducts>
       </reaction>
-      <reaction fast="false" id="R_r802" reversible="true" name="r802" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_r248" reversible="false" name="r248" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C4DACP_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_NADH_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_FERI_m" stoichiometry="2"/>
+          <speciesReference constant="true" species="M_H_PO_m" stoichiometry="4"/>
+          <speciesReference constant="true" species="M_QH2_m" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C40ACP_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_NAD_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_FERO_m" stoichiometry="2"/>
+          <speciesReference constant="true" species="M_H_PO_c" stoichiometry="4"/>
+          <speciesReference constant="true" species="M_Q_m" stoichiometry="1"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
-            <fbc:geneProductRef fbc:geneProduct="G_72770"/>
-            <fbc:geneProductRef fbc:geneProduct="G_183529"/>
+            <fbc:geneProductRef fbc:geneProduct="G_155756"/>
+            <fbc:geneProductRef fbc:geneProduct="G_155547"/>
+            <fbc:geneProductRef fbc:geneProduct="G_156691"/>
+            <fbc:geneProductRef fbc:geneProduct="G_155567"/>
+            <fbc:geneProductRef fbc:geneProduct="G_45199"/>
+            <fbc:geneProductRef fbc:geneProduct="G_156821"/>
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
@@ -10302,19 +10332,16 @@
           <fbc:geneProductRef fbc:geneProduct="G_175614"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_r801" reversible="true" name="r801" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_r476" reversible="false" name="r476" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C4HACP_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_METHIR1P_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C4DACP_c" stoichiometry="1"/>
           <speciesReference constant="true" species="M_H2O_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_METHPENP_c" stoichiometry="1"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:or>
-            <fbc:geneProductRef fbc:geneProduct="G_72770"/>
-            <fbc:geneProductRef fbc:geneProduct="G_183529"/>
-          </fbc:or>
+          <fbc:geneProductRef fbc:geneProduct="G_152206"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction fast="false" id="R_r419" reversible="false" name="r419" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
@@ -10848,18 +10875,6 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_r118" reversible="false" name="r118" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
-        <listOfReactants>
-          <speciesReference constant="true" species="M_UDPGE_m" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference constant="true" species="M_CO2_m" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_UDPXYL_m" stoichiometry="1"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_113132"/>
-        </fbc:geneProductAssociation>
-      </reaction>
       <reaction fast="false" id="R_r1267" reversible="true" name="r1267" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <listOfReactants>
           <speciesReference constant="true" species="M_OA_x" stoichiometry="1"/>
@@ -11207,33 +11222,21 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_r1147" reversible="false" name="biomass" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
+      <reaction fast="false" id="R_r800" reversible="true" name="r800" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <listOfReactants>
-          <speciesReference constant="true" species="M_ATP_c" stoichiometry="72"/>
-          <speciesReference constant="true" species="M_CHITO_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_CHIT_c" stoichiometry="0.00258"/>
-          <speciesReference constant="true" species="M_DAGLY_c" stoichiometry="0.01955"/>
-          <speciesReference constant="true" species="M_DNA_c" stoichiometry="0.01152"/>
-          <speciesReference constant="true" species="M_ERGOSE_c" stoichiometry="0.11785"/>
-          <speciesReference constant="true" species="M_FFA_c" stoichiometry="0.05227"/>
-          <speciesReference constant="true" species="M_GDPFUC_c" stoichiometry="0.29678"/>
-          <speciesReference constant="true" species="M_GLYNIN_c" stoichiometry="0.0018"/>
-          <speciesReference constant="true" species="M_MAN_c" stoichiometry="0.11386"/>
-          <speciesReference constant="true" species="M_PA_c" stoichiometry="0.00684"/>
-          <speciesReference constant="true" species="M_PC_c" stoichiometry="0.03188"/>
-          <speciesReference constant="true" species="M_PE_c" stoichiometry="0.04264"/>
-          <speciesReference constant="true" species="M_PINS_c" stoichiometry="0.00093"/>
-          <speciesReference constant="true" species="M_PS_c" stoichiometry="0.00302"/>
-          <speciesReference constant="true" species="M_Protein_c" stoichiometry="3.1232"/>
-          <speciesReference constant="true" species="M_RNA_c" stoichiometry="0.04677"/>
-          <speciesReference constant="true" species="M_TAGLY_c" stoichiometry="0.725"/>
-          <speciesReference constant="true" species="M_UDPGE_c" stoichiometry="0.77927"/>
+          <speciesReference constant="true" species="M_AACACP_m" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_NADPH_m" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_ADP_c" stoichiometry="72"/>
-          <speciesReference constant="true" species="M_BIOMASS_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_PI_c" stoichiometry="72"/>
+          <speciesReference constant="true" species="M_C4HACP_m" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_NADP_m" stoichiometry="1"/>
         </listOfProducts>
+        <fbc:geneProductAssociation>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_155411"/>
+            <fbc:geneProductRef fbc:geneProduct="G_134408"/>
+          </fbc:or>
+        </fbc:geneProductAssociation>
       </reaction>
       <reaction fast="false" id="R_r37" reversible="true" name="r37" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <listOfReactants>
@@ -17730,18 +17733,6 @@
           <fbc:geneProductRef fbc:geneProduct="G_151060"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_r476" reversible="false" name="r476" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
-        <listOfReactants>
-          <speciesReference constant="true" species="M_METHIR1P_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference constant="true" species="M_H2O_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_METHPENP_c" stoichiometry="1"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_152206"/>
-        </fbc:geneProductAssociation>
-      </reaction>
       <reaction fast="false" id="R_r1134" reversible="false" name="r1134" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
         <listOfReactants>
           <speciesReference constant="true" species="M_RGT_c" stoichiometry="1"/>
@@ -18361,18 +18352,21 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_r1145" reversible="false" name="rna" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
+      <reaction fast="false" id="R_r802" reversible="true" name="r802" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <listOfReactants>
-          <speciesReference constant="true" species="M_ATP_c" stoichiometry="2.544"/>
-          <speciesReference constant="true" species="M_CTP_c" stoichiometry="0.253"/>
-          <speciesReference constant="true" species="M_GTP_c" stoichiometry="0.241"/>
-          <speciesReference constant="true" species="M_UTP_c" stoichiometry="0.225"/>
+          <speciesReference constant="true" species="M_C4DACP_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_NADH_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_ADP_c" stoichiometry="2.544"/>
-          <speciesReference constant="true" species="M_PI_c" stoichiometry="2.544"/>
-          <speciesReference constant="true" species="M_RNA_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_C40ACP_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_NAD_c" stoichiometry="1"/>
         </listOfProducts>
+        <fbc:geneProductAssociation>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_72770"/>
+            <fbc:geneProductRef fbc:geneProduct="G_183529"/>
+          </fbc:or>
+        </fbc:geneProductAssociation>
       </reaction>
       <reaction fast="false" id="R_r1059" reversible="false" name="r1059" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
         <listOfReactants>
@@ -18507,19 +18501,19 @@
           <fbc:geneProductRef fbc:geneProduct="G_151446"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_r800" reversible="true" name="r800" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+      <reaction fast="false" id="R_r36" reversible="true" name="r36" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <listOfReactants>
-          <speciesReference constant="true" species="M_AACACP_m" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_NADPH_m" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_S7P_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_T3P1_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C4HACP_m" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_NADP_m" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_E4P_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_F6P_c" stoichiometry="1"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
-            <fbc:geneProductRef fbc:geneProduct="G_155411"/>
-            <fbc:geneProductRef fbc:geneProduct="G_134408"/>
+            <fbc:geneProductRef fbc:geneProduct="G_176370"/>
+            <fbc:geneProductRef fbc:geneProduct="G_157490"/>
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
@@ -18566,19 +18560,20 @@
           <fbc:geneProductRef fbc:geneProduct="G_150079"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_r1146" reversible="false" name="dna" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
+      <reaction fast="false" id="R_r801" reversible="true" name="r801" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <listOfReactants>
-          <speciesReference constant="true" species="M_ATP_c" stoichiometry="3.739"/>
-          <speciesReference constant="true" species="M_DATP_c" stoichiometry="0.302"/>
-          <speciesReference constant="true" species="M_DCTP_c" stoichiometry="0.197"/>
-          <speciesReference constant="true" species="M_DGTP_c" stoichiometry="0.198"/>
-          <speciesReference constant="true" species="M_DTTP_c" stoichiometry="0.303"/>
+          <speciesReference constant="true" species="M_C4HACP_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_ADP_c" stoichiometry="3.739"/>
-          <speciesReference constant="true" species="M_DNA_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_PI_c" stoichiometry="3.739"/>
+          <speciesReference constant="true" species="M_C4DACP_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_H2O_c" stoichiometry="1"/>
         </listOfProducts>
+        <fbc:geneProductAssociation>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_72770"/>
+            <fbc:geneProductRef fbc:geneProduct="G_183529"/>
+          </fbc:or>
+        </fbc:geneProductAssociation>
       </reaction>
       <reaction fast="false" id="R_r469" reversible="false" name="r469" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
         <listOfReactants>
