@@ -1,0 +1,733 @@
+orgId	KBaseGenome	KBaseGenome ID	Name	Group	Condition	Description	Condition ID (Kbase ExpMatrix)	Kbase Media
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set1IT040	carbon source	4-Hydroxybenzoic Acid	4-Hydroxybenzoic Acid (C)	set1IT040 4-Hydroxybenzoic Acid (C)	
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT069	carbon source	4-Hydroxybenzoic Acid	4-Hydroxybenzoic Acid (C)	set2IT069 4-Hydroxybenzoic Acid (C)	
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set1IT031	carbon source	a-Ketoglutaric acid disodium salt hydrate	a-Ketoglutaric (C)	set1IT031 a-Ketoglutaric (C)	
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT059	carbon source	a-Ketoglutaric acid disodium salt hydrate	a-Ketoglutaric (C)	set2IT059 a-Ketoglutaric (C)	
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT056	carbon source	Sodium butyrate	butyrate (C)	set2IT056 butyrate (C)	
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set3IT002	nitrogen source	casamino acids	casaminos (N)	set3IT002 casaminos (N)	
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT094	nitrogen source	D-Alanine	D-Alanine (N)	set2IT094 D-Alanine (N)	Nitrogen-D-Alanine
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set3IT020	nitrogen source	D-Alanine	D-Alanine (N)	set3IT020 D-Alanine (N)	Nitrogen-D-Alanine
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT057	carbon source	D-Fructose	D-Fructose (C)	set2IT057 D-Fructose (C)	Carbon-D-Fructose
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT060	carbon source	D-Gluconic Acid sodium salt	D-Gluconic Acid (C)	set2IT060 D-Gluconic Acid (C)	Carbon-D-Gluconic-Acid
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set1IT034	carbon source	Sodium D-Lactate	D-Lactate (C)	set1IT034 D-Lactate (C)	C-D-Lactate
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT063	carbon source	Sodium D-Lactate	D-Lactate (C)	set2IT063 D-Lactate (C)	C-D-Lactate
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set1IT036	carbon source	Sodium D,L-Lactate	D,L-Lactate (C)	set1IT036 D,L-Lactate (C)	
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT065	carbon source	Sodium D,L-Lactate	D,L-Lactate (C)	set2IT065 D,L-Lactate (C)	
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set1IT041	carbon source	Ethanol	Ethanol (C)	set1IT041 Ethanol (C)	
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT070	carbon source	Ethanol	Ethanol (C)	set2IT070 Ethanol (C)	
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set3IT024	nitrogen source	Glucuronamide	Glucuronamide (N)	set3IT024 Glucuronamide (N)	
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set3IT014	nitrogen source	Glycine	Glycine (N)	set3IT014 Glycine (N)	Nitrogen-Glycine
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT050	carbon source	L-Alanine	L-Alanine (C)	set2IT050 L-Alanine (C)	Carbon-L-Alanine
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT077	carbon source	L-Alanine	L-Alanine (C)	set2IT077 L-Alanine (C)	Carbon-L-Alanine
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set1IT045	carbon source	L-Asparagine	L-Asparagine (C)	set1IT045 L-Asparagine (C)	Carbon-L-Asparagine
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT074	carbon source	L-Asparagine	L-Asparagine (C)	set2IT074 L-Asparagine (C)	Carbon-L-Asparagine
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT087	nitrogen source	L-Asparagine	L-Asparagine (N)	set2IT087 L-Asparagine (N)	Nitrogen-L-Asparagine
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set3IT021	nitrogen source	L-Citrulline	L-Citrulline (N)	set3IT021 L-Citrulline (N)	Nitrogen-L-Citrulline
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set1IT046	carbon source	L-Glutamine	L-Glutamine (C)	set1IT046 L-Glutamine (C)	Carbon-L-Glutamine
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT075	carbon source	L-Glutamine	L-Glutamine (C)	set2IT075 L-Glutamine (C)	Carbon-L-Glutamine
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set3IT013	nitrogen source	L-Glutamine	L-Glutamine (N)	set3IT013 L-Glutamine (N)	Nitrogen-L-Glutamine
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set1IT043	carbon source	L-Histidine	L-Histidine (C)	set1IT043 L-Histidine (C)	Carbon-L-Histidine
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT072	carbon source	L-Histidine	L-Histidine (C)	set2IT072 L-Histidine (C)	Carbon-L-Histidine
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT090	nitrogen source	L-Isoleucine	L-Isoleucine (N)	set2IT090 L-Isoleucine (N)	Nitrogen-L-Isoleucine
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set3IT016	nitrogen source	L-Isoleucine	L-Isoleucine (N)	set3IT016 L-Isoleucine (N)	Nitrogen-L-Isoleucine
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set1IT035	carbon source	Sodium L-Lactate	L-Lactate (C)	set1IT035 L-Lactate (C)	
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT064	carbon source	Sodium L-Lactate	L-Lactate (C)	set2IT064 L-Lactate (C)	
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT051	carbon source	L-Leucine	L-Leucine (C)	set2IT051 L-Leucine (C)	Carbon-L-Leucine
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT078	carbon source	L-Leucine	L-Leucine (C)	set2IT078 L-Leucine (C)	Carbon-L-Leucine
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT091	nitrogen source	L-Leucine	L-Leucine (N)	set2IT091 L-Leucine (N)	Nitrogen-L-Leucine
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set3IT017	nitrogen source	L-Leucine	L-Leucine (N)	set3IT017 L-Leucine (N)	Nitrogen-L-Leucine
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT084	nitrogen source	L-Lysine	L-Lysine (N)	set2IT084 L-Lysine (N)	Nitrogen-L-Lysine
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set1IT042	carbon source	L-Malic acid disodium salt monohydrate	L-Malic (C)	set1IT042 L-Malic (C)	Carbon-L-Malic-Acid
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT071	carbon source	L-Malic acid disodium salt monohydrate	L-Malic (C)	set2IT071 L-Malic (C)	Carbon-L-Malic-Acid
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT052	carbon source	L-Phenylalanine	L-Phenylalanine (C)	set2IT052 L-Phenylalanine (C)	Carbon-L-Phenylalanine
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set3IT018	nitrogen source	L-Phenylalanine	L-Phenylalanine (N)	set3IT018 L-Phenylalanine (N)	Nitrogen-L-Phenylalanine
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT049	carbon source	L-Proline	L-Proline (C)	set2IT049 L-Proline (C)	Carbon-L-Proline
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT085	nitrogen source	L-Serine	L-Serine (N)	set2IT085 L-Serine (N)	Nitrogen-L-Serine
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set3IT010	nitrogen source	L-Serine	L-Serine (N)	set3IT010 L-Serine (N)	Nitrogen-L-Serine
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set1IT044	carbon source	L-Threonine	L-Threonine (C)	set1IT044 L-Threonine (C)	Carbon-L-Threonine
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT086	nitrogen source	L-Threonine	L-Threonine (N)	set2IT086 L-Threonine (N)	Nitrogen-L-Threonine
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT053	carbon source	L-Tryptophan	L-Tryptophan (C)	set2IT053 L-Tryptophan (C)	
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT080	carbon source	L-Tryptophan	L-Tryptophan (C)	set2IT080 L-Tryptophan (C)	
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT093	nitrogen source	L-Tryptophan	L-Tryptophan (N)	set2IT093 L-Tryptophan (N)	Nitrogen-L-Tryptophan
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set3IT019	nitrogen source	L-Tryptophan	L-Tryptophan (N)	set3IT019 L-Tryptophan (N)	Nitrogen-L-Tryptophan
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT089	nitrogen source	L-Valine	L-Valine (N)	set2IT089 L-Valine (N)	Nitrogen-L-Valine
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set3IT015	nitrogen source	L-Valine	L-Valine (N)	set3IT015 L-Valine (N)	Nitrogen-L-Valine
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set3IT026	nitrogen source	Sodium nitrate	nitrate (N)	set3IT026 nitrate (N)	Nitrogen-Nitrate
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set3IT027	nitrogen source	Sodium nitrite	nitrite (N)	set3IT027 nitrite (N)	Nitrogen-Nitrite
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set1IT039	carbon source	Sodium propionate	propionate (C)	set1IT039 propionate (C)	
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT068	carbon source	Sodium propionate	propionate (C)	set2IT068 propionate (C)	
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set1IT037	carbon source	Sodium pyruvate	pyruvate (C)	set1IT037 pyruvate (C)	
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT066	carbon source	Sodium pyruvate	pyruvate (C)	set2IT066 pyruvate (C)	
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set1IT038	carbon source	Sodium succinate dibasic hexahydrate	succinate (C)	set1IT038 succinate (C)	
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set2IT067	carbon source	Sodium succinate dibasic hexahydrate	succinate (C)	set2IT067 succinate (C)	
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set1IT030	carbon source	Sucrose	Sucrose (C)	set1IT030 Sucrose (C)	Carbon-Sucrose
+Cup4G11	Cupriavidus_basilensis	GCF_000832305.1	set1IT033	carbon source	Trisodium citrate dihydrate	Trisodium citrate (C)	set1IT033 Trisodium citrate (C)	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H11	carbon source	a-Ketoglutaric acid disodium salt hydrate	a-Ketoglutaric (C)	set10H11 a-Ketoglutaric (C)	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H12	carbon source	a-Ketoglutaric acid disodium salt hydrate	a-Ketoglutaric (C)	set10H12 a-Ketoglutaric (C)	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H15	carbon source	Potassium acetate	acetate (C)	set10H15 acetate (C)	C-acetate
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H16	carbon source	Potassium acetate	acetate (C)	set10H16 acetate (C)	C-acetate
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set13H21	nitrogen source	Adenine hydrochloride hydrate	Adenine (N)	set13H21 Adenine (N)	Nitrogen-Adenine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set13H22	nitrogen source	Adenine hydrochloride hydrate	Adenine (N)	set13H22 Adenine (N)	Nitrogen-Adenine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set2H32	nitrogen source	Adenine hydrochloride hydrate	Adenine (N)	set2H32 Adenine (N)	Nitrogen-Adenine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set13H25	nitrogen source	Ammonium chloride	Ammonium chloride (N)	set13H25 Ammonium chloride (N)	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set13H26	nitrogen source	Ammonium chloride	Ammonium chloride (N)	set13H26 Ammonium chloride (N)	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H27	carbon source	Sodium butyrate	butyrate (C)	set12H27 butyrate (C)	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H28	carbon source	Sodium butyrate	butyrate (C)	set12H28 butyrate (C)	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set2H39	carbon source	Sodium butyrate	butyrate (C)	set2H39 butyrate (C)	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H23	carbon source	casamino acids	casaminos (C)	set12H23 casaminos (C)	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H24	carbon source	casamino acids	casaminos (C)	set12H24 casaminos (C)	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set13H23	nitrogen source	Cytosine	Cytosine (N)	set13H23 Cytosine (N)	Nitrogen-Cytosine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set13H24	nitrogen source	Cytosine	Cytosine (N)	set13H24 Cytosine (N)	Nitrogen-Cytosine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set2H33	nitrogen source	Cytosine	Cytosine (N)	set2H33 Cytosine (N)	Nitrogen-Cytosine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H21	carbon source	D-Alanine	D-Alanine (C)	set12H21 D-Alanine (C)	Carbon-D-Alanine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H22	carbon source	D-Alanine	D-Alanine (C)	set12H22 D-Alanine (C)	Carbon-D-Alanine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set13H11	nitrogen source	D-Alanine	D-Alanine (N)	set13H11 D-Alanine (N)	Nitrogen-D-Alanine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set13H12	nitrogen source	D-Alanine	D-Alanine (N)	set13H12 D-Alanine (N)	Nitrogen-D-Alanine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set2H27	nitrogen source	D-Alanine	D-Alanine (N)	set2H27 D-Alanine (N)	Nitrogen-D-Alanine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H5	carbon source	D-Fructose	D-Fructose (C)	set10H5 D-Fructose (C)	Carbon-D-Fructose
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H6	carbon source	D-Fructose	D-Fructose (C)	set10H6 D-Fructose (C)	Carbon-D-Fructose
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H13	carbon source	D-Gluconic Acid sodium salt	D-Gluconic Acid (C)	set10H13 D-Gluconic Acid (C)	Carbon-D-Gluconic-Acid
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H14	carbon source	D-Gluconic Acid sodium salt	D-Gluconic Acid (C)	set10H14 D-Gluconic Acid (C)	Carbon-D-Gluconic-Acid
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H3	carbon source	D-Glucose	D-Glucose (C)	set10H3 D-Glucose (C)	Carbon-D-Glucose
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H4	carbon source	D-Glucose	D-Glucose (C)	set10H4 D-Glucose (C)	Carbon-D-Glucose
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H21	carbon source	Sodium D-Lactate	D-Lactate (C)	set10H21 D-Lactate (C)	C-D-Lactate
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H22	carbon source	Sodium D-Lactate	D-Lactate (C)	set10H22 D-Lactate (C)	C-D-Lactate
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H10	carbon source	D-Maltose monohydrate	D-Maltose (C)	set10H10 D-Maltose (C)	Carbon-Maltose
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H42	carbon source	D-Maltose monohydrate	D-Maltose (C)	set10H42 D-Maltose (C)	Carbon-Maltose
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H9	carbon source	D-Maltose monohydrate	D-Maltose (C)	set10H9 D-Maltose (C)	Carbon-Maltose
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H25	carbon source	Sodium D,L-Lactate	D,L-Lactate (C)	set10H25 D,L-Lactate (C)	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H26	carbon source	Sodium D,L-Lactate	D,L-Lactate (C)	set10H26 D,L-Lactate (C)	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H33	carbon source	Ethanol	Ethanol (C)	set10H33 Ethanol (C)	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H34	carbon source	Ethanol	Ethanol (C)	set10H34 Ethanol (C)	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H17	carbon source	Sodium Fumarate dibasic	Fumarate (C)	set10H17 Fumarate (C)	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H18	carbon source	Sodium Fumarate dibasic	Fumarate (C)	set10H18 Fumarate (C)	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set5H19	carbon source		Glucose defined media	set5H19 Glucose defined media	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set5H20	carbon source		Glucose defined media	set5H20 Glucose defined media	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H35	carbon source	Glycerol	Glycerol (C)	set10H35 Glycerol (C)	Carbon-Glycerol
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H36	carbon source	Glycerol	Glycerol (C)	set10H36 Glycerol (C)	Carbon-Glycerol
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H47	nitrogen source	Glycine	Glycine (N)	set12H47 Glycine (N)	Nitrogen-Glycine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H48	nitrogen source	Glycine	Glycine (N)	set12H48 Glycine (N)	Nitrogen-Glycine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set2H21	nitrogen source	Glycine	Glycine (N)	set2H21 Glycine (N)	Nitrogen-Glycine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H31	carbon source	Glycolic Acid	Glycolic Acid (C)	set10H31 Glycolic Acid (C)	Carbon-Glycolic-Acid
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H32	carbon source	Glycolic Acid	Glycolic Acid (C)	set10H32 Glycolic Acid (C)	Carbon-Glycolic-Acid
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H13	carbon source	L-Alanine	L-Alanine (C)	set12H13 L-Alanine (C)	Carbon-L-Alanine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H14	carbon source	L-Alanine	L-Alanine (C)	set12H14 L-Alanine (C)	Carbon-L-Alanine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set13H3	nitrogen source	L-Alanine	L-Alanine (N)	set13H3 L-Alanine (N)	Nitrogen-L-Alanine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set13H4	nitrogen source	L-Alanine	L-Alanine (N)	set13H4 L-Alanine (N)	Nitrogen-L-Alanine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set2H23	nitrogen source	L-Alanine	L-Alanine (N)	set2H23 L-Alanine (N)	Nitrogen-L-Alanine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set2H17	nitrogen source	L-Arginine	L-Arginine (N)	set2H17 L-Arginine (N)	Nitrogen-L-Arginine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H7	carbon source	L-Asparagine	L-Asparagine (C)	set12H7 L-Asparagine (C)	Carbon-L-Asparagine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H8	carbon source	L-Asparagine	L-Asparagine (C)	set12H8 L-Asparagine (C)	Carbon-L-Asparagine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set2H3	carbon source	L-Asparagine	L-Asparagine (C)	set2H3 L-Asparagine (C)	Carbon-L-Asparagine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H43	nitrogen source	L-Asparagine	L-Asparagine (N)	set12H43 L-Asparagine (N)	Nitrogen-L-Asparagine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H44	nitrogen source	L-Asparagine	L-Asparagine (N)	set12H44 L-Asparagine (N)	Nitrogen-L-Asparagine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set13H13	nitrogen source	L-Citrulline	L-Citrulline (N)	set13H13 L-Citrulline (N)	Nitrogen-L-Citrulline
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set13H14	nitrogen source	L-Citrulline	L-Citrulline (N)	set13H14 L-Citrulline (N)	Nitrogen-L-Citrulline
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H5	carbon source	L-Glutamic acid monopotassium salt monohydrate	L-Glutamic (C)	set12H5 L-Glutamic (C)	Carbon-L-Glutamic-Acid
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H6	carbon source	L-Glutamic acid monopotassium salt monohydrate	L-Glutamic (C)	set12H6 L-Glutamic (C)	Carbon-L-Glutamic-Acid
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H41	nitrogen source	L-Glutamic acid monopotassium salt monohydrate	L-Glutamic (N)	set12H41 L-Glutamic (N)	Nitrogen-L-Glutamic-Acid
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H42	nitrogen source	L-Glutamic acid monopotassium salt monohydrate	L-Glutamic (N)	set12H42 L-Glutamic (N)	Nitrogen-L-Glutamic-Acid
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set2H18	nitrogen source	L-Glutamic acid monopotassium salt monohydrate	L-Glutamic (N)	set2H18 L-Glutamic (N)	Nitrogen-L-Glutamic-Acid
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H10	carbon source	L-Glutamine	L-Glutamine (C)	set12H10 L-Glutamine (C)	Carbon-L-Glutamine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H36	carbon source	L-Glutamine	L-Glutamine (C)	set12H36 L-Glutamine (C)	Carbon-L-Glutamine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H9	carbon source	L-Glutamine	L-Glutamine (C)	set12H9 L-Glutamine (C)	Carbon-L-Glutamine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H45	nitrogen source	L-Glutamine	L-Glutamine (N)	set12H45 L-Glutamine (N)	Nitrogen-L-Glutamine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H46	nitrogen source	L-Glutamine	L-Glutamine (N)	set12H46 L-Glutamine (N)	Nitrogen-L-Glutamine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set2H20	nitrogen source	L-Glutamine	L-Glutamine (N)	set2H20 L-Glutamine (N)	Nitrogen-L-Glutamine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H15	carbon source	L-Isoleucine	L-Isoleucine (C)	set12H15 L-Isoleucine (C)	Carbon-L-Isoleucine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H16	carbon source	L-Isoleucine	L-Isoleucine (C)	set12H16 L-Isoleucine (C)	Carbon-L-Isoleucine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set13H7	nitrogen source	L-Isoleucine	L-Isoleucine (N)	set13H7 L-Isoleucine (N)	Nitrogen-L-Isoleucine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set13H8	nitrogen source	L-Isoleucine	L-Isoleucine (N)	set13H8 L-Isoleucine (N)	Nitrogen-L-Isoleucine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set2H25	nitrogen source	L-Isoleucine	L-Isoleucine (N)	set2H25 L-Isoleucine (N)	Nitrogen-L-Isoleucine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set2H48	nitrogen source	L-Isoleucine	L-Isoleucine (N)	set2H48 L-Isoleucine (N)	Nitrogen-L-Isoleucine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H23	carbon source	Sodium L-Lactate	L-Lactate (C)	set10H23 L-Lactate (C)	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H24	carbon source	Sodium L-Lactate	L-Lactate (C)	set10H24 L-Lactate (C)	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set1H13	carbon source	Sodium L-Lactate	L-Lactate (C)	set1H13 L-Lactate (C)	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H17	carbon source	L-Leucine	L-Leucine (C)	set12H17 L-Leucine (C)	Carbon-L-Leucine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H18	carbon source	L-Leucine	L-Leucine (C)	set12H18 L-Leucine (C)	Carbon-L-Leucine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H3	carbon source	L-Malic acid disodium salt monohydrate	L-Malic (C)	set12H3 L-Malic (C)	Carbon-L-Malic-Acid
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H4	carbon source	L-Malic acid disodium salt monohydrate	L-Malic (C)	set12H4 L-Malic (C)	Carbon-L-Malic-Acid
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H11	carbon source	L-Proline	L-Proline (C)	set12H11 L-Proline (C)	Carbon-L-Proline
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H12	carbon source	L-Proline	L-Proline (C)	set12H12 L-Proline (C)	Carbon-L-Proline
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set1H25	carbon source	L-Proline	L-Proline (C)	set1H25 L-Proline (C)	Carbon-L-Proline
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set13H1	nitrogen source	L-Proline	L-Proline (N)	set13H1 L-Proline (N)	Nitrogen-L-Proline
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set13H2	nitrogen source	L-Proline	L-Proline (N)	set13H2 L-Proline (N)	Nitrogen-L-Proline
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set13H38	nitrogen source	L-Proline	L-Proline (N)	set13H38 L-Proline (N)	Nitrogen-L-Proline
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set2H22	nitrogen source	L-Proline	L-Proline (N)	set2H22 L-Proline (N)	Nitrogen-L-Proline
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H19	carbon source	L-tyrosine disodium salt	L-tyrosine (C)	set12H19 L-tyrosine (C)	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set12H20	carbon source	L-tyrosine disodium salt	L-tyrosine (C)	set12H20 L-tyrosine (C)	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set13H5	nitrogen source	L-Valine	L-Valine (N)	set13H5 L-Valine (N)	Nitrogen-L-Valine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set13H6	nitrogen source	L-Valine	L-Valine (N)	set13H6 L-Valine (N)	Nitrogen-L-Valine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set13H27	nitrogen source	Sodium nitrate	nitrate (N)	set13H27 nitrate (N)	Nitrogen-Nitrate
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set13H28	nitrogen source	Sodium nitrate	nitrate (N)	set13H28 nitrate (N)	Nitrogen-Nitrate
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set2H35	nitrogen source	Sodium nitrate	nitrate (N)	set2H35 nitrate (N)	Nitrogen-Nitrate
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set13H29	nitrogen source	Sodium nitrite	nitrite (N)	set13H29 nitrite (N)	Nitrogen-Nitrite
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set13H30	nitrogen source	Sodium nitrite	nitrite (N)	set13H30 nitrite (N)	Nitrogen-Nitrite
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set2H36	nitrogen source	Sodium nitrite	nitrite (N)	set2H36 nitrite (N)	Nitrogen-Nitrite
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set3H13	nitrogen source	Sodium nitrite	nitrite (N)	set3H13 nitrite (N)	Nitrogen-Nitrite
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set13H19	nitrogen source	Parabanic Acid	Parabanic Acid (N)	set13H19 Parabanic Acid (N)	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set13H20	nitrogen source	Parabanic Acid	Parabanic Acid (N)	set13H20 Parabanic Acid (N)	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set2H31	nitrogen source	Parabanic Acid	Parabanic Acid (N)	set2H31 Parabanic Acid (N)	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H39	carbon source	Sodium propionate	propionate (C)	set10H39 propionate (C)	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H40	carbon source	Sodium propionate	propionate (C)	set10H40 propionate (C)	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set13H17	nitrogen source	Putrescine Dihydrochloride	Putrescine (N)	set13H17 Putrescine (N)	Nitrogen-Putrescine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set13H18	nitrogen source	Putrescine Dihydrochloride	Putrescine (N)	set13H18 Putrescine (N)	Nitrogen-Putrescine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set2H30	nitrogen source	Putrescine Dihydrochloride	Putrescine (N)	set2H30 Putrescine (N)	Nitrogen-Putrescine
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H27	carbon source	Sodium pyruvate	pyruvate (C)	set10H27 pyruvate (C)	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H28	carbon source	Sodium pyruvate	pyruvate (C)	set10H28 pyruvate (C)	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set7H23	carbon source		RCH2 defined media	set7H23 RCH2 defined media	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set7H44	carbon source		RCH2 defined media	set7H44 RCH2 defined media	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set7H8	carbon source		RCH2 defined media	set7H8 RCH2 defined media	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set8H35	carbon source		RCH2 defined media	set8H35 RCH2 defined media	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H29	carbon source	Sodium succinate dibasic hexahydrate	succinate (C)	set10H29 succinate (C)	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H30	carbon source	Sodium succinate dibasic hexahydrate	succinate (C)	set10H30 succinate (C)	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H7	carbon source	Sucrose	Sucrose (C)	set10H7 Sucrose (C)	Carbon-Sucrose
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H8	carbon source	Sucrose	Sucrose (C)	set10H8 Sucrose (C)	Carbon-Sucrose
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H19	carbon source	Trisodium citrate dihydrate	Trisodium citrate (C)	set10H19 Trisodium citrate (C)	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H20	carbon source	Trisodium citrate dihydrate	Trisodium citrate (C)	set10H20 Trisodium citrate (C)	
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H37	carbon source	Tween 20	Tween 20 (C)	set10H37 Tween 20 (C)	Carbon-Tween-20
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set10H38	carbon source	Tween 20	Tween 20 (C)	set10H38 Tween 20 (C)	Carbon-Tween-20
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set13H31	nitrogen source	Urea	Urea (N)	set13H31 Urea (N)	Nitrogen-Urea
+psRCH2	Pseudomonas_stutzeri_RCH2	GCF_000327065.1	set13H32	nitrogen source	Urea	Urea (N)	set13H32 Urea (N)	Nitrogen-Urea
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set1IT069	carbon source	a-Ketoglutaric acid disodium salt hydrate	a-Ketoglutaric (C)	set1IT069 a-Ketoglutaric (C)	
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set1IT072	carbon source	a-Ketoglutaric acid disodium salt hydrate	a-Ketoglutaric (C)	set1IT072 a-Ketoglutaric (C)	
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set2IT033	nitrogen source	Ammonium chloride	Ammonium chloride (N)	set2IT033 Ammonium chloride (N)	
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set3IT081	nitrogen source	Ammonium chloride	Ammonium chloride (N)	set3IT081 Ammonium chloride (N)	
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set2IT014	carbon source	Sodium butyrate	butyrate (C)	set2IT014 butyrate (C)	
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set3IT062	carbon source	Sodium butyrate	butyrate (C)	set3IT062 butyrate (C)	
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set2IT029	nitrogen source	casamino acids	casaminos (N)	set2IT029 casaminos (N)	
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set3IT077	nitrogen source	casamino acids	casaminos (N)	set3IT077 casaminos (N)	
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set2IT031	nitrogen source	Cytosine	Cytosine (N)	set2IT031 Cytosine (N)	Nitrogen-Cytosine
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set3IT079	nitrogen source	Cytosine	Cytosine (N)	set3IT079 Cytosine (N)	Nitrogen-Cytosine
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set2IT027	nitrogen source	D-Alanine	D-Alanine (N)	set2IT027 D-Alanine (N)	Nitrogen-D-Alanine
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set3IT075	nitrogen source	D-Alanine	D-Alanine (N)	set3IT075 D-Alanine (N)	Nitrogen-D-Alanine
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set1IT067	carbon source	D-Fructose	D-Fructose (C)	set1IT067 D-Fructose (C)	Carbon-D-Fructose
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set1IT070	carbon source	D-Fructose	D-Fructose (C)	set1IT070 D-Fructose (C)	Carbon-D-Fructose
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set2IT001	carbon source	D-Gluconic Acid sodium salt	D-Gluconic Acid (C)	set2IT001 D-Gluconic Acid (C)	Carbon-D-Gluconic-Acid
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set3IT049	carbon source	D-Gluconic Acid sodium salt	D-Gluconic Acid (C)	set3IT049 D-Gluconic Acid (C)	Carbon-D-Gluconic-Acid
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set2IT002	carbon source	Sodium D-Lactate	D-Lactate (C)	set2IT002 D-Lactate (C)	C-D-Lactate
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set3IT050	carbon source	Sodium D-Lactate	D-Lactate (C)	set3IT050 D-Lactate (C)	C-D-Lactate
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set2IT004	carbon source	Sodium D,L-Lactate	D,L-Lactate (C)	set2IT004 D,L-Lactate (C)	
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set3IT052	carbon source	Sodium D,L-Lactate	D,L-Lactate (C)	set3IT052 D,L-Lactate (C)	
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set2IT007	carbon source	Ethanol	Ethanol (C)	set2IT007 Ethanol (C)	
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set3IT055	carbon source	Ethanol	Ethanol (C)	set3IT055 Ethanol (C)	
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set2IT032	nitrogen source	Glucuronamide	Glucuronamide (N)	set2IT032 Glucuronamide (N)	
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set3IT080	nitrogen source	Glucuronamide	Glucuronamide (N)	set3IT080 Glucuronamide (N)	
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set2IT008	carbon source	Glycerol	Glycerol (C)	set2IT008 Glycerol (C)	Carbon-Glycerol
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set3IT056	carbon source	Glycerol	Glycerol (C)	set3IT056 Glycerol (C)	Carbon-Glycerol
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set2IT021	nitrogen source	L-Asparagine	L-Asparagine (N)	set2IT021 L-Asparagine (N)	Nitrogen-L-Asparagine
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set3IT069	nitrogen source	L-Asparagine	L-Asparagine (N)	set3IT069 L-Asparagine (N)	Nitrogen-L-Asparagine
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set2IT017	nitrogen source	L-Aspartic Acid	L-Aspartic Acid (N)	set2IT017 L-Aspartic Acid (N)	Nitrogen-L-Aspartic-Acid
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set3IT065	nitrogen source	L-Aspartic Acid	L-Aspartic Acid (N)	set3IT065 L-Aspartic Acid (N)	Nitrogen-L-Aspartic-Acid
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set2IT028	nitrogen source	L-Citrulline	L-Citrulline (N)	set2IT028 L-Citrulline (N)	Nitrogen-L-Citrulline
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set3IT076	nitrogen source	L-Citrulline	L-Citrulline (N)	set3IT076 L-Citrulline (N)	Nitrogen-L-Citrulline
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set2IT018	nitrogen source	L-Glutamic acid monopotassium salt monohydrate	L-Glutamic (N)	set2IT018 L-Glutamic (N)	Nitrogen-L-Glutamic-Acid
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set2IT010	carbon source	L-Glutamine	L-Glutamine (C)	set2IT010 L-Glutamine (C)	Carbon-L-Glutamine
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set3IT058	carbon source	L-Glutamine	L-Glutamine (C)	set3IT058 L-Glutamine (C)	Carbon-L-Glutamine
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set3IT063	nitrogen source	L-Histidine	L-Histidine (N)	set3IT063 L-Histidine (N)	Nitrogen-L-Histidine
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set3IT072	nitrogen source	L-Isoleucine	L-Isoleucine (N)	set3IT072 L-Isoleucine (N)	Nitrogen-L-Isoleucine
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set2IT003	carbon source	Sodium L-Lactate	L-Lactate (C)	set2IT003 L-Lactate (C)	
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set3IT051	carbon source	Sodium L-Lactate	L-Lactate (C)	set3IT051 L-Lactate (C)	
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set3IT061	carbon source	L-Leucine	L-Leucine (C)	set3IT061 L-Leucine (C)	Carbon-L-Leucine
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set2IT025	nitrogen source	L-Leucine	L-Leucine (N)	set2IT025 L-Leucine (N)	Nitrogen-L-Leucine
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set3IT073	nitrogen source	L-Leucine	L-Leucine (N)	set3IT073 L-Leucine (N)	Nitrogen-L-Leucine
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set2IT016	nitrogen source	L-Lysine	L-Lysine (N)	set2IT016 L-Lysine (N)	Nitrogen-L-Lysine
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set3IT064	nitrogen source	L-Lysine	L-Lysine (N)	set3IT064 L-Lysine (N)	Nitrogen-L-Lysine
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set2IT009	carbon source	L-Malic acid disodium salt monohydrate	L-Malic (C)	set2IT009 L-Malic (C)	Carbon-L-Malic-Acid
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set3IT057	carbon source	L-Malic acid disodium salt monohydrate	L-Malic (C)	set3IT057 L-Malic (C)	Carbon-L-Malic-Acid
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set2IT026	nitrogen source	L-Phenylalanine	L-Phenylalanine (N)	set2IT026 L-Phenylalanine (N)	Nitrogen-L-Phenylalanine
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set3IT074	nitrogen source	L-Phenylalanine	L-Phenylalanine (N)	set3IT074 L-Phenylalanine (N)	Nitrogen-L-Phenylalanine
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set2IT011	carbon source	L-Proline	L-Proline (C)	set2IT011 L-Proline (C)	Carbon-L-Proline
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set3IT059	carbon source	L-Proline	L-Proline (C)	set3IT059 L-Proline (C)	Carbon-L-Proline
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set2IT019	nitrogen source	L-Serine	L-Serine (N)	set2IT019 L-Serine (N)	Nitrogen-L-Serine
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set3IT067	nitrogen source	L-Serine	L-Serine (N)	set3IT067 L-Serine (N)	Nitrogen-L-Serine
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set2IT020	nitrogen source	L-Threonine	L-Threonine (N)	set2IT020 L-Threonine (N)	Nitrogen-L-Threonine
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set3IT068	nitrogen source	L-Threonine	L-Threonine (N)	set3IT068 L-Threonine (N)	Nitrogen-L-Threonine
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set2IT034	nitrogen source	Sodium nitrate	nitrate (N)	set2IT034 nitrate (N)	Nitrogen-Nitrate
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set3IT082	nitrogen source	Sodium nitrate	nitrate (N)	set3IT082 nitrate (N)	Nitrogen-Nitrate
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set2IT030	nitrogen source	Parabanic Acid	Parabanic Acid (N)	set2IT030 Parabanic Acid (N)	
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set3IT078	nitrogen source	Parabanic Acid	Parabanic Acid (N)	set3IT078 Parabanic Acid (N)	
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set2IT005	carbon source	Sodium pyruvate	pyruvate (C)	set2IT005 pyruvate (C)	
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set3IT053	carbon source	Sodium pyruvate	pyruvate (C)	set3IT053 pyruvate (C)	
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set2IT006	carbon source	Sodium succinate dibasic hexahydrate	succinate (C)	set2IT006 succinate (C)	
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set3IT054	carbon source	Sodium succinate dibasic hexahydrate	succinate (C)	set3IT054 succinate (C)	
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set1IT068	carbon source	Sucrose	Sucrose (C)	set1IT068 Sucrose (C)	Carbon-Sucrose
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set1IT071	carbon source	Sucrose	Sucrose (C)	set1IT071 Sucrose (C)	Carbon-Sucrose
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set2IT035	nitrogen source	Urea	Urea (N)	set2IT035 Urea (N)	Nitrogen-Urea
+azobra	Azospirillum_brasilense_Sp245	GCF_000237365.1	set3IT083	nitrogen source	Urea	Urea (N)	set3IT083 Urea (N)	Nitrogen-Urea
+PS	Dechlorosoma_suillum_PS	GCF_000236665.1	set6IT035	carbon source	a-Ketoglutaric acid disodium salt hydrate	a-Ketoglutaric (C)	set6IT035 a-Ketoglutaric (C)	
+PS	Dechlorosoma_suillum_PS	GCF_000236665.1	set6IT041	carbon source	a-Ketoglutaric acid disodium salt hydrate	a-Ketoglutaric (C)	set6IT041 a-Ketoglutaric (C)	
+PS	Dechlorosoma_suillum_PS	GCF_000236665.1	set6IT036	carbon source	Sodium D-Lactate	D-Lactate (C)	set6IT036 D-Lactate (C)	C-D-Lactate
+PS	Dechlorosoma_suillum_PS	GCF_000236665.1	set6IT042	carbon source	Sodium D-Lactate	D-Lactate (C)	set6IT042 D-Lactate (C)	C-D-Lactate
+PS	Dechlorosoma_suillum_PS	GCF_000236665.1	set6IT038	carbon source	Sodium D,L-Lactate	D,L-Lactate (C)	set6IT038 D,L-Lactate (C)	
+PS	Dechlorosoma_suillum_PS	GCF_000236665.1	set6IT044	carbon source	Sodium D,L-Lactate	D,L-Lactate (C)	set6IT044 D,L-Lactate (C)	
+PS	Dechlorosoma_suillum_PS	GCF_000236665.1	set1H21	carbon source	Sodium D,L-Lactate	defined media with 30 mM sodium lactate	set1H21 defined media with 30 mM sodium lactate	
+PS	Dechlorosoma_suillum_PS	GCF_000236665.1	set1H22	carbon source	Sodium D,L-Lactate	defined media with 30 mM sodium lactate	set1H22 defined media with 30 mM sodium lactate	
+PS	Dechlorosoma_suillum_PS	GCF_000236665.1	set1H23	carbon source	Sodium D,L-Lactate	defined media with 30 mM sodium lactate	set1H23 defined media with 30 mM sodium lactate	
+PS	Dechlorosoma_suillum_PS	GCF_000236665.1	set1H24	carbon source	Sodium D,L-Lactate	defined media with 30 mM sodium lactate	set1H24 defined media with 30 mM sodium lactate	
+PS	Dechlorosoma_suillum_PS	GCF_000236665.1	set1H17	carbon source	Sodium acetate	defined media with 40 mM sodium acetate	set1H17 defined media with 40 mM sodium acetate	
+PS	Dechlorosoma_suillum_PS	GCF_000236665.1	set1H18	carbon source	Sodium acetate	defined media with 40 mM sodium acetate	set1H18 defined media with 40 mM sodium acetate	
+PS	Dechlorosoma_suillum_PS	GCF_000236665.1	set1H19	carbon source	Sodium acetate	defined media with 40 mM sodium acetate	set1H19 defined media with 40 mM sodium acetate	
+PS	Dechlorosoma_suillum_PS	GCF_000236665.1	set1H20	carbon source	Sodium acetate	defined media with 40 mM sodium acetate	set1H20 defined media with 40 mM sodium acetate	
+PS	Dechlorosoma_suillum_PS	GCF_000236665.1	set6IT037	carbon source	Sodium L-Lactate	L-Lactate (C)	set6IT037 L-Lactate (C)	
+PS	Dechlorosoma_suillum_PS	GCF_000236665.1	set6IT043	carbon source	Sodium L-Lactate	L-Lactate (C)	set6IT043 L-Lactate (C)	
+PS	Dechlorosoma_suillum_PS	GCF_000236665.1	set6IT040	carbon source	Sodium propionate	propionate (C)	set6IT040 propionate (C)	
+PS	Dechlorosoma_suillum_PS	GCF_000236665.1	set6IT046	carbon source	Sodium propionate	propionate (C)	set6IT046 propionate (C)	
+PS	Dechlorosoma_suillum_PS	GCF_000236665.1	set6IT039	carbon source	Sodium pyruvate	pyruvate (C)	set6IT039 pyruvate (C)	
+PS	Dechlorosoma_suillum_PS	GCF_000236665.1	set6IT045	carbon source	Sodium pyruvate	pyruvate (C)	set6IT045 pyruvate (C)	
+PS	Dechlorosoma_suillum_PS	GCF_000236665.1	set2H37	carbon source	Sodium pyruvate	R2A with sodium pyruvate	set2H37 R2A with sodium pyruvate	
+PS	Dechlorosoma_suillum_PS	GCF_000236665.1	set2H38	carbon source	Sodium pyruvate	R2A with sodium pyruvate	set2H38 R2A with sodium pyruvate	
+PS	Dechlorosoma_suillum_PS	GCF_000236665.1	set2H39	carbon source	Sodium pyruvate	R2A with sodium pyruvate	set2H39 R2A with sodium pyruvate	
+PS	Dechlorosoma_suillum_PS	GCF_000236665.1	set2H40	carbon source	Sodium pyruvate	R2A with sodium pyruvate	set2H40 R2A with sodium pyruvate	
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set3H11	carbon source	Adenosine	Adenosine (C)	set3H11 Adenosine (C)	Carbon-Adenosine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set4H30	carbon source	Adenosine	Adenosine (C)	set4H30 Adenosine (C)	Carbon-Adenosine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set5H23	nitrogen source	Ammonium chloride	Ammonium chloride (N)	set5H23 Ammonium chloride (N)	
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set5H33	nitrogen source	Ammonium chloride	Ammonium chloride (N)	set5H33 Ammonium chloride (N)	
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set6H35	nitrogen source	Ammonium chloride	Ammonium chloride (N)	set6H35 Ammonium chloride (N)	
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set6H45	nitrogen source	Ammonium chloride	Ammonium chloride (N)	set6H45 Ammonium chloride (N)	
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set3H9	carbon source	casamino acids	casaminos (C)	set3H9 casaminos (C)	
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set4H28	carbon source	casamino acids	casaminos (C)	set4H28 casaminos (C)	
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set3H14	carbon source	Cytidine	Cytidine (C)	set3H14 Cytidine (C)	
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set4H33	carbon source	Cytidine	Cytidine (C)	set4H33 Cytidine (C)	
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set3H17	carbon source	Sodium D,L-Lactate	D,L-Lactate (C)	set3H17 D,L-Lactate (C)	
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set3H8	carbon source	Gelatin	Gelatin (C)	set3H8 Gelatin (C)	Carbon-Gelatin
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set4H27	carbon source	Gelatin	Gelatin (C)	set4H27 Gelatin (C)	Carbon-Gelatin
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set3H24	carbon source	Gly-DL-Asp	Gly-DL-Asp (C)	set3H24 Gly-DL-Asp (C)	
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set3H6	carbon source	Gly-DL-Asp	Gly-DL-Asp (C)	set3H6 Gly-DL-Asp (C)	
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set3H7	carbon source	Gly-Glu	Gly-Glu (C)	set3H7 Gly-Glu (C)	
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set4H26	carbon source	Gly-Glu	Gly-Glu (C)	set4H26 Gly-Glu (C)	
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set6H34	nitrogen source	Glycine	Glycine (N)	set6H34 Glycine (N)	Nitrogen-Glycine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set6H44	nitrogen source	Glycine	Glycine (N)	set6H44 Glycine (N)	Nitrogen-Glycine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set3H13	carbon source	Inosine	Inosine (C)	set3H13 Inosine (C)	Carbon-Inosine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set4H32	carbon source	Inosine	Inosine (C)	set4H32 Inosine (C)	Carbon-Inosine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set5H15	nitrogen source	L-Alanine	L-Alanine (N)	set5H15 L-Alanine (N)	Nitrogen-L-Alanine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set5H25	nitrogen source	L-Alanine	L-Alanine (N)	set5H25 L-Alanine (N)	Nitrogen-L-Alanine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set6H26	nitrogen source	L-Arginine	L-Arginine (N)	set6H26 L-Arginine (N)	Nitrogen-L-Arginine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set6H36	nitrogen source	L-Arginine	L-Arginine (N)	set6H36 L-Arginine (N)	Nitrogen-L-Arginine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set6H32	nitrogen source	L-Asparagine	L-Asparagine (N)	set6H32 L-Asparagine (N)	Nitrogen-L-Asparagine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set6H42	nitrogen source	L-Asparagine	L-Asparagine (N)	set6H42 L-Asparagine (N)	Nitrogen-L-Asparagine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set6H28	nitrogen source	L-Aspartic Acid	L-Aspartic Acid (N)	set6H28 L-Aspartic Acid (N)	Nitrogen-L-Aspartic-Acid
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set6H38	nitrogen source	L-Aspartic Acid	L-Aspartic Acid (N)	set6H38 L-Aspartic Acid (N)	Nitrogen-L-Aspartic-Acid
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set6H29	nitrogen source	L-Glutamic acid monopotassium salt monohydrate	L-Glutamic (N)	set6H29 L-Glutamic (N)	Nitrogen-L-Glutamic-Acid
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set6H39	nitrogen source	L-Glutamic acid monopotassium salt monohydrate	L-Glutamic (N)	set6H39 L-Glutamic (N)	Nitrogen-L-Glutamic-Acid
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set3H22	carbon source	L-Glutamine	L-Glutamine (C)	set3H22 L-Glutamine (C)	Carbon-L-Glutamine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set3H4	carbon source	L-Glutamine	L-Glutamine (C)	set3H4 L-Glutamine (C)	Carbon-L-Glutamine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set6H33	nitrogen source	L-Glutamine	L-Glutamine (N)	set6H33 L-Glutamine (N)	Nitrogen-L-Glutamine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set6H43	nitrogen source	L-Glutamine	L-Glutamine (N)	set6H43 L-Glutamine (N)	Nitrogen-L-Glutamine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set6H27	nitrogen source	L-Histidine	L-Histidine (N)	set6H27 L-Histidine (N)	Nitrogen-L-Histidine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set6H37	nitrogen source	L-Histidine	L-Histidine (N)	set6H37 L-Histidine (N)	Nitrogen-L-Histidine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set3H23	carbon source	L-Isoleucine	L-Isoleucine (C)	set3H23 L-Isoleucine (C)	Carbon-L-Isoleucine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set3H5	carbon source	L-Isoleucine	L-Isoleucine (C)	set3H5 L-Isoleucine (C)	Carbon-L-Isoleucine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set5H16	nitrogen source	L-Isoleucine	L-Isoleucine (N)	set5H16 L-Isoleucine (N)	Nitrogen-L-Isoleucine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set5H26	nitrogen source	L-Isoleucine	L-Isoleucine (N)	set5H26 L-Isoleucine (N)	Nitrogen-L-Isoleucine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set2H45	carbon source	Sodium L-Lactate	L-Lactate (C)	set2H45 L-Lactate (C)	
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set3H16	carbon source	Sodium L-Lactate	L-Lactate (C)	set3H16 L-Lactate (C)	
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set5H27	nitrogen source	L-Leucine	L-Leucine (N)	set5H27 L-Leucine (N)	Nitrogen-L-Leucine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set5H18	nitrogen source	L-Methionine	L-Methionine (N)	set5H18 L-Methionine (N)	Nitrogen-L-Methionine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set5H28	nitrogen source	L-Methionine	L-Methionine (N)	set5H28 L-Methionine (N)	Nitrogen-L-Methionine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set5H19	nitrogen source	L-Phenylalanine	L-Phenylalanine (N)	set5H19 L-Phenylalanine (N)	Nitrogen-L-Phenylalanine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set5H29	nitrogen source	L-Phenylalanine	L-Phenylalanine (N)	set5H29 L-Phenylalanine (N)	Nitrogen-L-Phenylalanine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set6H30	nitrogen source	L-Serine	L-Serine (N)	set6H30 L-Serine (N)	Nitrogen-L-Serine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set6H40	nitrogen source	L-Serine	L-Serine (N)	set6H40 L-Serine (N)	Nitrogen-L-Serine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set6H31	nitrogen source	L-Threonine	L-Threonine (N)	set6H31 L-Threonine (N)	Nitrogen-L-Threonine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set6H41	nitrogen source	L-Threonine	L-Threonine (N)	set6H41 L-Threonine (N)	Nitrogen-L-Threonine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set3H10	carbon source	N-Acetyl-D-Glucosamine	NAG (C)	set3H10 NAG (C)	Carbon-N-Acetyl-D-Glucosamine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set4H29	carbon source	N-Acetyl-D-Glucosamine	NAG (C)	set4H29 NAG (C)	Carbon-N-Acetyl-D-Glucosamine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set5H21	nitrogen source	N-Acetyl-D-Glucosamine	NAG (N)	set5H21 NAG (N)	Nitrogen-N-Acetyl-D-Glucosamine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set5H31	nitrogen source	N-Acetyl-D-Glucosamine	NAG (N)	set5H31 NAG (N)	Nitrogen-N-Acetyl-D-Glucosamine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set2H47	carbon source	Sodium propionate	propionate (C)	set2H47 propionate (C)	
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set3H19	carbon source	Sodium propionate	propionate (C)	set3H19 propionate (C)	
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set5H20	nitrogen source	Putrescine Dihydrochloride	Putrescine (N)	set5H20 Putrescine (N)	Nitrogen-Putrescine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set5H30	nitrogen source	Putrescine Dihydrochloride	Putrescine (N)	set5H30 Putrescine (N)	Nitrogen-Putrescine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set2H46	carbon source	Sodium pyruvate	pyruvate (C)	set2H46 pyruvate (C)	
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set3H18	carbon source	Sodium pyruvate	pyruvate (C)	set3H18 pyruvate (C)	
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set2H48	carbon source	Tween 20	Tween 20 (C)	set2H48 Tween 20 (C)	Carbon-Tween-20
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set3H20	carbon source	Tween 20	Tween 20 (C)	set3H20 Tween 20 (C)	Carbon-Tween-20
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set3H12	carbon source	Uridine	Uridine (C)	set3H12 Uridine (C)	Carbon-Uridine
+MR1	Shewanella_oneidensis_MR-1	GCF_000146165.2	set4H31	carbon source	Uridine	Uridine (C)	set4H31 Uridine (C)	Carbon-Uridine
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT006	carbon source	a-Cyclodextrin	a-Cyclodextrin (C)	set1IT006 a-Cyclodextrin (C)	
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT023	carbon source	a-Cyclodextrin	a-Cyclodextrin (C)	set1IT023 a-Cyclodextrin (C)	
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT040	carbon source	a-Cyclodextrin	a-Cyclodextrin (C)	set1IT040 a-Cyclodextrin (C)	
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT076	nitrogen source	Adenosine	Adenosine (N)	set1IT076 Adenosine (N)	Nitrogen-Adenosine
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set2IT007	nitrogen source	Adenosine	Adenosine (N)	set2IT007 Adenosine (N)	Nitrogen-Adenosine
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT080	nitrogen source	Ammonium chloride	Ammonium chloride (N)	set1IT080 Ammonium chloride (N)	
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set2IT011	nitrogen source	Ammonium chloride	Ammonium chloride (N)	set2IT011 Ammonium chloride (N)	
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT016	carbon source	Beta-Lactose	Beta-Lactose (C)	set1IT016 Beta-Lactose (C)	
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT033	carbon source	Beta-Lactose	Beta-Lactose (C)	set1IT033 Beta-Lactose (C)	
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT050	carbon source	Beta-Lactose	Beta-Lactose (C)	set1IT050 Beta-Lactose (C)	
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT072	nitrogen source	casamino acids	Casamino Acids (N)	set1IT072 Casamino Acids (N)	
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set2IT003	nitrogen source	casamino acids	Casamino Acids (N)	set2IT003 Casamino Acids (N)	
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT078	nitrogen source	Cytidine	Cytidine (N)	set1IT078 Cytidine (N)	Nitrogen-Cytidine
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set2IT009	nitrogen source	Cytidine	Cytidine (N)	set2IT009 Cytidine (N)	Nitrogen-Cytidine
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT007	carbon source	D-Cellobiose	D-Cellobiose (C)	set1IT007 D-Cellobiose (C)	Carbon-D-Cellobiose
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT024	carbon source	D-Cellobiose	D-Cellobiose (C)	set1IT024 D-Cellobiose (C)	Carbon-D-Cellobiose
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT041	carbon source	D-Cellobiose	D-Cellobiose (C)	set1IT041 D-Cellobiose (C)	Carbon-D-Cellobiose
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT075	nitrogen source	D-Glucosamine Hydrochloride	D-Glucosamine Hydrochloride (N)	set1IT075 D-Glucosamine Hydrochloride (N)	
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set2IT006	nitrogen source	D-Glucosamine Hydrochloride	D-Glucosamine Hydrochloride (N)	set2IT006 D-Glucosamine Hydrochloride (N)	
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT001	carbon source	D-Glucose	D-Glucose (C)	set1IT001 D-Glucose (C)	Carbon-D-Glucose
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT018	carbon source	D-Glucose	D-Glucose (C)	set1IT018 D-Glucose (C)	Carbon-D-Glucose
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT035	carbon source	D-Glucose	D-Glucose (C)	set1IT035 D-Glucose (C)	Carbon-D-Glucose
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT003	carbon source	D-Maltose monohydrate	D-Maltose (C)	set1IT003 D-Maltose (C)	Carbon-Maltose
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT020	carbon source	D-Maltose monohydrate	D-Maltose (C)	set1IT020 D-Maltose (C)	Carbon-Maltose
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT037	carbon source	D-Maltose monohydrate	D-Maltose (C)	set1IT037 D-Maltose (C)	Carbon-Maltose
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT008	carbon source	D-Mannitol	D-Mannitol (C)	set1IT008 D-Mannitol (C)	Carbon-D-Mannitol
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT025	carbon source	D-Mannitol	D-Mannitol (C)	set1IT025 D-Mannitol (C)	Carbon-D-Mannitol
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT042	carbon source	D-Mannitol	D-Mannitol (C)	set1IT042 D-Mannitol (C)	Carbon-D-Mannitol
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT017	carbon source	D-Mannose	D-Mannose (C)	set1IT017 D-Mannose (C)	Carbon-D-Mannose
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT034	carbon source	D-Mannose	D-Mannose (C)	set1IT034 D-Mannose (C)	Carbon-D-Mannose
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT051	carbon source	D-Mannose	D-Mannose (C)	set1IT051 D-Mannose (C)	Carbon-D-Mannose
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT005	carbon source	D-Raffinose pentahydrate	D-Raffinose (C)	set1IT005 D-Raffinose (C)	Carbon-D-Raffinose
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT022	carbon source	D-Raffinose pentahydrate	D-Raffinose (C)	set1IT022 D-Raffinose (C)	Carbon-D-Raffinose
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT039	carbon source	D-Raffinose pentahydrate	D-Raffinose (C)	set1IT039 D-Raffinose (C)	Carbon-D-Raffinose
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT015	carbon source	D-Salicin	D-Salicin (C)	set1IT015 D-Salicin (C)	Carbon-Salicin
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT032	carbon source	D-Salicin	D-Salicin (C)	set1IT032 D-Salicin (C)	Carbon-Salicin
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT049	carbon source	D-Salicin	D-Salicin (C)	set1IT049 D-Salicin (C)	Carbon-Salicin
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT004	carbon source	D-Xylose	D-Xylose (C)	set1IT004 D-Xylose (C)	Carbon-D-Xylose
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT021	carbon source	D-Xylose	D-Xylose (C)	set1IT021 D-Xylose (C)	Carbon-D-Xylose
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT038	carbon source	D-Xylose	D-Xylose (C)	set1IT038 D-Xylose (C)	Carbon-D-Xylose
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT079	nitrogen source	Glucuronamide	Glucuronamide (N)	set1IT079 Glucuronamide (N)	
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set2IT010	nitrogen source	Glucuronamide	Glucuronamide (N)	set2IT010 Glucuronamide (N)	
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT077	nitrogen source	Inosine	Inosine (N)	set1IT077 Inosine (N)	Nitrogen-Inosine
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set2IT008	nitrogen source	Inosine	Inosine (N)	set2IT008 Inosine (N)	Nitrogen-Inosine
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT013	carbon source	L-Alanine	L-Alanine (C)	set1IT013 L-Alanine (C)	Carbon-L-Alanine
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT030	carbon source	L-Alanine	L-Alanine (C)	set1IT030 L-Alanine (C)	Carbon-L-Alanine
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT047	carbon source	L-Alanine	L-Alanine (C)	set1IT047 L-Alanine (C)	Carbon-L-Alanine
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT064	nitrogen source	L-Alanine	L-Alanine (N)	set1IT064 L-Alanine (N)	Nitrogen-L-Alanine
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT091	nitrogen source	L-Alanine	L-Alanine (N)	set1IT091 L-Alanine (N)	Nitrogen-L-Alanine
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT056	nitrogen source	L-Arginine	L-Arginine (N)	set1IT056 L-Arginine (N)	Nitrogen-L-Arginine
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT083	nitrogen source	L-Arginine	L-Arginine (N)	set1IT083 L-Arginine (N)	Nitrogen-L-Arginine
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT061	nitrogen source	L-Asparagine	L-Asparagine (N)	set1IT061 L-Asparagine (N)	Nitrogen-L-Asparagine
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT088	nitrogen source	L-Asparagine	L-Asparagine (N)	set1IT088 L-Asparagine (N)	Nitrogen-L-Asparagine
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT058	nitrogen source	L-Aspartic Acid	L-aspartic (N)	set1IT058 L-aspartic (N)	Nitrogen-L-Aspartic-Acid
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT085	nitrogen source	L-Aspartic Acid	L-aspartic (N)	set1IT085 L-aspartic (N)	Nitrogen-L-Aspartic-Acid
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT071	nitrogen source	L-Citrulline	L-Citrulline (N)	set1IT071 L-Citrulline (N)	Nitrogen-L-Citrulline
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set2IT002	nitrogen source	L-Citrulline	L-Citrulline (N)	set2IT002 L-Citrulline (N)	Nitrogen-L-Citrulline
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT010	carbon source	L-Glutamic acid monopotassium salt monohydrate	L-Glutamic (C)	set1IT010 L-Glutamic (C)	Carbon-L-Glutamic-Acid
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT027	carbon source	L-Glutamic acid monopotassium salt monohydrate	L-Glutamic (C)	set1IT027 L-Glutamic (C)	Carbon-L-Glutamic-Acid
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT044	carbon source	L-Glutamic acid monopotassium salt monohydrate	L-Glutamic (C)	set1IT044 L-Glutamic (C)	Carbon-L-Glutamic-Acid
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT059	nitrogen source	L-Glutamic acid monopotassium salt monohydrate	L-Glutamic (N)	set1IT059 L-Glutamic (N)	Nitrogen-L-Glutamic-Acid
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT086	nitrogen source	L-Glutamic acid monopotassium salt monohydrate	L-Glutamic (N)	set1IT086 L-Glutamic (N)	Nitrogen-L-Glutamic-Acid
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT066	nitrogen source	L-Isoleucine	L-Isoleucine (N)	set1IT066 L-Isoleucine (N)	Nitrogen-L-Isoleucine
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT093	nitrogen source	L-Isoleucine	L-Isoleucine (N)	set1IT093 L-Isoleucine (N)	Nitrogen-L-Isoleucine
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT067	nitrogen source	L-Leucine	L-Leucine (N)	set1IT067 L-Leucine (N)	Nitrogen-L-Leucine
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT094	nitrogen source	L-Leucine	L-Leucine (N)	set1IT094 L-Leucine (N)	Nitrogen-L-Leucine
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT069	nitrogen source	L-Phenylalanine	L-Phenylalanine (N)	set1IT069 L-Phenylalanine (N)	Nitrogen-L-Phenylalanine
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT096	nitrogen source	L-Phenylalanine	L-Phenylalanine (N)	set1IT096 L-Phenylalanine (N)	Nitrogen-L-Phenylalanine
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT012	carbon source	L-Proline	L-Proline (C)	set1IT012 L-Proline (C)	Carbon-L-Proline
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT029	carbon source	L-Proline	L-Proline (C)	set1IT029 L-Proline (C)	Carbon-L-Proline
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT046	carbon source	L-Proline	L-Proline (C)	set1IT046 L-Proline (C)	Carbon-L-Proline
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT063	nitrogen source	L-Proline	L-Proline (N)	set1IT063 L-Proline (N)	Nitrogen-L-Proline
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT090	nitrogen source	L-Proline	L-Proline (N)	set1IT090 L-Proline (N)	Nitrogen-L-Proline
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT070	nitrogen source	L-Tryptophan	L-Tryptophan (N)	set1IT070 L-Tryptophan (N)	Nitrogen-L-Tryptophan
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set2IT001	nitrogen source	L-Tryptophan	L-Tryptophan (N)	set2IT001 L-Tryptophan (N)	Nitrogen-L-Tryptophan
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT065	nitrogen source	L-Valine	L-Valine (N)	set1IT065 L-Valine (N)	Nitrogen-L-Valine
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT092	nitrogen source	L-Valine	L-Valine (N)	set1IT092 L-Valine (N)	Nitrogen-L-Valine
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT009	carbon source	m-Inositol	m-Inositol (C)	set1IT009 m-Inositol (C)	Carbon-m-Inositol
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT026	carbon source	m-Inositol	m-Inositol (C)	set1IT026 m-Inositol (C)	Carbon-m-Inositol
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT043	carbon source	m-Inositol	m-Inositol (C)	set1IT043 m-Inositol (C)	Carbon-m-Inositol
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT074	nitrogen source	N-Acetyl-D-Glucosamine	N-Acetyl-D-glucosamine (N)	set1IT074 N-Acetyl-D-glucosamine (N)	Nitrogen-N-Acetyl-D-Glucosamine
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set2IT005	nitrogen source	N-Acetyl-D-Glucosamine	N-Acetyl-D-glucosamine (N)	set2IT005 N-Acetyl-D-glucosamine (N)	Nitrogen-N-Acetyl-D-Glucosamine
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT014	carbon source	N-Acetyl-D-Glucosamine	NAG (C)	set1IT014 NAG (C)	Carbon-N-Acetyl-D-Glucosamine
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT031	carbon source	N-Acetyl-D-Glucosamine	NAG (C)	set1IT031 NAG (C)	Carbon-N-Acetyl-D-Glucosamine
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT048	carbon source	N-Acetyl-D-Glucosamine	NAG (C)	set1IT048 NAG (C)	Carbon-N-Acetyl-D-Glucosamine
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT081	nitrogen source	Sodium nitrate	nitrate (N)	set1IT081 nitrate (N)	Nitrogen-Nitrate
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set2IT012	nitrogen source	Sodium nitrate	nitrate (N)	set2IT012 nitrate (N)	Nitrogen-Nitrate
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT073	nitrogen source	Putrescine Dihydrochloride	Putrescine (N)	set1IT073 Putrescine (N)	Nitrogen-Putrescine
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set2IT004	nitrogen source	Putrescine Dihydrochloride	Putrescine (N)	set2IT004 Putrescine (N)	Nitrogen-Putrescine
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT019	carbon source	Sucrose	Sucrose (C)	set1IT019 Sucrose (C)	Carbon-Sucrose
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set1IT082	nitrogen source	Urea	Urea (N)	set1IT082 Urea (N)	Nitrogen-Urea
+Caulo	Caulobacter_crescentus_NA1000	GCF_000022005.1	set2IT013	nitrogen source	Urea	Urea (N)	set2IT013 Urea (N)	Nitrogen-Urea
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set6IT033	carbon source	Sodium D,L-Lactate	20 mM Lactate (C)	set6IT033 20 mM Lactate (C)	
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set6IT034	carbon source	Sodium D,L-Lactate	60 mM Lactate (C)	set6IT034 60 mM Lactate (C)	
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set6IT018	nitrogen source	Ammonium chloride	Ammonium chloride (N)	set6IT018 Ammonium chloride (N)	
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set7IT070	nitrogen source	Ammonium chloride	Ammonium chloride (N)	set7IT070 Ammonium chloride (N)	
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set6IT012	carbon source	casamino acids	casaminos (C)	set6IT012 casaminos (C)	
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set7IT039	carbon source	casamino acids	casaminos (C)	set7IT039 casaminos (C)	
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set7IT055	nitrogen source	casamino acids	casaminos (N)	set7IT055 casaminos (N)	
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set7IT068	nitrogen source	casamino acids	casaminos (N)	set7IT068 casaminos (N)	
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set6IT003	carbon source	Sodium D-Lactate	D-Lactate (C)	set6IT003 D-Lactate (C)	C-D-Lactate
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set7IT028	carbon source	Sodium D-Lactate	D-Lactate (C)	set7IT028 D-Lactate (C)	C-D-Lactate
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set6IT005	carbon source	Sodium D,L-Lactate	D,L-Lactate (C)	set6IT005 D,L-Lactate (C)	
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set7IT030	carbon source	Sodium D,L-Lactate	D,L-Lactate (C)	set7IT030 D,L-Lactate (C)	
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set1H25	carbon source		Defined MoLS4	set1H25 Defined MoLS4	
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set1H26	carbon source		Defined MoLS4	set1H26 Defined MoLS4	
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set3IT078	carbon source		Defined MoLS4	set3IT078 Defined MoLS4	
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set4IT003	carbon source		Defined MoLS4	set4IT003 Defined MoLS4	
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set4IT056	carbon source		Defined MoLS4	set4IT056 Defined MoLS4	
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set4IT057	carbon source		Defined MoLS4	set4IT057 Defined MoLS4	
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set6IT031	carbon source		Defined MoLS4	set6IT031 Defined MoLS4	
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set6IT032	carbon source		Defined MoLS4	set6IT032 Defined MoLS4	
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set7IT044	carbon source		Defined MoLS4	set7IT044 Defined MoLS4	
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set7IT045	carbon source		Defined MoLS4	set7IT045 Defined MoLS4	
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set7IT057	carbon source		Defined MoLS4	set7IT057 Defined MoLS4	
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set7IT058	carbon source		Defined MoLS4	set7IT058 Defined MoLS4	
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set7IT059	carbon source		Defined MoLS4	set7IT059 Defined MoLS4	
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set7IT056	nitrogen source	Glucuronamide	Glucuronamide (N)	set7IT056 Glucuronamide (N)	
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set7IT069	nitrogen source	Glucuronamide	Glucuronamide (N)	set7IT069 Glucuronamide (N)	
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set6IT004	carbon source	Sodium L-Lactate	L-Lactate (C)	set6IT004 L-Lactate (C)	
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set7IT029	carbon source	Sodium L-Lactate	L-Lactate (C)	set7IT029 L-Lactate (C)	
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set6IT008	carbon source	L-Serine	L-Serine (C)	set6IT008 L-Serine (C)	Carbon-L-Serine
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set7IT033	carbon source	L-Serine	L-Serine (C)	set7IT033 L-Serine (C)	Carbon-L-Serine
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set7IT052	nitrogen source	L-Serine	L-Serine (N)	set7IT052 L-Serine (N)	Nitrogen-L-Serine
+Miya	Desulfovibrio_vulgaris_str.__Miyazaki_F_	GCF_000021385.1	set7IT063	nitrogen source	L-Serine	L-Serine (N)	set7IT063 L-Serine (N)	Nitrogen-L-Serine
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set3IT078	nitrogen source	Ammonium chloride	Ammonium chloride (N)	set3IT078 Ammonium chloride (N)	
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set3IT071	nitrogen source	Carnitine Hydrochloride	Carnitine Hydrochloride (N)	set3IT071 Carnitine Hydrochloride (N)	
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set1IT026	carbon source	D-Alanine	D-Alanine (C)	set1IT026 D-Alanine (C)	Carbon-D-Alanine
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set3IT068	nitrogen source	D-Alanine	D-Alanine (N)	set3IT068 D-Alanine (N)	Nitrogen-D-Alanine
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set1IT002	carbon source	D-Fructose	D-Fructose (C)	set1IT002 D-Fructose (C)	Carbon-D-Fructose
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set1IT005	carbon source	D-Galactose	D-Galactose (C)	set1IT005 D-Galactose (C)	Carbon-D-Galactose
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set1IT015	carbon source	D-Galacturonic Acid monohydrate	D-Galacturonic Acid (C)	set1IT015 D-Galacturonic Acid (C)	Carbon-D-Galacturonic-Acid
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set1IT008	carbon source	D-Gluconic Acid sodium salt	D-Gluconic Acid (C)	set1IT008 D-Gluconic Acid (C)	Carbon-D-Gluconic-Acid
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set2IT079	carbon source	D-Glucosamine Hydrochloride	D-Glucosamine Hydrochloride (C)	set2IT079 D-Glucosamine Hydrochloride (C)	
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set1IT001	carbon source	D-Glucose	D-Glucose (C)	set1IT001 D-Glucose (C)	Carbon-D-Glucose
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set1IT009	carbon source	Sodium D-Lactate	D-Lactate (C)	set1IT009 D-Lactate (C)	C-D-Lactate
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set1IT014	carbon source	D-Mannitol	D-Mannitol (C)	set1IT014 D-Mannitol (C)	Carbon-D-Mannitol
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set1IT029	carbon source	D-Mannose	D-Mannose (C)	set1IT029 D-Mannose (C)	Carbon-D-Mannose
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set1IT007	carbon source	D-Ribose	D-Ribose (C)	set1IT007 D-Ribose (C)	Carbon-D-Ribose
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set1IT016	carbon source	D-Sorbitol	D-Sorbitol (C)	set1IT016 D-Sorbitol (C)	Carbon-D-Sorbitol
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set2IT070	carbon source	D-Xylose	D-Xylose (C)	set2IT070 D-Xylose (C)	Carbon-D-Xylose
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set1IT011	carbon source	Sodium D,L-Lactate	D,L-Lactate (C)	set1IT011 D,L-Lactate (C)	
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set2IT077	carbon source	Gly-Glu	Gly-Glu (C)	set2IT077 Gly-Glu (C)	
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set1IT023	carbon source	L-Alanine	L-Alanine (C)	set1IT023 L-Alanine (C)	Carbon-L-Alanine
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set3IT064	nitrogen source	L-Alanine	L-Alanine (N)	set3IT064 L-Alanine (N)	Nitrogen-L-Alanine
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set1IT004	carbon source	L-Arabinose	L-Arabinose (C)	set1IT004 L-Arabinose (C)	Carbon-L-Arabinose
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set2IT076	carbon source	L-Arginine	L-Arginine (C)	set2IT076 L-Arginine (C)	Carbon-L-Arginine
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set1IT020	carbon source	L-Asparagine	L-Asparagine (C)	set1IT020 L-Asparagine (C)	Carbon-L-Asparagine
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set3IT061	nitrogen source	L-Asparagine	L-Asparagine (N)	set3IT061 L-Asparagine (N)	Nitrogen-L-Asparagine
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set3IT070	nitrogen source	L-Citrulline	L-Citrulline (N)	set3IT070 L-Citrulline (N)	Nitrogen-L-Citrulline
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set2IT071	carbon source	L-Fucose	L-Fucose (C)	set2IT071 L-Fucose (C)	Carbon-L-Fucose
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set3IT058	nitrogen source	L-Glutamic acid monopotassium salt monohydrate	L-Glutamic (N)	set3IT058 L-Glutamic (N)	Nitrogen-L-Glutamic-Acid
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set1IT021	carbon source	L-Glutamine	L-Glutamine (C)	set1IT021 L-Glutamine (C)	Carbon-L-Glutamine
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set3IT062	nitrogen source	L-Glutamine	L-Glutamine (N)	set3IT062 L-Glutamine (N)	Nitrogen-L-Glutamine
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set1IT019	carbon source	L-Histidine	L-Histidine (C)	set1IT019 L-Histidine (C)	Carbon-L-Histidine
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set3IT065	nitrogen source	L-Isoleucine	L-Isoleucine (N)	set3IT065 L-Isoleucine (N)	Nitrogen-L-Isoleucine
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set1IT010	carbon source	Sodium L-Lactate	L-Lactate (C)	set1IT010 L-Lactate (C)	
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set3IT056	nitrogen source	L-Lysine	L-Lysine (N)	set3IT056 L-Lysine (N)	Nitrogen-L-Lysine
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set1IT018	carbon source	L-Malic acid disodium salt monohydrate	L-Malic (C)	set1IT018 L-Malic (C)	Carbon-L-Malic-Acid
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set1IT024	carbon source	L-Phenylalanine	L-Phenylalanine (C)	set1IT024 L-Phenylalanine (C)	Carbon-L-Phenylalanine
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set3IT066	nitrogen source	L-Phenylalanine	L-Phenylalanine (N)	set3IT066 L-Phenylalanine (N)	Nitrogen-L-Phenylalanine
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set1IT022	carbon source	L-Proline	L-Proline (C)	set1IT022 L-Proline (C)	Carbon-L-Proline
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set3IT063	nitrogen source	L-Proline	L-Proline (N)	set3IT063 L-Proline (N)	Nitrogen-L-Proline
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set1IT006	carbon source	L-Rhamnose monohydrate	L-Rhamnose (C)	set1IT006 L-Rhamnose (C)	Carbon-L-Rhamnose
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set3IT059	nitrogen source	L-Serine	L-Serine (N)	set3IT059 L-Serine (N)	Nitrogen-L-Serine
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set1IT025	carbon source	L-Tryptophan	L-Tryptophan (C)	set1IT025 L-Tryptophan (C)	
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set2IT074	carbon source	m-Inositol	m-Inositol (C)	set2IT074 m-Inositol (C)	Carbon-m-Inositol
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set1IT028	carbon source	N-Acetyl-D-Glucosamine	NAG (C)	set1IT028 NAG (C)	Carbon-N-Acetyl-D-Glucosamine
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set3IT075	nitrogen source	N-Acetyl-D-Glucosamine	NAG (N)	set3IT075 NAG (N)	Nitrogen-N-Acetyl-D-Glucosamine
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set1IT027	carbon source	Putrescine Dihydrochloride	Putrescine (C)	set1IT027 Putrescine (C)	Carbon-Putrescine
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set3IT074	nitrogen source	Putrescine Dihydrochloride	Putrescine (N)	set3IT074 Putrescine (N)	Nitrogen-Putrescine
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set1IT012	carbon source	Sodium pyruvate	pyruvate (C)	set1IT012 pyruvate (C)	
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set1IT013	carbon source	Sodium succinate dibasic hexahydrate	succinate (C)	set1IT013 succinate (C)	
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set1IT003	carbon source	Sucrose	Sucrose (C)	set1IT003 Sucrose (C)	Carbon-Sucrose
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set2IT072	carbon source	Trisodium citrate dihydrate	Trisodium citrate (C)	set2IT072 Trisodium citrate (C)	
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set1IT017	carbon source	Tween 20	Tween 20 (C)	set1IT017 Tween 20 (C)	Carbon-Tween-20
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set3IT077	nitrogen source	Uridine	Uridine (N)	set3IT077 Uridine (N)	Nitrogen-Uridine
+Bfirm	Paraburkholderia_phytofirmans_PsJN	GCF_000020125.1	set2IT073	carbon source	Xylitol	Xylitol (C)	set2IT073 Xylitol (C)	Carbon-Xylitol
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H30	carbon source	a-Ketoglutaric acid disodium salt hydrate	a-Ketoglutaric (C)	set3H30 a-Ketoglutaric (C)	
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H9	carbon source	a-Ketoglutaric acid disodium salt hydrate	a-Ketoglutaric (C)	set3H9 a-Ketoglutaric (C)	
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set5IT051	nitrogen source	Adenine hydrochloride hydrate	Adenine (N)	set5IT051 Adenine (N)	Nitrogen-Adenine
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set5IT070	nitrogen source	Adenine hydrochloride hydrate	Adenine (N)	set5IT070 Adenine (N)	Nitrogen-Adenine
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set4IT048	nitrogen source	Adenosine	Adenosine (N)	set4IT048 Adenosine (N)	Nitrogen-Adenosine
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set5IT069	nitrogen source	Adenosine	Adenosine (N)	set5IT069 Adenosine (N)	Nitrogen-Adenosine
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set5IT058	nitrogen source	Ammonium chloride	Ammonium chloride (N)	set5IT058 Ammonium chloride (N)	
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set5IT077	nitrogen source	Ammonium chloride	Ammonium chloride (N)	set5IT077 Ammonium chloride (N)	
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H25	carbon source	casamino acids	casaminos (C)	set3H25 casaminos (C)	
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H46	carbon source	casamino acids	casaminos (C)	set3H46 casaminos (C)	
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set5IT054	nitrogen source	Cytidine	Cytidine (N)	set5IT054 Cytidine (N)	Nitrogen-Cytidine
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set5IT073	nitrogen source	Cytidine	Cytidine (N)	set5IT073 Cytidine (N)	Nitrogen-Cytidine
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set5IT056	nitrogen source	Cytosine	Cytosine (N)	set5IT056 Cytosine (N)	Nitrogen-Cytosine
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set5IT075	nitrogen source	Cytosine	Cytosine (N)	set5IT075 Cytosine (N)	Nitrogen-Cytosine
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H26	carbon source	D-Glucose	D-Glucose (C)	set3H26 D-Glucose (C)	Carbon-D-Glucose
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H5	carbon source	D-Glucose	D-Glucose (C)	set3H5 D-Glucose (C)	Carbon-D-Glucose
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H12	carbon source	Sodium D-Lactate	D-Lactate (C)	set3H12 D-Lactate (C)	C-D-Lactate
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H33	carbon source	Sodium D-Lactate	D-Lactate (C)	set3H33 D-Lactate (C)	C-D-Lactate
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H28	carbon source	D-Maltose monohydrate	D-Maltose (C)	set3H28 D-Maltose (C)	Carbon-Maltose
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H7	carbon source	D-Maltose monohydrate	D-Maltose (C)	set3H7 D-Maltose (C)	Carbon-Maltose
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H22	carbon source	D-Trehalose dihydrate	D-Trehalose (C)	set3H22 D-Trehalose (C)	Carbon-D-Trehalose
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H43	carbon source	D-Trehalose dihydrate	D-Trehalose (C)	set3H43 D-Trehalose (C)	Carbon-D-Trehalose
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H14	carbon source	Sodium D,L-Lactate	D,L-Lactate (C)	set3H14 D,L-Lactate (C)	
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H35	carbon source	Sodium D,L-Lactate	D,L-Lactate (C)	set3H35 D,L-Lactate (C)	
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H10	carbon source	Sodium Fumarate dibasic	Fumarate (C)	set3H10 Fumarate (C)	
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H31	carbon source	Sodium Fumarate dibasic	Fumarate (C)	set3H31 Fumarate (C)	
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set5IT057	nitrogen source	Glucuronamide	Glucuronamide (N)	set5IT057 Glucuronamide (N)	
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set5IT076	nitrogen source	Glucuronamide	Glucuronamide (N)	set5IT076 Glucuronamide (N)	
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H20	carbon source	Glycerol	Glycerol (C)	set3H20 Glycerol (C)	Carbon-Glycerol
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H41	carbon source	Glycerol	Glycerol (C)	set3H41 Glycerol (C)	Carbon-Glycerol
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set5IT053	nitrogen source	Inosine	Inosine (N)	set5IT053 Inosine (N)	Nitrogen-Inosine
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set5IT072	nitrogen source	Inosine	Inosine (N)	set5IT072 Inosine (N)	Nitrogen-Inosine
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set4IT043	nitrogen source	L-Alanine	L-Alanine (N)	set4IT043 L-Alanine (N)	Nitrogen-L-Alanine
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set5IT064	nitrogen source	L-Alanine	L-Alanine (N)	set5IT064 L-Alanine (N)	Nitrogen-L-Alanine
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set5IT061	nitrogen source	L-Aspartic Acid	L-Aspartic Acid (N)	set5IT061 L-Aspartic Acid (N)	Nitrogen-L-Aspartic-Acid
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set4IT046	nitrogen source	L-Citrulline	L-Citrulline (N)	set4IT046 L-Citrulline (N)	Nitrogen-L-Citrulline
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set5IT067	nitrogen source	L-Citrulline	L-Citrulline (N)	set5IT067 L-Citrulline (N)	Nitrogen-L-Citrulline
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H23	carbon source	L-Glutamic acid monopotassium salt monohydrate	L-Glutamic (C)	set3H23 L-Glutamic (C)	Carbon-L-Glutamic-Acid
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H44	carbon source	L-Glutamic acid monopotassium salt monohydrate	L-Glutamic (C)	set3H44 L-Glutamic (C)	Carbon-L-Glutamic-Acid
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set4IT041	nitrogen source	L-Glutamic acid monopotassium salt monohydrate	L-Glutamic (N)	set4IT041 L-Glutamic (N)	Nitrogen-L-Glutamic-Acid
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set5IT062	nitrogen source	L-Glutamic acid monopotassium salt monohydrate	L-Glutamic (N)	set5IT062 L-Glutamic (N)	Nitrogen-L-Glutamic-Acid
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H24	carbon source	L-Glutamine	L-Glutamine (C)	set3H24 L-Glutamine (C)	Carbon-L-Glutamine
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H45	carbon source	L-Glutamine	L-Glutamine (C)	set3H45 L-Glutamine (C)	Carbon-L-Glutamine
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set4IT042	nitrogen source	L-Glutamine	L-Glutamine (N)	set4IT042 L-Glutamine (N)	Nitrogen-L-Glutamine
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set5IT063	nitrogen source	L-Glutamine	L-Glutamine (N)	set5IT063 L-Glutamine (N)	Nitrogen-L-Glutamine
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H13	carbon source	Sodium L-Lactate	L-Lactate (C)	set3H13 L-Lactate (C)	
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H34	carbon source	Sodium L-Lactate	L-Lactate (C)	set3H34 L-Lactate (C)	
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set4IT044	nitrogen source	L-Leucine	L-Leucine (N)	set4IT044 L-Leucine (N)	Nitrogen-L-Leucine
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set5IT065	nitrogen source	L-Leucine	L-Leucine (N)	set5IT065 L-Leucine (N)	Nitrogen-L-Leucine
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H21	carbon source	L-Malic acid disodium salt monohydrate	L-Malic (C)	set3H21 L-Malic (C)	Carbon-L-Malic-Acid
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H42	carbon source	L-Malic acid disodium salt monohydrate	L-Malic (C)	set3H42 L-Malic (C)	Carbon-L-Malic-Acid
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	setAH23	carbon source	L-Malic acid disodium salt monohydrate	L-Malic (C)	setAH23 L-Malic (C)	Carbon-L-Malic-Acid
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set4IT045	nitrogen source	L-Methionine	L-Methionine (N)	set4IT045 L-Methionine (N)	Nitrogen-L-Methionine
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set5IT066	nitrogen source	L-Methionine	L-Methionine (N)	set5IT066 L-Methionine (N)	Nitrogen-L-Methionine
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H29	carbon source	L-Rhamnose monohydrate	L-Rhamnose (C)	set3H29 L-Rhamnose (C)	Carbon-L-Rhamnose
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H8	carbon source	L-Rhamnose monohydrate	L-Rhamnose (C)	set3H8 L-Rhamnose (C)	Carbon-L-Rhamnose
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set5IT059	nitrogen source	Sodium nitrate	nitrate (N)	set5IT059 nitrate (N)	Nitrogen-Nitrate
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set5IT078	nitrogen source	Sodium nitrate	nitrate (N)	set5IT078 nitrate (N)	Nitrogen-Nitrate
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set4IT047	nitrogen source	Parabanic Acid	Parabanic Acid (N)	set4IT047 Parabanic Acid (N)	
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set5IT068	nitrogen source	Parabanic Acid	Parabanic Acid (N)	set5IT068 Parabanic Acid (N)	
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H17	carbon source	Sodium propionate	propionate (C)	set3H17 propionate (C)	
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H38	carbon source	Sodium propionate	propionate (C)	set3H38 propionate (C)	
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H15	carbon source	Sodium pyruvate	pyruvate (C)	set3H15 pyruvate (C)	
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H36	carbon source	Sodium pyruvate	pyruvate (C)	set3H36 pyruvate (C)	
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H16	carbon source	Sodium succinate dibasic hexahydrate	succinate (C)	set3H16 succinate (C)	
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H37	carbon source	Sodium succinate dibasic hexahydrate	succinate (C)	set3H37 succinate (C)	
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H27	carbon source	Sucrose	Sucrose (C)	set3H27 Sucrose (C)	Carbon-Sucrose
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H6	carbon source	Sucrose	Sucrose (C)	set3H6 Sucrose (C)	Carbon-Sucrose
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set5IT055	nitrogen source	Thymine	Thymine (N)	set5IT055 Thymine (N)	Nitrogen-Thymine
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set5IT074	nitrogen source	Thymine	Thymine (N)	set5IT074 Thymine (N)	Nitrogen-Thymine
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H11	carbon source	Trisodium citrate dihydrate	Trisodium citrate (C)	set3H11 Trisodium citrate (C)	
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H32	carbon source	Trisodium citrate dihydrate	Trisodium citrate (C)	set3H32 Trisodium citrate (C)	
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set5IT060	nitrogen source	Urea	Urea (N)	set5IT060 Urea (N)	Nitrogen-Urea
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set5IT052	nitrogen source	Uridine	Uridine (N)	set5IT052 Uridine (N)	Nitrogen-Uridine
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set5IT071	nitrogen source	Uridine	Uridine (N)	set5IT071 Uridine (N)	Nitrogen-Uridine
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H18	carbon source	Xylitol	Xylitol (C)	set3H18 Xylitol (C)	Carbon-Xylitol
+Dino	Dinoroseobacter_shibae_DFL_12___DSM_16493	GCF_000018145.1	set3H39	carbon source	Xylitol	Xylitol (C)	set3H39 Xylitol (C)	Carbon-Xylitol
+SynE	Synechococcus_elongatus_PCC_7942	GCF_000012525.1	set7IT007	nitrogen source	L-Glutamic acid monopotassium salt monohydrate	L-Glutamic (N)	set7IT007 L-Glutamic (N)	Nitrogen-L-Glutamic-Acid
+SynE	Synechococcus_elongatus_PCC_7942	GCF_000012525.1	set7IT013	nitrogen source	L-Glutamic acid monopotassium salt monohydrate	L-Glutamic (N)	set7IT013 L-Glutamic (N)	Nitrogen-L-Glutamic-Acid
+SynE	Synechococcus_elongatus_PCC_7942	GCF_000012525.1	set7IT025	nitrogen source	L-Glutamic acid monopotassium salt monohydrate	L-Glutamic (N)	set7IT025 L-Glutamic (N)	Nitrogen-L-Glutamic-Acid
+SynE	Synechococcus_elongatus_PCC_7942	GCF_000012525.1	set7IT014	nitrogen source	L-Glutamine	L-Glutamine (N)	set7IT014 L-Glutamine (N)	Nitrogen-L-Glutamine
+SynE	Synechococcus_elongatus_PCC_7942	GCF_000012525.1	set7IT020	nitrogen source	L-Glutamine	L-Glutamine (N)	set7IT020 L-Glutamine (N)	Nitrogen-L-Glutamine
+SynE	Synechococcus_elongatus_PCC_7942	GCF_000012525.1	set7IT026	nitrogen source	L-Glutamine	L-Glutamine (N)	set7IT026 L-Glutamine (N)	Nitrogen-L-Glutamine
+SynE	Synechococcus_elongatus_PCC_7942	GCF_000012525.1	set7IT015	nitrogen source	L-Leucine	L-Leucine (N)	set7IT015 L-Leucine (N)	Nitrogen-L-Leucine
+SynE	Synechococcus_elongatus_PCC_7942	GCF_000012525.1	set7IT021	nitrogen source	L-Leucine	L-Leucine (N)	set7IT021 L-Leucine (N)	Nitrogen-L-Leucine
+SynE	Synechococcus_elongatus_PCC_7942	GCF_000012525.1	set7IT027	nitrogen source	L-Leucine	L-Leucine (N)	set7IT027 L-Leucine (N)	Nitrogen-L-Leucine
+SynE	Synechococcus_elongatus_PCC_7942	GCF_000012525.1	set7IT010	nitrogen source	L-Phenylalanine	L-Phenylalanine (N)	set7IT010 L-Phenylalanine (N)	Nitrogen-L-Phenylalanine
+SynE	Synechococcus_elongatus_PCC_7942	GCF_000012525.1	set7IT016	nitrogen source	L-Phenylalanine	L-Phenylalanine (N)	set7IT016 L-Phenylalanine (N)	Nitrogen-L-Phenylalanine
+SynE	Synechococcus_elongatus_PCC_7942	GCF_000012525.1	set7IT022	nitrogen source	L-Phenylalanine	L-Phenylalanine (N)	set7IT022 L-Phenylalanine (N)	Nitrogen-L-Phenylalanine
+SynE	Synechococcus_elongatus_PCC_7942	GCF_000012525.1	set7IT028	nitrogen source	L-Phenylalanine	L-Phenylalanine (N)	set7IT028 L-Phenylalanine (N)	Nitrogen-L-Phenylalanine
+Putida	Pseudomonas_putida_KT2440	GCF_000007565.2	set1IT082	carbon source	4-Hydroxyvalerate	4-Hydroxyvalerate (C) (40mM)	set1IT082 4-Hydroxyvalerate (C) (40mM)	
+Putida	Pseudomonas_putida_KT2440	GCF_000007565.2	set1IT083	carbon source	4-Hydroxyvalerate	4-Hydroxyvalerate (C) (40mM)	set1IT083 4-Hydroxyvalerate (C) (40mM)	
+Putida	Pseudomonas_putida_KT2452	GCF_000007565.2	set1IT084	carbon source	Potassium acetate	Acetate Carbon Source (20mM)	set1IT084 Acetate Carbon Source (20mM)	C-acetate
+Putida	Pseudomonas_putida_KT2453	GCF_000007565.2	set1IT085	carbon source	Potassium acetate	Acetate Carbon Source (20mM)	set1IT085 Acetate Carbon Source (20mM)	C-acetate
+Putida	Pseudomonas_putida_KT2454	GCF_000007565.2	set1IT086	carbon source	Potassium acetate	Acetate Carbon Source (5mM)	set1IT086 Acetate Carbon Source (5mM)	C-acetate
+Putida	Pseudomonas_putida_KT2455	GCF_000007565.2	set1IT087	carbon source	Potassium acetate	Acetate Carbon Source (5mM)	set1IT087 Acetate Carbon Source (5mM)	C-acetate
+Putida	Pseudomonas_putida_KT2446	GCF_000007565.2	set5IT075	carbon source	D-Glucose	D-Glucose (C)	set5IT075 D-Glucose (C)	Carbon-D-Glucose
+Putida	Pseudomonas_putida_KT2447	GCF_000007565.2	set5IT076	carbon source	D-Glucose	D-Glucose (C)	set5IT076 D-Glucose (C)	Carbon-D-Glucose
+Putida	Pseudomonas_putida_KT2440	GCF_000007565.2	set1IT080	carbon source	D-Glucose	Glucose (C) (20mM)	set1IT080 Glucose (C) (20mM)	Carbon-D-Glucose
+Putida	Pseudomonas_putida_KT2445	GCF_000007565.2	set1IT081	carbon source	D-Glucose	Glucose (C) (20mM)	set1IT081 Glucose (C) (20mM)	Carbon-D-Glucose
+Putida	Pseudomonas_putida_KT2440	GCF_000007565.2	set1IT078	carbon source	D-Glucose	Glucose (C) (40mM)	set1IT078 Glucose (C) (40mM)	Carbon-D-Glucose
+Putida	Pseudomonas_putida_KT2440	GCF_000007565.2	set1IT079	carbon source	D-Glucose	Glucose (C) (40mM)	set1IT079 Glucose (C) (40mM)	Carbon-D-Glucose
+Putida	Pseudomonas_putida_KT2448	GCF_000007565.2	set5IT081	carbon source	Levulinic Acid	Levulinic Acid (C)	set5IT081 Levulinic Acid (C)	
+Putida	Pseudomonas_putida_KT2449	GCF_000007565.2	set5IT082	carbon source	Levulinic Acid	Levulinic Acid (C)	set5IT082 Levulinic Acid (C)	
+Putida	Pseudomonas_putida_KT2450	GCF_000007565.2	set5IT083	carbon source	Levulinic Acid	Levulinic Acid (C)	set5IT083 Levulinic Acid (C)	
+Putida	Pseudomonas_putida_KT2451	GCF_000007565.2	set5IT084	carbon source	Levulinic Acid	Levulinic Acid (C)	set5IT084 Levulinic Acid (C)	
+Keio	Escherichia_coli_str._K-12_substr._MG1655	GCF_000005845.2	set1IT019	carbon source	a-Ketoglutaric acid disodium salt hydrate	a-Ketoglutaric (C)	set1IT019 a-Ketoglutaric (C)	
+Keio	Escherichia_coli_str._K-12_substr._MG1656	GCF_000005845.2	set1IT020	carbon source	a-Ketoglutaric acid disodium salt hydrate	a-Ketoglutaric (C)	set1IT020 a-Ketoglutaric (C)	
+Keio	Escherichia_coli_str._K-12_substr._MG1709	GCF_000005845.2	set1IT027	carbon source	Potassium acetate	acetate (C)	set1IT027 acetate (C)	C-acetate
+Keio	Escherichia_coli_str._K-12_substr._MG1710	GCF_000005845.2	set1IT028	carbon source	Potassium acetate	acetate (C)	set1IT028 acetate (C)	C-acetate
+Keio	Escherichia_coli_str._K-12_substr._MG1725	GCF_000005845.2	set2IT005	nitrogen source	Adenosine	Adenosine (N)	set2IT005 Adenosine (N)	Nitrogen-Adenosine
+Keio	Escherichia_coli_str._K-12_substr._MG1726	GCF_000005845.2	set2IT006	nitrogen source	Adenosine	Adenosine (N)	set2IT006 Adenosine (N)	Nitrogen-Adenosine
+Keio	Escherichia_coli_str._K-12_substr._MG1727	GCF_000005845.2	set2IT009	nitrogen source	Ammonium chloride	Ammonium chloride (N)	set2IT009 Ammonium chloride (N)	
+Keio	Escherichia_coli_str._K-12_substr._MG1728	GCF_000005845.2	set2IT010	nitrogen source	Ammonium chloride	Ammonium chloride (N)	set2IT010 Ammonium chloride (N)	
+Keio	Escherichia_coli_str._K-12_substr._MG1657	GCF_000005845.2	set1IT059	carbon source	casamino acids	casaminos (C)	set1IT059 casaminos (C)	
+Keio	Escherichia_coli_str._K-12_substr._MG1658	GCF_000005845.2	set1IT060	carbon source	casamino acids	casaminos (C)	set1IT060 casaminos (C)	
+Keio	Escherichia_coli_str._K-12_substr._MG1729	GCF_000005845.2	set1IT093	nitrogen source	casamino acids	casaminos (N)	set1IT093 casaminos (N)	
+Keio	Escherichia_coli_str._K-12_substr._MG1730	GCF_000005845.2	set1IT094	nitrogen source	casamino acids	casaminos (N)	set1IT094 casaminos (N)	
+Keio	Escherichia_coli_str._K-12_substr._MG1731	GCF_000005845.2	set2IT007	nitrogen source	Cytidine	Cytidine (N)	set2IT007 Cytidine (N)	Nitrogen-Cytidine
+Keio	Escherichia_coli_str._K-12_substr._MG1732	GCF_000005845.2	set2IT008	nitrogen source	Cytidine	Cytidine (N)	set2IT008 Cytidine (N)	Nitrogen-Cytidine
+Keio	Escherichia_coli_str._K-12_substr._MG1733	GCF_000005845.2	set1IT087	nitrogen source	D-Alanine	D-Alanine (N)	set1IT087 D-Alanine (N)	Nitrogen-D-Alanine
+Keio	Escherichia_coli_str._K-12_substr._MG1734	GCF_000005845.2	set1IT088	nitrogen source	D-Alanine	D-Alanine (N)	set1IT088 D-Alanine (N)	Nitrogen-D-Alanine
+Keio	Escherichia_coli_str._K-12_substr._MG1659	GCF_000005845.2	set1IT005	carbon source	D-Fructose	D-Fructose (C)	set1IT005 D-Fructose (C)	Carbon-D-Fructose
+Keio	Escherichia_coli_str._K-12_substr._MG1660	GCF_000005845.2	set1IT006	carbon source	D-Fructose	D-Fructose (C)	set1IT006 D-Fructose (C)	Carbon-D-Fructose
+Keio	Escherichia_coli_str._K-12_substr._MG1661	GCF_000005845.2	set1IT013	carbon source	D-Galactose	D-Galactose (C)	set1IT013 D-Galactose (C)	Carbon-D-Galactose
+Keio	Escherichia_coli_str._K-12_substr._MG1662	GCF_000005845.2	set1IT014	carbon source	D-Galactose	D-Galactose (C)	set1IT014 D-Galactose (C)	Carbon-D-Galactose
+Keio	Escherichia_coli_str._K-12_substr._MG1663	GCF_000005845.2	set1IT045	carbon source	D-Galacturonic Acid monohydrate	D-Galacturonic Acid (C)	set1IT045 D-Galacturonic Acid (C)	Carbon-D-Galacturonic-Acid
+Keio	Escherichia_coli_str._K-12_substr._MG1664	GCF_000005845.2	set1IT046	carbon source	D-Galacturonic Acid monohydrate	D-Galacturonic Acid (C)	set1IT046 D-Galacturonic Acid (C)	Carbon-D-Galacturonic-Acid
+Keio	Escherichia_coli_str._K-12_substr._MG1668	GCF_000005845.2	set2IT095	carbon source	D-Galacturonic Acid monohydrate	D-Galacturonic Acid (C) M9	set2IT095 D-Galacturonic Acid (C) M9	
+Keio	Escherichia_coli_str._K-12_substr._MG1665	GCF_000005845.2	set1IT067	carbon source	D-Galacturonic Acid monohydrate	D-Galacturonic Acid (C) MOPS	set1IT067 D-Galacturonic Acid (C) MOPS	
+Keio	Escherichia_coli_str._K-12_substr._MG1666	GCF_000005845.2	set1IT068	carbon source	D-Galacturonic Acid monohydrate	D-Galacturonic Acid (C) MOPS	set1IT068 D-Galacturonic Acid (C) MOPS	
+Keio	Escherichia_coli_str._K-12_substr._MG1667	GCF_000005845.2	set2IT093	carbon source	D-Galacturonic Acid monohydrate	D-Galacturonic Acid (C) MOPS	set2IT093 D-Galacturonic Acid (C) MOPS	
+Keio	Escherichia_coli_str._K-12_substr._MG1669	GCF_000005845.2	set1IT023	carbon source	D-Gluconic Acid sodium salt	D-Gluconic Acid (C)	set1IT023 D-Gluconic Acid (C)	Carbon-D-Gluconic-Acid
+Keio	Escherichia_coli_str._K-12_substr._MG1670	GCF_000005845.2	set1IT024	carbon source	D-Gluconic Acid sodium salt	D-Gluconic Acid (C)	set1IT024 D-Gluconic Acid (C)	Carbon-D-Gluconic-Acid
+Keio	Escherichia_coli_str._K-12_substr._MG1671	GCF_000005845.2	set1IT063	carbon source	D-Glucosamine Hydrochloride	D-Glucosamine Hydrochloride (C)	set1IT063 D-Glucosamine Hydrochloride (C)	
+Keio	Escherichia_coli_str._K-12_substr._MG1672	GCF_000005845.2	set1IT064	carbon source	D-Glucosamine Hydrochloride	D-Glucosamine Hydrochloride (C)	set1IT064 D-Glucosamine Hydrochloride (C)	
+Keio	Escherichia_coli_str._K-12_substr._MG1673	GCF_000005845.2	set1IT003	carbon source	D-Glucose	D-Glucose (C)	set1IT003 D-Glucose (C)	Carbon-D-Glucose
+Keio	Escherichia_coli_str._K-12_substr._MG1674	GCF_000005845.2	set1IT004	carbon source	D-Glucose	D-Glucose (C)	set1IT004 D-Glucose (C)	Carbon-D-Glucose
+Keio	Escherichia_coli_str._K-12_substr._MG1678	GCF_000005845.2	set2IT096	carbon source	D-Glucose	D-Glucose (C) M9	set2IT096 D-Glucose (C) M9	
+Keio	Escherichia_coli_str._K-12_substr._MG1675	GCF_000005845.2	set1IT069	carbon source	D-Glucose	D-Glucose (C) MOPS	set1IT069 D-Glucose (C) MOPS	
+Keio	Escherichia_coli_str._K-12_substr._MG1676	GCF_000005845.2	set1IT070	carbon source	D-Glucose	D-Glucose (C) MOPS	set1IT070 D-Glucose (C) MOPS	
+Keio	Escherichia_coli_str._K-12_substr._MG1677	GCF_000005845.2	set2IT094	carbon source	D-Glucose	D-Glucose (C) MOPS	set2IT094 D-Glucose (C) MOPS	
+Keio	Escherichia_coli_str._K-12_substr._MG1679	GCF_000005845.2	set1IT025	carbon source	D-Glucose-6-Phosphate sodium salt	D-Glucose-6-Phosphate (C)	set1IT025 D-Glucose-6-Phosphate (C)	Carbon-D-Glucose-6-Phosphate
+Keio	Escherichia_coli_str._K-12_substr._MG1680	GCF_000005845.2	set1IT026	carbon source	D-Glucose-6-Phosphate sodium salt	D-Glucose-6-Phosphate (C)	set1IT026 D-Glucose-6-Phosphate (C)	Carbon-D-Glucose-6-Phosphate
+Keio	Escherichia_coli_str._K-12_substr._MG1681	GCF_000005845.2	set1IT021	carbon source	D-Glucuronic Acid	D-Glucuronic Acid (C)	set1IT021 D-Glucuronic Acid (C)	Carbon-D-Glucuronic-Acid
+Keio	Escherichia_coli_str._K-12_substr._MG1682	GCF_000005845.2	set1IT022	carbon source	D-Glucuronic Acid	D-Glucuronic Acid (C)	set1IT022 D-Glucuronic Acid (C)	Carbon-D-Glucuronic-Acid
+Keio	Escherichia_coli_str._K-12_substr._MG1713	GCF_000005845.2	set1IT031	carbon source	Sodium D-Lactate	D-Lactate (C)	set1IT031 D-Lactate (C)	C-D-Lactate
+Keio	Escherichia_coli_str._K-12_substr._MG1714	GCF_000005845.2	set1IT032	carbon source	Sodium D-Lactate	D-Lactate (C)	set1IT032 D-Lactate (C)	C-D-Lactate
+Keio	Escherichia_coli_str._K-12_substr._MG1683	GCF_000005845.2	set1IT009	carbon source	D-Maltose monohydrate	D-Maltose (C)	set1IT009 D-Maltose (C)	Carbon-Maltose
+Keio	Escherichia_coli_str._K-12_substr._MG1684	GCF_000005845.2	set1IT010	carbon source	D-Maltose monohydrate	D-Maltose (C)	set1IT010 D-Maltose (C)	Carbon-Maltose
+Keio	Escherichia_coli_str._K-12_substr._MG1685	GCF_000005845.2	set1IT043	carbon source	D-Mannitol	D-Mannitol (C)	set1IT043 D-Mannitol (C)	Carbon-D-Mannitol
+Keio	Escherichia_coli_str._K-12_substr._MG1686	GCF_000005845.2	set1IT044	carbon source	D-Mannitol	D-Mannitol (C)	set1IT044 D-Mannitol (C)	Carbon-D-Mannitol
+Keio	Escherichia_coli_str._K-12_substr._MG1687	GCF_000005845.2	set1IT065	carbon source	D-Mannose	D-Mannose (C)	set1IT065 D-Mannose (C)	Carbon-D-Mannose
+Keio	Escherichia_coli_str._K-12_substr._MG1688	GCF_000005845.2	set1IT066	carbon source	D-Mannose	D-Mannose (C)	set1IT066 D-Mannose (C)	Carbon-D-Mannose
+Keio	Escherichia_coli_str._K-12_substr._MG1689	GCF_000005845.2	set1IT015	carbon source	D-Ribose	D-Ribose (C)	set1IT015 D-Ribose (C)	Carbon-D-Ribose
+Keio	Escherichia_coli_str._K-12_substr._MG1690	GCF_000005845.2	set1IT016	carbon source	D-Ribose	D-Ribose (C)	set1IT016 D-Ribose (C)	Carbon-D-Ribose
+Keio	Escherichia_coli_str._K-12_substr._MG1691	GCF_000005845.2	set1IT057	carbon source	D-Serine	D-Serine (C)	set1IT057 D-Serine (C)	Carbon-D-Serine
+Keio	Escherichia_coli_str._K-12_substr._MG1692	GCF_000005845.2	set1IT058	carbon source	D-Serine	D-Serine (C)	set1IT058 D-Serine (C)	Carbon-D-Serine
+Keio	Escherichia_coli_str._K-12_substr._MG1735	GCF_000005845.2	set1IT085	nitrogen source	D-Serine	D-Serine (N)	set1IT085 D-Serine (N)	Nitrogen-D-Serine
+Keio	Escherichia_coli_str._K-12_substr._MG1736	GCF_000005845.2	set1IT086	nitrogen source	D-Serine	D-Serine (N)	set1IT086 D-Serine (N)	Nitrogen-D-Serine
+Keio	Escherichia_coli_str._K-12_substr._MG1693	GCF_000005845.2	set1IT051	carbon source	D-Sorbitol	D-Sorbitol (C)	set1IT051 D-Sorbitol (C)	Carbon-D-Sorbitol
+Keio	Escherichia_coli_str._K-12_substr._MG1694	GCF_000005845.2	set1IT052	carbon source	D-Sorbitol	D-Sorbitol (C)	set1IT052 D-Sorbitol (C)	Carbon-D-Sorbitol
+Keio	Escherichia_coli_str._K-12_substr._MG1695	GCF_000005845.2	set1IT055	carbon source	D-Trehalose dihydrate	D-Trehalose (C)	set1IT055 D-Trehalose (C)	Carbon-D-Trehalose
+Keio	Escherichia_coli_str._K-12_substr._MG1696	GCF_000005845.2	set1IT056	carbon source	D-Trehalose dihydrate	D-Trehalose (C)	set1IT056 D-Trehalose (C)	Carbon-D-Trehalose
+Keio	Escherichia_coli_str._K-12_substr._MG1697	GCF_000005845.2	set1IT011	carbon source	D-Xylose	D-Xylose (C)	set1IT011 D-Xylose (C)	Carbon-D-Xylose
+Keio	Escherichia_coli_str._K-12_substr._MG1698	GCF_000005845.2	set1IT012	carbon source	D-Xylose	D-Xylose (C)	set1IT012 D-Xylose (C)	Carbon-D-Xylose
+Keio	Escherichia_coli_str._K-12_substr._MG1711	GCF_000005845.2	set1IT035	carbon source	Sodium D,L-Lactate	D,L-Lactate (C)	set1IT035 D,L-Lactate (C)	
+Keio	Escherichia_coli_str._K-12_substr._MG1712	GCF_000005845.2	set1IT036	carbon source	Sodium D,L-Lactate	D,L-Lactate (C)	set1IT036 D,L-Lactate (C)	
+Keio	Escherichia_coli_str._K-12_substr._MG1737	GCF_000005845.2	set1IT089	nitrogen source	Gly-DL-Asp	Gly-DL-Asp (N)	set1IT089 Gly-DL-Asp (N)	
+Keio	Escherichia_coli_str._K-12_substr._MG1738	GCF_000005845.2	set1IT090	nitrogen source	Gly-DL-Asp	Gly-DL-Asp (N)	set1IT090 Gly-DL-Asp (N)	
+Keio	Escherichia_coli_str._K-12_substr._MG1739	GCF_000005845.2	set1IT091	nitrogen source	Gly-Glu	Gly-Glu (N)	set1IT091 Gly-Glu (N)	Nitrogen-Gly-Glu
+Keio	Escherichia_coli_str._K-12_substr._MG1740	GCF_000005845.2	set1IT092	nitrogen source	Gly-Glu	Gly-Glu (N)	set1IT092 Gly-Glu (N)	Nitrogen-Gly-Glu
+Keio	Escherichia_coli_str._K-12_substr._MG1699	GCF_000005845.2	set1IT047	carbon source	Glycerol	Glycerol (C)	set1IT047 Glycerol (C)	Carbon-Glycerol
+Keio	Escherichia_coli_str._K-12_substr._MG1700	GCF_000005845.2	set1IT048	carbon source	Glycerol	Glycerol (C)	set1IT048 Glycerol (C)	Carbon-Glycerol
+Keio	Escherichia_coli_str._K-12_substr._MG1741	GCF_000005845.2	set1IT081	nitrogen source	Glycine	Glycine (N)	set1IT081 Glycine (N)	Nitrogen-Glycine
+Keio	Escherichia_coli_str._K-12_substr._MG1742	GCF_000005845.2	set1IT082	nitrogen source	Glycine	Glycine (N)	set1IT082 Glycine (N)	Nitrogen-Glycine
+Keio	Escherichia_coli_str._K-12_substr._MG1701	GCF_000005845.2	set1IT041	carbon source	Glycolic Acid	Glycolic Acid (C)	set1IT041 Glycolic Acid (C)	Carbon-Glycolic-Acid
+Keio	Escherichia_coli_str._K-12_substr._MG1702	GCF_000005845.2	set1IT042	carbon source	Glycolic Acid	Glycolic Acid (C)	set1IT042 Glycolic Acid (C)	Carbon-Glycolic-Acid
+Keio	Escherichia_coli_str._K-12_substr._MG1743	GCF_000005845.2	set1IT083	nitrogen source	L-Alanine	L-Alanine (N)	set1IT083 L-Alanine (N)	Nitrogen-L-Alanine
+Keio	Escherichia_coli_str._K-12_substr._MG1744	GCF_000005845.2	set1IT084	nitrogen source	L-Alanine	L-Alanine (N)	set1IT084 L-Alanine (N)	Nitrogen-L-Alanine
+Keio	Escherichia_coli_str._K-12_substr._MG1745	GCF_000005845.2	set1IT071	nitrogen source	L-Arginine	L-Arginine (N)	set1IT071 L-Arginine (N)	Nitrogen-L-Arginine
+Keio	Escherichia_coli_str._K-12_substr._MG1746	GCF_000005845.2	set1IT072	nitrogen source	L-Arginine	L-Arginine (N)	set1IT072 L-Arginine (N)	Nitrogen-L-Arginine
+Keio	Escherichia_coli_str._K-12_substr._MG1747	GCF_000005845.2	set1IT077	nitrogen source	L-Asparagine	L-Asparagine (N)	set1IT077 L-Asparagine (N)	Nitrogen-L-Asparagine
+Keio	Escherichia_coli_str._K-12_substr._MG1748	GCF_000005845.2	set1IT078	nitrogen source	L-Asparagine	L-Asparagine (N)	set1IT078 L-Asparagine (N)	Nitrogen-L-Asparagine
+Keio	Escherichia_coli_str._K-12_substr._MG1749	GCF_000005845.2	set1IT073	nitrogen source	L-Aspartic Acid	L-Aspartic Acid (N)	set1IT073 L-Aspartic Acid (N)	Nitrogen-L-Aspartic-Acid
+Keio	Escherichia_coli_str._K-12_substr._MG1750	GCF_000005845.2	set1IT074	nitrogen source	L-Aspartic Acid	L-Aspartic Acid (N)	set1IT074 L-Aspartic Acid (N)	Nitrogen-L-Aspartic-Acid
+Keio	Escherichia_coli_str._K-12_substr._MG1703	GCF_000005845.2	set1IT017	carbon source	L-Fucose	L-Fucose (C)	set1IT017 L-Fucose (C)	Carbon-L-Fucose
+Keio	Escherichia_coli_str._K-12_substr._MG1704	GCF_000005845.2	set1IT018	carbon source	L-Fucose	L-Fucose (C)	set1IT018 L-Fucose (C)	Carbon-L-Fucose
+Keio	Escherichia_coli_str._K-12_substr._MG1751	GCF_000005845.2	set1IT079	nitrogen source	L-Glutamine	L-Glutamine (N)	set1IT079 L-Glutamine (N)	Nitrogen-L-Glutamine
+Keio	Escherichia_coli_str._K-12_substr._MG1752	GCF_000005845.2	set1IT080	nitrogen source	L-Glutamine	L-Glutamine (N)	set1IT080 L-Glutamine (N)	Nitrogen-L-Glutamine
+Keio	Escherichia_coli_str._K-12_substr._MG1705	GCF_000005845.2	set1IT053	carbon source	L-Malic acid disodium salt monohydrate	L-Malic (C)	set1IT053 L-Malic (C)	Carbon-L-Malic-Acid
+Keio	Escherichia_coli_str._K-12_substr._MG1706	GCF_000005845.2	set1IT054	carbon source	L-Malic acid disodium salt monohydrate	L-Malic (C)	set1IT054 L-Malic (C)	Carbon-L-Malic-Acid
+Keio	Escherichia_coli_str._K-12_substr._MG1753	GCF_000005845.2	set1IT075	nitrogen source	L-Serine	L-Serine (N)	set1IT075 L-Serine (N)	Nitrogen-L-Serine
+Keio	Escherichia_coli_str._K-12_substr._MG1754	GCF_000005845.2	set1IT076	nitrogen source	L-Serine	L-Serine (N)	set1IT076 L-Serine (N)	Nitrogen-L-Serine
+Keio	Escherichia_coli_str._K-12_substr._MG1721	GCF_000005845.2	set5IT093	sulfur source	L-Cysteine	M63 no sulfur + 5 mM L-cys	set5IT093 M63 no sulfur + 5 mM L-cys	Sulfate-L-Cysteine
+Keio	Escherichia_coli_str._K-12_substr._MG1722	GCF_000005845.2	set5IT094	sulfur source	L-Cysteine	M63 no sulfur + 5 mM L-cys	set5IT094 M63 no sulfur + 5 mM L-cys	Sulfate-L-Cysteine
+Keio	Escherichia_coli_str._K-12_substr._MG1723	GCF_000005845.2	set5IT095	sulfur source	Sodium sulfate	M63 no sulfur + 5 mM sulfate	set5IT095 M63 no sulfur + 5 mM sulfate	
+Keio	Escherichia_coli_str._K-12_substr._MG1724	GCF_000005845.2	set5IT096	sulfur source	Sodium sulfate	M63 no sulfur + 5 mM sulfate	set5IT096 M63 no sulfur + 5 mM sulfate	
+Keio	Escherichia_coli_str._K-12_substr._MG1707	GCF_000005845.2	set1IT061	carbon source	N-Acetyl-D-Glucosamine	NAG (C)	set1IT061 NAG (C)	Carbon-N-Acetyl-D-Glucosamine
+Keio	Escherichia_coli_str._K-12_substr._MG1708	GCF_000005845.2	set1IT062	carbon source	N-Acetyl-D-Glucosamine	NAG (C)	set1IT062 NAG (C)	Carbon-N-Acetyl-D-Glucosamine
+Keio	Escherichia_coli_str._K-12_substr._MG1755	GCF_000005845.2	set1IT095	nitrogen source	Putrescine Dihydrochloride	Putrescine (N)	set1IT095 Putrescine (N)	Nitrogen-Putrescine
+Keio	Escherichia_coli_str._K-12_substr._MG1756	GCF_000005845.2	set1IT096	nitrogen source	Putrescine Dihydrochloride	Putrescine (N)	set1IT096 Putrescine (N)	Nitrogen-Putrescine
+Keio	Escherichia_coli_str._K-12_substr._MG1715	GCF_000005845.2	set1IT037	carbon source	Sodium pyruvate	pyruvate (C)	set1IT037 pyruvate (C)	
+Keio	Escherichia_coli_str._K-12_substr._MG1716	GCF_000005845.2	set1IT038	carbon source	Sodium pyruvate	pyruvate (C)	set1IT038 pyruvate (C)	
+Keio	Escherichia_coli_str._K-12_substr._MG1717	GCF_000005845.2	set1IT039	carbon source	Sodium succinate dibasic hexahydrate	succinate (C)	set1IT039 succinate (C)	
+Keio	Escherichia_coli_str._K-12_substr._MG1718	GCF_000005845.2	set1IT040	carbon source	Sodium succinate dibasic hexahydrate	succinate (C)	set1IT040 succinate (C)	
+Keio	Escherichia_coli_str._K-12_substr._MG1719	GCF_000005845.2	set1IT007	carbon source	Sucrose	Sucrose (C)	set1IT007 Sucrose (C)	Carbon-Sucrose
+Keio	Escherichia_coli_str._K-12_substr._MG1720	GCF_000005845.2	set1IT008	carbon source	Sucrose	Sucrose (C)	set1IT008 Sucrose (C)	Carbon-Sucrose
