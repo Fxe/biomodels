@@ -1,13 +1,23 @@
-orgId	Genome ID	TNSeq Data file
-Keio	GCF_000005845.2	fit_organism_Keio.tsv
-MR1	GCF_000146165.2	fit_organism_MR1.tsv
-psRCH2	GCF_000327065.1	fit_organism_psRCH2.tsv
-Putida	GCF_000007565.2	fit_organism_Putida.tsv
-SynE	GCF_000012525.1	fit_organism_SynE.tsv
-azobra	GCF_000237365.1	fit_organism_azobra.tsv
-Bfirm	GCF_000020125.1	fit_organism_BFirm.tsv
-Caulo	GCF_000022005.1	fit_organism_Caulo.tsv
-Cup4G11	GCF_000832305.1	fit_organism_Cup4G11.tsv
-PS	GCF_000236665.1	fit_organism_PS.tsv
-Miya	GCF_000021385.1	fit_organism_Miya.tsv
-Dino	GCF_000018145.1	fit_organism_Dino.tsv
+orgId	Genome ID	TNSeq Data file	Notes
+Keio	GCF_000005845.2	fit_organism_Keio.tsv	
+MR1	GCF_000146165.2	fit_organism_MR1.tsv	Issue with mapping, see Notes sheet
+psRCH2	GCF_000327065.1	fit_organism_psRCH2.tsv	
+Putida	GCF_000007565.2	fit_organism_Putida.tsv	
+SynE	GCF_000012525.1	fit_organism_SynE.tsv	
+azobra	GCF_000237365.1	fit_organism_azobra.tsv	
+Bfirm	GCF_000020125.1	fit_organism_BFirm.tsv	
+Caulo	GCF_000022005.1	fit_organism_Caulo.tsv	
+Cup4G11	GCF_000832305.1	fit_organism_Cup4G11.tsv	
+PS	GCF_000236665.1	fit_organism_PS.tsv	
+Miya	GCF_000021385.1	fit_organism_Miya.tsv	
+Dino	GCF_000018145.1	fit_organism_Dino.tsv	
+Cola	GCF_000325705.1	fit_organism_Cola.tsv	
+HerbieS	GCF_000143225.1	fit_organism_HerbieS.tsv	
+Koxy	GCF_002090195.1	fit_organism_Koxy.tsv	
+Pedo557	GCF_002151545.1	fit_organism_Pedo557.tsv	
+Phaeo	GCF_000154765.2	fit_organism_Phaeo.tsv	
+pseudo3_N2E3	GCF_001307155.1	fit_organism_pseudo3_N2E3.tsv	found gnomes by earhing for feature ID in GenBank
+WCS417	GCF_000698265.1	fit_organism_WCS417.tsv	
+SB2B	GCF_000015245.1	fit_organism_SB2B.tsv	
+PV4	GCF_000016065.1	fit_organism_PV4.tsv	
+ANA3	GCF_000203935.1	fit_organism_ANA3.tsv	
