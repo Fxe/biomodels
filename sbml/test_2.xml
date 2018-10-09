@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sbml xmlns="http://www.sbml.org/sbml/level2" level="2" version="1" xmlns:html="http://www.w3.org/1999/xhtml">
+<model id="Ec_core" name="Ec_core">
+<listOfUnitDefinitions>
+	<unitDefinition id="mmol_per_gDW_per_hr">
+		<listOfUnits>
+			<unit kind="mole" scale="-3"/>
+			<unit kind="gram" exponent="-1"/>
+			<unit kind="second" multiplier=".00027777" exponent="-1"/>
+		</listOfUnits>
+	</unitDefinition>
+</listOfUnitDefinitions>
+<listOfCompartments>
+	<compartment id="aa"/>
+	<compartment id="bb" outside="aa"/>
+</listOfCompartments>
+<listOfSpecies>
+  <species id="A" name="A" compartment="bb" charge="-1" boundaryCondition="true"/>
+  <species id="B" name="B" compartment="bb" charge="-1" boundaryCondition="true"/>
+  <species id="C" name="C" compartment="bb" charge="-1" boundaryCondition="true"/>
+  <species id="D" name="D" compartment="bb" charge="-1" boundaryCondition="true"/>
+  <species id="E" name="E" compartment="bb" charge="-1" boundaryCondition="true"/>
+  <species id="P" name="P" compartment="bb" charge="-1" boundaryCondition="true"/>
+</listOfSpecies>
+<listOfReactions>
+	<reaction id="R1" name="R1" reversible="false">
+		<listOfProducts>
+			<speciesReference species="A" stoichiometry="1.000000"/>
+		</listOfProducts>
+		<kineticLaw>
+			<math xmlns="http://www.w3.org/1998/Math/MathML">
+				<ci> FLUX_VALUE </ci>
+			</math>
+			<listOfParameters>
+				<parameter id="LOWER_BOUND" value="-999999.000000" units="mmol_per_gDW_per_hr"/>
+				<parameter id="UPPER_BOUND" value="999999.000000" units="mmol_per_gDW_per_hr"/>
+			</listOfParameters>
+		</kineticLaw>
+	</reaction>
+	<reaction id="R2" name="R2" reversible="true">
+		<listOfProducts>
+			<speciesReference species="B" stoichiometry="1.000000"/>
+		</listOfProducts>
+		<kineticLaw>
+			<math xmlns="http://www.w3.org/1998/Math/MathML">
+				<ci> FLUX_VALUE </ci>
+			</math>
+			<listOfParameters>
+				<parameter id="LOWER_BOUND" value="-999999.000000" units="mmol_per_gDW_per_hr"/>
+				<parameter id="UPPER_BOUND" value="999999.000000" units="mmol_per_gDW_per_hr"/>
+			</listOfParameters>
+		</kineticLaw>
+	</reaction>
+	<reaction id="R3" name="R3" reversible="false">
+		<listOfReactants>
+			<speciesReference species="P" stoichiometry="1.000000"/>
+		</listOfReactants>
+		<kineticLaw>
+			<math xmlns="http://www.w3.org/1998/Math/MathML">
+				<ci> FLUX_VALUE </ci>
+			</math>
+			<listOfParameters>
+				<parameter id="LOWER_BOUND" value="-999999.000000" units="mmol_per_gDW_per_hr"/>
+				<parameter id="UPPER_BOUND" value="999999.000000" units="mmol_per_gDW_per_hr"/>
+			</listOfParameters>
+		</kineticLaw>
+	</reaction>
+	<reaction id="R4" name="R4" reversible="false">
+		<listOfReactants>
+			<speciesReference species="E" stoichiometry="1.000000"/>
+		</listOfReactants>
+		<kineticLaw>
+			<math xmlns="http://www.w3.org/1998/Math/MathML">
+				<ci> FLUX_VALUE </ci>
+			</math>
+			<listOfParameters>
+				<parameter id="LOWER_BOUND" value="-999999.000000" units="mmol_per_gDW_per_hr"/>
+				<parameter id="UPPER_BOUND" value="999999.000000" units="mmol_per_gDW_per_hr"/>
+			</listOfParameters>
+		</kineticLaw>
+	</reaction>
+</listOfReactions>
+</model>
+</sbml>
